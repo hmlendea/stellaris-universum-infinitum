@@ -1,0 +1,68 @@
+pm_ui_giant_earthworms = {
+    spawn_chance = {
+        modifier = {
+            add = 10
+            is_planet_class = "pc_desert"
+        }
+        modifier = {
+            add = 10
+            is_planet_class = "pc_arid"
+        }
+        modifier = {
+            add = 10
+            is_planet_class = "pc_savannah"
+        }
+        modifier = {
+            factor = 2
+            has_planet_modifier = "pm_lush"
+        }
+        modifier = {
+            factor = 2
+            has_planet_modifier = "pm_high_gravity"
+        }
+        modifier = {
+            factor = 0
+            has_planet_modifier = "pm_ui_giant_earthworms"
+        }
+        modifier = {
+            factor = 0
+            has_planet_modifier = "pm_titanic_life"
+        }
+
+        modifier = {
+            factor = 0
+            num_modifiers > 1
+        }
+    }
+
+    modifier = "ui_giant_earthworms"
+}
+
+pm_ui_sea_monsters = {
+    spawn_chance = {
+        modifier = {
+            add = 10
+            is_planet_class = "pc_ocean"
+        }
+        modifier = {
+            factor = 2
+            has_planet_modifier = "pm_high_gravity"
+        }
+        modifier = {
+            factor = 0
+            has_planet_modifier = "pm_ui_sea_monsters"
+        }
+        modifier = {
+            factor = 0
+            has_planet_modifier = "pm_titanic_life"
+        }
+
+        modifier = {
+            factor = 0
+            num_modifiers > 1
+        }
+    }
+
+    modifier = "ui_sea_monsters"
+}
+

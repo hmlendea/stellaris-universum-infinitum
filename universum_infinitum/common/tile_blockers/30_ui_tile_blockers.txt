@@ -1,0 +1,104 @@
+# Giant Earthworms
+tb_ui_giant_earthworms = {
+    time = 100
+    cost = {
+        energy = 100
+        minerals = 100
+    }
+
+    spawn_chance = {
+        modifier = {
+            add = 6
+            planet = {
+                is_colonizable = yes
+                is_planet_class = pc_desert
+            }
+        }
+        modifier = {
+            add = 3
+            planet = {
+                is_colonizable = yes
+                OR = {
+                    is_planet_class = pc_arid
+                    is_planet_class = pc_savannah
+                }
+            }
+        }
+        modifier = {
+                factor = 1
+                planet = {
+                    has_modifier = "ui_giant_earthworms"
+                }
+        }
+        modifier = {
+                factor = 0
+                planet = {
+                    has_modifier = "titanic_life"
+                }
+        }
+    }
+
+    prerequisites = { "tech_tb_dangerous_wildlife" }
+}
+
+# Sea Monsters
+tb_ui_sea_monsters = {
+    time = 100
+    cost = {
+        energy = 100
+        minerals = 100
+    }
+
+    spawn_chance = {
+        modifier = {
+            add = 6
+            planet = {
+                is_colonizable = yes
+                is_planet_class = pc_ocean
+            }
+        }
+        modifier = {
+                factor = 1
+                planet = {
+                    has_modifier = "ui_sea_monsters"
+                }
+        }
+        modifier = {
+                factor = 0
+                planet = {
+                    has_modifier = "titanic_life"
+                }
+        }
+    }
+
+    prerequisites = { "tech_tb_dangerous_wildlife" }
+}
+
+# Dry Desert
+tb_ui_dry_desert = {
+    time = 100
+    cost = {
+        energy = 100
+        minerals = 100
+    }
+
+    spawn_chance = {
+        modifier = {
+            add = 36
+            planet = {
+                is_colonizable = yes
+                is_planet_class = pc_desert
+            }
+        }
+        modifier = {
+            add = 6
+            planet = {
+                is_colonizable = yes
+                is_planet_class = pc_arid
+            }
+        }
+    }
+
+    prerequisites = { "tech_tb_quicksand_basin" }
+}
+

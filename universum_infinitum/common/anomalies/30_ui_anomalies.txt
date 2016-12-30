@@ -1,0 +1,10 @@
+# Crashed Archives Freighter
+anomaly = {
+	event = anomaly.ui_crashed_archives_freighter
+	category = "crashed_ship_asteroid_category"
+
+	potential = {
+		always = yes
+	}
+}
+
