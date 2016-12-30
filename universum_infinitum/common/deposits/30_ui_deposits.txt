@@ -1,0 +1,42 @@
+d_ui_laevis_liquids_deposit = {
+    resources = {
+        engineering_research = 5
+        sr_ui_laevis_liquids = 1
+    }
+    station = shipclass_mining_station
+    orbital_weight = {
+        weight = 100
+    }
+
+    drop_weight = {
+        weight = 0
+        modifier = {
+            weight = 1
+            planet = {
+                is_planet_class = pc_frozen
+            }
+        }
+        modifier = {
+            factor = 2
+            planet = {
+                AND = {
+                    is_planet_class = pc_frozen
+                    is_inside_nebula = yes
+                }
+            }
+        }
+        modifier = {
+            factor = 0
+            planet = {
+                OR = {
+                    has_deposit = "d_immense_mineral_deposit"
+                    has_deposit = "d_immense_energy_deposit"
+                    has_deposit = "d_immense_society_deposit"
+                    has_deposit = "d_immense_physics_deposit"
+                    has_deposit = "d_immense_engineering_deposit"
+                    has_strategic_resource = yes
+                }
+            }
+        }
+    }
+}

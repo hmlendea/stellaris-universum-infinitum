@@ -5,3 +5,5 @@
  tech_tb_ui_sea_monsters_desc:1 "Swarms of automated underwater drones that hunt and kill sea monsters.\n\n"
  tech_tb_ui_dry_desert:0 "Dry Deset Removal"
  tech_tb_ui_dry_desert_desc:1 "Deep automated wells and weather control devices can quickly turn a dry desert into a habitable area.\n\n"
+ tech_mine_ui_laevis_liquids:0 "Laevis Liquids Refining"
+ tech_mine_ui_laevis_liquids_desc:1 "A naturally occurring liquid that has near frictionless and weightless properties. It can be used to improved most of our machines.\n\n"
