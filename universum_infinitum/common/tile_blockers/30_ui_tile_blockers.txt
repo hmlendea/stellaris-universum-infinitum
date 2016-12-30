@@ -38,7 +38,7 @@ tb_ui_giant_earthworms = {
         }
     }
 
-    prerequisites = { "tech_tb_dangerous_wildlife" }
+    prerequisites = { "tech_tb_ui_giant_earthworms" }
 }
 
 # Sea Monsters
@@ -71,7 +71,7 @@ tb_ui_sea_monsters = {
         }
     }
 
-    prerequisites = { "tech_tb_dangerous_wildlife" }
+    prerequisites = { "tech_tb_ui_sea_monsters" }
 }
 
 # Dry Desert
@@ -99,6 +99,6 @@ tb_ui_dry_desert = {
         }
     }
 
-    prerequisites = { "tech_tb_quicksand_basin" }
+    prerequisites = { "tech_tb_ui_dry_desert" }
 }
 
