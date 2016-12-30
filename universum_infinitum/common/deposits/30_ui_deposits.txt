@@ -40,3 +40,50 @@ d_ui_laevis_liquids_deposit = {
         }
     }
 }
+
+d_ui_gaudium_crystals_deposit = {
+    resources = {
+        energy = 4
+        sr_ui_gaudium_crystals = 1
+    }
+    station = shipclass_mining_station
+    orbital_weight = {
+        weight = 50
+    }
+
+    drop_weight = {
+        weight = 0
+        modifier = {
+            weight = 1
+            planet = {
+                is_planet_class = pc_molten
+            }
+        }
+        modifier = {
+            factor = 0.25
+            solar_system = {
+                NOT =  {
+                    OR = {
+                        is_star_class = sc_a
+                        is_star_class = sc_b
+                        is_star_class = sc_f
+                    }
+                }
+            }
+        }
+        modifier = {
+            factor = 0
+            planet = {
+                OR = {
+                    has_deposit = "d_immense_mineral_deposit"
+                    has_deposit = "d_immense_energy_deposit"
+                    has_deposit = "d_immense_society_deposit"
+                    has_deposit = "d_immense_physics_deposit"
+                    has_deposit = "d_immense_engineering_deposit"
+                    has_strategic_resource = yes
+                }
+            }
+        }
+    }
+}
+

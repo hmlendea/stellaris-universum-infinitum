@@ -11,3 +11,15 @@ sr_ui_laevis_liquids = {
     }
 }
 
+# Gaudium Crystals
+sr_ui_gaudium_crystals = {
+    AI_category = strategic_resource
+    prerequisites = { "tech_mine_ui_gaudium" }
+    tradable = yes
+    is_rare = yes
+    is_global = yes
+
+    modifier = {
+        pop_happiness = 0.02
+    }
+}
