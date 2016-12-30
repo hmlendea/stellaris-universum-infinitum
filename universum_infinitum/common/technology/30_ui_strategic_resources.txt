@@ -5,7 +5,7 @@
 @tier3weight2 = 45
 
 # Laevis Liquids Refining
-tech_mine_ui_laevis_liquids = {
+tech_mine_ui_laevis = {
     cost = @tier3cost2
     area = engineering
     tier = 3

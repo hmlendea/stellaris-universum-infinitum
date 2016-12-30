@@ -11,17 +11,11 @@ d_ui_laevis_liquids_deposit = {
     drop_weight = {
         weight = 0
         modifier = {
-            weight = 1
-            planet = {
-                is_planet_class = pc_frozen
-            }
-        }
-        modifier = {
-            factor = 2
+            weight = 40
             planet = {
                 AND = {
-                    is_planet_class = pc_frozen
-                    is_inside_nebula = yes
+                    is_planet_class = pc_neutron_star
+                    has_strategic_resource = no
                 }
             }
         }
@@ -34,7 +28,6 @@ d_ui_laevis_liquids_deposit = {
                     has_deposit = "d_immense_society_deposit"
                     has_deposit = "d_immense_physics_deposit"
                     has_deposit = "d_immense_engineering_deposit"
-                    has_strategic_resource = yes
                 }
             }
         }

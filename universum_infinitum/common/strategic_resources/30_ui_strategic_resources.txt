@@ -3,7 +3,7 @@ sr_ui_laevis_liquids = {
     AI_category = strategic_resource
     prerequisites = { "tech_mine_ui_laevis_liquids" }
     tradable = yes
-    is_rare = no
+    is_rare = yes
     is_global = yes
 
     modifier = {
