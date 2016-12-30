@@ -1,3 +1,5 @@
+@clusterOrbitalWeight = 20
+
 d_ui_laevis_liquids_deposit = {
     resources = {
         engineering_research = 5
@@ -75,6 +77,42 @@ d_ui_gaudium_crystals_deposit = {
                     has_deposit = "d_immense_engineering_deposit"
                     has_strategic_resource = yes
                 }
+            }
+        }
+    }
+}
+
+d_otium_deposit = {
+    resources = {
+        minerals = 3
+        sr_ui_otium_ore = 1
+    }
+    station = shipclass_mining_station
+    orbital_weight = {
+        weight = @clusterOrbitalWeight
+    }
+
+    drop_weight = {
+        weight = 0
+        modifier = {
+            weight = 5
+            planet = {
+                AND = {
+                    is_asteroid = yes
+                    has_strategic_resource = no
+                }
+            }
+        }
+        modifier = {
+            factor = 2
+            planet = {
+                is_inside_nebula = yes
+            }
+        }
+        modifier = {
+            factor = 0
+            planet = {
+                NOT = { is_in_cluster = resource_cluster_0 }
             }
         }
     }

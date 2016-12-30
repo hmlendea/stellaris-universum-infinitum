@@ -23,3 +23,17 @@ sr_ui_gaudium_crystals = {
         pop_happiness = 0.02
     }
 }
+
+# Otium Ore
+sr_ui_otium_ore = {
+    AI_category = strategic_resource
+    prerequisites = { "tech_mine_ui_otium" }
+    tradable = yes
+    is_rare = yes
+    is_global = yes
+
+    modifier = {
+        ship_upkeep_mult = -0.10
+    }
+}
+
