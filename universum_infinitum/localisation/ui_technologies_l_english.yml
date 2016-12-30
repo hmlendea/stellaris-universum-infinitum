@@ -11,3 +11,5 @@
  tech_mine_ui_gaudium_desc:1 "These rare and beautiful crystals resonate with a gentle hum that instills a sense of well-being in most sentient beings.\n\n"
  tech_mine_ui_otium:0 "Otium Mining"
  tech_mine_ui_otium_desc:1 "This rare ore can be alloyed with most metals, giving them a level of molecular alignment that makes them lighter while maintaining structural integrity.\n\n"
+ tech_mine_ui_roboro:0 "Roboro Crystals Extraction"
+ tech_mine_ui_roboro_desc:1 "These rare crystals behave very strangely around electricity, boosting it at the cost of heat.\n\n"

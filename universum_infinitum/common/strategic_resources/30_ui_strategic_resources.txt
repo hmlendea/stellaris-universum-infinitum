@@ -37,3 +37,15 @@ sr_ui_otium_ore = {
     }
 }
 
+# Roboro Crystals
+sr_ui_roboro_crystals = {
+    AI_category = strategic_resource
+    prerequisites = { "tech_mine_ui_roboro" }
+    tradable = yes
+    is_rare = yes
+    is_global = yes
+
+    modifier = {
+        tile_resource_energy_mult = 0.10
+    }
+}
