@@ -127,22 +127,6 @@ UISCTERRAN1 = {
                 Thys "Bhekar Ro" Pegasus Brontes Moria Shiloh Gohbus Torus Candore Valhalla Bacchus Gurdlac "Gamma Dorian" "Tal Qirat" Asteria
                 Marlowe Gelgaris "Demon's Fair" Jotun Parragos "Pho-Rekh" Tepperus Melkora Tashai Cirion "Great Bend" Aridas Chiron Ravera Seti Lakius
                 # "Antiga Prime" "Atticus Minor" "Artesia Prime" "Sigmaris Prime" "Sigmaris Prime" "Zanadar Prime"
-
-                # Molten
-                Abaddon "New Folsom" "New Trinidad" Ashrigo "Old Faithful" Scoria Ignus
-                # "Veridia Prime"
-
-                # Barren
-                Nemaka
-
-                # Asteroid. Barren
-                Chanuk
-
-                # Mining world. Barren?
-                Feronis Brutus Vito
-
-                # Barren moons
-                Canis
             }
         }
 
@@ -166,7 +150,7 @@ UISCTERRAN1 = {
 
         pc_continental = {
             names = {
-                Umoja "Chau Sara" Korhal Tarsonis Haji Halcyon Ursa Vardona Bountiful "Urona Sigma" Gystt Roxara Goldilocks Sammy Haven TarKossia Boone
+                Umoja "Chau Sara" Korhal Tarsonis Haji Halcyon Vardona Bountiful "Urona Sigma" Gystt Roxara Goldilocks Sammy Haven TarKossia Boone
             }
         }
 
@@ -184,7 +168,7 @@ UISCTERRAN1 = {
 
         pc_alpine = {
             names = {
-                "Jarban Minor" Karkulv "Pike's Peak"
+                "Jarban Minor" Karkulv "Pike's Peak" Ursa
                 # "Braxis Alpha"
             }
         }
@@ -207,6 +191,24 @@ UISCTERRAN1 = {
             }
         }
 
+        pc_barren = {
+            Nemaka
+
+            # Moon
+            Canis
+
+            # Mining worlds. Not completely sure if they are barren or not.
+            Feronis Brutus Vito
+        }
+
+        pc_molten = {
+            Abaddon "New Folsom" "New Trinidad" Ashrigo "Old Faithful" Scoria Ignus
+            # "Veridia Prime"
+        }
+
+        pc_asteroid = {
+            Chanuk
+        }
     }
 
     ### CHARACTERS

@@ -1,0 +1,57 @@
+ui_terran_dominion = {
+    name = "Terran Dominion"
+    spawn_enabled = yes
+    ignore_portrait_duplication = yes
+
+    name_list = "UISCTERRAN1"
+    ship_prefix = "TDS"
+
+    species_name = "Terran"
+    species_plural = "Terrans"
+    species_adjective = "Terran"
+    species_class = "HUM"
+	trait = "trait_nomadic"
+    trait = "trait_adaptive"
+    trait = "trait_deviants"
+    portrait = "human"
+    adjective = "Terran"
+
+    government = "despotic_empire"
+    ethic = "ethic_fanatic_militarist"
+    ethic = "ethic_materialist"
+
+    weapon = "tech_missiles_1"
+    ftl = warp
+
+    planet_name = "Korhal"
+    planet_class = "pc_continental"
+    initializer = "ui_korhal_system_initialiser"
+    system_name = "Korhal"
+
+    graphical_culture = "mammalian_01"
+    city_graphical_culture = "mammalian_01"
+
+    empire_flag = {
+        icon= {
+            category = "ui_starcraft"
+            file = "flag_ui_starcraft_terran_dominion.dds"
+        }
+        background= {
+            category = "backgrounds"
+            file = "00_solid.dds"
+        }
+        colors={
+            "red"
+            "null"
+            "null"
+            "null"
+        }
+    }
+    ruler = {
+        name = "Arcturus Mengsk"
+        gender = male
+        portrait = "human_male_03"
+        hair = 7
+        clothes = 4
+    }
+}
