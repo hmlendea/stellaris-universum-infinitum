@@ -82,8 +82,8 @@ pm_ui_twilight = {
         modifier = {
             factor = 4
             OR = {
-                has_planet_modifier = "tidal_locked"
-                has_planet_modifier = "bleak_planet"
+                has_planet_modifier = "pm_tidal_locked"
+                has_planet_modifier = "pm_bleak"
             }
         }
 

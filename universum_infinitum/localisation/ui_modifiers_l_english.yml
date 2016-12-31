@@ -1,3 +1,7 @@
 ﻿l_english:
+ ui_giant_earthworms:0 "Giant Earthworms"
+ ui_giant_earthworms_desc:0 "There are giant earthworms lurking on this planet."
+ ui_sea_monsters:0 "Sea Monsters"
+ ui_sea_monsters_desc:0 "The waters of this planet are lurking with dangerous sea monsters."
  ui_twilight:0 "Perpetual Twilight"
- ui_twilight_desc:0 "This planet is fixed in a state of perpetual twilight, and there is no clear difference between night and day."
+ ui_twilight_desc:0 "This planet is fixed in a state of perpetual twilight, and there is no clear difference between day and night."

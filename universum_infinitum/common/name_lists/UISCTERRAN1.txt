@@ -192,22 +192,28 @@ UISCTERRAN1 = {
         }
 
         pc_barren = {
-            Nemaka
+            names = {
+                Nemaka
 
-            # Moon
-            Canis
+                # Moon
+                Canis
 
-            # Mining worlds. Not completely sure if they are barren or not.
-            Feronis Brutus Vito
+                # Mining worlds. Not completely sure if they are barren or not.
+                Feronis Brutus Vito
+            }
         }
 
         pc_molten = {
-            Abaddon "New Folsom" "New Trinidad" Ashrigo "Old Faithful" Scoria Ignus
-            # "Veridia Prime"
+            names = {
+                Abaddon "New Folsom" "New Trinidad" Ashrigo "Old Faithful" Scoria Ignus Char
+                # "Veridia Prime"
+            }
         }
 
         pc_asteroid = {
-            Chanuk
+            names = {
+                Chanuk
+            }
         }
     }
 
