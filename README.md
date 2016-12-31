@@ -4,11 +4,12 @@ Universum Infinitum is a mod for Stellaris that plans to add much more variety i
 
 # Features
 
- - 7 new Flags
+ - 8 new Flags
  - 7 new Techonolgies
  - 3 new Tile Blockers
  - 4 new Strategic Resources
  - 1 new Anomaly
+ - 1 new Name List
 
 # Installation
 
