@@ -66,3 +66,32 @@ pm_ui_sea_monsters = {
     modifier = "ui_sea_monsters"
 }
 
+pm_ui_twilight = {
+    spawn_chance = {
+        modifier = {
+            add = 2
+            OR = {
+                is_planet_class = "pc_arctic"
+                is_planet_class = "pc_tundra"
+                is_planet_class = "pc_alpine"
+                is_planet_class = "pc_desert"
+                is_planet_class = "pc_barren"
+                is_planet_class = "pc_frozen"
+            }
+        }
+        modifier = {
+            factor = 4
+            OR = {
+                has_planet_modifier = "tidal_locked"
+                has_planet_modifier = "bleak_planet"
+            }
+        }
+
+        modifier = {
+            factor = 0
+            num_modifiers > 1
+        }
+    }
+
+    modifier = "ui_twilight"
+}
