@@ -4,7 +4,7 @@ tags={
     "Galaxy Generation"
     "Events"
     "Technologies"
-    "Graphics
+    "Graphics"
 }
 picture="ui.jpg"
 supported_version="1.4.*"
