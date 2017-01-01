@@ -3,9 +3,15 @@
 ### Terran (Koprulu)
 
 UISCTERRAN1 = {
-	randomized = no
+    randomized = no
 
     ship_names = {
+        generic = {
+        }
+
+        corvette = {
+        }
+
         destroyer = {
             Victory
         }
@@ -25,21 +31,54 @@ UISCTERRAN1 = {
             Nagglfar Argo
         }
 
-        mining_station = {
-            "Sakrysta Mining Base" Shi "Sorona Mining Station" "Revelation Mining Town"
-        }
-        observation_station = {
-            "Prometheus"
+        constructor = {
         }
 
         transport = {
             Daisy Hydrus Cormorant
         }
+
+        mining_station = {
+            Sakrysta Shi Sorona Revelation Avernus "Char Aleph" Erebus Scrap
+        }
+
+        research_station = {
+            "Skygeirr Platform" "Castanar Installation" Prometheus "Immortal Forge"
+        }
+
+        wormhole_station = {
+        }
+
+        observation_station = {
+        }
+
+        outpost_station = {
+            Dylar
+        }
+
+        military_station_small = {
+            "Sky Shield" Gemini Nova "Horley Barton" "Theta Prime" "Catwalk Alley" "Osborne Port" "Waypoint Junction"
+        }
+
+        military_station_medium = {
+            "New Gettysburg" Crusader "Sigma Centari" "Paladino Terminal" Proxima Nimbus Gutterhulk
+        }
+
+        military_station_large = {
+            Gehanna "The Keep"
+        }
     }
 
     ship_class_names = {
+        generic = {
+            Terran # This is put here solely as a placeholder
+        }
+
         corvette = {
             Avenger Wraith Viking Valkyrie Banshee
+        }
+
+        destroyer = {
         }
 
         battleship = {
@@ -50,8 +89,38 @@ UISCTERRAN1 = {
             Kurzweil Explorer
         }
 
+        colonizer = {
+        }
+
+        constructor = {
+        }
+
         transport = {
             Mammoth Cyrus Gladiator Hydrus
+        }
+
+        mining_station = {
+        }
+
+        research_station = {
+        }
+
+        wormhole_station = {
+        }
+
+        observation_station = {
+        }
+
+        outpost_station = {
+        }
+
+        military_station_small = {
+        }
+
+        military_station_medium = {
+        }
+
+        military_station_large = {
         }
     }
 
@@ -84,7 +153,7 @@ UISCTERRAN1 = {
         }
 
         clone_army = {
-            sequential_name = "%O% Clone Army"
+            sequential_name = "%O% Clone Division"
         }
 
         robotic_army = {
@@ -242,7 +311,7 @@ UISCTERRAN1 = {
                 Wilkes Wayne Ashton George Bralik Reigel Victor Abraham Earl Travis Adrian Joseph Emil Elias Sandin Gatrh Jerys Peter Lance Roman Gustav
                 Atticus Jack Charlie Wendell Ajendarro Chet Abram Foster Gerhardt Serl Talen Redell Dave Liam Chewitel Breg Brachyan Kennedy Isaac Philbin
                 Stanley Bob Gui Virgil Walden Rudolf Harvey Yuri Owen Sean Stephen Phillip Aiden Sebastien Sebastian Hector Pollock Patrick Aldeo Aal Kevin
-                Alan Allen Edgar Dean David Geoffrey
+                Alan Allen Edgar Dean David Geoffrey Nestor
             }
 
             first_names_female = {
@@ -250,10 +319,9 @@ UISCTERRAN1 = {
                 Winlaleah Maren Tamsen Camelia Caroline Monica Gwen Hannah Karol Dara Tara Dorothy Katherine Anabella Clara Esmeralda November Ilsa Geena Hailey Ava
                 Juliana Carolina Daniella Natasha Eleftheria Amelie Pamela Andrea Camelia Lisa Clair Samantha Tanya Mira Madeleine Merdith Nancy Chantal Lily
                 Everett Emily Ellen Desi Erin Jesse Lena Vera Lynn Ann Katrin Brad Illyana Shila Mary Cindy Leslie Chandra Rosemary Elyssa Janice Allison
-                Louise Sharyn Sela Elizabeth
+                Louise Sharyn Sela Elizabeth Seona
             }
 
-            # Always combined with a first name
             second_names = {
                 Mengsk Raynor Kerrigan Horner Duke Warfield Fole Emillian Cestoda Malik Utley "de Santo" Gray Leung Mercurio Swann Stetmann Findlay Tosh Hanson
                 Terra Calabas Nadaner Tygore Kusinis Darabont Travski Angelini Phash Dagget Ballenger Cistler Lagdamen Emblock Dessai Martine Held Cogan Loew
@@ -271,7 +339,19 @@ UISCTERRAN1 = {
                 Spanneti Burgess Reikson Montag Armstrong Bock Bolger Tanner Ansel Smith Malkovich Caine Irmscher Maury Briggs Russell Brody Hendrix Wynne
                 Warchorsky Ledbetter Haggs Orran Delme Bryce Patel Petrov Rainsinger Dahl Teague Howard Kirby Lassiter "O'Toole" Samuels Santiago Rimes Mozian
                 Rumm Keel Hartley Cistler Bick Gauthier Sandler Schezar Kazansky Martenes Moore Mannix Messner Saunders Tibbs Brock Bolshev Tudbury Buzan
-                Addams Strong Slate Prescott Garrick Kort Charn Blodgett Shane Scheeler Steegman Belloc
+                Addams Strong Slate Prescott Garrick Kort Charn Blodgett Shane Scheeler Steegman Belloc Jurgens
+            }
+
+            regnal_first_names_male = {
+                Arcturus Valerian Angus Augustus
+            }
+
+            regnal_first_names_female = {
+                Ketherine Dorothy Juliana
+            }
+
+            regnal_second_names = {
+                Mengsk
             }
         }
     }
