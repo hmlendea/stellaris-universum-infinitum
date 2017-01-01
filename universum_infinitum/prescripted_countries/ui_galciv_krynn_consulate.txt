@@ -1,0 +1,53 @@
+ui_galciv_krynn_consulate = {
+    name = "Krynn Consulate"
+    spawn_enabled = yes
+    ignore_portrait_duplication = yes
+
+    name_list = "ART3"
+    ship_prefix = "KCS"
+
+    species_name = "Krynn"
+    species_plural = "Krynn"
+    species_adjective = "Krynn"
+    species_class = "ART"
+    trait = "trait_talented"
+    portrait = "art1"
+    adjective = "Krynn"
+
+    government = "theocratic_oligarchy"
+    ethic = "ethic_militarist"
+    ethic = "ethic_fanatic_spiritualist"
+
+    weapon = "tech_mass_drivers_1"
+    ftl = warp
+
+    planet_name = "Kryseth"
+    planet_class = "pc_continental"
+    initializer = "ui_alora_system_initialiser"
+    system_name = "Alora"
+
+    graphical_culture = "arthropoid_01"
+    city_graphical_culture = "arthropoid_01"
+
+    empire_flag = {
+        icon= {
+            category = "ui_galciv"
+            file = "flag_ui_galciv_krynn.dds"
+        }
+        background= {
+            category = "backgrounds"
+            file = "00_solid.dds"
+        }
+        colors={
+            "purple"
+            "null"
+            "null"
+            "null"
+        }
+    }
+    ruler = {
+        name = "Ynrhed Eidden"
+        gender = male
+        portrait = "art1"
+    }
+}
