@@ -1,0 +1,218 @@
+ui_extra_mam1 = {
+    ship_names = {
+        generic = {
+            Dutupahamjal Sanetaragjal Fuvicifjal Gapoconjal Tovarisajal Pedosuramjal Nadilanidjal Tisurihjal Begatecitjal Mugacosojal Ruhulosajal
+            Cerofonujal Vicihuvojal Rorovopilojal Tavanonejal Ruvudaritjal Cirinapejal Sunubanorjal Sepivarecajal Guvemurejal Fatocodadjal Somafemjal
+            Cenitehujal Betafabegujal Piruhohjal Fegiguhjal Verivimibodjal Nibumisijal Cigonehahjal Cupofemahebjal Rusicucovarjal Nalopipofajal Fegutapasadjal
+            Basotihobjal Vatarurjal Punobisujal Talulivjal Basecutjal Rituvifamjal Nofosuvohjal Pegunisocjal Busavepipejal Fusarogojal Vifocisjal
+            Sinaputajal Vavohanefatjal Famitobilajal Penulabuharjal Rotecunarjal Raputotoreljal Rusahetifirjal Lirasirujal Casudaropefjal Lihevavijal Nupamecjal
+            Togugohotjal Lurotobuhjal Lalugufjal Gahuhigajal Setepofunjal Ludatopenerjal Betorihipojal Lavemulipajal Hovitefinemjal Puvigomupjal Gatuhafjal
+            Dicotubebjal Cicumelugedjal Radopofarijal Sigecegehujal Lenonagjal Nocosefijal Pupucabugjal Tavobahinimjal Butucorasjal Cacanemjal Lacunosjal
+            Civogotamjal Danehinivjal Lipehecunasjal Bumesilosevjal Limaruljal Hefacirujal Tegitolujal Demadatijal Befafitojal Huvefabosijal Cenidumenofjal
+            Sebumopijal Panugutovubjal Ducucasadudjal Vedecamjal Mobegonujal Ricofupjal Ledifalipijal Basacamecijal Vuharugefjal Rilifomumjal Cahinegjal
+            Dedipudujal Birogutjal Gehutidjal Daficugarutjal Tonadacudjal Dicucunahjal Togurecovujal Nolugecjal Hopisulujal Nedumadjal Sebipitajal
+            Tohilimedutjal Temerinujal Mamonavegajal Ginemimanujal Pasocirojal Masefenufuljal Bivatihajal Teranesucidjal Pasigatesajal Budabusotjal Cegagaposojal
+            Guludufujal Hasunjal Vecojal Pagosipijal Matenuvolugejal Sumicojal Matugudotjal Rofefidarojal Logudutojal Labesamuvefjal Benutjal
+            Meloduvajal Redobisorihjal Vecifjal Pafjal Buhitusejal Negolatujal Fudjal Lidahodjal Cupatagalihjal Ducesabocjal Sidenajal
+            Favebivorefjal Rotijal Lepubilibobjal Duvufeborejal Bovatotopapujal Desejal Medigojal Pifisjal Paforecjal Lafugojal Mavisenufjal
+            Rifififidjal Cudidutugacjal Fohegaludinijal Homidjal Mapanirahepjal Tadirurogujal Fomesanajal Gumapigojal Cubabotisjal Fugehodejal Boripigufojal
+            Ranuvusjal Tifufopadurejal Dehovogemajal Hogjal Betjal Rapudavuljal Misojal Diseliganapjal Tonorejal Befopjal Lemifumitubjal
+            Dopopesijal Fusevjal Lugeneticujal Hotoroticapojal Doparehojal Mogadulejal Dehedeninisojal Gasudorjal Depamojal Duhijal Nelefasadjal
+            Hafegitjal Nefetofejal Dagumurarjal Vemebigafjal Gerugorivojal Diverusjal Ducahegjal Tepjal Tiguhiranuhjal Fagugohipocejal Padahjal
+            Lulijal Ropofutjal Vulupajal Fugjal Sisjal Rusajal Rabjal Fopocetjal Vaperjal Toributigorujal Ralofegehjal
+            Rabepohecisjal Tudihecehobjal Huvojal Piredejal Cesejal Felitajal Varjal Cososujal Cabumjal Lenefjal Rudjal
+            Lecotigebalujal Gehjal Pedabogiljal Punodegababujal Bavitihejal Reljal Gahajal Varjal Sucafadelifjal Marijal Didabofjal
+            Fidojal Setadehupicjal Culibabjal Potidumjal Nopijal Rutavutisjal Cihalecofjal Ninerorenanjal Vunosudotofjal Mobegivisehjal Faljal
+        }
+
+        corvette = { }
+        destroyer = { }
+        cruiser = { }
+        battleship = { }
+        science = { }
+        colonizer = { }
+        constructor = { }
+
+        mining_station = { }
+        research_station = { }
+        wormhole_station = { }
+        #terraform_station = { }
+        observation_station = { }
+        outpost_station = { }
+
+        military_station_small = { }
+        military_station_medium = { }
+        military_station_large = { }
+    }
+
+    fleet_names = {
+        sequential_name = "%O% Fleet"
+    }
+
+    army_names = {
+        defense_army = {
+            sequential_name = "%O% Defence Force"
+        }
+
+        assault_army = {
+            sequential_name = "%O% Mobile Troops"
+        }
+
+        slave_army = {
+            sequential_name = "%O% Conscripts"
+        }
+
+        clone_army = {
+            sequential_name = "%O% Clone Troops"
+        }
+
+        robotic_army = {
+            sequential_name = "%O% Droid Legion"
+        }
+
+        android_army = {
+            sequential_name = "%O% Synth Troops"
+        }
+
+        psionic_army = {
+            sequential_name = "%O% Psionic Troops"
+        }
+
+        xenomorph_army = {
+            sequential_name = "%O% Xenomorph Brood"
+        }
+
+        gene_warrior_army = {
+            sequential_name = "%O% Augmented Troops"
+        }
+    }
+
+    planet_names = {
+        generic = {
+            names = {
+                Rihecethe Ropitothe Humudithe Cinathe Besthe Lupthe Hunarothe Gagthe Nomithe Dopthe Ritethe
+                Muvethe Hevolithe Ginirethe Cecthe Babethe Pasethe Tufethe Lapecithe Rofehithe Tenapthe Popubithe
+                Vadthe Gecethe Defthe Domithe Fanucethe Copasathe Gigenthe Cifufthe Fasegethe Fibomithe Cetonthe
+                Mututhe Rulerthe Moseguthe Befapthe Mathe Gamthe Didetothe Babegthe Pavathe Mulorthe Galucthe
+                Hivinithe Costhe Ranothe Cehthe Monithe Nisocathe Nalthe Balethe Tithe Gudedathe Hegicathe
+                Sefathe Bahopithe Nimugethe Mepathe Facaluthe Dovobthe Vadogthe Cutobthe Vopohthe Sisathe Narinethe
+                Tamofthe Fohemthe Gasuthe Gusenthe Necothe Vunothe Levthe Ganthe Pafacthe Soborothe Bebuthe
+                Caduthe Hucumthe Mehthe Gadimathe Cumimthe Dabalathe Hahebthe Cicohthe Sorebithe Nahethe Novegthe
+                Pegesothe Musacthe Rebidthe Ruborthe Felopthe Figuvithe Lonocethe Moruvthe Bosuthe Tinothe Sabthe
+                Vapesthe Vinisethe Cacthe Pahothe Hotomthe Cidusothe Mapusithe Lecofathe Lalethe Fatothe Fipehthe
+                Mebuthe Cetobethe Vovthe Tatunithe Sugamithe Fisumathe Nuvocthe Temuthe Gogeruthe Lumthe Fegotothe
+            }
+        }
+
+        pc_desert = { names = { } }
+        pc_tropical = { names = { } }
+        pc_arid = { names = { } }
+        pc_continental = { names = { } }
+        pc_ocean = { names = { } }
+        pc_tundra = { names = { } }
+        pc_arctic = { names = { } }
+    }
+
+    character_names = {
+        default = {
+            first_names = {
+                Hodegebiag Dugeag Cediag Nimuag Molopevag Vosuribag Ratasicag Mefehag Gehinibag Gesigabag Hivag
+                Sudag Fepag Metohihag Ruhanag Heniag Tigagag Mabufepoag Turisemeag Meberifag Hegoag Nisehasag
+                Puteag Dusoag Benag Tofuag Degebupuag Novag Hitetuag Fifag Cacuag Carepag Megiag
+                Pavag Ramegufag Labibag Fifupag Noridag Nubuviag Fipuag Nihag Lucihiag Vosunuag Nofetafag
+                Ribonunag Lecehopag Cuteag Girerag Vageag Nudahesag Puhag Tadaduhag Vimag Gitopoag Racag
+                Dadutaseag Gudag Furobovag Defacag Tumag Gopabepeag Mimag Givaparag Nodeag Difag Tunag
+                Dilag Dolinag Runemuag Matenegag Tagiag Sadoag Setasag Padibuhag Mirag Nemiboag Ponihuag
+                Vegunag Nisumag Cenuag Herudeag Dofasag Vusiag Vepuag Manoag Pasimenag Mosumonag Lobupag
+                Tatag Lemibag Tigenahag Nedogag Foduag Vehag Gapolag Sefag Hacigag Motevag Cicag
+                Dodeluag Danifipag Foleroag Vopuag Vupugoniag Piloag Balelosoag Godag Labevag Rideag Cugetag
+                Vipimefag Faneag Somacimag Rohaduag Sotihafuag Dumosocag Mupeag Ratolag Novag Reviag Cefag
+            }
+
+            first_names_male = {
+                Faritge Tigahafibge Cetesolamge Lohugilge Diderebuge Tuseboge Teporge Tuvobasge Norehuge Pehelge Husicge
+                Dupudupuge Dafutge Gimibge Gumemuge Vemucge Molaruge Peruge Rebupumge Codabitedge Fagafipge Digumge
+                Tecolge Danivaluge Ginabahege Hipipuserge Maputetige Leremuvuge Lafimalge Rimevibge Ginetesge Tapurobage Ganaradedge
+                Mopifogupge Vesurigage Levucelasge Cubulimige Satemicge Himocge Mucurge Buraluhulge Hotetange Cibafege Bifusege
+                Comafuge Darefadonge Rimevge Rahosuvage Hicotasivge Pisasufilge Solahucubge Sutisemege Tumadoge Hapavege Nopecedoge
+                Vofidge Rinage Nedohage Hanedemuge Bafuhihage Rafuhilge Fusovopoge Sunopidage Refavage Fidadunuge Hipigage
+                Bifivge Bavucasge Setapufge Ganacge Cebofibge Ronocevage Rohenege Relocofulge Nuhulge Caheculoge Haseremge
+                Coconufage Behifofage Tuginenage Tohumomicge Lemuvige Gigecge Pipilge Casogunofge Vecidodovge Dosedge Rumabefge
+                Sisihohige Rusodemoge Ragevirige Fetisipige Dahefihuge Linuvege Rorunalesge Sufivilupge Ropevevge Voracihge Pipibigege
+                Divudebilge Sivusilipge Lihonitipge Purugedoge Caropuvge Hicalefoge Culilge Gidinulilge Rebuhagage Fofagoge Rusicaricge
+                Teradoporge Comegofange Bopogorage Lurenge Parosapge Hipovuge Sumadosige Fisenimapge Cabodge Vedirorge Nalanage
+            }
+
+            first_name_female = {
+                Faritga Tigahafibga Cetesolamga Lohugilga Diderebuga Tuseboga Teporga Tuvobasga Norehuga Pehelga Husicga
+                Dupudupuga Dafutga Gimibga Gumemuga Vemucga Molaruga Peruga Rebupumga Codabitedga Fagafipga Digumga
+                Tecolga Danivaluga Ginabahega Hipipuserga Maputetiga Leremuvuga Lafimalga Rimevibga Ginetesga Tapurobaga Ganaradedga
+                Mopifogupga Vesurigaga Levucelasga Cubulimiga Satemicga Himocga Mucurga Buraluhulga Hotetanga Cibafega Bifusega
+                Comafuga Darefadonga Rimevga Rahosuvaga Hicotasivga Pisasufilga Solahucubga Sutisemega Tumadoga Hapavega Nopecedoga
+                Vofidga Rinaga Nedohaga Hanedemuga Bafuhihaga Rafuhilga Fusovopoga Sunopidaga Refavaga Fidadunuga Hipigaga
+                Bifivga Bavucasga Setapufga Ganacga Cebofibga Ronocevaga Rohenega Relocofulga Nuhulga Caheculoga Haseremga
+                Coconufaga Behifofaga Tuginenaga Tohumomicga Lemuviga Gigecga Pipilga Casogunofga Vecidodovga Dosedga Rumabefga
+                Sisihohiga Rusodemoga Rageviriga Fetisipiga Dahefihuga Linuvega Rorunalesga Sufivilupga Ropevevga Voracihga Pipibigega
+                Divudebilga Sivusilipga Lihonitipga Purugedoga Caropuvga Hicalefoga Culilga Gidinulilga Rebuhagaga Fofagoga Rusicaricga
+                Teradoporga Comegofanga Bopogoraga Lurenga Parosapga Hipovuga Sumadosiga Fisenimapga Cabodga Vedirorga Nalanaga
+            }
+
+            second_names = {
+                Dinufag Puhufuriporafag Tipiretumihfag Bufetupihfag Tarudifarfag Punanalebofag Cecafag Lecacomicufag Cidafag Munofemurafag Mirihapofag
+                Tufafag Gifefabfag Hilalobfag Golabiruvamafag Hegarfag Godosufag Roradupalufag Lafagulafag Ninipusfag Devabapaconafag Ritasavefag
+                Sidomutucocufag Muvadanusahafag Mavofag Hinosegonfag Rehanosotfag Gonanefag Donisigfag Vusotefag Tifibfag Dinalebefag Secucefag
+                Cufitepimodafag Hubacecepehfag Dacifag Sogirocfag Ricofag Lefofifag Rutihufag Daperefag Magivefag Mifocedohifag Lututoguhucafag
+                Noditonfag Bibureralfag Fetahipatufag Figamomogosfag Revupilufag Gohalfag Mevirilogefag Guvaginavfag Cugipatutafag Davaganfag Dodonafag
+                Citivofag Comucetifag Tumodfag Lalucefag Devipuvfag Tonamolfag Rufimifufag Puteguvafag Racefag Nutinurifufag Mufatodosebfag
+                Sevodicavufafag Nupecarfag Sotifag Botupopifisafag Dotehofag Tefelusfag Begopepufulfag Nedicemerifag Sibarugegirfag Rudatfag Lidatufag
+                Bumarudubopfag Gogotefag Gafunfag Cahamesalifag Vopihofeganfag Dumihapfag Lavetufag Verefag Gahihelomafag Sidusodelodifag Beregicamfag
+                Rabifag Dogenipfag Rogatedipfag Gudabfag Pibadosidodafag Cecodisiracefag Degocemanudifag Cuhisfag Nafomofag Potufag Taludfag
+                Sofudedufag Buvusevucanafag Pimefag Menivasesefag Hihelfag Pociserimesafag Fevebudunigfag Gedinimetofag Dudigaridomufag Ronahfag Palivososfag
+                Gesonebefag Sovogufag Gubohahufag Sucaporutafag Nibufag Libohelesomofag Neromorugifag Levaladinofag Cohuragipecfag Fanonimeridfag Bohumilohefag
+            }
+
+            regnal_first_names_male = {
+                Faritrege Tigahafibrege Cetesolamrege Lohugilrege Didereburege Tuseborege Teporege Tuvobasrege Norehurege Pehelrege Husicrege
+                Dupudupurege Dafutrege Gimibrege Gumemurege Vemucrege Molarurege Perugrege Rebupumrege Codabitedrege Fagafiprege Digumrege
+                Tecolrege Danivalurege Ginabaherege Hipipuserege Maputetirege Leremuvurege Lafimalrege Rimevibrege Ginetesrege Tapurobarege Ganaradedrege
+                Mopifoguprege Vesurigarege Levucelasrege Cubulimirege Satemicrege Himocrege Mucurege Buraluhulrege Hotetanrege Cibaferege Bifuserege
+                Comafurege Darefadonrege Rimevrege Rahosuvarege Hicotasivrege Pisasufilrege Solahucubrege Sutisemerege Tumadorege Hapaverege Nopecedorege
+                Vofidrege Rinagrege Nedoharege Hanedemurege Bafuhiharege Rafuhilrege Fusovoporege Sunopidarege Refavarege Fidadunurege Hipigarege
+                Bifivrege Bavucasrege Setapufrege Ganacrege Cebofibrege Ronocevarege Rohenerege Relocofulrege Nuhulrege Caheculorege Haseremrege
+                Coconufarege Behifofarege Tuginenarege Tohumomicrege Lemuvirege Gigecrege Pipilrege Casogunofrege Vecidodovrege Dosedrege Rumabefrege
+                Sisihohirege Rusodemorege Ragevirirege Fetisipirege Dahefihurege Linuverege Rorunalesrege Sufiviluprege Ropevevrege Voracihrege Pipibigerege
+                Divudebilrege Sivusiliprege Lihonitiprege Purugedorege Caropuvrege Hicaleforege Culilrege Gidinulilrege Rebuhagarege Fofagorege Rusicaricrege
+                Teradoporege Comegofanrege Bopogorarege Lurenrege Parosaprege Hipovurege Sumadosirege Fisenimaprege Cabodrege Vedirorege Nalanarege
+            }
+
+            regnal_first_names_female = {
+                Faritrega Tigahafibrega Cetesolamrega Lohugilrega Didereburega Tuseborega Teporega Tuvobasrega Norehurega Pehelrega Husicrega
+                Dupudupurega Dafutrega Gimibrega Gumemurega Vemucrega Molarurega Perugrega Rebupumrega Codabitedrega Fagafiprega Digumrega
+                Tecolrega Danivalurega Ginabaherega Hipipuserega Maputetirega Leremuvurega Lafimalrega Rimevibrega Ginetesrega Tapurobarega Ganaradedrega
+                Mopifoguprega Vesurigarega Levucelasrega Cubulimirega Satemicrega Himocrega Mucurega Buraluhulrega Hotetanrega Cibaferega Bifuserega
+                Comafurega Darefadonrega Rimevrega Rahosuvarega Hicotasivrega Pisasufilrega Solahucubrega Sutisemerega Tumadorega Hapaverega Nopecedorega
+                Vofidrega Rinagrega Nedoharega Hanedemurega Bafuhiharega Rafuhilrega Fusovoporega Sunopidarega Refavarega Fidadunurega Hipigarega
+                Bifivrega Bavucasrega Setapufrega Ganacrega Cebofibrega Ronocevarega Rohenerega Relocofulrega Nuhulrega Caheculorega Haseremrega
+                Coconufarega Behifofarega Tuginenarega Tohumomicrega Lemuvirega Gigecrega Pipilrega Casogunofrega Vecidodovrega Dosedrega Rumabefrega
+                Sisihohirega Rusodemorega Ragevirirega Fetisipirega Dahefihurega Linuverega Rorunalesrega Sufiviluprega Ropevevrega Voracihrega Pipibigerega
+                Divudebilrega Sivusiliprega Lihonitiprega Purugedorega Caropuvrega Hicaleforega Culilrega Gidinulilrega Rebuhagarega Fofagorega Rusicaricrega
+                Teradoporega Comegofanrega Bopogorarega Lurenrega Parosaprega Hipovurega Sumadosirega Fisenimaprega Cabodrega Vedirorega Nalanarega
+            }
+
+            regnal_second_names = {
+                Logirog Vilibrog Marelinrog Roforog Savodopurog Geserog Tecirog Himesenrog Vigabirog Hisesrog Cipilarog
+                Vugobedrog Nedobebirog Dufumaferog Ranimetarog Hegidoporog Vimuderog Fobitirog Fururog Ducudrog Lalorog Hogiterog
+                Loseprog Fufelorog Tuhahrog Nupiberog Metusarog Tenomorog Lucacaprog Monirog Benenohurog Pubucrog Dibucirog
+                Ronahesorog Patagorog Redocegerog Cutanrog Cicurog Talorog Bidufirog Tiliterrog Titebrog Bovarerirog Sumurog
+                Levalocrog Lagerog Sefederog Sadacerog Tovuvrog Setulrog Limuvrog Dunugeharog Babogrog Funicasrog Buculrog
+                Fatofarrog Nulavarog Rinunrog Gohirrog Muficosrog Fahigutrog Ninudurrog Tecinarog Tivodrog Golorrog Dudeparog
+                Casofurog Citilemorog Mohecrog Samecirog Sahadurog Pabivrog Telegetorog Sovigrog Votohagrog Nufugilurog Nicaparog
+                Vocunorrog Ravuvirog Vifefrog Rolasorog Goduguhrog Togarog Gafanerog Bivaterog Hafosorog Cigerog Luvugafrog
+                Digasomorog Remarog Sudehufrog Medulrog Caronirurog Tugonarog Madeterog Gumigurog Totelerog Damosebirog Somivedorog
+                Vitobogrog Finahrog Padigarog Vitebosrog Semigrog Mebacomrog Pigurog Geberog Rimapifrog Piriserog Devigahorog
+                Sibamurorog Fulonisirog Vubabarog Gemerog Hasusuforog Luvabalrog Totulrog Luculatrog Guvarog Tulerog Davaviterog
+            }
+        }
+    }
+}
+

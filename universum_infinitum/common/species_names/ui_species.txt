@@ -1,0 +1,38 @@
+MAM = {
+	pihisen = {
+		name = Pihisen
+		plural = Pihisi
+		home_planet = Pihithe
+		home_system = Pihor
+		name_list = "ui_extra_mam1"
+	}
+	lerinid = {
+		name = Lerinid
+		plural = Lerinids
+		home_planet = Lerinithe
+		home_system = Lerinor
+		name_list = "ui_extra_mam1"
+	}
+	nasibul = {
+		name = Nasibul
+		plural = Nasibuls
+		home_planet = Nasibuthe
+		home_system = Nasibor
+		name_list = "ui_extra_mam1"
+	}
+	vacimupan = {
+		name = Vacimupan
+		plural = Vacimupans
+		home_planet = Vacimuthe
+		home_system = Vacimor
+		name_list = "ui_extra_mam1"
+	}
+	cugovug = {
+		name = Cugovug
+		plural = Cugovugs
+		home_planet = Cugovuthe
+		home_system = Cugor
+		name_list = "ui_extra_mam1"
+	}
+}
+
