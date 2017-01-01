@@ -9,6 +9,7 @@ UISCTERRAN1 = {
         destroyer = {
             Victory
         }
+
         battleship = {
             Hyperion Norad Cyrus Bucephalus Scion Hephaestus Palatine Victory Medusa Herakles "White Star" "Emperor's Fury" Hoosier Tahoe "Gray Tiger" Fury
             Cerberus Helios Ragnorak Metis "Thunder Child" Meleager Amphitrite Phobos Titan Circe "Iron Justice" Merrimack Jackson Eos "Huey Long" Antigone
@@ -38,7 +39,7 @@ UISCTERRAN1 = {
 
     ship_class_names = {
         corvette = {
-            Wraith Viking Valkyrie Banshee
+            Avenger Wraith Viking Valkyrie Banshee
         }
 
         battleship = {
@@ -124,33 +125,42 @@ UISCTERRAN1 = {
         generic = {
             names = {
                 # Unknown or unsure climate
-                Thys "Bhekar Ro" Pegasus Brontes Moria Shiloh Gohbus Torus Candore Valhalla Bacchus Gurdlac "Gamma Dorian" "Tal Qirat" Asteria
-                Marlowe Gelgaris "Demon's Fair" Jotun Parragos "Pho-Rekh" Tepperus Melkora Tashai Cirion "Great Bend" Aridas Chiron Ravera Seti Lakius
+                Thys Pegasus Brontes Gohbus Torus Valhalla Bacchus "Tal Qirat" Asteria Marlowe Gelgaris "Demon's Fair" Jotun Parragos "Pho-Rekh" Tepperus
+                Melkora Cirion "Great Bend" Chiron Ravera Seti Lakius
                 # "Antiga Prime" "Atticus Minor" "Artesia Prime" "Sigmaris Prime" "Sigmaris Prime" "Zanadar Prime"
             }
         }
 
         pc_desert = {
             names = {
-                Altara "New Sydney" Sonyan Choss Sirocco Phaeton
+                Altara "New Sydney" Sonyan Choss Sirocco Phaeton Gurdlac
+
+                # Unsure if class is right
+                Moria
             }
         }
 
         pc_tropical = {
             names = {
-                Vygoire Garxxax "Brokas Hur" Calus Miranar
+                Vygoire Garxxax "Brokas Hur" Calus Miranar Candore
+
+                # Unsure if class is right
+                Aridas
             }
         }
 
         pc_arid = {
             names = {
-                "Mar Sara"
+                "Mar Sara" "Gamma Dorian"
             }
         }
 
         pc_continental = {
             names = {
-                Umoja "Chau Sara" Korhal Tarsonis Haji Halcyon Vardona Bountiful "Urona Sigma" Gystt Roxara Goldilocks Sammy Haven TarKossia Boone
+                Umoja "Chau Sara" Korhal Tarsonis Haji Halcyon Vardona Bountiful "Urona Sigma" Gystt Roxara Goldilocks Sammy Haven TarKossia Boone Shiloh
+
+                # Unsure if class is right
+                "Bhekar Ro" Tashai
             }
         }
 

@@ -1,8 +1,8 @@
 ﻿l_english:
 ### NAMES
- EMPIRE_DESIGN_ui_terran_dominion:0 "Terran Dominion"
+ EMPIRE_DESIGN_ui_starcraft_terran_dominion:0 "Terran Dominion"
  EMPIRE_DESIGN_ui_galciv_krynn:0 "Krynn Consulate"
 
 ### DESCRIPTIONS
- EMPIRE_DESIGN_ui_terran_dominion_desc:0 "The Terran Dominion, otherwise known as the Dominion of Man, is a human realm far away from it's original homeworld, Earth.\n\nThree colony ships from Earth were lost in space after system malfunctions, and eventually landed on habitable planets.\n\nDifferent factions thrived there and warred each other, until the Sons of Korhal rebellion achieved victory and declared the formation of the Terran Dominion, on the ashes of the others."
+ EMPIRE_DESIGN_ui_starcraft_terran_dominion_desc:0 "The Terran Dominion, otherwise known as the Dominion of Man, is a human realm far away from it's original homeworld, Earth.\n\nThree colony ships from Earth were lost in space after system malfunctions, and eventually landed on habitable planets.\n\nDifferent factions thrived there and warred each other, until the Sons of Korhal rebellion achieved victory and declared the formation of the Terran Dominion, on the ashes of the others."
  EMPIRE_DESIGN_ui_galciv_krynn_consulate_desc:0 "The Krynn are here to bring order to the galaxy in the name of religion."

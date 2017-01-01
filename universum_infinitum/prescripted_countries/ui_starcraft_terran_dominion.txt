@@ -1,4 +1,4 @@
-ui_terran_dominion = {
+ui_starcraft_terran_dominion = {
     name = "Terran Dominion"
     spawn_enabled = yes
     ignore_portrait_duplication = yes
@@ -51,6 +51,7 @@ ui_terran_dominion = {
         name = "Arcturus Mengsk"
         gender = male
         portrait = "human_male_03"
+        texture = 0
         hair = 7
         clothes = 4
     }

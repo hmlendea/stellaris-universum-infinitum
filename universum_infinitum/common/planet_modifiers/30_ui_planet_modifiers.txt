@@ -105,7 +105,7 @@ pm_ui_extreme_temperatures = {
                 is_planet_class = "pc_desert"
                 is_planet_class = "pc_arid"
                 is_planet_class = "pc_barren"
-                is_planet_class = "pc_tomb"
+                is_planet_class = "pc_nuked"
             }
         }
 

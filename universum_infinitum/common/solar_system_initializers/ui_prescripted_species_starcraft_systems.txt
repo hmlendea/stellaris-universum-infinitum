@@ -7,7 +7,6 @@ ui_korhal_system_initialiser = {
     name = "Korhal"
 
     class = "sc_f"
-    asteroids_distance = 115
 
     usage = custom_empire
 
@@ -252,6 +251,11 @@ ui_korhal_system_initialiser = {
 
     neighbor_system = {
         distance = { min = 10 max = @distance }
+        initializer = "neighbor_t1"
+    }
+
+    neighbor_system = {
+        distance = { min = 10 max = @distance }
         initializer = "ui_sara_system_initialiser"
     }
 }
@@ -261,9 +265,7 @@ ui_sara_system_initialiser = {
     name = "Sara"
 
     class = "sc_g"
-    asteroids_distance = 50
-
-    usage = custom_empire
+    asteroids_distance = 135
 
     planet = {
         count = 1
