@@ -1,3 +1,7 @@
+﻿### Universum Infinitum
+### Extras
+### Mammalian 1
+
 ui_extra_mam1 = {
     ship_names = {
         generic = {
@@ -143,7 +147,7 @@ ui_extra_mam1 = {
                 Teradoporge Comegofange Bopogorage Lurenge Parosapge Hipovuge Sumadosige Fisenimapge Cabodge Vedirorge Nalanage
             }
 
-            first_name_female = {
+            first_names_female = {
                 Faritga Tigahafibga Cetesolamga Lohugilga Diderebuga Tuseboga Teporga Tuvobasga Norehuga Pehelga Husicga
                 Dupudupuga Dafutga Gimibga Gumemuga Vemucga Molaruga Peruga Rebupumga Codabitedga Fagafipga Digumga
                 Tecolga Danivaluga Ginabahega Hipipuserga Maputetiga Leremuvuga Lafimalga Rimevibga Ginetesga Tapurobaga Ganaradedga
