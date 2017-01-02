@@ -162,3 +162,39 @@ d_ui_roboro_crystals_deposit = {
     }
 }
 
+d_talpa_deposit = {
+    resources = {
+		engineering_research = 2
+        sr_ui_talpa_ore = 1
+    }
+    station = shipclass_mining_station
+    orbital_weight = {
+        weight = @clusterOrbitalWeight
+    }
+
+    drop_weight = {
+        weight = 0
+        modifier = {
+            weight = 5
+            planet = {
+                AND = {
+                    is_asteroid = yes
+                    has_strategic_resource = no
+                }
+            }
+        }
+        modifier = {
+            factor = 2
+            planet = {
+                is_inside_nebula = yes
+            }
+        }
+        modifier = {
+            factor = 0
+            planet = {
+                NOT = { is_in_cluster = resource_cluster_2 }
+            }
+        }
+    }
+}
+

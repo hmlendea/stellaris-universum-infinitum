@@ -49,3 +49,18 @@ sr_ui_roboro_crystals = {
         tile_resource_energy_mult = 0.10
     }
 }
+
+# Talpa Ore
+sr_ui_talpa_ore = {
+    AI_category = strategic_resource
+    prerequisites = { "tech_mine_ui_talpa" }
+    tradable = yes
+    is_rare = yes
+    is_global = yes
+
+    modifier = {
+		ship_reparation_speed_mult = 0.05
+		country_ship_upgrade_cost_mult = -0.05
+    }
+}
+
