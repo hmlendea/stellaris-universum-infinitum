@@ -1,0 +1,938 @@
+black_hole_names = {
+    ### FICTIONAL ###
+    "Babylon's Fall"
+    "Byzantium's Fall"
+    "Belzebuth's Maw"
+    "Cthulhu's Maw"
+    "Dracones Maelstrom"
+    "Hades' Maw"
+    "Hope's End"
+    "Horatiu's Singularity"
+    "Lucifer's Maw"
+    "Medusa's Eye"
+    "Teleorman Black Hole"
+    "Zamolxis Black Hole"
+}
+
+asteroid_prefix = {
+    ### FICTIONAL ###
+    HORI-
+    HM-
+    HML-
+}
+
+asteroid_postfix = {
+    ### FICTIONAL ###
+    42
+    613
+    873
+    1030
+    1995
+}
+
+star_names = {
+    ### REAL ###
+    Achrid
+    Alrai
+    "Alula Australis"
+    "Delta Trianguli"
+    "Gamma Virginis"
+    Menkalinan
+    Rasalmothalla
+    "Tau Bootis"
+    "Upsilon Andromedae"
+
+    ### FICTIONAL - Go wild ###
+    Sombrero
+    Luchador
+    Guacamelee
+    Firefly
+
+    ### FICTIONAL - Places/People/Gods from Earth ###
+    Ardeal
+    Bucharest
+    Bucovina
+    Burebista
+    Cluj
+    Dacia
+    Decebalus
+    Dracones
+    Eminescu
+    Hades
+    Horatius
+    Hori
+    Lotus
+    Mlendea
+    Moldova
+    Muntenia
+    Napoca
+    Oltenia
+    Poland # Finally it
+    Polen  # can into space!
+    Romania
+    Transylvania
+    Zamolxis
+
+    ### FICTIONAL - Inspired from Elder Scrolls ###
+    Akatosh
+    Akavir
+    Amalexia
+    Argonia
+    Arkay
+    Atmora
+    Azura
+    Boetiah
+    Cyrodiil
+    Dagon
+    Dibella
+    Elsweyr
+    Hermaeus
+    Hircine
+    Julianos
+    Jyggalag
+    Kynareth
+    Malacath
+    Mara
+    Mehrunes
+    Mephala
+    Mereth
+    Meridia
+    Molag
+    Namira
+    Nirn
+    Peryite
+    Sanguine
+    Septim
+    Sheogorath
+    Sithis
+    Skyrim
+    Sotha
+    Stendarr
+    Talos
+    Tamriel
+    Vaermina
+    Vivec
+    Zenithar
+
+    ### FICTIONAL - Inspired from Game of Thrones ###
+    Asshai
+    Astapor
+    Braavos
+    Dorne
+    Elyria
+    Ghiscar
+    Lannister
+    Lorath
+    Lys
+    Mereen
+    Myr
+    Norvos
+    Pentos
+    Qarth
+    Qohor
+    "R'hllor"
+    Stark
+    Tyrosh
+    Valyria
+    Volantis
+    Yunkai
+
+    ### FICTIONAL - Doctor Who ###
+    Actean
+    "Actron Pleiades"
+    Althrace
+    Antari
+    Aprilia
+    Ataline
+    Augon
+    Beart
+    Bel
+    "Bezeta-Vordak"
+    Callico
+    Calypso
+    Capris
+    Castonier
+    Cimmerian
+    Cogen
+    Conus
+    Coster
+    "Delta Leonis"
+    Dracian
+    Dundra
+    Eckbear
+    "Eta Cassiopeia"
+    Excroth
+    Fallan
+    Felinus
+    Ganesh
+    Generios
+    Gloriana
+    Grantaginus
+    Graxis
+    Izjol
+    Karris
+    Keris
+    Kurgon
+    Lakertyan
+    Lopra
+    Magna
+    Malachi
+    Mellandrova
+    "Mettula Orionis"
+    Minerva
+    Montague
+    Montoon
+    Naia
+    Nixyce
+    "Orius Beta"
+    Ostrecallis
+    Phylox
+    Pleiades
+    Pliny
+    Quadrille
+    Quilian
+    Rataculan
+    Rexel
+    Rhumos
+    Rifter
+    Scalanis
+    Scarlet
+    Scrampus
+    Seven
+    Sirius
+    Targos
+    Tarsus
+    Thanos
+    Torajii
+    "Van Koll"
+    "Vega Opsis"
+    Ventrassian
+
+    ### FICTIONAL - Star Wars ###
+    Ahakista
+    Alderaan
+    Anoat
+    Anthan
+    Arkanis
+    Artiod
+    Bardotta
+    Bastatha
+    Belderone
+    Bespin
+    "Boz Pity"
+    "Burnin Konn"
+    Calcoraan
+    Carida
+    Castell
+    "Cato Neimoidia"
+    "Christophsis"
+    Bith
+    "Concord Dawn"
+    Corellia
+    Ileenium
+    Dagobah
+    Doran
+    Dathomir
+    Devaron
+    Endor
+    Salient
+    Felucia
+    Galidraan
+    Garel
+    Geonosis
+    Gorse
+    Hosnian
+    Hoth
+    Hudalla
+    Ilum
+    Hasmir
+    Ione
+    Irudiru
+    Ison
+    Ottega
+    Jakku
+    Kadavo
+    Mandalore
+    Kallidah
+    Kamino
+    Kashyyyk
+    Kessel
+    Kuat
+    Kupoh
+    Lasan
+    Llanic
+    "Lola Sayu"
+    Lothal
+    Malastare
+    Maridun
+    Mataou
+    Mirrin
+    "Mon Calamari"
+    Murkhana
+    Mustafar
+    Mykapo
+    Naboo
+    Ubdur
+    Jedha
+    "Obroa-skai"
+    Japrael
+    "Bright Jewel"
+    Pantora
+    Phindar
+    "Polis Massa"
+    Quell
+    Raxus
+    Rishi
+    Tyrius
+    Ruusan
+    Ryloth
+    Saleucami
+    Albarrio
+    Seelos
+    Sesid
+    "Sha Qarot"
+    Stygeon
+    Sullust
+    Tatoo
+    Teth
+    Theron
+    Thustra
+    Toydaria
+    Umbara
+    Utapau
+    Uvoss
+    Vanqor
+    Vessek
+    Yarma
+    Yavin
+    Yost
+
+    ### FICTIONAL - Starcraft ###
+    Antiga
+    Artesia
+    Astrid
+    Atrias
+    Bellum
+    #Brontes # Already used in name list
+    Bukari
+    #Castanar # Already used in name list
+    Char
+    Cruxas
+    Dannuth
+    Dylar
+    Exgelia
+    Gantuan
+    Grissom
+    Grnaki
+    Gyras
+    #Gystt # Already used in name list
+    Heimdall
+    Helioc
+    Icarus
+    Jaandara
+    Jontur
+    Ketill
+    Koprulu
+    #Korhal # Already used in a system initialiser
+    Mackan
+    Maltair
+    Marek
+    Mehlus
+    #Meinhoff # Already used in name list
+    Midr
+    Mistaff
+    Nephor
+    Nidhogg
+    Orna
+    Raydin
+    Redstone
+    Revan
+    Reynif
+    #Sara # Already used in a system initialiser
+    Sutur
+    #Tarsonis # Already used in name list
+    Taurus
+    Thalon
+    Thanix
+    Timul
+    #Torus # Will be used in name list
+    Turaxis
+    Typhon
+    Tyrador
+    Uilila
+    Ullalah
+    Umoja
+    Warrant
+    Wotan
+    Zerus
+
+    ### FICTIONAL - Galactic Civilizations ###
+    Abren
+    Acelloria
+    Acer
+    Achilles
+    Adama
+    Aegeus
+    Agena
+    Ahriman
+    Albireo
+    Alcinous
+    Alcyone
+    Aldra
+    Alenil
+    Alexandria
+    Alexus
+    Algenib
+    Algieba
+    Algore
+    Almaak
+    Alpha Ceti
+    Alpheratz
+    Alshain
+    Altros
+    Alva
+    Amber
+    Amcor
+    Amwra
+    Anastasio
+    Anaxis
+    Ancros
+    Anderson
+    Andersona
+    Andoria
+    Andromeda
+    Angius
+    Ankaa
+    Ankra
+    Antra
+    Apeori
+    Aphrodite
+    Apollo
+    Aquarii
+    Aquilae
+    Arcadius
+    Ares
+    Argus
+    Artemis
+    Artus
+    Arvani
+    Asgard
+    Ashen
+    Asimov
+    Asya
+    Athena
+    Atlantis
+    Atreides
+    Aurelian
+    Aurigae
+    Aurtor
+    Avalon
+    Avignon
+    Avitus
+    Balder
+    Baltar
+    Banfield
+    Bargmann
+    Batting
+    Begle
+    Benthar
+    Bevora
+    Bia
+    Bigo
+    Bilbo
+    Bond
+    Bootis
+    Borin
+    Breka
+    Brendor
+    Brindle
+    Bristo
+    Britanion
+    Brodie
+    Brutus
+    Bryant
+    Bullwinkle
+    Bundy
+    Caer
+    Caesar
+    Cai
+    Calinor
+    Camelot
+    Campos
+    Cannon
+    Capra
+    Caprica
+    "Capro Core"
+    Card
+    Carinus
+    Carnori
+    Carter
+    Carus
+    Cascerius
+    Casia
+    Cassandra
+    Cassius
+    Celia
+    Centauri
+    Ceres
+    Cesario
+    Chebychev
+    Cheli
+    Cherryh
+    Chiron
+    Chmmri
+    Clair
+    Clarke
+    Cobra
+    Coorq
+    "Cor Caroli"
+    Cordelia
+    Cremor
+    Crevas
+    Cygni
+    Dakor
+    Dalas
+    DalNalten
+    Dannan
+    Danwe
+    Dawkins
+    Decius
+    "Delta Ceti"
+    Demeter
+    Denbra
+    Denebola
+    Derda
+    Dester
+    Deteci
+    Devoa
+    Devra
+    Dilthi
+    Dilworth
+    Ditla
+    Domitian
+    Drendor
+    Drenth
+    Drogo
+    Drondol
+    Dropek
+    Dubhe
+    Duffy
+    Dujpiboonpol
+    Durin
+    Eagle
+    Embor
+    Epsilon
+    Eridani
+    Eugenius
+    Eula
+    Evenstar
+    Falcon
+    Faleola
+    Faramir
+    Farni
+    Feist
+    Fermento
+    Filthor
+    Filtreus
+    Fivel
+    Fleming
+    Florin
+    Fordus
+    Frey
+    Freya
+    Frigg
+    Frodo
+    Furan
+    Gabe
+    Gabriel
+    Gaia
+    Galactica
+    Galas
+    Galerius
+    Gallienus
+    Gallus
+    Gambra
+    Gamgee
+    "Gamma Alpha"
+    "Gamma Theta"
+    Gandalf
+    Garcia
+    Gauss
+    Gerenia
+    Gerica
+    Geta
+    Gildor
+    Gimble
+    Gladstone
+    Gordon
+    Gounaropolous
+    Grizzly
+    Gwynhyffar
+    Haber
+    Hadrian
+    Hambor
+    Hammer
+    Harper
+    Hatch
+    Hatcher
+    Hector
+    Heinlein
+    Hera
+    Herbert
+    Hercules
+    Hermes
+    Hestia
+    Hienlein
+    Hiflheim
+    Hilnor
+    Himalaya
+    Hinra
+    Holmes
+    Horus
+    Hough
+    Hyadea
+    Imperius
+    Ireland
+    Iris
+    Ishikawa
+    Its
+    Iversonia
+    Ivey
+    Jackson
+    Jason
+    Jefion
+    Jotunheim
+    Jovian
+    Julian
+    Julietta
+    Ka
+    Kailor
+    Kaka
+    Kaled
+    Kamber
+    Karnak
+    Karsch
+    Kastor
+    Kerchen
+    Keri
+    Kievi
+    Kildor
+    Kindar
+    Kinnison
+    Kolaz
+    Kore
+    Koronor
+    Kratos
+    Kriston
+    Kroll
+    Kronos
+    Kupe
+    Kures
+    Kuroda
+    Kwilas
+    Lacaille
+    Lacroix
+    Lalande
+    Lancelot
+    Lanthra
+    Lapra
+    Lares
+    Largo
+    Lasitus
+    Leda
+    Lentz
+    Leto
+    Lir
+    Loki
+    Lorina
+    Lugh
+    Macedonia
+    Macrinus
+    Maestro
+    Magica
+    Mamba
+    Mambra
+    Mann
+    Marfak
+    Marilyn
+    Markus
+    Marsack
+    Marshall
+    Martin
+    Martzia
+    Maximinus
+    McConnell
+    Meersman
+    Megrez
+    Melanor
+    Merak
+    Meriadoc
+    Merlin
+    Midgard
+    Migor
+    Mikus
+    Milamber
+    Mindragon
+    Minitu
+    Minos
+    Mintor
+    Mirphak
+    Mordred
+    Mormegil
+    Mormo
+    Mortha
+    Najmanowicz
+    Namdil
+    Narita
+    Necro
+    Neleus
+    Nerva
+    Nesro
+    Nestor
+    Nigel
+    Nike
+    Nildil
+    Ningai
+    Nirar
+    Noldor
+    Noshay
+    Novaria
+    "Nova Rigel"
+    Nugent
+    Nyquist
+    Octavia
+    Odin
+    Odysseus
+    Olybrius
+    Ophiuchi
+    Oplin
+    Oredtes
+    Orestes
+    Orlando
+    Ormazd
+    Osiris
+    Osprey
+    Otho
+    Paladin
+    "Palain Seven"
+    Pallas
+    Pandaros
+    Paridias
+    Paris
+    Patrickus
+    Patroklos
+    "Pax Atlar"
+    Pegasus
+    Pelagon
+    Peleus
+    Penelope
+    Peregrin
+    Pern
+    Perseus
+    Pertinax
+    Peti
+    Petroni
+    Phecda
+    Piers
+    Pine
+    Pinra
+    Pippen
+    Pithra
+    Poldeukes
+    Pollack
+    Poseidon
+    Powell
+    Priam
+    Primus
+    Probus
+    Proctor
+    Procyon
+    Quatrale
+    Quea
+    Quendor
+    Questor
+    Quirinus
+    Rambke
+    Rancora
+    Rand
+    Raphael
+    Rathra
+    Reaper
+    Reaxis
+    Rebe
+    Republica
+    Rhea
+    Riccio
+    Romeo
+    Romulus
+    Roosevelt
+    Rosalind
+    Russom
+    Saba
+    Sadoc
+    Salerno
+    Samms
+    Sander
+    Satori
+    Sauron
+    Schultz
+    Scotui
+    Scwa
+    Sebastian
+    Selkis
+    Semele
+    Severus
+    Shallot
+    Shaplr
+    Shugar
+    Siblia
+    Sidal
+    Sileth
+    Silnra
+    Sina
+    Sipples
+    Sirius
+    Sitlet
+    Sivil
+    Skowbo
+    Slepur
+    Slier
+    Sobek-Re
+    Solace
+    Sollis
+    Soma
+    Soprano
+    Starbuck
+    Sthenelos
+    Strife
+    Styx
+    Tacitus
+    Taralon
+    Telana
+    Telanor
+    Telemachus
+    Terais
+    Teranor
+    Teratia
+    Thebes
+    "Theta Iota"
+    Thielbahr
+    Thindor
+    Thrace
+    Throthgard
+    Tiberius
+    Timbol
+    Titus
+    Tora
+    Torga
+    Touchstone
+    Towne
+    Trauth
+    Trenor
+    Triac
+    Triad
+    Trok
+    Trostk
+    Troy
+    Tycho
+    Tydeus
+    Tykoski
+    Tyr
+    Umera
+    Umeria
+    Unukalhai
+    Valens
+    Valerian
+    Valerius
+    Valkyrie
+    Vanga
+    Vangras
+    Varuna
+    Vendel
+    Vesta
+    Viola
+    Virgil
+    Vista
+    Vitellius
+    Vizzard
+    Vorad
+    Vox
+    Walleye
+    Wardell
+    Weber
+    Westerfeld
+    Wila
+    Wilea
+    Wilson
+    Winyor
+    Wlody
+    Wodan
+    Woolley
+    Xasica
+    Xena
+    Yadel
+    Yesensky
+    Yggdradill
+    Yima
+    Yindor
+    Yiple
+    Ymir
+    Zahn
+    Zalank
+    Zalr
+    Zambdari
+    Zelos
+    Zeus
+    Zilpha
+    Zilr
+    Zinthor
+    Zorak
+}
+
+nebula_names = {
+    ### REAL
+    "Lagoon Nebula"
+
+    ### FICTIONAL ###
+    "Dacia Nebula"
+    "Dracones Nebula"
+    "Lotus Flairs"
+    "Mammoth Nebula"
+    "Mlendea Nebula"
+    "Rubine Nebula"
+    "Teleorman Nebula"
+    "Sandstorm Nebula"
+    "Sanguine Nebula"
+
+    ### FICTIONAL - Doctor Who ###
+    "Andrallis Nebula"
+    "Blue Lagoon Nebula"
+    "Brago Nebula"
+    "Cherrybowl Nebula"
+    "Dragonfly Nebula"
+    "Fallan Nebula"
+    "Hammerhead Nebula"
+    "Hej Nebula"
+    "Hothead Nebula"
+    "Howling Nebula"
+    "Kolox Nebula"
+    "Lotus Nebula"
+    "Matrua Nebula"
+    "Onyx Nebula"
+    "Paertes Nebula"
+    "Salcreyan Nebula"
+    "Scorpion Nebula"
+    "Softel Nebula"
+    "Tornado Nebula"
+    "Wolf's Heart Nebula"
+    "Zordon Nebula"
+
+    ### FICTIONAL - Star Wars ###
+    "Monsua Nebula"
+    "Kaliida Nebula"
+    "Metharian Nebula"
+    "Typhonic Nebula"
+    "Vulpinus Nebula"
+    "Queluhan Nebula"
+    "Ghost Nebula"
+}

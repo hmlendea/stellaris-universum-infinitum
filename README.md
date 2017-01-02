@@ -15,6 +15,7 @@ Universum Infinitum is a mod for Stellaris that plans to add much more variety i
  - 2 new Name Lists
  - 2 new Galaxy Sizes
  - 1 new Anomaly
+ - Countless new names for Stars, Black Holes, Asteroids and Nebulae
 
 # Installation
 
