@@ -208,6 +208,189 @@ star_names = {
     "Vega Opsis"
     Ventrassian
 
+    ### FICTIONAL - Star Trek ###
+    Alastria
+    "Alpha Leonis"
+    "Alpha Omicron"
+    "Alpha Onias"
+    Alvacorn
+    Amargosa
+    Amleth
+    Andorian
+    Arakon
+    Arcadian
+    Argaya
+    Argos
+    Atalia
+    Avery
+    Bajoran
+    Barradas
+    Benthan
+    Benzite
+    Berengarius
+    Bersallis
+    "Beta Agni"
+    "Beta Aurigae"
+    "Beta Cygni"
+    "Beta Epsilon"
+    "Beta Geminorum"
+    "Beta Lyrae"
+    "Beta Magellan"
+    "Beta Mahoga"
+    "Beta Penthe"
+    "Beta Portolan"
+    "Beta Renna"
+    "Beta Renner"
+    "Beta Stromgren"
+    Bilaren
+    Bopak
+    Boradis
+    Braslota
+    Breen
+    Bringloid
+    Calder
+    Calindra
+    Callinon
+    Cambra
+    Camor
+    Cardassian
+    Carraya
+    Cerberus
+    "Ceti Alpha"
+    "Chin'toka"
+    Clarius
+    Clarus
+    Cleon
+    Clevari
+    Comelian
+    Cordannas
+    Coridan
+    Cruces
+    Cuellar
+    Daria
+    "D'Arsay"
+    Delos
+    "Delphi Ardu"
+    "Delta Rana"
+    "Denobula Triaxa"
+    Detrian
+    Devidia
+    Devolin
+    Devron
+    Diomedian
+    Dopa
+    Dorala
+    Dozaria
+    Draken
+    Dramen
+    Dreon
+    Echevarria
+    "El-Adrel"
+    "El-Aurian"
+    Endicor
+    "Epsilon Mynos"
+    "Epsilon Nel"
+    "Epsilon Silar"
+    Fabrina
+    Fima
+    Fowla
+    Gamelan
+    Gamma
+    "Gamma Argus"
+    "Gamma Arigulon"
+    Garadius
+    Garo
+    Garth
+    Gavara
+    Gema
+    Goralis
+    Goren
+    Grenna
+    Groombridge
+    Guernica
+    Gyrannan
+    Halee
+    Hanoli
+    Hanon
+    Hatarian
+    Hayashi
+    Hemikek
+    Idran
+    Ilecom
+    Ilidaria
+    Indri
+    Irtok
+    Kabrel
+    Kalandra
+    Kalla
+    Karemma
+    Kataan
+    Kazis
+    Keloda
+    Kelrabi
+    Kelvas
+    Kendi
+    Kendren
+    "Ker-telos"
+    Khitomer
+    Kohlan
+    Kolarin
+    Koralis
+    Korat
+    Kotanka
+    Kriosian
+    Kurlan
+    Kylata
+    Lapolis
+    Laurentian
+    Legaran
+    Ligos
+    "Lima Sierra"
+    Loracus
+    Loren
+    Loval
+    Lyshan
+    Lysian
+    Malurian
+    "Maxia Zeta"
+    Mempa
+    Mericor
+    Minarian
+    "Minos Korva"
+    "Mira Antlia"
+    Moab
+    Modean
+    Moriya
+    Moselina
+    Mutara
+    Natori
+    "Nel Bato"
+    Nelvana
+    "Nequencia Alpha"
+    Nyrian
+    Oby
+    Ohniaka
+    Olmerak
+    Omega
+    "Omega Sagitta"
+    Omicron
+    "Omicron Theta"
+    Opperline
+    Orellius
+    Orias
+    Ovion
+    Parada
+    "Pegos Minor"
+    Peliar
+    Pelosa
+    Pendari
+    Pentarus
+    Pentath
+    Pernaia
+    Pheben
+    Phelan
+    Praxillus
+
     ### FICTIONAL - Star Wars ###
     Ahakista
     Alderaan
