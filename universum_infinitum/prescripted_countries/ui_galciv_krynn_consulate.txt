@@ -36,11 +36,11 @@ ui_galciv_krynn_consulate = {
         }
         background= {
             category = "backgrounds"
-            file = "00_solid.dds"
+            file="circle.dds"
         }
         colors={
-            "purple"
-            "null"
+            "orange"
+            "dark_blue"
             "null"
             "null"
         }
