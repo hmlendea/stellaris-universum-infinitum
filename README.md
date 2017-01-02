@@ -5,14 +5,14 @@ Universum Infinitum is a mod for Stellaris that plans to add much more variety i
 # Features
 
  - 12 new Flags
+ - 10 new Random Species
  - 8 new Techonolgies
- - 5 new Random Species
  - 4 new Strategic Resources
  - 4 new Planetary Modifiers
  - 3 new Tile Blockers
  - 3 new System Initialisers
+ - 3 new Name Lists
  - 2 new Prescripted Countries
- - 2 new Name Lists
  - 2 new Galaxy Sizes
  - 1 new Anomaly
  - Countless new names for Stars, Black Holes, Asteroids and Nebulae

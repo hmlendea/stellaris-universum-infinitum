@@ -1,5 +1,7 @@
 ﻿l_english:
  name_list_UISCTERRAN1:0 "Terran Koprulu"
- name_list_UISCTERRAN1_desc:0 "§YLeaders:§! Arcturus Mengsk, Jim Raynor\n§YShips:§! Hyperion, Bucephalus\n§YFleets:§! Alpha Squadron, Omega Squadron\n§YColonies:§! Tarsonis, Korhal"
+ name_list_UISCTERRAN1_desc:0 "§YLeaders:§! Arcturus Mengsk, Sarah Kerrigan\n§YShips:§! Hyperion, Bucephalus\n§YFleets:§! Alpha Squadron, Omega Squadron\n§YColonies:§! Tarsonis, Korhal"
  name_list_ui_extra_mam1:0 "Mammalian Extra 1"
  name_list_ui_extra_mam1_desc:0 "§YLeaders:§! Coconufage Dacifag, Satemicga Rutihufag\n§YShips:§! Lipehecunasjal, Pafjal\n§YFleets:§! 1st Fleet, 2nd Fleet\n§YColonies:§! Tithe, Lecofathe"
+ name_list_ui_extra_mam2:0 "Mammalian Extra 2"
+ name_list_ui_extra_mam2_desc:0 "§YLeaders:§! Guzfumu Zlom, Uypur Ruuluyr\n§YShips:§! Zufudokwukru, Roxuklozukru\n§YFleets:§! 1st Fleet, 2nd Fleet\n§YColonies:§! Pomukt, Judomoko"

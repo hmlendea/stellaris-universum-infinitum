@@ -1,38 +1,76 @@
 MAM = {
-	pihisen = {
-		name = Pihisen
-		plural = Pihisi
-		home_planet = Pihithe
-		home_system = Pihor
-		name_list = "ui_extra_mam1"
-	}
-	lerinid = {
-		name = Lerinid
-		plural = Lerinids
-		home_planet = Lerinithe
-		home_system = Lerinor
-		name_list = "ui_extra_mam1"
-	}
-	nasibul = {
-		name = Nasibul
-		plural = Nasibuls
-		home_planet = Nasibuthe
-		home_system = Nasibor
-		name_list = "ui_extra_mam1"
-	}
-	vacimupan = {
-		name = Vacimupan
-		plural = Vacimupans
-		home_planet = Vacimuthe
-		home_system = Vacimor
-		name_list = "ui_extra_mam1"
-	}
-	cugovug = {
-		name = Cugovug
-		plural = Cugovugs
-		home_planet = Cugovuthe
-		home_system = Cugor
-		name_list = "ui_extra_mam1"
-	}
+    # Extra Mammalians 1
+    pihisen = {
+        name = Pihisen
+        plural = Pihisi
+        home_planet = Pihithe
+        home_system = Pihor
+        name_list = "ui_extra_mam1"
+    }
+    lerinid = {
+        name = Lerinid
+        plural = Lerinids
+        home_planet = Lerinithe
+        home_system = Lerinor
+        name_list = "ui_extra_mam1"
+    }
+    nasibul = {
+        name = Nasibul
+        plural = Nasibuls
+        home_planet = Nasibuthe
+        home_system = Nasibor
+        name_list = "ui_extra_mam1"
+    }
+    vacimupan = {
+        name = Vacimupan
+        plural = Vacimupans
+        home_planet = Vacimuthe
+        home_system = Vacimor
+        name_list = "ui_extra_mam1"
+    }
+    cugovug = {
+        name = Cugovug
+        plural = Cugovugs
+        home_planet = Cugovuthe
+        home_system = Cugor
+        name_list = "ui_extra_mam1"
+    }
+
+    # Extra Mammalians 2
+    uguvu = {
+        name = Uguvu
+        plural = Uguvs
+        home_planet = Uguvko
+        home_system = Ugu
+        name_list = "ui_extra_mam2"
+    }
+    globu = {
+        name = Globu
+        plural = Globs
+        home_planet = Globko
+        home_system = Globu
+        name_list = "ui_extra_mam2"
+    }
+    ulog = {
+        name = Ulog
+        plural = Ulogs
+        home_planet = Ulogko
+        home_system = "Ulu Ogu"
+        name_list = "ui_extra_mam2"
+    }
+    uptor = {
+        name = Uptor
+        plural = Uptors
+        home_planet = Uptorko
+        home_system = Uptoru
+        name_list = "ui_extra_mam2"
+    }
+    ustrig = {
+        name = Ustrig
+        plural = Ustrigs
+        home_planet = Ustrigko
+        home_system = Ustru
+        name_list = "ui_extra_mam2"
+    }
 }
 

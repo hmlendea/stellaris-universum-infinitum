@@ -1,0 +1,140 @@
+﻿### Universum Infinitum
+### Extras
+### Mammalian 2
+
+ui_extra_mam2 = {
+    ship_names = {
+        generic = {
+            Tuxoyuzogdukru Dujopuyodhokdu Duduwujruwokdu Zutumuopokru Woyupuroyuktu Ozupokuyokmu Kufuluxokdu Hohufohulukfu Okulumukmu Kufuyukgu Humuthuxokfu
+            Pumuglogukpu Yumugudukfu Muzduyozuklu Xoohlotfofukyu Wuzoyzuwyoktu Puwopyukpu Ukudowokzu Zutuloxufokru Pumogluyukpu Woykuquktu Zuzkudukru
+            Okwuruzukmu Lurojuxuykoklu Ozupofukmu Hujujukfu Yhozupokyu Zomtokujokru Puxoyogukpu Roluzufokru Urkuwromokzu Wulkowuytukzu Zdomgopukru
+            Hmuwukfu Zufudokwukru Kozporokgu Huydumokfu Ufoqudlokzu Ykofokyukyu Hogotukfu Okzumopukmu Roxuklozukru Ujokruygokzu Ygoyopokyu Ukwozukzu
+        }
+
+        corvette = { }
+        destroyer = { }
+        cruiser = { }
+        battleship = { }
+        science = { }
+        colonizer = { }
+        constructor = { }
+
+        mining_station = { }
+        research_station = { }
+        wormhole_station = { }
+        #terraform_station = { }
+        observation_station = { }
+        outpost_station = { }
+
+        military_station_small = { }
+        military_station_medium = { }
+        military_station_large = { }
+    }
+
+    fleet_names = {
+        sequential_name = "%O% Fleet"
+    }
+
+    army_names = {
+        defense_army = {
+            sequential_name = "%O% Defence Force"
+        }
+
+        assault_army = {
+            sequential_name = "%O% Mobile Troops"
+        }
+
+        slave_army = {
+            sequential_name = "%O% Conscripts"
+        }
+
+        clone_army = {
+            sequential_name = "%O% Clone Troops"
+        }
+
+        robotic_army = {
+            sequential_name = "%O% Droid Legion"
+        }
+
+        android_army = {
+            sequential_name = "%O% Synth Troops"
+        }
+
+        psionic_army = {
+            sequential_name = "%O% Psionic Troops"
+        }
+
+        xenomorph_army = {
+            sequential_name = "%O% Xenomorph Brood"
+        }
+
+        gene_warrior_army = {
+            sequential_name = "%O% Augmented Troops"
+        }
+    }
+
+    planet_names = {
+        generic = {
+            names = {
+                Koxko Khoufogyudko Fopko Pomukt Wrorku Guzko Ohjumku Dyukh Ymolko Zuzku Kogko Yumku Ulroodku Wuduku Omfuxozku Mykumko Yguku Mowko
+                Lduko Muyuko Lorko Pumuzku Yuyko Huukh Kyokh Dumko Kwuko Yxumko Mujuwko Yfuku Uroku Uxumku Qylokt Huduxuzkokh Khokh Kuguyuko
+                Dupkokh Lufodko Muzuzfoko Dlokh Mujoyko Zudouwruku Qodukuwukt Judowyoyko Zukogumukt Koxowugukh Ozouyohku Zorofumugokt Tyukudookt Loumuulko
+                Ropluztukt Xuyorodku Fookogkukh Okfolkokt Wtudoluku Dudxotzomko Hudrokh Wukutoku Yogzoku Lumoduwko Muroyloko Zuwkokt Zuroulku Wudoowku
+                Dufuzfokh Yuwomku Gudorukh Yuzufumukoku Towukokt Judomoko
+            }
+        }
+
+        pc_desert = { names = { } }
+        pc_tropical = { names = { } }
+        pc_arid = { names = { } }
+        pc_continental = { names = { } }
+        pc_ocean = { names = { } }
+        pc_tundra = { names = { } }
+        pc_arctic = { names = { } }
+    }
+
+    character_names = {
+        default = {
+            first_names = {
+                Rutlou Wpu Zku Puu Hkuzdu Lwu Zyu Pru Mufyu Fyu Tju Xfu Mou Kyu Htou Dyutju Htukohu Jouku Yoxxou Fqohu Ylopku Rukdu Hufuxu Pumou Kyuhju Fdodu
+                Ywolxu Mloku Kuyzu Wumdu
+            }
+
+            first_names_male = {
+                Guzfumu Oklutu Mukoyhutu Houmu Wyuku Lukutu Zutuku Foyumu Odrutu Dokumu Pudutu Flumu Twuku Jgumu Puxuyfutu Okutu Youmu Howumu Zduku Muhutu
+                Yjumu Quxutu Gujumu Rugumutu Dlumu Qutu Kuzutu Yukumu Myutu Gmutu Fmumu Gukumu Kfutu Ypuku Oyutu Xozuku Kdutu Ymuku Owutu Dhumu Zruku
+                Ydumu Gdoudumu Yxuku Zuyjuku Tzuku Xuku Mufutu Dpumu Gukuqumu Yodjuku Wruku Dmoumu Xogwuuku Hdumu Wouku Luxutu Zujuku
+            }
+
+            first_names_female = {
+                Gluf Ozup Zudur Rugwup Owup Dyuf Zrur Ykuf Zpur Zhofuf Wkur Mtup Dfuf Qomup Wdur Oyuzup Zuur Yrur Fmuf Jhuf Oyohlup Ztur Jfuf Myup Kjuf
+                Wokur Wlur Dguf Ozgup Gyuf Rufyup Ymur Dyuf Pujurup Ykur Dfuf Zpur Wkur Zmur Ywuf Yrour Mfup Gjuf Yofur Oxpup Pwup Kzup Ylur Owup Mukup
+                Dguwuf Ozup Dkuf
+            }
+
+            second_names = {
+                Mooy Mgom Zoyl Oyowo Wojmo Toom Olord Gofm Tyok Dohxo Tlogd Kohm Ylor Ywooq Yholg Hfol Kojh Ftox Jolt Hooho Ozwol Zlom Hyofd Molh Moot
+                Hloyqo Kgoj Xoyg Myopf Qomh Lgotj Wohq Opjok Mlox Jowp Pgohj Zokr Owotp Johqog Ohoqf Twoj Qoxf Thof Domf Tqozr
+            }
+
+            regnal_first_names = {
+                Udku Uwhuu Umou Ukowu Uwdu Ummu Udwu Uqhu Ugmu Ukyu Uyzu Utuu Uypu Uzuu Uqupu Utyu Uxtu Umfu Ukou Uyromzu Udodu Umdu Ukmu Ughou Urzu Uhdu
+                Uwou Ulxu Uzju Udgufyu Uddumdu Uqlu Uyzu Udwuu Ukuxyu Uyxu Udzu Uzku Udrou Umfu Udpu Uzyu Uyku Ufmoyu Uyoyfu
+            }
+
+            regnal_first_names_male = {
+                Uzouku Uyudku Uwuku Ulruku Upuku Uypuku Uzupuku Uruzutu Uwpozuku Uzruku Uykumu Uykozmuku Uzouku Uwkumu Udfumu Uqoutu Upokutu Ufyorumu Uddumu Uqlutu
+            }
+
+            regnal_first_names_female = {
+                Ukyur Uwur Uzur Ukyur Uthogur Uwrur Uqur Uzulur Udzuf Ugmuf Udpokwuf Ugkuf Ukfup Uypur Upyup Ukdup Uymur Udhuf Uzrur Udduf Uzour Uyxuf
+            }
+
+            regnal_second_names = {
+                Ruuluyr Ruwuul Wuufup Huuhuqul Luur Xoyfumd Jufuujd Owuujud Wouxuuf Jyuyw Dyuzdux Hpuul Uxkut Utupom Fmujug Wpumuw Gutumuw Ufquh Motpuq Qufpum
+                Xuujogh Dmuruo Yurorl Puud Umhur Tuupukz Luufj Huyrul Updowh Yruujtuo
+            }
+        }
+    }
+}
+
