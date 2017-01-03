@@ -12,6 +12,10 @@ black_hole_names = {
     "Medusa's Eye"
     "Teleorman Black Hole"
     "Zamolxis Black Hole"
+
+    ### FICTIONAL - Doctor Who ###
+    "Black Hole of Tartarus"
+    "Magellan Black Hole"
 }
 
 asteroid_prefix = {
@@ -41,6 +45,7 @@ star_names = {
     Rasalmothalla
     "Tau Bootis"
     "Upsilon Andromedae"
+    Magellan
 
     ### FICTIONAL - Go wild ###
     Sombrero
@@ -85,11 +90,16 @@ star_names = {
     Argonia
     Arkay
     Atmora
+    "Auri-El"
     Azura
     Boetiah
     Cyrodiil
+    Daedra
     Dagon
+    Dovah
+    Dovahkiin
     Dibella
+    Dremora
     Elsweyr
     Hermaeus
     Hircine
@@ -98,6 +108,7 @@ star_names = {
     Kynareth
     Malacath
     Mara
+    Magnus
     Mehrunes
     Mephala
     Mereth
@@ -117,6 +128,7 @@ star_names = {
     Tamriel
     Vaermina
     Vivec
+    Ysmir
     Zenithar
 
     ### FICTIONAL - Inspired from Game of Thrones ###
