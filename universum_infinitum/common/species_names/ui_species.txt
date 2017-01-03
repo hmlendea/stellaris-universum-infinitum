@@ -1,5 +1,7 @@
 MAM = {
-    # Extra Mammalians 1
+    ### Extra Mammalians 1 ###
+
+    # 1 - Pihisen
     pihisen = {
         name = Pihisen
         plural = Pihisi
@@ -7,6 +9,8 @@ MAM = {
         home_system = Pihor
         name_list = "ui_extra_mam1"
     }
+
+    # 2 - Lerinid
     lerinid = {
         name = Lerinid
         plural = Lerinids
@@ -14,6 +18,8 @@ MAM = {
         home_system = Lerinor
         name_list = "ui_extra_mam1"
     }
+
+    # 3 - Nasibul
     nasibul = {
         name = Nasibul
         plural = Nasibuls
@@ -21,6 +27,8 @@ MAM = {
         home_system = Nasibor
         name_list = "ui_extra_mam1"
     }
+
+    # 4 - Vacimupan
     vacimupan = {
         name = Vacimupan
         plural = Vacimupans
@@ -28,6 +36,8 @@ MAM = {
         home_system = Vacimor
         name_list = "ui_extra_mam1"
     }
+
+    # 5 - Cugovug
     cugovug = {
         name = Cugovug
         plural = Cugovugs
@@ -36,7 +46,100 @@ MAM = {
         name_list = "ui_extra_mam1"
     }
 
-    # Extra Mammalians 2
+    # 6 - Estrothi
+    estrothi = {
+        name = Estrothi
+        plural = Estrothi
+        home_planet = Estrothe
+        home_system = Estro
+        name_list = "ui_extra_mam1"
+    }
+
+    # 7 - Riften
+    riften = {
+        name = Riften
+        plural = Riftens
+        home_planet = Rifthe
+        home_system = Rift
+        name_list = "ui_extra_mam1"
+    }
+
+    # 8 - Zalbor
+    estrothi = {
+        name = Zalbor
+        plural = Zalbors
+        home_planet = Zalthe
+        home_system = Zal
+        name_list = "ui_extra_mam1"
+    }
+
+    # 9 - Ciumeg
+    estrothi = {
+        name = Ciumeg
+        plural = Ciumegs
+        home_planet = Ciuthe
+        home_system = Cium
+        name_list = "ui_extra_mam1"
+    }
+
+    # 10 - Trok
+    estrothi = {
+        name = Trok
+        plural = Troks
+        home_planet = Trothe
+        home_system = Trok
+        name_list = "ui_extra_mam1"
+    }
+
+    # 11 - Stuvihn
+    estrothi = {
+        name = Stuvihn
+        plural = Stuvihns
+        home_planet = Stuvithe
+        home_system = Stuv
+        name_list = "ui_extra_mam1"
+    }
+
+    # 12 - Kvastor
+    estrothi = {
+        name = Kvastor
+        plural = Kvastors
+        home_planet = Kvathe
+        home_system = Kvastor
+        name_list = "ui_extra_mam1"
+    }
+
+    # 13 - Belenud
+    estrothi = {
+        name = Belenud
+        plural = Belenuds
+        home_planet = Belenuthe
+        home_system = Belen
+        name_list = "ui_extra_mam1"
+    }
+
+    # 14 - Crostor
+    estrothi = {
+        name = Crostor
+        plural = Crostors
+        home_planet = Crosthe
+        home_system = Crostor
+        name_list = "ui_extra_mam1"
+    }
+
+    # 15 - Stahlen
+    estrothi = {
+        name = Stahlen
+        plural = Stahlens
+        home_planet = Stahlthe
+        home_system = Stahl
+        name_list = "ui_extra_mam1"
+    }
+
+    ### Extra Mammalians 2 ###
+
+
+    # 1 - Uguvu
     uguvu = {
         name = Uguvu
         plural = Uguvs
@@ -44,6 +147,8 @@ MAM = {
         home_system = Ugu
         name_list = "ui_extra_mam2"
     }
+
+    # 2 - Globu
     globu = {
         name = Globu
         plural = Globs
@@ -51,6 +156,8 @@ MAM = {
         home_system = Globu
         name_list = "ui_extra_mam2"
     }
+
+    # 3 - Ulog
     ulog = {
         name = Ulog
         plural = Ulogs
@@ -58,6 +165,8 @@ MAM = {
         home_system = "Ulu Ogu"
         name_list = "ui_extra_mam2"
     }
+
+    # 4 - Uptor
     uptor = {
         name = Uptor
         plural = Uptors
@@ -65,11 +174,112 @@ MAM = {
         home_system = Uptoru
         name_list = "ui_extra_mam2"
     }
+
+    # 5 - Ustrig
     ustrig = {
         name = Ustrig
         plural = Ustrigs
-        home_planet = Ustrigko
+        home_planet = Ustriku
         home_system = Ustru
+        name_list = "ui_extra_mam2"
+    }
+
+    # 6 - Plasig
+    ustrig = {
+        name = Plasig
+        plural = Plasigs
+        home_planet = Plasiku
+        home_system = Plasu
+        name_list = "ui_extra_mam2"
+    }
+
+    # 6 - Belmenig
+    ustrig = {
+        name = Belmenig
+        plural = Belmens
+        home_planet = Belmikh
+        home_system = Belmu
+        name_list = "ui_extra_mam2"
+    }
+
+    # 7 - Igruvian
+    ustrig = {
+        name = Igruvian
+        plural = Igruvians
+        home_planet = Igroviko
+        home_system = Igrovu
+        name_list = "ui_extra_mam2"
+    }
+
+    # 8 - Umigrot
+    ustrig = {
+        name = Umigrot
+        plural = Umigrots
+        home_planet = Umigrokt
+        home_system = Umigru
+        name_list = "ui_extra_mam2"
+    }
+
+    # 9 - Strugu
+    ustrig = {
+        name = Strugu
+        plural = Strugs
+        home_planet = Strukh
+        home_system = Stru
+        name_list = "ui_extra_mam2"
+    }
+
+    # 10 - Muntu
+    ustrig = {
+        name = Muntu
+        plural = Munts
+        home_planet = Munko
+        home_system = Muntu
+        name_list = "ui_extra_mam2"
+    }
+
+    # 11 - Tugval
+    ustrig = {
+        name = Tugval
+        plural = Tugvals
+        home_planet = Tugvakh
+        home_system = Tugu
+        name_list = "ui_extra_mam2"
+    }
+
+    # 12 - Urulu
+    ustrig = {
+        name = Urulu
+        plural = Urulus
+        home_planet = Urulko
+        home_system = Uru
+        name_list = "ui_extra_mam2"
+    }
+
+    # 13 - Trigun
+    ustrig = {
+        name = Trigun
+        plural = Trigs
+        home_planet = Trikh
+        home_system = Trigu
+        name_list = "ui_extra_mam2"
+    }
+
+    # 14 - Zuur
+    ustrig = {
+        name = Zuur
+        plural = Zuuri
+        home_planet = Zuruku
+        home_system = Zur
+        name_list = "ui_extra_mam2"
+    }
+
+    # 15 - Yufhud
+    ustrig = {
+        name = Yufhud
+        plural = Yufhuds
+        home_planet = Yufko
+        home_system = Yufu
         name_list = "ui_extra_mam2"
     }
 }
