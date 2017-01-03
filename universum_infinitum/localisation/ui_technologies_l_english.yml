@@ -21,5 +21,7 @@
  tech_mine_ui_talpa:0 "Talpa Mining"
  tech_mine_ui_talpa_desc:1 "This ore can be refined into a metal that can be chemically reprogrammed to be very malleable, at any given time.\n\n"
  tech_mine_ui_munitus:0 "Munitus Dust Refining"
- tech_mine_ui_munitus_desc:1 "This dust is a naturally occurring construction material on some worlds. It can be mixed with conventional materials in order to produce a very robust super-concrete.\n\n"
+ tech_mine_ui_munitus_desc:1 "This dust is a naturally occurring construction material found on some worlds. It can be mixed with conventional materials in order to produce a very robust super-concrete.\n\n"
+ tech_mine_ui_balus:0 "Balus Dust Refining"
+ tech_mine_ui_balus_desc:1 "This fine dust is a naturally ocurring stimulant found on some worlds. It has a fortifying effect on most organisms when their adrenaline levels are high, ehancing their strength and endurance.\n\n"
 

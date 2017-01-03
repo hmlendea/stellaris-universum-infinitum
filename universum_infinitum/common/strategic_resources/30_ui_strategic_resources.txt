@@ -77,3 +77,17 @@ sr_ui_munitus = {
     }
 }
 
+# Balus Dust
+sr_ui_balus = {
+    AI_category = strategic_resource
+    prerequisites = { "tech_mine_ui_balus" }
+    tradable = yes
+    is_rare = yes
+    is_global = yes
+
+    modifier = {
+		army_health = 0.10
+		army_damage_mult = 0.05
+    }
+}
+

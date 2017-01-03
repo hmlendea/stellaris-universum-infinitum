@@ -11,4 +11,6 @@
  sr_ui_talpa_desc:1 "This ore can be refined into a metal that can be chemically reprogrammed to be very malleable, at any given time."
  sr_ui_munitus:0 "Munitus Dust"
  sr_ui_munitus_desc:1 "This dust can be mixed with construction materials in order to produce very robust buildings."
+ sr_ui_balus:0 "Balus Dust"
+ sr_ui_balus_desc:1 "This dust can be fed to soldiers to enhance their strength and endurance during combat."
 

@@ -169,7 +169,7 @@ d_talpa_deposit = {
     drop_weight = {
         weight = 0
         modifier = {
-            weight = 2
+            weight = 1
             planet = {
                 AND = {
                     is_asteroid = yes
@@ -199,10 +199,45 @@ d_munitus_deposit = {
     drop_weight = {
         weight = 0
         modifier = {
-            weight = 2
+            weight = 1
             planet = {
                 AND = {
                     is_asteroid = yes
+                    has_strategic_resource = no
+                }
+            }
+        }
+        modifier = {
+            factor = 2
+            planet = {
+                is_inside_nebula = yes
+            }
+        }
+    }
+}
+
+d_balus_deposit = {
+    resources = {
+		society_research = 2
+        sr_ui_balus = 1
+    }
+    station = shipclass_mining_station
+    orbital_weight = {
+        weight = @clusterOrbitalWeight
+    }
+
+    drop_weight = {
+        weight = 0
+        modifier = {
+            weight = 1
+            planet = {
+                AND = {
+                    planet = {
+                        OR = {
+                            is_planet_class = pc_toxic
+                            is_planet_class = pc_gas_giant
+                        }
+                    }
                     has_strategic_resource = no
                 }
             }
