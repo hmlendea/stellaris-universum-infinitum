@@ -1,9 +1,9 @@
 @clusterOrbitalWeight = 20
 
-d_ui_laevis_liquids_deposit = {
+d_ui_laevis_deposit = {
     resources = {
         engineering_research = 5
-        sr_ui_laevis_liquids = 1
+        sr_ui_laevis = 1
     }
     station = shipclass_mining_station
     orbital_weight = {
@@ -36,10 +36,10 @@ d_ui_laevis_liquids_deposit = {
     }
 }
 
-d_ui_gaudium_crystals_deposit = {
+d_ui_gaudium_deposit = {
     resources = {
         energy = 4
-        sr_ui_gaudium_crystals = 1
+        sr_ui_gaudium = 1
     }
     station = shipclass_mining_station
     orbital_weight = {
@@ -85,7 +85,7 @@ d_ui_gaudium_crystals_deposit = {
 d_otium_deposit = {
     resources = {
         minerals = 3
-        sr_ui_otium_ore = 1
+        sr_ui_otium = 1
     }
     station = shipclass_mining_station
     orbital_weight = {
@@ -95,7 +95,7 @@ d_otium_deposit = {
     drop_weight = {
         weight = 0
         modifier = {
-            weight = 5
+            weight = 1
             planet = {
                 AND = {
                     is_asteroid = yes
@@ -109,19 +109,13 @@ d_otium_deposit = {
                 is_inside_nebula = yes
             }
         }
-        modifier = {
-            factor = 0
-            planet = {
-                NOT = { is_in_cluster = resource_cluster_0 }
-            }
-        }
     }
 }
 
-d_ui_roboro_crystals_deposit = {
+d_ui_roboro_deposit = {
     resources = {
         energy = 4
-        sr_ui_roboro_crystals = 1
+        sr_ui_roboro = 1
     }
     station = shipclass_mining_station
     orbital_weight = {
@@ -165,7 +159,7 @@ d_ui_roboro_crystals_deposit = {
 d_talpa_deposit = {
     resources = {
 		engineering_research = 2
-        sr_ui_talpa_ore = 1
+        sr_ui_talpa = 1
     }
     station = shipclass_mining_station
     orbital_weight = {
@@ -175,7 +169,7 @@ d_talpa_deposit = {
     drop_weight = {
         weight = 0
         modifier = {
-            weight = 5
+            weight = 2
             planet = {
                 AND = {
                     is_asteroid = yes
@@ -187,12 +181,6 @@ d_talpa_deposit = {
             factor = 2
             planet = {
                 is_inside_nebula = yes
-            }
-        }
-        modifier = {
-            factor = 0
-            planet = {
-                NOT = { is_in_cluster = resource_cluster_2 }
             }
         }
     }
@@ -211,7 +199,7 @@ d_munitus_deposit = {
     drop_weight = {
         weight = 0
         modifier = {
-            weight = 5
+            weight = 2
             planet = {
                 AND = {
                     is_asteroid = yes
@@ -223,12 +211,6 @@ d_munitus_deposit = {
             factor = 2
             planet = {
                 is_inside_nebula = yes
-            }
-        }
-        modifier = {
-            factor = 0
-            planet = {
-                NOT = { is_in_cluster = resource_cluster_1 }
             }
         }
     }

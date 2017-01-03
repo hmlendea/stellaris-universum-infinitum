@@ -1,5 +1,5 @@
 # Laevis Liquids
-sr_ui_laevis_liquids = {
+sr_ui_laevis = {
     AI_category = strategic_resource
     prerequisites = { "tech_mine_ui_laevis_liquids" }
     tradable = yes
@@ -12,7 +12,7 @@ sr_ui_laevis_liquids = {
 }
 
 # Gaudium Crystals
-sr_ui_gaudium_crystals = {
+sr_ui_gaudium = {
     AI_category = strategic_resource
     prerequisites = { "tech_mine_ui_gaudium" }
     tradable = yes
@@ -25,7 +25,7 @@ sr_ui_gaudium_crystals = {
 }
 
 # Otium Ore
-sr_ui_otium_ore = {
+sr_ui_otium = {
     AI_category = strategic_resource
     prerequisites = { "tech_mine_ui_otium" }
     tradable = yes
@@ -33,12 +33,12 @@ sr_ui_otium_ore = {
     is_global = yes
 
     modifier = {
-        ship_upkeep_mult = -0.10
+        ship_upkeep_mult = -0.5
     }
 }
 
 # Roboro Crystals
-sr_ui_roboro_crystals = {
+sr_ui_roboro = {
     AI_category = strategic_resource
     prerequisites = { "tech_mine_ui_roboro" }
     tradable = yes
@@ -51,7 +51,7 @@ sr_ui_roboro_crystals = {
 }
 
 # Talpa Ore
-sr_ui_talpa_ore = {
+sr_ui_talpa = {
     AI_category = strategic_resource
     prerequisites = { "tech_mine_ui_talpa" }
     tradable = yes
@@ -59,8 +59,8 @@ sr_ui_talpa_ore = {
     is_global = yes
 
     modifier = {
-		ship_reparation_speed_mult = 0.05
-		country_ship_upgrade_cost_mult = -0.05
+		ship_reparation_speed_mult = 0.10
+		country_ship_upgrade_cost_mult = -0.5
     }
 }
 
