@@ -16,8 +16,8 @@ Universum Infinitum is a mod for Stellaris that plans to add much more variety i
 ## Aesthetics & Diversity
 
  - 30 new Random Species
+ - 20 new Flag Backgrounds
  - 18 new Flag Symbols
- - 18 new Flag Backgrounds
  - 3 new Name Lists
  - 3 new System Initialisers
  - 2 new Prescripted Countries
