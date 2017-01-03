@@ -20,4 +20,6 @@
  tech_ui_barren_terraforming_desc:1 "Allows us to create a whole new, livable world, out of a lifeless space rock.\n\n"
  tech_mine_ui_talpa:0 "Talpa Mining"
  tech_mine_ui_talpa_desc:1 "This ore can be refined into a metal that can be chemically reprogrammed to be very malleable, at any given time.\n\n"
+ tech_mine_ui_munitus:0 "Munitus Dust Refining"
+ tech_mine_ui_munitus_desc:1 "This dust is a naturally occurring construction material on some worlds. It can be mixed with conventional materials in order to produce a very robust super-concrete.\n\n"
 

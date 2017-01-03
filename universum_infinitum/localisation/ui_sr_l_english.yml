@@ -9,4 +9,6 @@
  sr_ui_roboro_crystals_desc:1 "These rare crystals behave very strangely around electricity, boosting it at the cost of heat."
  sr_ui_talpa_ore:0 "Talpa Ore"
  sr_ui_talpa_ore_desc:1 "This ore can be refined into a metal that can be chemically reprogrammed to be very malleable, at any given time."
+ sr_ui_munitus:0 "Munitus Dust"
+ sr_ui_munitus_desc:1 "This dust can be mixed with construction materials in order to produce very robust buildings."
 

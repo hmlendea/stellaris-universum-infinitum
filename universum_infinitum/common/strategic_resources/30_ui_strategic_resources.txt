@@ -64,3 +64,16 @@ sr_ui_talpa_ore = {
     }
 }
 
+# Munitus Dust
+sr_ui_munitus = {
+    AI_category = strategic_resource
+    prerequisites = { "tech_mine_ui_munitus" }
+    tradable = yes
+    is_rare = yes
+    is_global = yes
+
+    modifier = {
+        planet_fortification_strength = 0.15
+    }
+}
+
