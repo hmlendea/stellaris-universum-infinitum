@@ -17,7 +17,7 @@ ui_sea_monsters = {
 }
 
 ui_twilight = {
-	pop_environment_tolerance = -0.15
+    pop_environment_tolerance = -0.15
     pop_happiness = -0.05
 
     icon = "gfx/interface/icons/planet_modifiers/pm_ui_twilight.dds"
@@ -25,10 +25,18 @@ ui_twilight = {
 }
 
 ui_extreme_temperatures = {
-	pop_environment_tolerance = -0.10
+    pop_environment_tolerance = -0.10
     pop_happiness = -0.05
 
     icon = "gfx/interface/icons/planet_modifiers/pm_ui_extreme_temperatures.dds"
+    icon_frame = 3
+}
+
+ui_no_magnetic_field = {
+    pop_environment_tolerance = -0.10
+    pop_growth_req_mult = -0.10
+
+    icon = "gfx/interface/icons/planet_modifiers/pm_ui_no_magnetic_field.dds"
     icon_frame = 3
 }
 

@@ -128,3 +128,30 @@ pm_ui_extreme_temperatures = {
     modifier = "ui_extreme_temperatures"
 }
 
+pm_ui_no_magnetic_field = {
+    spawn_chance = {
+        modifier = {
+            add = 20
+            is_planet_class = "pc_barren"
+        }
+        modifier = {
+            add = 20
+            is_planet_class = "pc_barren_cold"
+        }
+        modifier = {
+            factor = 2
+            has_planet_modifier = "pm_low_gravity"
+        }
+        modifier = {
+            factor = 0
+            has_planet_modifier = "pm_weak_magnetic_field"
+        }
+        modifier = {
+            factor = 0
+            has_planet_modifier = "pm_strong_magnetic_field"
+        }
+    }
+
+    modifier = "ui_no_magnetic_field"
+}
+
