@@ -1,0 +1,60 @@
+ui_eldrescrolls_argonia = {
+    name = "Sovereign Argonian Confederation"
+    spawn_enabled = yes
+    ignore_portrait_duplication = yes
+
+    name_list = "ui_elderscrolls_argonian"
+    ship_prefix = "ACS"
+
+    species_name = "Argonian"
+    species_plural = "Argonians"
+    species_adjective = "Argonian"
+    species_class = "REP"
+    trait="trait_agrarian"
+    trait="trait_solitary"
+    trait="trait_sedentary"
+    trait="trait_resilient"
+    trait="trait_strong"
+    portrait = "rep13"
+    adjective = "Argonian"
+
+    government = "theocratic_oligarchy"
+    ethic="ethic_collectivist"
+    ethic="ethic_xenophobe"
+    ethic="ethic_spiritualist"
+
+    weapon = "tech_lasers_1"
+    ftl = wormhole
+
+    planet_name = "Helstrom"
+    planet_class = "pc_tropical"
+    system_name = "Argonia"
+
+    graphical_culture="reptilian_01"
+    city_graphical_culture="reptilian_01"
+
+    empire_flag={
+        icon={
+            category="pointy"
+            file="flag_pointy_4.dds"
+        }
+        background={
+            category="backgrounds"
+            file="ui_v_flipped.dds"
+        }
+        colors={
+            "green"
+            "dark_green"
+            "null"
+            "null"
+        }
+    }
+    ruler = {
+        name = "Beem-Ja Naga"
+        gender=male
+        portrait="rep13"
+        texture=5
+        hair=0
+        clothes=4
+    }
+}

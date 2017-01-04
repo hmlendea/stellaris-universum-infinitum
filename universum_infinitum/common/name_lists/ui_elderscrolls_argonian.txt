@@ -1,0 +1,191 @@
+﻿### Universum Infinitum
+### Extras
+### Reptilian 1
+
+ui_elderscrolls_argonian = {
+    ship_names = {
+        generic = {
+            Argonia "Black Marsh" Agaceph Archein Sarpa Naga Paatru Archon Blackrose Gideon Helstrom Lilmoth Soulrest Stormhold Thorn
+        }
+
+        corvette = {
+        }
+
+        destroyer = {
+        }
+
+        cruiser = {
+        }
+
+        battleship = {
+        }
+
+        science = {
+        }
+
+        colonizer = {
+        }
+
+        constructor = {
+        }
+
+        mining_station = { }
+        research_station = { }
+        wormhole_station = { }
+        #terraform_station = { }
+        observation_station = { }
+        outpost_station = {
+            #random_names = { }
+            #sequential_name = "%O% Frontier Outpost"
+        }
+
+        military_station_small = {}
+        military_station_medium = {}
+        military_station_large = {}
+    }
+
+    fleet_names = {
+        sequential_name = "%O% Space Tails"
+    }
+
+    ### ARMIES
+    army_names = {
+        defense_army = {
+            sequential_name = "%O% Defence Scales"
+        }
+
+        assault_army = {
+            sequential_name = "%O% Invasion Scales"
+        }
+
+        slave_army = {
+            sequential_name = "%O% Slave Horde"
+        }
+
+        clone_army = {
+            sequential_name = "%O% Cloned Scales"
+        }
+
+        robotic_army = {
+            sequential_name = "%O% Automated Scales"
+        }
+
+        android_army = {
+            sequential_name = "%O% Synthetic Scales"
+        }
+
+        psionic_army = {
+            sequential_name = "%O% Tele-scales"
+        }
+
+        xenomorph_army = {
+            sequential_name = "%O% Mutant Scalemorphs"
+        }
+
+        gene_warrior_army = {
+            sequential_name = "%O% Augmented Scales"
+        }
+    }
+
+    ### PLANETS
+
+    planet_names = {
+
+        generic = {
+            names = {
+                Archon Blackrose Gideon Helstrom Lilmoth Soulrest Stormhold Thorn Meirhall Quagmire Pantano Braunfels Sodden Meander Shodfen Morness Baydon
+                Hardscale Tranton Redscale Scalemarsh Windamere Weltan Marmont Giovese Weymoth Marr Belleg Shadout Kelsee Gelfling Skeksis Cairn Garthim
+                Bracken Alten Marken Klosowick Bangor Aberyst Histen Tamrugh Tatting Wyth Carmar
+            }
+        }
+
+        pc_desert = {
+            names = {
+            }
+        }
+
+        pc_tropical = {
+            names = {
+            }
+        }
+
+        pc_arid = {
+            names = {
+            }
+        }
+
+        pc_continental = {
+            names = {
+            }
+        }
+
+        pc_ocean = {
+            names = {
+            }
+        }
+
+        pc_tundra = {
+            names = {
+            }
+        }
+
+        pc_arctic = {
+            names = {
+            }
+        }
+
+    }
+
+    ### CHARACTERS
+
+    character_names = {
+        default = {
+            first_names_male = {
+                Beem-Ja Brand-Shei Gulum-Ei Ilas-Tei Jaree-Ra Talen-Jei Teeba-Ei Deekus Derkeethus Madesi Neetrenaza Veezara Ah-Malz Ajum-Kajin Beem-Kiurz
+			    Dar Jee Deetum-Ja Dreet-Lai Er-Teeus Geem Jasaiin Gin-Wulm Jee-Tah Jeetum-Ze Oleed-Ei Pad-Ei Tar-Meena Tun-Zeeus Weebam-Na Amusei Deeh
+			    Geel Jeelius Mahei Otumeel Pajeen Reenum Sakeepa Saliith Teekeeus Teinaava Usheeja Wumeek Yinz'r Porliss Caith Nelix Sissithik Yelnicin
+			    An-Zaw Bun-Teemeeta Dan-Ru Effe-Tei	Eleedal-Lei Gah Julan Gam-Kur Geel-Lah Haj-Ei Han-Tulm Heem-La Heir-Zish Im-Kilaya Jeelus-Tei
+			    Jeer-Maht J'Ram-Dar Junal-Lei Keerasa-Tan Miun-Gei Mush-Mere Okan-Shei Oleen-Gei Olink-Nur Reeh-Jah Silm-Dar Tee-Lan Tim-Jush Vistha-Kai
+			    Wanan-Dum Wih-Eius Wud-Neeus Wuleen-Shei Asum Bunish Busheeus Chalureel Chiwish Chulz Chuna Haran Hathei Heedul Huleeya Huzei Inee Itan
+			    Meer Milos Neetinei Schiavas Okaw Peeradeeh Rasha Reemukeeus Reesa Seewul Skeetul Tanan Teegla Tul Ukawei Ula Utadeek Weeltul Weer Dreekius
+			    Eihleel Meekus Ulaqth
+            }
+
+            first_names_female = {
+                Deeja Keerava Shahvee Wujeeta On-Staya Bur-Meema Dar-Ma Hal-Liurz Kud-Ei Mach-Na Seed-Neeus Sheer Meedish Tar-Meena Weedum-Ja Beelei
+			    Beewos Bejeen Deetsan Druja Marz Numeen Ocheeva Pasha Rana Shaleez Skaleel Witseidutsei Ah-Meesei Am-Ra An-Deesei Chanil-Lee Cheesh-Meeus
+			    Deesh-Meeus El-Lurasha Ereel-Lei Gih-Ja Jeed-Ei Kal-Ma Keel-Raniur Meeh-Mei Meen-Sa Mim-Jeen Muz-Ra Nam-La Olank-Neeus On-Wan On-Wazei
+			    Seen-Rei Ahaht Akish Banalz Beekatan Eutei Gilm Gish Hul Kasa Milah Nakuma Neesha Nuralg Nush Okur Onasha Shatalg Tasha Wusha Ra-An
+			    Ra-Lee Ra-Rei Ra-Ahaht Ra-Beewos Ra-Bejeen An-Mach En-Sha
+            }
+
+            second_names = {
+                Agaceph Archein Sarpa Naga Paatru
+            }
+
+            regnal_first_names_male = {
+                Beem-Ja Brand-Shei Gulum-Ei Ilas-Tei Jaree-Ra Talen-Jei Teeba-Ei Deekus Derkeethus Madesi Neetrenaza Veezara Ah-Malz Ajum-Kajin Beem-Kiurz
+			    Dar Jee Deetum-Ja Dreet-Lai Er-Teeus Geem Jasaiin Gin-Wulm Jee-Tah Jeetum-Ze Oleed-Ei Pad-Ei Tar-Meena Tun-Zeeus Weebam-Na Amusei Deeh
+			    Geel Jeelius Mahei Otumeel Pajeen Reenum Sakeepa Saliith Teekeeus Teinaava Usheeja Wumeek Yinz'r Porliss Caith Nelix Sissithik Yelnicin
+			    An-Zaw Bun-Teemeeta Dan-Ru Effe-Tei	Eleedal-Lei Gah Julan Gam-Kur Geel-Lah Haj-Ei Han-Tulm Heem-La Heir-Zish Im-Kilaya Jeelus-Tei
+			    Jeer-Maht J'Ram-Dar Junal-Lei Keerasa-Tan Miun-Gei Mush-Mere Okan-Shei Oleen-Gei Olink-Nur Reeh-Jah Silm-Dar Tee-Lan Tim-Jush Vistha-Kai
+			    Wanan-Dum Wih-Eius Wud-Neeus Wuleen-Shei Asum Bunish Busheeus Chalureel Chiwish Chulz Chuna Haran Hathei Heedul Huleeya Huzei Inee Itan
+			    Meer Milos Neetinei Schiavas Okaw Peeradeeh Rasha Reemukeeus Reesa Seewul Skeetul Tanan Teegla Tul Ukawei Ula Utadeek Weeltul Weer Dreekius
+			    Eihleel Meekus Ulaqth
+            }
+
+            regnal_first_names_female = {
+                Deeja Keerava Shahvee Wujeeta On-Staya Bur-Meema Dar-Ma Hal-Liurz Kud-Ei Mach-Na Seed-Neeus Sheer Meedish Tar-Meena Weedum-Ja Beelei
+			    Beewos Bejeen Deetsan Druja Marz Numeen Ocheeva Pasha Rana Shaleez Skaleel Witseidutsei Ah-Meesei Am-Ra An-Deesei Chanil-Lee Cheesh-Meeus
+			    Deesh-Meeus El-Lurasha Ereel-Lei Gih-Ja Jeed-Ei Kal-Ma Keel-Raniur Meeh-Mei Meen-Sa Mim-Jeen Muz-Ra Nam-La Olank-Neeus On-Wan On-Wazei
+			    Seen-Rei Ahaht Akish Banalz Beekatan Eutei Gilm Gish Hul Kasa Milah Nakuma Neesha Nuralg Nush Okur Onasha Shatalg Tasha Wusha Ra-An
+			    Ra-Lee Ra-Rei Ra-Ahaht Ra-Beewos Ra-Bejeen An-Mach En-Sha
+            }
+
+            regnal_second_names = {
+                Agaceph Archein Sarpa Naga Paatru
+            }
+        }
+    }
+}
+
