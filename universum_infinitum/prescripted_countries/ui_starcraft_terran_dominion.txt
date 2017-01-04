@@ -1,6 +1,6 @@
 ui_starcraft_terran_dominion = {
     name = "Terran Dominion"
-    spawn_enabled = yes
+    spawn_enabled = no
     ignore_portrait_duplication = yes
 
     name_list = "UISCTERRAN1"
