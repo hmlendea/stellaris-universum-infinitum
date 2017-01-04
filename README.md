@@ -6,10 +6,11 @@ Universum Infinitum is a mod for Stellaris that plans to add much more variety i
 
 ## Mechanics
 
- - 12 new Techonolgies
+ - 14 new Techonolgies
  - 8 new Strategic Resources
  - 6 new Planetary Modifiers
  - 3 new Tile Blockers
+ - 2 new Buildings
  - 2 new Galaxy Sizes
  - 1 new Anomaly
 

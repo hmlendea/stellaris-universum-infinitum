@@ -3,8 +3,10 @@
 @tier1weight2 = 95
 
 @tier3cost1 = 3000
+@tier3cost2 = 4000
 
 @tier3weight1 = 50
+@tier3weight2 = 45
 
 tech_tb_ui_giant_earthworms = {
     cost = @tier1cost2
@@ -234,6 +236,68 @@ tech_ui_barren_terraforming = {
             desc = "TECH_UNLOCK_TERRAFORMING_BARREN_CHANGE_DESC"
         }
     }
+
+    weight_modifier = {
+        modifier = {
+            factor = 0.33
+            NOT = {
+                research_leader = {
+                    area = society
+                    has_trait = "leader_trait_expertise_new_worlds"
+                }
+            }
+        }
+    }
+
+    ai_weight = {
+        modifier = {
+            factor = 1.25
+            research_leader = {
+                area = society
+                has_trait = "leader_trait_expertise_new_worlds"
+            }
+        }
+    }
+}
+
+tech_ui_magnetic_field_enhancement = {
+    cost = @tier3cost1
+    area = society
+    tier = 3
+    category = { new_worlds }
+    prerequisites = { "tech_climate_restoration" }
+    weight = @tier3weight1
+
+    weight_modifier = {
+        modifier = {
+            factor = 0.33
+            NOT = {
+                research_leader = {
+                    area = society
+                    has_trait = "leader_trait_expertise_new_worlds"
+                }
+            }
+        }
+    }
+
+    ai_weight = {
+        modifier = {
+            factor = 1.25
+            research_leader = {
+                area = society
+                has_trait = "leader_trait_expertise_new_worlds"
+            }
+        }
+    }
+}
+
+tech_ui_magnetic_field_generation = {
+    cost = @tier3cost2
+    area = society
+    tier = 3
+    category = { new_worlds }
+    prerequisites = { "tech_ui_magnetic_field_enhancement" }
+    weight = @tier3weight2
 
     weight_modifier = {
         modifier = {

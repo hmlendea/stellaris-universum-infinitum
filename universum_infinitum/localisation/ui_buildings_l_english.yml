@@ -1,0 +1,6 @@
+﻿l_english:
+ building_ui_magnetic_field_enhancer:0 "Magnetic Field Enhancer"
+ building_ui_magnetic_field_enhancer_desc:1 "$tech_ui_magnetic_field_enhancement_desc$"
+ building_ui_magnetic_field_generator:0 "Magnetic Field Generator"
+ building_ui_magnetic_field_generator_desc:1 "$tech_ui_magnetic_field_generation_desc$"
+

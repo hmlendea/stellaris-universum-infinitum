@@ -1,0 +1,88 @@
+building_ui_magnetic_field_enhancer = {
+    base_buildtime = 300
+    planet_unique = yes
+
+    cost = {
+        minerals = 200
+    }
+
+    required_resources = {
+        energy = 5
+    }
+
+    planet_modifier = {
+        pop_environment_tolerance = 0.05
+        pop_growth_req_mult = -0.05
+    }
+
+    ai_special_building = yes
+
+    allow = {
+        custom_tooltip = {
+            text = "ui_requires_weak_magnetic_field"
+            planet = {
+                has_modifier = "weak_magnetic_field"
+            }
+        }
+    }
+
+    prerequisites = {
+        "tech_ui_magnetic_field_enhancement"
+    }
+
+    ai_weight = {
+        weight = 1000
+        modifier = {
+            weight = 0
+            from = {
+                happiness_planet > 0.90
+                NOT = { has_building = building_ui_magnetic_field_enhancer }
+            }
+        }
+    }
+}
+
+building_ui_magnetic_field_generator = {
+    base_buildtime = 360
+    planet_unique = yes
+
+    cost = {
+        minerals = 300
+    }
+
+    required_resources = {
+        energy = 8
+    }
+
+    planet_modifier = {
+        pop_environment_tolerance = 0.10
+        pop_growth_req_mult = -0.10
+    }
+
+    ai_special_building = yes
+
+    allow = {
+        custom_tooltip = {
+            text = "ui_requires_ui_no_magnetic_field"
+            planet = {
+                has_modifier = "ui_no_magnetic_field"
+            }
+        }
+    }
+
+    prerequisites = {
+        "tech_ui_magnetic_field_generation"
+    }
+
+    ai_weight = {
+        weight = 1000
+        modifier = {
+            weight = 0
+            from = {
+                happiness_planet > 0.90
+                NOT = { has_building = building_ui_magnetic_field_generator }
+            }
+        }
+    }
+}
+
