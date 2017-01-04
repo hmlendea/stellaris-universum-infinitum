@@ -55,9 +55,14 @@ pm_ui_weak_magnetic_field = {
         }
         modifier = {
             factor = 2
+            has_planet_modifier = "pm_low_gravity"
+        }
+        modifier = {
+            factor = 0
             OR = {
-                has_planet_modifier = "pm_low_gravity"
                 has_planet_modifier = "pm_ui_no_magnetic_field"
+                has_planet_modifier = "pm_ui_weak_magnetic_field"
+                has_planet_modifier = "pm_ui_strong_magnetic_field"
                 has_planet_modifier = "pm_weak_magnetic_field"
                 has_planet_modifier = "pm_strong_magnetic_field"
             }

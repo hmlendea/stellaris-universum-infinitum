@@ -2,15 +2,11 @@ pm_ui_giant_earthworms = {
     spawn_chance = {
         modifier = {
             add = 10
-            is_planet_class = "pc_desert"
-        }
-        modifier = {
-            add = 10
-            is_planet_class = "pc_arid"
-        }
-        modifier = {
-            add = 10
-            is_planet_class = "pc_savannah"
+            OR = {
+                is_planet_class = "pc_desert"
+                is_planet_class = "pc_arid"
+                is_planet_class = "pc_savannah"
+            }
         }
         modifier = {
             factor = 2
@@ -18,15 +14,17 @@ pm_ui_giant_earthworms = {
         }
         modifier = {
             factor = 2
-            has_planet_modifier = "pm_high_gravity"
+            OR = {
+                has_planet_modifier = "pm_ui_high_gravity"
+                has_planet_modifier = "pm_high_gravity"
+            }
         }
         modifier = {
             factor = 0
-            has_planet_modifier = "pm_ui_giant_earthworms"
-        }
-        modifier = {
-            factor = 0
-            has_planet_modifier = "pm_titanic_life"
+            OR = {
+                has_planet_modifier = "pm_ui_giant_earthworms"
+                has_planet_modifier = "pm_titanic_life"
+            }
         }
 
         modifier = {
@@ -50,15 +48,17 @@ pm_ui_sea_monsters = {
         }
         modifier = {
             factor = 2
-            has_planet_modifier = "pm_high_gravity"
+            OR = {
+                has_planet_modifier = "pm_ui_high_gravity"
+                has_planet_modifier = "pm_high_gravity"
+            }
         }
         modifier = {
             factor = 0
-            has_planet_modifier = "pm_ui_sea_monsters"
-        }
-        modifier = {
-            factor = 0
-            has_planet_modifier = "pm_titanic_life"
+            OR = {
+                has_planet_modifier = "pm_ui_sea_monsters"
+                has_planet_modifier = "pm_titanic_life"
+            }
         }
 
         modifier = {
@@ -85,10 +85,14 @@ pm_ui_twilight = {
             }
         }
         modifier = {
+            factor = 2
+            has_planet_modifier = "pm_bleak"
+        }
+        modifier = {
             factor = 4
             OR = {
+                has_planet_modifier = "pm_ui_tidal_locked"
                 has_planet_modifier = "pm_tidal_locked"
-                has_planet_modifier = "pm_bleak"
             }
         }
 
@@ -122,7 +126,11 @@ pm_ui_extreme_temperatures = {
 
         modifier = {
             factor = 0
-            has_planet_modifier = "pm_ui_twilight"
+            OR = {
+                has_planet_modifier = "pm_ui_twilight"
+                has_planet_modifier = "pm_ui_tidal_locked"
+                has_planet_modifier = "pm_tidal_locked"
+            }
         }
 
         modifier = {
@@ -138,11 +146,10 @@ pm_ui_no_magnetic_field = {
     spawn_chance = {
         modifier = {
             add = 20
-            is_planet_class = "pc_barren"
-        }
-        modifier = {
-            add = 20
-            is_planet_class = "pc_barren_cold"
+            OR = {
+                is_planet_class = "pc_barren"
+                is_planet_class = "pc_barren_cold"
+            }
         }
         modifier = {
             factor = 2
@@ -150,19 +157,13 @@ pm_ui_no_magnetic_field = {
         }
         modifier = {
             factor = 0
-            has_planet_modifier = "pm_ui_weak_magnetic_field"
-        }
-        modifier = {
-            factor = 0
-            has_planet_modifier = "pm_ui_strong_magnetic_field"
-        }
-        modifier = {
-            factor = 0
-            has_planet_modifier = "pm_weak_magnetic_field"
-        }
-        modifier = {
-            factor = 0
-            has_planet_modifier = "pm_strong_magnetic_field"
+            OR = {
+                has_planet_modifier = "pm_ui_no_magnetic_field"
+                has_planet_modifier = "pm_ui_weak_magnetic_field"
+                has_planet_modifier = "pm_ui_strong_magnetic_field"
+                has_planet_modifier = "pm_weak_magnetic_field"
+                has_planet_modifier = "pm_strong_magnetic_field"
+            }
         }
 
         modifier = {
@@ -177,7 +178,7 @@ pm_ui_no_magnetic_field = {
 pm_ui_salty = {
     spawn_chance = {
         modifier = {
-            add = 80
+            add = 30
             is_planet_class = "pc_barren"
         }
         modifier = {
@@ -186,15 +187,11 @@ pm_ui_salty = {
         }
         modifier = {
             add = 10
-            is_planet_class = "pc_desert"
-        }
-        modifier = {
-            add = 10
-            is_planet_class = "pc_arid"
-        }
-        modifier = {
-            add = 10
-            is_planet_class = "pc_ocean"
+            OR = {
+                is_planet_class = "pc_desert"
+                is_planet_class = "pc_arid"
+                is_planet_class = "pc_ocean"
+            }
         }
 
         modifier = {
