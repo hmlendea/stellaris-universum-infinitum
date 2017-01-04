@@ -1,0 +1,321 @@
+pm_ui_hazardous_weather = {
+    spawn_chance = {
+        modifier = {
+            add = 10
+            OR = {
+                is_planet_class = "pc_barren"
+                is_planet_class = "pc_barren_cold"
+            }
+        }
+        modifier = {
+            factor = 0
+            OR = {
+                has_planet_modifier = "pm_ui_hazardous_weather"
+                has_planet_modifier = "pm_hazardous_weather"
+            }
+        }
+
+        modifier = {
+            factor = 0
+            num_modifiers > 1
+        }
+    }
+
+    modifier = "hazardous_weather"
+}
+
+pm_ui_weak_magnetic_field = {
+    spawn_chance = {
+        modifier = {
+            add = 30
+            OR = {
+                is_planet_class = "pc_barren"
+                is_planet_class = "pc_barren_cold"
+            }
+        }
+        modifier = {
+            factor = 2
+            OR = {
+                has_planet_modifier = "pm_low_gravity"
+                has_planet_modifier = "pm_ui_no_magnetic_field"
+                has_planet_modifier = "pm_weak_magnetic_field"
+                has_planet_modifier = "pm_strong_magnetic_field"
+            }
+        }
+
+        modifier = {
+            factor = 0
+            num_modifiers > 1
+        }
+    }
+
+    modifier = "weak_magnetic_field"
+}
+
+pm_ui_strong_magnetic_field = {
+    spawn_chance = {
+        modifier = {
+            add = 5
+            OR = {
+                is_planet_class = "pc_barren"
+                is_planet_class = "pc_barren_cold"
+            }
+        }
+        modifier = {
+            factor = 2
+            has_planet_modifier = "pm_high_gravity"
+        }
+        modifier = {
+            factor = 0
+            OR = {
+                has_planet_modifier = "pm_ui_no_magnetic_field"
+                has_planet_modifier = "pm_ui_weak_magnetic_field"
+                has_planet_modifier = "pm_ui_strong_magnetic_field"
+                has_planet_modifier = "pm_weak_magnetic_field"
+                has_planet_modifier = "pm_strong_magnetic_field"
+            }
+        }
+
+        modifier = {
+            factor = 0
+            num_modifiers > 1
+        }
+    }
+
+    modifier = "weak_magnetic_field"
+}
+
+pm_ui_unstable_tectonics = {
+    spawn_chance = {
+        modifier = {
+            add = 10
+            OR = {
+                is_planet_class = "pc_barren"
+                is_planet_class = "pc_barren_cold"
+            }
+        }
+        modifier = {
+            factor = 4
+            OR = {
+                has_planet_modifier = "pm_ui_high_gravity"
+                has_planet_modifier = "pm_ui_unstable_tectonics"
+                has_planet_modifier = "pm_high_gravity"
+                has_planet_modifier = "pm_unstable_tectonics"
+            }
+        }
+
+        modifier = {
+            factor = 0
+            num_modifiers > 1
+        }
+    }
+
+    modifier = "unstable_tectonics"
+}
+
+pm_ui_tidal_locked = {
+    spawn_chance = {
+        modifier = {
+            add = 5
+            OR = {
+                is_planet_class = "pc_barren"
+                is_planet_class = "pc_barren_cold"
+            }
+        }
+        modifier = {
+            factor = 0
+            OR = {
+                has_planet_modifier = "pm_ui_tidal_locked"
+                has_planet_modifier = "pm_tidal_locked"
+            }
+        }
+        modifier = {
+            factor = 3
+            is_moon = yes
+            OR = {
+                is_planet_class = pc_barren
+                is_planet_class = pc_barren_cold
+            }
+        }
+
+        modifier = {
+            factor = 0
+            num_modifiers > 1
+        }
+    }
+
+    modifier = "tidal_locked"
+}
+
+pm_ui_asteroid_impacts = {
+    spawn_chance = {
+        modifier = {
+            add = 10
+            OR = {
+                is_planet_class = "pc_barren"
+                is_planet_class = "pc_barren_cold"
+            }
+        }
+        modifier = {
+            factor = 0
+            OR = {
+                has_planet_modifier = "pm_ui_asteroid_impacts"
+                has_planet_modifier = "pm_asteroid_impacts"
+            }
+        }
+
+        modifier = {
+            factor = 0
+            num_modifiers > 1
+        }
+    }
+
+    modifier = "asteroid_impacts"
+}
+
+pm_ui_wild_storms = {
+    spawn_chance = {
+        modifier = {
+            add = 10
+            OR = {
+                is_planet_class = "pc_barren"
+                is_planet_class = "pc_barren_cold"
+            }
+        }
+        modifier = {
+            factor = 0
+            OR = {
+                has_planet_modifier = "pm_ui_wild_storms"
+                has_planet_modifier = "pm_wild_storms"
+            }
+        }
+
+        modifier = {
+            factor = 0
+            num_modifiers > 1
+        }
+    }
+
+    modifier = "wild_storms"
+}
+
+pm_ui_low_gravity = {
+    spawn_chance = {
+        modifier = {
+            add = 10
+            OR = {
+                is_planet_class = "pc_barren"
+                is_planet_class = "pc_barren_cold"
+            }
+        }
+        modifier = {
+            factor = 2
+            planet_size < 14
+            OR = {
+                is_planet_class = pc_barren
+                is_planet_class = pc_barren_cold
+            }
+        }
+        modifier = {
+            factor = 2
+            planet_size < 12
+            OR = {
+                is_planet_class = pc_barren
+                is_planet_class = pc_barren_cold
+            }
+        }
+        modifier = {
+            factor = 2
+            planet_size < 7
+            OR = {
+                is_planet_class = pc_barren
+                is_planet_class = pc_barren_cold
+            }
+        }
+        modifier = {
+            factor = 0.5
+            planet_size > 19
+            OR = {
+                is_planet_class = pc_barren
+                is_planet_class = pc_barren_cold
+            }
+        }
+        modifier = {
+            factor = 0
+            OR = {
+                has_planet_modifier = "pm_ui_high_gravity"
+                has_planet_modifier = "pm_ui_low_gravity"
+                has_planet_modifier = "pm_high_gravity"
+                has_planet_modifier = "pm_low_gravity"
+            }
+        }
+
+        modifier = {
+            factor = 0
+            num_modifiers > 1
+        }
+    }
+
+    modifier = "low_gravity"
+}
+
+pm_ui_high_gravity = {
+    spawn_chance = {
+        modifier = {
+            add = 10
+            OR = {
+                is_planet_class = "pc_barren"
+                is_planet_class = "pc_barren_cold"
+            }
+        }
+        modifier = {
+            factor = 2
+            planet_size > 19
+            OR = {
+                is_planet_class = pc_barren
+                is_planet_class = pc_barren_cold
+            }
+        }
+        modifier = {
+            factor = 2
+            planet_size > 22
+            OR = {
+                is_planet_class = pc_barren
+                is_planet_class = pc_barren_cold
+            }
+        }
+        modifier = {
+            factor = 0.5
+            planet_size < 16
+            OR = {
+                is_planet_class = pc_barren
+                is_planet_class = pc_barren_cold
+            }
+        }
+        modifier = {
+            factor = 0
+            planet_size < 12
+            OR = {
+                is_planet_class = pc_barren
+                is_planet_class = pc_barren_cold
+            }
+        }
+        modifier = {
+            factor = 0
+            OR = {
+                has_planet_modifier = "pm_ui_low_gravity"
+                has_planet_modifier = "pm_ui_high_gravity"
+                has_planet_modifier = "pm_low_gravity"
+                has_planet_modifier = "pm_high_gravity"
+            }
+        }
+
+        modifier = {
+            factor = 0
+            num_modifiers > 1
+        }
+    }
+
+    modifier = "high_gravity"
+}
+

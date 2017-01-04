@@ -41,6 +41,10 @@ pm_ui_giant_earthworms = {
 pm_ui_sea_monsters = {
     spawn_chance = {
         modifier = {
+            add = 5
+            is_planet_class = "pc_continental"
+        }
+        modifier = {
             add = 10
             is_planet_class = "pc_ocean"
         }
@@ -75,8 +79,9 @@ pm_ui_twilight = {
                 is_planet_class = "pc_tundra"
                 is_planet_class = "pc_alpine"
                 is_planet_class = "pc_desert"
-                is_planet_class = "pc_barren"
                 is_planet_class = "pc_frozen"
+                is_planet_class = "pc_barren"
+                is_planet_class = "pc_barren_cold"
             }
         }
         modifier = {
@@ -104,8 +109,9 @@ pm_ui_extreme_temperatures = {
                 is_planet_class = "pc_alpine"
                 is_planet_class = "pc_desert"
                 is_planet_class = "pc_arid"
-                is_planet_class = "pc_barren"
                 is_planet_class = "pc_nuked"
+                is_planet_class = "pc_barren"
+                is_planet_class = "pc_barren_cold"
             }
         }
 
@@ -144,11 +150,24 @@ pm_ui_no_magnetic_field = {
         }
         modifier = {
             factor = 0
+            has_planet_modifier = "pm_ui_weak_magnetic_field"
+        }
+        modifier = {
+            factor = 0
+            has_planet_modifier = "pm_ui_strong_magnetic_field"
+        }
+        modifier = {
+            factor = 0
             has_planet_modifier = "pm_weak_magnetic_field"
         }
         modifier = {
             factor = 0
             has_planet_modifier = "pm_strong_magnetic_field"
+        }
+
+        modifier = {
+            factor = 0
+            num_modifiers > 1
         }
     }
 
