@@ -251,3 +251,35 @@ d_balus_deposit = {
     }
 }
 
+d_stiriacus_deposit = {
+    resources = {
+		society_research = 2
+        sr_ui_stiriacus = 1
+    }
+    station = shipclass_mining_station
+    orbital_weight = {
+        weight = @clusterOrbitalWeight
+    }
+
+    drop_weight = {
+        weight = 0
+        modifier = {
+            weight = 0.5
+            planet = {
+                AND = {
+                    planet = {
+                        is_planet_class = pc_frozen
+                    }
+                    has_strategic_resource = no
+                }
+            }
+        }
+        modifier = {
+            factor = 4
+            planet = {
+                is_inside_nebula = yes
+            }
+        }
+    }
+}
+

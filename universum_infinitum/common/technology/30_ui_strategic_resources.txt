@@ -261,3 +261,35 @@ tech_mine_ui_balus = {
     }
 }
 
+# Stiriacus Gel Extraction
+tech_mine_ui_stiriacus = {
+    cost = @tier2cost1
+    area = physics
+    tier = 2
+    category = { materials }
+    prerequisites = { "tech_sensors_3" }
+    weight = @tier2weight1
+
+    weight_modifier = {
+        factor = 2
+        modifier = {
+            factor = 2
+            research_leader = {
+                area = engineering
+                has_trait = "leader_trait_expertise_materials"
+            }
+        }
+    }
+
+    ai_weight = {
+        factor = 5
+        modifier = {
+            factor = 1.25
+            research_leader = {
+                area = engineering
+                has_trait = "leader_trait_expertise_materials"
+            }
+        }
+    }
+}
+
