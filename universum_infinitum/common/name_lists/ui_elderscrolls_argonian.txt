@@ -5,7 +5,7 @@
 ui_elderscrolls_argonian = {
     ship_names = {
         generic = {
-            Argonia "Black Marsh" Agaceph Archein Sarpa Naga Paatru Archon Blackrose Gideon Helstrom Lilmoth Soulrest Stormhold Thorn
+            Argonia "Black Marsh" Agaceph Archein Sarpa Naga Paatru Archon Blackrose Gideon Helstrom Lilmoth Soulrest Stormhold Thorn "Lusty Argonian Maid"
         }
 
         corvette = {

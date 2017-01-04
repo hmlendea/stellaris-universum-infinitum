@@ -174,3 +174,35 @@ pm_ui_no_magnetic_field = {
     modifier = "ui_no_magnetic_field"
 }
 
+pm_ui_salty = {
+    spawn_chance = {
+        modifier = {
+            add = 80
+            is_planet_class = "pc_barren"
+        }
+        modifier = {
+            add = 5
+            is_planet_class = "pc_barren_cold"
+        }
+        modifier = {
+            add = 10
+            is_planet_class = "pc_desert"
+        }
+        modifier = {
+            add = 10
+            is_planet_class = "pc_arid"
+        }
+        modifier = {
+            add = 10
+            is_planet_class = "pc_ocean"
+        }
+
+        modifier = {
+            factor = 0
+            num_modifiers > 1
+        }
+    }
+
+    modifier = "ui_salty"
+}
+
