@@ -1,0 +1,175 @@
+﻿### Universum Infinitum
+### Extras
+### Reptilian 1
+
+ui_extra_rep1 = {
+    ship_names = {
+        generic = {
+            Crond-Zalpi Crond-Karmac Crond-Dracu Crond-Naiba Crond-Nimeni Crond-Narud Crond-Targat Crond-Furcep Crond-Gilget Crond-Zerga Crond-Cercex
+            Crond-Cadet Crond-Cloric Crond-Rupe Crond-Spada Crond-Fraier Crond-Pahar Crond-Walder Crond-Decrond Crond-Barbat Crond-Negan Crond-Prosten
+            Crond-Spatar Crond-Harvac Crond-Ergut Crond-Urzut Crond-Vodnic Crond-Lupic Crond-Oprix Crond-Xoder Crond-Gerped Crond-Tigan Crond-Urat
+            Crond-Cesmat Crond-Armas Crond-Arenda Crond-Chiria Crond-Jegos Crond-Mumbas Crond-Kalodi Crond-Vezian Crond-Sapian Crond-Goder Crond-Upter
+        }
+
+        corvette = {
+        }
+
+        destroyer = {
+        }
+
+        cruiser = {
+        }
+
+        battleship = {
+        }
+
+        science = {
+        }
+
+        colonizer = {
+        }
+
+        constructor = {
+        }
+
+        mining_station = { }
+        research_station = { }
+        wormhole_station = { }
+        #terraform_station = { }
+        observation_station = { }
+        outpost_station = {
+            #random_names = { }
+            #sequential_name = "%O% Frontier Outpost"
+        }
+
+        military_station_small = {}
+        military_station_medium = {}
+        military_station_large = {}
+    }
+
+    fleet_names = {
+        random_names = {
+            "Argon Space Tails" "Salamandra Space Tails" "Katanga Space Tails" "Folenga Space Tails" "Daramba Space Tails" "Kituran Space Tails"
+            "Gehand Space Tails" "Kilkax Space Tails" "Nuriba Space Tails" "Pelgarix Space Tails" "Forkas Space Tails" "Jimbak Space Tails"
+            "Brodek Space Tails" "Lumberc Space Tails" "Curcut Space Tails" "Opzar Space Tails"
+        }
+        sequential_name = "%O% Void Skulkers"
+    }
+
+    ### ARMIES
+    army_names = {
+        defense_army = {
+            sequential_name = "%O% Defence Scales"
+        }
+
+        assault_army = {
+            sequential_name = "%O% Invasion Scales"
+        }
+
+        slave_army = {
+            sequential_name = "%O% Slave Horde"
+        }
+
+        clone_army = {
+            sequential_name = "%O% Cloned Scales"
+        }
+
+        robotic_army = {
+            sequential_name = "%O% Automated Scales"
+        }
+
+        android_army = {
+            sequential_name = "%O% Synthetic Scales"
+        }
+
+        psionic_army = {
+            sequential_name = "%O% Tele-scales"
+        }
+
+        xenomorph_army = {
+            sequential_name = "%O% Mutant Scalemorphs"
+        }
+
+        gene_warrior_army = {
+            sequential_name = "%O% Augmented Scales"
+        }
+    }
+
+    ### PLANETS
+
+    planet_names = {
+
+        generic = {
+            names = {
+                Narga Farda Gonda Kitara Doloka Duraka Gegon Findor Skolda Sakada Kandaka Traka Kagex Ralex Dikam Opegix Furakex Scagint Piroza Zoben Colbra
+                Pintarak Sulgeta Sopinga Apinga Boperka Horka Horsana Jivana Luperka Trupaka Turhenex Druhax Polgix Garhara Ankoda Bikoda Zibara Felkas
+                Zabarak Karketa Furka Wlaka Arkata Xorbaka Trinaka Kroka Gargata Serpata Bihaka
+            }
+        }
+
+        pc_desert = {
+            names = {
+            }
+        }
+
+        pc_tropical = {
+            names = {
+            }
+        }
+
+        pc_arid = {
+            names = {
+            }
+        }
+
+        pc_continental = {
+            names = {
+            }
+        }
+
+        pc_ocean = {
+            names = {
+            }
+        }
+
+        pc_tundra = {
+            names = {
+            }
+        }
+
+        pc_arctic = {
+            names = {
+            }
+        }
+
+    }
+
+    ### CHARACTERS
+
+    character_names = {
+        default = {
+            # A complete name
+            full_names = {
+                Lancek Bacek Facek Gacek Racek Guntek Kratek Armatek Trutek Orotek Bravcek Pitarcek Guratek Ertek Mozek Vibitek Feltek Portek Jintek Crutek
+                Parotek Loratek Xantek Zartek
+            }
+
+            # Always combined with a second name
+            first_names = {
+            }
+
+            # Always combined with a first name
+            second_names = {
+            }
+
+            regnal_first_names = {
+                Alabaratek Barbatonek Cerberotek Dianahek Epirotek Furiotek Gargantek Horiotek Ilmanamotek Krokotek Monarhotek Printotek Regalotek Ultimotek
+                Xarxotek
+            }
+
+            regnal_second_names = {
+                Regex Monarhex Princex Voivodex Ducex Contex Baronex Domnitorex Imperatorex Sultanex Pharotex Papalex
+            }
+        }
+    }
+}

@@ -1,0 +1,139 @@
+REP = {
+    ### Extra Reptilians 1 ###
+
+    # 1 - Krokotek
+    pihisen = {
+        name = Krokotek
+        plural = Krotots
+        home_planet = Krokota
+        home_system = Krok
+        name_list = "ui_extra_rep1"
+    }
+
+    # 2 - Serpex
+    lerinid = {
+        name = Serpex
+        plural = Serps
+        home_planet = Serpalka
+        home_system = Serpex
+        name_list = "ui_extra_rep1"
+    }
+
+    # 3 - Fultek
+    nasibul = {
+        name = Fultek
+        plural = Fulteks
+        home_planet = Fultek
+        home_system = Fultek
+        name_list = "ui_extra_rep1"
+    }
+
+    # 4 - Vacarex
+    vacimupan = {
+        name = Vacarex
+        plural = Vacars
+        home_planet = Vacarka
+        home_system = Vaca
+        name_list = "ui_extra_rep1"
+    }
+
+    # 5 - Kron
+    cugovug = {
+        name = Kron
+        plural = Krons
+        home_planet = Kronka
+        home_system = Kron
+        name_list = "ui_extra_rep1"
+    }
+
+    # 6 - Gargan
+    estrothi = {
+        name = Gargan
+        plural = Gargans
+        home_planet = Gargaka
+        home_system = Garg
+        name_list = "ui_extra_rep1"
+    }
+
+    # 7 - Oprok
+    riften = {
+        name = Oprok
+        plural = Oproks
+        home_planet = Oproka
+        home_system = Opro
+        name_list = "ui_extra_rep1"
+    }
+
+    # 8 - Xork
+    estrothi = {
+        name = Xork
+        plural = Xorks
+        home_planet = Xorka
+        home_system = Xor
+        name_list = "ui_extra_rep1"
+    }
+
+    # 9 - Arhek
+    estrothi = {
+        name = Arhek
+        plural = Arheks
+        home_planet = Arheka
+        home_system = Arha
+        name_list = "ui_extra_rep1"
+    }
+
+    # 10 - Brakan
+    estrothi = {
+        name = Brakan
+        plural = Braks
+        home_planet = Braka
+        home_system = Brak
+        name_list = "ui_extra_rep1"
+    }
+
+    # 11 - Repakor
+    estrothi = {
+        name = Repakor
+        plural = Repaks
+        home_planet = Repaka
+        home_system = Repa
+        name_list = "ui_extra_rep1"
+    }
+
+    # 12 - Kvarx
+    estrothi = {
+        name = Kvarx
+        plural = Kvars
+        home_planet = Kvarka
+        home_system = Kvarx
+        name_list = "ui_extra_rep1"
+    }
+
+    # 13 - Halk
+    estrothi = {
+        name = Halk
+        plural = Halks
+        home_planet = Halka
+        home_system = Halk
+        name_list = "ui_extra_rep1"
+    }
+
+    # 14 - Jakar
+    estrothi = {
+        name = Jakar
+        plural = Jakars
+        home_planet = Jakarka
+        home_system = Jaka
+        name_list = "ui_extra_rep1"
+    }
+
+    # 15 - Mumbak
+    estrothi = {
+        name = Mumbak
+        plural = Mumbaks
+        home_planet = Mumbaka
+        home_system = Mumba
+        name_list = "ui_extra_rep1"
+    }
+}
+
