@@ -1,0 +1,123 @@
+﻿### Universum Infinitum
+### Extras
+### Arthropoid 1
+
+ui_extra_mol1 = {
+    ship_names = {
+        generic = {
+            Evudodocuz Cazudivuz Jadudrrnaz Vrrugijiz Ebemphadegaruzz Khenokazz Inelorrarazz Kuaddradrimuz Jagrerinolruz Qebodacoz Wulbreredathuz
+            Nemarlgalaz Nagrnnaaz Zimuserrevez Guzebelnaz Qahirinuz Lirivaaguz Rulolaaz Quckuerrejaz Shutsqiduz Nukrodruz Flomotruraz Ranaduzorogazz
+            Rudavogoz Khimruaboz Kukrukozz Rukebeguz Kammasazz Qebogarikiz Jalridazz Gogrodizz Rodanempozz Qerikahaazz Kaguegoruzz Mubilegrduz Iragevavez
+            Urodikukaz Xiomazraaz Zeaanngaz Jokegebraribozz Qomavavilguz Azradenaz Kamutrnosaz Ezzackkidoz Danolnokavuz Mitckunezz Vakuezrirrudezz
+            Limatcorukaz Dudonumolukoz Joggagizzez Kruejomez Laaromotrodovez Orunatttaz Xemarujaz Evukuzzeruaz Zukkejodovaz Jibadikkaz Mukkagazz
+            Nejedreamamuz Zukkkazcolvovaz Jasuvibaz Gedodrimaaz Zidavamanabroz Vanimudrozz Zudruneduz Tesojomruveruz Vavabudoz Smrattroz Jotcumaaz
+            Quvemagemumazz Vuzzelgaz Xemomododaz Dinutazaz Okoggasonezz Libebanaz Runubujuz Quaginubomorraz Duzzejajikonaz Rukoravekozz Ninazcuzejutaz
+            Jadibigenozz Chuabifuz Silaluarijuvnaz Juvethoginoz Qikanogez Nizrozegejalaz Uriahukuaanuzz Jitsahaazruaz Mijavejizz Seveaduzz Zenisckaz
+            Muzeatthilamezz Uamuavezzuzz Qivejogroruzz Qonuvinaalez Gaahumoraz Khajaarathuz Ralvanunoritruz Janukokulgaz Kazrugingazz
+        }
+
+        corvette = { }
+        destroyer = { }
+        cruiser = { }
+        battleship = { }
+        science = { }
+        colonizer = { }
+        constructor = { }
+
+        mining_station = { }
+        research_station = { }
+        wormhole_station = { }
+        observation_station = { }
+        outpost_station = { }
+
+        military_station_small = { }
+        military_station_medium = { }
+        military_station_large = { }
+    }
+
+    fleet_names = {
+        random_names = {
+            "Hamaaz Space Swarm" "Kuvevex Space Swarm" "Sukvumudi Space Swarm" "Camoth Space Swarm" "Ratthah Space Swarm" "Onuban Space Swarm"
+            "Ajahanacot Space Swarm" "Azokkket Space Swarm" "Ruzras Space Swarm" "Vaattsah Space Swarm" "Cranunith Space Swarm" "Gaconunux Space Swarm"
+            "Izzogr Space Swarm" "Okackorum Space Swarm" "Sthuvogen Space Swarm" "Cyogivaah Space Swarm" "Buavoi Space Swarm" "Kimumd Space Swarm"
+            "Wimuzex Space Swarm" "Zejorager Space Swarm" "Kittecodaz Space Swarm" "Sagovedoze Space Swarm" "Soraas Space Swarm" "Sukkaah Space Swarm"
+            "Penomarex Space Swarm" "Ekenex Space Swarm" "Orununaaa Space Swarm" "Kajaruras Space Swarm" "Inolvirad Space Swarm" "Vascurd Space Swarm"
+            "Smmoth Space Swarm" "Dumazes Space Swarm" "Ajaanuno Space Swarm" "Gaagren Space Swarm" "Kisqinom Space Swarm" "Ebikan Space Swarm"
+            "Kudvuken Space Swarm" "Kugimol Space Swarm" "Izajod Space Swarm" "Zeluathe Space Swarm" "Rulbots Space Swarm" "Gomarux Space Swarm" 
+            Tinikuzed Space Swarm" "Crunil Space Swarm" "Sagrurrux Space Swarm" "Flgelok Space Swarm" "Duzruvoz Space Swarm" "Negrraz Space Swarm"
+            "Sivanom Space Swarm" "Wammanumre Space Swarm" "Vubrux Space Swarm" "Krukinun Space Swarm" "Vrugrath Space Swarm" "Janottth Space Swarm"
+            "Gatenifun Space Swarm" "Rukrozz Space Swarm" "Racosux Space Swarm" "Uguvix Space Swarm" "Jivejem Space Swarm" "Vrukogux Space Swarm"
+            "Zodoma Space Swarm" "Kaurscorom Space Swarm" "Sozodosa Space Swarm" "Nijurimmm Space Swarm" "Ralubanom Space Swarm" "Flkkum Space Swarm"
+            "Canasun Space Swarm" "Kanuackux Space Swarm" "Sthuts Space Swarm" "Timubom Space Swarm" "Tigraz Space Swarm" "Jigirettts Space Swarm"
+            "Ugemmud Space Swarm" "Crinoth Space Swarm" "Jujage Space Swarm" "Jirigimaam Space Swarm" "Qimockez Space Swarm" "Dabogroz Space Swarm"
+            "Okobejex Space Swarm" "Khogugin Space Swarm" "Critabaz Space Swarm" "Qidrmirola Space Swarm" "Ugotith Space Swarm" "Abakod Space Swarm"
+            "Redukod Space Swarm" "Kugukr Space Swarm" "Otebajox Space Swarm" "Ekoddumuz Space Swarm" "Flamon Space Swarm" "Saranodrex Space Swarm"
+            "Qigoga Space Swarm" "Nedoge Space Swarm" "Sudomumat Space Swarm" "Zuanuh Space Swarm" "Stemrrezeh Space Swarm" "Juzzes Space Swarm"
+            "Vibedr Space Swarm" "Irnidd Space Swarm" "Zenerid Space Swarm"
+        }
+        sequential_name = "%O% Space Swarm"
+    }
+
+    army_names = {
+        defense_army      = { sequential_name = "%O% Colony Guard" }
+        assault_army      = { sequential_name = "%O% Invader Swarm" }
+        slave_army        = { sequential_name = "%O% Thrall Swarm" }
+        clone_army        = { sequential_name = "%O% Clone Swarm" }
+        robotic_army      = { sequential_name = "%O% Iron Swarm" }
+        android_army      = { sequential_name = "%O% Synthetic Swarm" }
+        psionic_army      = { sequential_name = "%O% Psychic Swarm" }
+        xenomorph_army    = { sequential_name = "%O% Mutant Swarm" }
+        gene_warrior_army = { sequential_name = "%O% Elite Swarm" }
+    }
+
+    planet_names = {
+        generic = {
+            names = {
+                Qenaza Qumozra Zazinuga Mikkozra Ezrruvuna Qemuza Szeara Duzrna Quzzira Kuvezrora Kezrudoda Nuanaza Wizodoleva Vuniza Mizorenuda Kiziga
+                Szineka Ezravorea Smerizlra Izravusa Whujiozoda Sikozsqa Oviveza Izzrejoka Crrezzuaga Szohibena Rodaza Smurdodaza Vigeza Izrala Juzrama
+                Gnuzza Gnozalga Kuroza Gonakiza Gezlaa Julroza Radadoizza Jizudaha Izeragecka Ruezsa Smuzeja Xezasa Szeaniga Duruaraza Izsula Gnezeha
+                Gnizaa Saluzea Ebuaza Yozoha Izazezema Cazata Sonoza Oreazra Jegozzsuna Chevizeva Vunitraza Ezlgodrua Dezebra Kirazroda Ezavelua Eazinga
+                Zimuziza Sakazaa Karuegazra Flaziga Haazriza Smphizruba Lazlvua Osqazrimua Szarma Izsoirua Nizeja Qazlumpha Zalgaza Ruezora Szrnna Guzera
+                Izugga Izsckima Szrevima Szozrua Jijeza Kazaaha Muazina Szleza Zanozra Duziziba Izemratcka Izsava Nuzrda Mumizadua Izonea Qimokuza Qusazra
+                Duazra Ruzetha Khiziruda Penuboza
+            }
+        }
+
+        pc_desert = { names = { } }
+        pc_tropical = { names = { } }
+        pc_arid = { names = { } }
+        pc_continental = { names = { } }
+        pc_ocean = { names = { } }
+        pc_tundra = { names = { } }
+        pc_arctic = { names = { } }
+    }
+
+    character_names = {
+        default = {
+            full_names = {
+                Okuaz Sazegi Jinazzone Sanoz Vozegex Qozejil Rukkirazz Juzrm Ravezrim Nezada Nazoka Rozox Cazemon Qunozu Zothozz Ajazrakes Ruzzad Valaz
+                Jajuzori Juazuzaat Cazz Razzos Zozzarnu Nuzemrmux Gezud Jazam Izamots Ebuzzubad Qukuzeth Quzzecom Zohazesco Iozosal Harrazadd Nazre Kuzzaah
+                Duveze Oraz Vuzrukun Ormazzrme Anenezru Qersckuz Khukrunuz Gaze Evuze Duduzzo Nunuz Dunuveza Kinazux Kozonex Ajaz Kogaze Azeggah Dukez
+                Ruzrah Vudezat Izza Jaasazos Xezrrazz Hazux Jozom Konozex Gokezesu Ruzah Orezegas Vazam Resazex Azurm Ebozax Rogezazre Pezam Naaraz
+                Azrretts Khidrovez Azam Omuz Kidazred Zudutsazz Sahezza Ruzzes Ruzebom Azex Zozrim Kuzah Didaboz Sazos Saazeh Nuzz Wazras Dascozah Kuzrovex
+                Juguzzel Kuzenes Omubezal Khivivaz Gazrma Kivazegr Kidaaz Zuzrebex Zozoz Evaz
+            }
+
+            first_names = { }
+            second_names = { }
+
+            regnal_first_names = {
+                Ruzex Azre Suzem Izzes Vozux Waze Kozez Azrl Ruze Azrim Zomez Azez Quze Azrah Quzux Iozet Khez Azrul Azes Xemez Izer Kuroz Azel Sozux Duzux
+                Iruz Qozen Izra Xeruz Gezen Sazre Nenez Muzen Rezad Gezah Izoba Quzos Kuoz Vukuz Voza Azah Izah Cazos Vunaz Azard Vazum Zozom Rudaz Ukezz
+                Suhoz Gozah Azuma Wazr Duzz Rezz Sozrm Gazr Inoz Zezun Pezru Kuzzo Kuzoh Izua Nuzz Judoz Zukuz Hazas Qezom Jaza Zonoz Gozam Zoza Kezas Azan
+                Zezah Vidaz Qazod Nazz Vaaz Zuza Qubuz Nuzoh Kazod Kezah Zozze Izath Gaazz Jazas Azza Izal Izas Quzol Ruzum Xesaz Sinuz Vozrd Jacoz Izubu
+                Kozz Quzah
+            }
+
+            regnal_second_names = {
+                Kex Gex Tex Dex
+            }
+        }
+    }
+}
+
