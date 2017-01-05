@@ -53,7 +53,7 @@ ui_extra_rep1 = {
             "Gehand Space Tails" "Kilkax Space Tails" "Nuriba Space Tails" "Pelgarix Space Tails" "Forkas Space Tails" "Jimbak Space Tails"
             "Brodek Space Tails" "Lumberc Space Tails" "Curcut Space Tails" "Opzar Space Tails"
         }
-        sequential_name = "%O% Void Skulkers"
+        sequential_name = "%O% Space Tails"
     }
 
     ### ARMIES

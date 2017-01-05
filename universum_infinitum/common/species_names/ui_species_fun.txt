@@ -1,0 +1,139 @@
+FUN = {
+    ### Extra Fungoid 1 ###
+
+    # 1 - Vaarev
+    vaarev = {
+        name = Vaarev
+        plural = Vaarevi
+        home_planet = Vaarenin
+        home_system = Vaar
+        name_list = "ui_extra_fun1"
+    }
+
+    # 2 - Bhennax
+    bhennax = {
+        name = Bhennax
+        plural = Bhennai
+        home_planet = Bhennan
+        home_system = Bhenn
+        name_list = "ui_extra_fun1"
+    }
+
+    # 3 - Jhool
+    jhool = {
+        name = Jhool
+        plural = Jhools
+        home_planet = Jhoolvib
+        home_system = Jhool
+        name_list = "ui_extra_fun1"
+    }
+
+    # 4 - Udkavon
+    udkavon = {
+        name = Udkavon
+        plural = Udkavians
+        home_planet = Udkaviva
+        home_system = Udkav
+        name_list = "ui_extra_fun1"
+    }
+
+    # 5 - Tendra
+    tendra = {
+        name = Tendra
+        plural = Tendrans
+        home_planet = Tendravva
+        home_system = Tendra
+        name_list = "ui_extra_fun1"
+    }
+
+    # 6 - Pogovongo
+    pogovongo = {
+        name = Pogovongo
+        plural = Pogovongi
+        home_planet = Pogovonoor
+        home_system = Pogo
+        name_list = "ui_extra_fun1"
+    }
+
+    # 7 - Celin
+    celin = {
+        name = Celin
+        plural = Celians
+        home_planet = Celinhaan
+        home_system = Cel
+        name_list = "ui_extra_fun1"
+    }
+
+    # 8 - Pobelimy
+    pobelimy = {
+        name = Pobelimy
+        plural = Pobelimans
+        home_planet = Pobelitoor
+        home_system = Pobel
+        name_list = "ui_extra_fun1"
+    }
+
+    # 9 - Qasvalguvor
+    qasvalguvor = {
+        name = Qasvalguvor
+        plural = Qasvalguvians
+        home_planet = Qasvalgh
+        home_system = Qasva
+        name_list = "ui_extra_fun1"
+    }
+
+    # 10 - Thell
+    thell = {
+        name = Thell
+        plural = Thells
+        home_planet = Thellop
+        home_system = Thell
+        name_list = "ui_extra_fun1"
+    }
+
+    # 11 - Ganlarelviv
+    ganlarelviv = {
+        name = Ganlarelviv
+        plural = Ganlarelvans
+        home_planet = Ganlarelv
+        home_system = Ganlar
+        name_list = "ui_extra_fun1"
+    }
+
+    # 12 - Voolian
+    voolian = {
+        name = Voolian
+        plural = Voolians
+        home_planet = Voolivva
+        home_system = Vool
+        name_list = "ui_extra_fun1"
+    }
+
+    # 13 - Provalyvian
+    provalyvian = {
+        name = Provalyvian
+        plural = Provalyvians
+        home_planet = Provalyvaluus
+        home_system = Provalyvia
+        name_list = "ui_extra_fun1"
+    }
+
+    # 14 - Qasvalyvian
+    qasvalyvian = {
+        name = Qasvalyvian
+        plural = Qasvalyvians
+        home_planet = Qasvalyviaaq
+        home_system = Qasvaaq
+        name_list = "ui_extra_fun1"
+    }
+
+    # 15 - Varevellin
+    varevellin = {
+        name = Varevellin
+        plural = Varevellians
+        home_planet = Varevellegh
+        home_system = Varevell
+        name_list = "ui_extra_fun1"
+    }
+}
+

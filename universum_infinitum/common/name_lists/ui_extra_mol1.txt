@@ -1,0 +1,127 @@
+﻿### Universum Infinitum
+### Extras
+### Molluscoid 1
+
+ui_extra_mol1 = {
+    ship_names = {
+        generic = {
+            Lollopposch Schassigga Iggasch Poggalusch Schlum Ygglensch Kaggon Poggala Kasch Iggaschglur Wuegg Iggalusch Lurgaggus Wossh Dhashka Paddagssul
+            Ioggam Glopoggalws Loggasch Jurgloib Tillga Jurglur Wagolassul Wossaggloib Gischlasch Tugglensch Tillgeb Aggurss Pascha Bisch Yssaggoib Paddagh
+            Liggab Uschatt Schlaglurg Wirglur Ukasch Igorssob Maggor Ioggascha Iraggar Sothhalisch Halgusch Mirglur Kaggassch Glopoggon Badheigglar Sismuascha
+            Angogish Schlopoggon Muasch Gawaggalws Korgjasch Lurgla Lurga Kopebuglur Jabbloug Jallgunsch Dorgil Wossaggsch Waggon Oggascha Palsch Iggish
+            Jurgass Gawagg Ygglur Havaggajis Paggogish Uloud Schalischa Gloip Schala Pathaggalws Havaggora Gasch Agguld Jagga Guklosch Uggor Dorga Pasch
+            Lurglur Mirglurga Gawaggla Jurglarssob Oggass Bischlasch Powaggoib Gawagglar Uglana Obroggloib Kaggaluss Ograggala Jaschoib Ugasch Glopoggam
+            Umascha Angogis Goggla Aglurgagg Jakuschma Paggalws Kuarreggla Schlog Ymbdagssul Uggon Ymbdagh Ugascholg Abusch Havagga Palschib Schlopposch
+            Boldroscha Boldroschgo Withlass Sschlumon Schlur Ygglosch Laggalusch Ijagss Havaggam Yssag Wirglun Dugglun Kagga Alass Sshlog Ogasch Igora Gigglana
+            Ygglar Jasch Halgorss Alasch Kasablasch Palschatt Jurga Schaglumon Kaggass Uggoggora Mulgryschma Gijjiggasch Nahalisch Schlassch Gijjiggal Dorgjaschgo
+            Ograggasch Yggsch Uggogish Palschashka Poggon Sschaglun Bossh Halguschegg Tillgusch Angogg Dugglar Yggschassch Gaschegg Gukloschgo Illischatt
+            Argaggasch Schlasch Liggajis Sagga Kaschib Waggal Glopposch Glopogg Obrogga Schlurglana Maggurss Powagg Sossh Gaggal Jascha Schlurg Gischass Ymbdagur
+            Paschegg Joglorg Wirglana Oggaschib Nimbhalasch Ogragga Bafghuldir Nimbhalgor Uglaschegg Sugglir Gijjiggass Kaggur Wossgar Logga Pathagg Paschala
+            Saggora Umaschatt Iggab Ghundagurss Gaggasch Bakhuegglun Iraggur Tegglass Iragga Gagglossag Gloph Paggasch Illiss Wagolassch Muaschalgor Abuschatt
+            Mirgla Jagglorg Gawaggasch Iogglum Powaggaluss Goggass Aglusch Aglur Nimbhloph Uggorss Gamuath Paddagurss Havagg Laggur Maggam Ygglun Ukascha Kaggor
+            Logglasch Joglosch Mirglarssob Muaschlog Jagglir Eglarssob Iggaluscha Jogloip Dorgascha Gorga Agluss Wirgla Schlurglar Nimbhalga Argasch Paggala
+            Ioggass Uschlum Saggoib Aglurg Iraggasch Ghundagssul Ijagssulh Dhass Wuegglensch Asigur Jallga Gohlobbjor Saloib Haggalusch Wirglar Plidbogga
+            Sshlopogg Tuggla Wirglasch Mirglun Wirglurgass Iggajis Tuggen
+        }
+
+        corvette = { }
+        destroyer = { }
+        cruiser = { }
+        battleship = { }
+        science = { }
+        colonizer = { }
+        constructor = { }
+
+        mining_station = { }
+        research_station = { }
+        wormhole_station = { }
+        observation_station = { }
+        outpost_station = { }
+
+        military_station_small = { }
+        military_station_medium = { }
+        military_station_large = { }
+    }
+
+    fleet_names = {
+        random_names = {
+            "Hussogh Flotilla" "Reggisch Flotilla" "Ithaggirim Flotilla" "Juraggam Flotilla" "Reggi Flotilla" "Paggi Flotilla" "Juraggirim Flotilla"
+            "Ithaggisch Flotilla" "Paggisch Flotilla" "Juragga Flotilla" "Juraggisch Flotilla" "Ithaggam Flotilla" "Reggirim Flotilla" "Meggam Flotilla"
+            "Shoggwoss Flotilla" "Fing'ollace Flotilla" "Boggor Flotilla" "Lurgga Flotilla" "Paggam Flotilla" "Ithaggi Flotilla" "Meggi Flotilla"
+            "Meggirim Flotilla" "Pagga Flotilla" "Megga Flotilla" "Regga Flotilla"
+        }
+        sequential_name = "%O% Flotilla"
+    }
+
+    army_names = {
+        defense_army      = { sequential_name = "%O% Shell Guard" }
+        assault_army      = { sequential_name = "%O% Storm Strikers" }
+        slave_army        = { sequential_name = "%O% Thrall Horde" }
+        clone_army        = { sequential_name = "%O% Expendable Troopers" }
+        robotic_army      = { sequential_name = "%O% Iron Shells" }
+        android_army      = { sequential_name = "%O% Synthetic Shells" }
+        psionic_army      = { sequential_name = "%O% Psychic Troopers" }
+        xenomorph_army    = { sequential_name = "%O% Xenomorph Swarm" }
+        gene_warrior_army = { sequential_name = "%O% Augmented Shells" }
+    }
+
+    planet_names = {
+        generic = {
+            names = {
+                Raggrugg Weggrim Magga Weggrug Uldruggmem Gluggrim Tuggsul Tuggenjaal Tuggrathi Gluggaschim Uldruggrim Tuggmem Gablor Uldruggbafh Glugg
+                Uldrug Maggam Raggrathi Gurasch Gluggri Bhugdhei Agglorr Rutoschim Riblaggam Glugga Schlurgi Weggrathi Gluggdhen Gluggani Maggasch
+                Gluggrathi Raggaschim Uggruggani Tuggasch Maggaben Uggrathi Uldruggdhei Raggam Tuggobder Raggri Gluggam Maggani Riblaggani Raggrug Ragga
+                Maggri Riblaggaben Bhafschim Raggaben Tuggaben Tuggduur Maggruggow Tuggbafh Bhagschim Raggasch Riblaggrim Raggrim Tuggdhei Riblaggrug
+                Uggri Uggruggsul Maggrim Maggruggmem Riblaggri Raggruggow Tuggdhen Uldruggaben Tugguld Uldruggow Uldruggani Uldruggsul Uldrugguld Riblaggasch
+                Uggrug Maggrug Uldrugga Maggaschim Uggruggduur Uggruggdhei Tuggrug Uggruggasch Tugga Uldruggduur Maggruggani Tuggani Tuggow Raggruggmem
+                Uldruggam Uggrugg Uggruggaben Weggrugguld Uggrugguld Uldruggdhen Uldruggasch Tuggaschim Uldruggrug Tuggrim Uldruggri Gluggruggri Weggruggsul
+                Uggruggow Raggrugguld Tuggri Weggruggow Uggruggmem Weggruggani Weggruggrug Uggrugga Uggruggbafh Gluggrugg Maggrugguld Raggruggam Weggruggmem
+                Gluggrugga Weggruggam Tuggruggmem Uggruggam Gluggruggam Weggrugga Raggruggani Uggruggrim Maggrugga Riblaggrugg Maggruggri Uggruggri Raggrugga
+                Raggruggsul Weggruggri Gluggruggow Maggrugg Weggruggrim Raggruggri Uggruggdhen Weggrugg Maggruggsul Maggruggrug Uggruggrug Tuggruggsul
+                Maggruggrim Tuggruggam Maggruggam Tuggruggani Tuggruggow Raggruggrim Raggruggrug Uggruggrugg Tuggrugguld Tuggruggri
+            }
+        }
+
+        pc_desert = { names = { } }
+        pc_tropical = { names = { } }
+        pc_arid = { names = { } }
+        pc_continental = { names = { } }
+        pc_ocean = { names = { } }
+        pc_tundra = { names = { } }
+        pc_arctic = { names = { } }
+    }
+
+    character_names = {
+        default = {
+            full_names = {
+                Bahgs Aboglorig Shuss Waddahgfier Paggreb Shussell Pagglosch Daggreb Glorig Adrim Schlaro Tulangam Aboglosch Slerm Shuggreb Shussewal
+                Slerhushk Gloschulg Taggro Regglerm Sunga Alorimga Malungam Pablaschulg Saggro Sagglargim Weguth Schulg Gahhushk Sirthlin Aboglorim
+                Maluggeth Shugglorim Saggreb Regglaam Bagglerm Fernhussell Sagguth Malunga Baggreb Sungord Pagguttrim Slugraam Bakuggro Wuhglargim
+                Shuggeth Bakugglor Aschuldess Tagglor Tagglorig Bagglorig Malugradeb Sagglosch Regglosch Shugglosch Daggro Bakugglorig Dagglargim
+                Slerhussell Dosch Alorim Bagglerhuss Shuggro Wuhglaro Dagglor Tagguth Shuggethmar Maluggro Dagglerfuj Dagglaam Shugglaam Pagglorig
+                Pagglor Gahhussewal Tagguttrim Taggreb Sluggro Saggleruni Fernhushk Pagglaam Bagglor Shugglor Doschgradeb Gahhussell Tagglaam Bagguttrim
+                Bakuggreb Pagguth Malugraam Sagglorim Taruuschulg Sagglaam Doschgraam Slugglorig Shugglorig Malugglaam Sluggreb Bagglargim Reggleruni
+                Baggro Sagglorig Aschgradeb Pagglorim Regglorig Doschuldess Sagglerfuj Bagglerfuj Dagguttrim Bakugglorim Sagglerm Malugglor Taggleruni
+                Sluggethmar Slugglor Pagglerhuss Regglargim Regglerhuss Sluggeth Tagglosch Pagglerm Bagglorim Bagguth Weguttrimga Pagglaro Shuggleruni
+                Bakugglaro Dagglorim Slugglerfuj Dagglosch Aboglorimga Regglerfuj Regglaro Dagglerm Aschulg Gloschgraam Bagglorimga Sagguttrim Bagglaam
+                Slugglerm Bakugglerm Regglorim Pagglargim Paggleruni Sagglaro Shugglaro Pagglerfuj Dagglorig Sagglorimga Slugglorim Bagglaro Glorimga
+                Daggleruni Tagglerfuj Tagglargim Slugglaam Dagglaro Pagglorimga Regglorimga Bakugglaam Dagglorimga Bakugglosch Slugglosch Shugglerfuj
+                Baggleruni Tagglorim Sagglerhuss Sluggleruni Tagglerm Malugglorig Malugglosch Slugglargim Malugglorim Malugglaro Slugglaro Tagglerhuss
+                Tagglorimga Dagglerhuss Shugglargim Malugglerm
+            }
+
+            first_names = { }
+            second_names = { }
+
+            regnal_first_names = {
+                Sagglosch Dagglorimga Adrim Regglosch Bagglor Sunga Pagguth Pagguttrim Glorimga Bagguth Pagglor Dagglorim Dagglosch Tulangam Daggro Baggro
+                Bagguttrim Sagglorim Dagguttrim Regglorim Bagglorim Sagguth Pagglosch Saggro Weguth Dagglor Sagglorimga Regglorimga Weguttrimga Pagglorim
+            }
+
+            regnal_second_names = {
+                Sscha Daggschlass
+            }
+        }
+    }
+}
+

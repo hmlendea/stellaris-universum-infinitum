@@ -1,0 +1,190 @@
+﻿### Universum Infinitum
+### Extras
+### Fungoid 1
+
+ui_extra_fun1 = {
+    ship_names = {
+        generic = {
+            Algobeem Pethreem Hestareem Argobeem Rasheem Neerokeem Yrlivafin Libareem Asibb Gfaleeyup Houtrieeg Undareem Utharomeen Boltreem Gfaleem
+            Ugareem Nargobeem Karbageem Uliasbeem Sindoreem Mogoneem Evadnob Savironeem Fingavv Sraknoreem Driva Daareem Bufflabb Omadeem Patheem Masheem
+            Hestarobeem Uldorneem Eriothoreem Lyrrasmadd Sepavabb Cuffeem Othafeem Ruuvgrud Ondagrid Muldareem Keleehn Elgordeem Iblargudd Ysabb Purgareem
+            Ytharabeem Endorneem Ytharomeen Ondaraguud Iblabeem Nargoreem Otharabeem Fleehn Ovgarabeem Dolav Irrigav Daarnobeem Libaremt Ivijhareem Solbareem
+            Indareem Yehmagreem Ondaryyn Undaryyn Murgareem Savirbeem Baliasbeem Bufflabeem Horbadeem Kashgadeem Solteem Sulabeem Othareem Ondagreem Undarabeem
+            Astoribeem Urascameen Uliav Muldaraguud Urigav Salav Ythafeem Putrend Cufflabeem Mashbadeem Ythlabb Fleem Nagrineem Iblabb Undageem Lothoreem
+            Indagrineem Mantharemt Vabreem Petheem Vvibbava Avabbiva Savabb Yehmadd
+        }
+
+        corvette = {
+        }
+
+        destroyer = {
+        }
+
+        cruiser = {
+        }
+
+        battleship = {
+        }
+
+        science = {
+        }
+
+        colonizer = {
+        }
+
+        constructor = {
+        }
+
+        mining_station = { }
+        research_station = { }
+        wormhole_station = { }
+        observation_station = { }
+        outpost_station = { }
+
+        military_station_small = {}
+        military_station_medium = {}
+        military_station_large = {}
+    }
+
+    fleet_names = {
+        random_names = {
+            "Kuthoolag Spore Fleet" "Urdooloho Spore Fleet" "Urdoloho Spore Fleet" "Lurdool Spore Fleet" "Hureeh Spore Fleet" "Moregh Spore Fleet"
+            "Yrdualaan Spore Fleet" "Greeh Spore Fleet" "Kuthoolock Spore Fleet" "Qroog Spore Fleet" "Hureelmash Spore Fleet" "Lishurabb Spore Fleet"
+            "Forgoolock Spore Fleet" "Ordoosh Spore Fleet" "Urdoosh Spore Fleet" "Fraglogo Spore Fleet" "Ordool Spore Fleet" "Lurdualaan Spore Fleet"
+            "Hologg Spore Fleet" "Hathurdool Spore Fleet" "Hathuuna Spore Fleet" "Shaglogg Spore Fleet" "Lurduulag Spore Fleet" "Huvvabb Spore Fleet"
+            "Croglogo Spore Fleet" "Holovv Spore Fleet" "Hoorebbavad Spore Fleet" "Finavad Spore Fleet" "Thurr Spore Fleet" "Hurdologg Spore Fleet"
+            "Thurdoosh Spore Fleet" "Juavfinava Spore Fleet" "Zebbava Spore Fleet" "Kuthooregh Spore Fleet" "Forgoolaga Spore Fleet" "Polock Spore Fleet"
+            "Hurdolock Spore Fleet" "Hurdoosh Spore Fleet" "Hurdualaan Spore Fleet" "Lurdologo Spore Fleet" "Guava Spore Fleet" "Hathuurgla Spore Fleet"
+            "Morebbilv Spore Fleet" "Shanbaloog Spore Fleet" "Vvinfin Spore Fleet" "Pologo Spore Fleet" "Yrduulag Spore Fleet" "Lurduulaga Spore Fleet"
+            "Fragloo Spore Fleet" "Holoho Spore Fleet" "Shagloogm Spore Fleet" "Finava Spore Fleet" "Guavfin Spore Fleet" "Urdoolovv Spore Fleet"
+            "Fragloogm Spore Fleet" "Lishurr Spore Fleet" "Hurdool Spore Fleet" "Kuthoolovv Spore Fleet" "Urdolock Spore Fleet" "Poloho Spore Fleet"
+            "Zebbavad Spore Fleet" "Urduulaga Spore Fleet" "Grothjod Spore Fleet" "Shaglogo Spore Fleet" "Hoolaga Spore Fleet" "Holock Spore Fleet"
+            "Hoolag Spore Fleet" "Lurdolock Spore Fleet" "Lurdologg Spore Fleet" "Crogloo Spore Fleet" "Forgool Spore Fleet" "Ordoolag Spore Fleet"
+            "Ordoolock Spore Fleet" "Vvinfinavad Spore Fleet" "Urdologo Spore Fleet" "Juava Spore Fleet" "Shanbaloogm Spore Fleet" "Juavfinavad Spore Fleet"
+            "Ordoolovv Spore Fleet" "Urdool Spore Fleet" "Pologg Spore Fleet" "Thurdologg Spore Fleet" "Ordologg Spore Fleet" "Morebbavad Spore Fleet"
+            "Guavfinavad Spore Fleet" "Hoorebbilv Spore Fleet" "Hathureeh Spore Fleet" "Urdologg Spore Fleet" "Kuthooloho Spore Fleet" "Fragloog Spore Fleet"
+            "Lurdoolag Spore Fleet" "Forgoologg Spore Fleet" "Lurdoolovv Spore Fleet" "Urdolovv Spore Fleet" "Lurdoolock Spore Fleet" "Hurduulag Spore Fleet"
+            "Hoologg Spore Fleet" "Kuthoolaga Spore Fleet" "Forgooloho Spore Fleet" "Ordoologg Spore Fleet"
+        }
+        sequential_name = "%O% Spore Fleet"
+    }
+
+    army_names = {
+        defense_army = {
+            sequential_name = "%O% Defence Spores"
+        }
+
+        assault_army = {
+            sequential_name = "%O% Assault Spores"
+        }
+
+        slave_army = {
+            sequential_name = "%O% Chained Regiment"
+        }
+
+        clone_army = {
+            sequential_name = "%O% Clone Platoon"
+        }
+
+        robotic_army = {
+            sequential_name = "%O% Mechanized Spore Host"
+        }
+
+        android_army = {
+            sequential_name = "%O% Cyberfungi"
+        }
+
+        psionic_army = {
+            sequential_name = "%O% Psi Host"
+        }
+
+        xenomorph_army = {
+            sequential_name = "%O% Sporemorphs"
+        }
+
+        gene_warrior_army = {
+            sequential_name = "%O% Storm Caps"
+        }
+    }
+
+    planet_names = {
+
+        generic = {
+            names = {
+                Arlavafinev Arlavan Batoor Bhanguur Cinfin Civareed Civareen Cufferaakh Cufferaaq Davfinev Efiguur Efiguurem Efinev Falagh Faliidh
+                Falmeed Favillop Fheed Fhengoor Fhenne Filav Filava Flugeerdaga Ghandreelen Ghanguukh Ghirgaamen Ghirgav Habraakh Hugiv Hugivva Iplibbyn
+                Jalmareen Jalmeedhun Javib Jhiva Julkoduurem Kaljpherem Kaquur Kaquus Karaluudhal Karand Kenjaam Kharabeed Kharanaag Kharandh Kharndoondh
+                Kharndoorgh Kharombeem Knuum Knuumen Krombeedegh Krombeem Nihisquurem Odalkhaadgh Onadraaq Ondaar Ophaluus Pabdeel Pabdoor Paraaq Parabarand
+                Ponsavan Qlaruum Qraluhaad Qraluhaan Qraluus Qurliigh Sabaraakh Sabaranaagh Sahuug Sahuuligh Sahuus Sanguukh Saphuused Saranava Sarombeem
+                Sepiavafin Seraaq Seraphaluus Seraphandh Seroon Seroondaar Shondh Shuul Shuuligh Shuus Sohoodeph Sohoor Ularabeem Ularaluen Ularuum Ularuumen
+                Ularuumjal Upaad Vurgivva Wanava Woraal Woraan Xurgivv Yvven
+            }
+        }
+
+        pc_desert = {
+            names = {
+            }
+        }
+
+        pc_tropical = {
+            names = {
+            }
+        }
+
+        pc_arid = {
+            names = {
+            }
+        }
+
+        pc_continental = {
+            names = {
+            }
+        }
+
+        pc_ocean = {
+            names = {
+            }
+        }
+
+        pc_tundra = {
+            names = {
+            }
+        }
+
+        pc_arctic = {
+            names = {
+            }
+        }
+
+    }
+
+    character_names = {
+        default = {
+            full_names = {
+                Addava Vinavtab Hmaag Haddiv Elgothuun Avvalurd Uravvbad Maiva Thrumaalurd Jhutleesh Rivval Pubgluud Uhliava Vagorgh Gurloor Mashgreel
+                Kaghoreel Finavtab Oleghatuurh Uhliadd Thuum Vinadd Shabava Vaggatuum Humiig Vvafin Joaddavv Spurbliigol Navvaluur Crellfinavv Ufinavv
+                Yidfrileeg Bubad Qovva Addaddfin Qovvava Avval Hobloor Balvivav Gabbavv Vagoriim Rivvav Finavv Oveliaddfin Kasvalurd Shabanva Thuun
+                Spurbliguum Oleghatuum Dulavvavadd Kovublaana Vaddabbiva Pugleeg Pivve Finava Huurh Bubaddadd Qovvav Havfinavtab Thrumaaluud Waddavv
+                Hingoriim Sonnava Kasval Shunblorgh Cibbava Doglava Uravva Laravvbadd Yidfrileesh Cevvav Huavaddadd Vagorilv Gallvava Rivve Livvavafad
+                Dagglog Avvavan Joaddadd Gurloon Pivvyl Oveliavan Oveliava Shabavv Cevval Cibbad Cibbavafin Dulavv Maivava Avafinava Uavan Ajbvava
+                Addabbav Elgicroonh Avvav Davadd Paddavv Bubaddiv Ravafin Livval
+            }
+
+            first_names = {
+            }
+
+            second_names = {
+            }
+
+            regnal_first_names = {
+                Ilmanahek Printotek Mashgreel Elgothuum Mishgirg Igorgh Regalotek Alabaratek Xarxotek Ultimotek Hingoriotek Hingoriim Horiim Dianamotek
+                Xarxotek Gargantek Igoriotek Monarhotek Dagglog Krokotek Furiotek Horiotek Epirotek Vaggatuum Cerberotek Igoriotek Dianamotek
+            }
+
+            regnal_second_names = {
+                Waqqava Ilmaqa Xarvull
+            }
+        }
+    }
+}
+
