@@ -47,7 +47,7 @@ REP = {
     }
 
     # 6 - Gargan
-    estrothi = {
+    gargan = {
         name = Gargan
         plural = Gargans
         home_planet = Gargaka
@@ -74,7 +74,7 @@ REP = {
     }
 
     # 9 - Arhek
-    estrothi = {
+    arhek = {
         name = Arhek
         plural = Arheks
         home_planet = Arheka
@@ -83,7 +83,7 @@ REP = {
     }
 
     # 10 - Brakan
-    estrothi = {
+    brakan = {
         name = Brakan
         plural = Braks
         home_planet = Braka
@@ -92,7 +92,7 @@ REP = {
     }
 
     # 11 - Repakor
-    estrothi = {
+    repakor = {
         name = Repakor
         plural = Repaks
         home_planet = Repaka
@@ -101,7 +101,7 @@ REP = {
     }
 
     # 12 - Kvarx
-    estrothi = {
+    kvarx= {
         name = Kvarx
         plural = Kvars
         home_planet = Kvarka
@@ -110,7 +110,7 @@ REP = {
     }
 
     # 13 - Halk
-    estrothi = {
+    halk = {
         name = Halk
         plural = Halks
         home_planet = Halka
@@ -119,7 +119,7 @@ REP = {
     }
 
     # 14 - Jakar
-    estrothi = {
+    jakar = {
         name = Jakar
         plural = Jakars
         home_planet = Jakarka
@@ -128,7 +128,7 @@ REP = {
     }
 
     # 15 - Mumbak
-    estrothi = {
+    mumbak = {
         name = Mumbak
         plural = Mumbaks
         home_planet = Mumbaka

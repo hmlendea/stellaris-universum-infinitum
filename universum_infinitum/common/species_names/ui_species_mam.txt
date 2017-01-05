@@ -65,7 +65,7 @@ MAM = {
     }
 
     # 8 - Zalbor
-    estrothi = {
+    zalbor = {
         name = Zalbor
         plural = Zalbors
         home_planet = Zalthe
@@ -74,7 +74,7 @@ MAM = {
     }
 
     # 9 - Ciumeg
-    estrothi = {
+    ciumeg = {
         name = Ciumeg
         plural = Ciumegs
         home_planet = Ciuthe
@@ -83,7 +83,7 @@ MAM = {
     }
 
     # 10 - Trok
-    estrothi = {
+    trok = {
         name = Trok
         plural = Troks
         home_planet = Trothe
@@ -92,7 +92,7 @@ MAM = {
     }
 
     # 11 - Stuvihn
-    estrothi = {
+    suvihn = {
         name = Stuvihn
         plural = Stuvihns
         home_planet = Stuvithe
@@ -101,7 +101,7 @@ MAM = {
     }
 
     # 12 - Kvastor
-    estrothi = {
+    kvastor = {
         name = Kvastor
         plural = Kvastors
         home_planet = Kvathe
@@ -110,7 +110,7 @@ MAM = {
     }
 
     # 13 - Belenud
-    estrothi = {
+    belenud = {
         name = Belenud
         plural = Belenuds
         home_planet = Belenuthe
@@ -119,7 +119,7 @@ MAM = {
     }
 
     # 14 - Crostor
-    estrothi = {
+    crostor = {
         name = Crostor
         plural = Crostors
         home_planet = Crosthe
@@ -128,7 +128,7 @@ MAM = {
     }
 
     # 15 - Stahlen
-    estrothi = {
+    stahlen = {
         name = Stahlen
         plural = Stahlens
         home_planet = Stahlthe
