@@ -2,7 +2,7 @@
 ### Extras
 ### Reptilian 2
 
-ui_extra_rep1 = {
+ui_extra_rep2 = {
     ship_names = {
         generic = {
             Vudeelpent Topeethuspent Chankaatupent Wuleezpent Pajeempent Kluleenpent Usheeuspent Beenazapent Jaraleelpent Deetulpent Mobareelpent
