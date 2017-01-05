@@ -65,7 +65,7 @@ REP = {
     }
 
     # 8 - Xork
-    estrothi = {
+    xork = {
         name = Xork
         plural = Xorks
         home_planet = Xorka
@@ -134,6 +134,143 @@ REP = {
         home_planet = Mumbaka
         home_system = Mumba
         name_list = "ui_extra_rep1"
+    }
+
+    ### Extra Reptilians 2 ###
+
+    # 1 - Vudeelan
+    vudeelan = {
+        name = Vudeelan
+        plural = Vudeelans
+        home_planet = Vudeelesh
+        home_system = Vudee
+        name_list = "ui_extra_rep2"
+    }
+
+    # 2 - Jareed
+    jareed = {
+        name = Jareed
+        plural = Jareedis
+        home_planet = Jareedeef
+        home_system = Jar
+        name_list = "ui_extra_rep2"
+    }
+
+    # 3 - Nuleeya
+    nuleeya = {
+        name = Nuleeya
+        plural = Nulei
+        home_planet = Nuleeyst
+        home_system = Nul
+        name_list = "ui_extra_rep2"
+    }
+
+    # 4 - Teekas
+    teekas = {
+        name = Teekas
+        plural = Teekasi
+        home_planet = Teekash
+        home_system = Teek
+        name_list = "ui_extra_rep2"
+    }
+
+    # 5 - Eleed
+    cugovug = {
+        name = Kron
+        plural = Krons
+        home_planet = Kronka
+        home_system = Kron
+        name_list = "ui_extra_rep2"
+    }
+
+    # 6 - Terezeer
+    terezeer = {
+        name = Terezeer
+        plural = Terezians
+        home_planet = Terezesh
+        home_system = Terez
+        name_list = "ui_extra_rep2"
+    }
+
+    # 7 - Kelst
+    kelst = {
+        name = Kelst
+        plural = Kelsti
+        home_planet = Kelstish
+        home_system = Kel
+        name_list = "ui_extra_rep2"
+    }
+
+    # 8 - Weeba
+    weeba = {
+        name = Weeba
+        plural = Weebas
+        home_planet = Weebash
+        home_system = Weeb
+        name_list = "ui_extra_rep2"
+    }
+
+    # 9 - Skeeh
+    skeeh = {
+        name = Skeeh
+        plural = Skeehians
+        home_planet = Skeehis
+        home_system = Skeeh
+        name_list = "ui_extra_rep2"
+    }
+
+    # 10 - Garash
+    garash = {
+        name = Garash
+        plural = Garashi
+        home_planet = Garash
+        home_system = Gara
+        name_list = "ui_extra_rep2"
+    }
+
+    # 11 - Debam
+    debam = {
+        name = Debam
+        plural = Debamians
+        home_planet = Debamhon
+        home_system = Deba
+        name_list = "ui_extra_rep2"
+    }
+
+    # 12 - Skalash
+    skalash = {
+        name = Skalash
+        plural = Skalasians
+        home_planet = Skalashon
+        home_system = Skala
+        name_list = "ui_extra_rep2"
+    }
+
+    # 13 - Handish
+    handish = {
+        name = Handish
+        plural = Handishi
+        home_planet = Handishess
+        home_system = Hand
+        name_list = "ui_extra_rep2"
+    }
+
+    # 14 - Scarmothim
+    scarmothim = {
+        name = Scarmothim
+        plural = Scarmotians
+        home_planet = Scarmotrom
+        home_system = Scar
+        name_list = "ui_extra_rep2"
+    }
+
+    # 15 - Beltarr
+    beltarr = {
+        name = Beltarr
+        plural = Beltarri
+        home_planet = Beltarris
+        home_system = Belta
+        name_list = "ui_extra_rep2"
     }
 }
 
