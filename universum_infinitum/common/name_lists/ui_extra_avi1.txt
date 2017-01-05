@@ -1,0 +1,121 @@
+﻿### Universum Infinitum
+### Extras
+### Avian 1
+
+ui_extra_avi1 = {
+    ship_names = {
+        generic = {
+            Ileralyn Linisyn Lyphyn Lytelen Dysinean Ocyphyllen Dorynalan Dhyleniann Tynanerenon Iollyn Tylysin Lylorin Orylen Aenyreryn Gyphyryninn Linynn
+            Nyphyn Dorynerinin Norisiryron Thialyphin Nynyninon Iaphineryn Nyphen Goenenavyn Ocaleloyn Typhinonin Xyrelelelin Xyrellin Gylelen Hynelalien Typhin
+            Salynon Pesellisyn Nynyphonn Tynelyrien Typhellin Loryrgesyan Hyphan Iolyphiean Hyapyn Hyphirin Thyorin Lyrenn Dyrorisin Xinorynn Hylirinoryn Aryryphyn
+            Illelyn Synorynan Tylisyavonn Liphynin Yerynon Gwylolin Zelystoloen Cyphien Dyloran Tyllyvoryn Ocyphynin Ocylon Lynevian Cyrinn Petholyn Hynanenon
+            Lyoren Tyanesin Lyphin Typhian Hyoneonon Lyphien Gynollyn Cylenen Gwyorin Gwynin Nyphin Ocyanan Sylenasan Dytineriran Theloyan Vynean Ocynorin
+            Vyrorynerin Nollolyn Sanelearyn Nyriaenavon Laleranyn Norylyn Ocynoraphin Tyryphin Zephyn Bephynin Hyalyn Nynyninorin Nyphynn Lyphian Myniaemorin
+            Heshynin Cenethyryn Vysyphyn Vonynereron Ilyphon
+        }
+
+        corvette = { }
+        destroyer = { }
+        cruiser = { }
+        battleship = { }
+        science = { }
+        colonizer = { }
+        constructor = { }
+
+        mining_station = { }
+        research_station = { }
+        wormhole_station = { }
+        observation_station = { }
+        outpost_station = { }
+
+        military_station_small = { }
+        military_station_medium = { }
+        military_station_large = { }
+    }
+
+    fleet_names = {
+        random_names = {
+             "Nethoyre Star Wings" "Glarylyniae Star Wings" "Zelyroenonae Star Wings" "Tyloreponne Star Wings" "Neninoraryne Star Wings" "Lyphinoe Star Wings"
+             "Dhynaere Star Wings" "Ocyserie Star Wings" "Syoyrylle Star Wings" "Tyriarease Star Wings" "Noylleriare Star Wings" "Hyryphere Star Wings"
+             "Nynerysane Star Wings" "Cypheolare Star Wings" "Cynisaline Star Wings" "Syphynelelie Star Wings" "Nypherianne Star Wings" "Veremerisyne Star Wings"
+             "Typhinone Star Wings" "Hylylere Star Wings" "Hyphiretynoe Star Wings" "Xylirine Star Wings" "Lynoryle Star Wings" "Tyneaphe Star Wings"
+             "Hyronerie Star Wings" "Tynirere Star Wings" "Tynaralese Star Wings" "Dypheste Star Wings" "Nynorenore Star Wings" "Favyrele Star Wings"
+             "Yesoryrele Star Wings" "Lynnephe Star Wings" "Nelyrenoe Star Wings" "Hyrorise Star Wings" "Xypheryphe Star Wings" "Dylonore Star Wings"
+             "Gloriaellyae Star Wings" "Myphisinae Star Wings" "Tyonerene Star Wings" "Iaeloryphore Star Wings" "Typhisthie Star Wings" "Tyoraroe Star Wings"
+             "Lysininete Star Wings" "Volynine Star Wings" "Gwyalene Star Wings" "Ocyninevyphe Star Wings" "Yellavyne Star Wings" "Gwyvyphene Star Wings"
+             "Lyneraresere Star Wings" "Olelysyrelle Star Wings" "Ocylyphynore Star Wings" "Dorielyle Star Wings" "Gwysypynirie Star Wings"
+             "Cylaphynaeme Star Wings" "Lysylyle Star Wings" "Cynialynae Star Wings" "Solyphiaphe Star Wings" "Iavoresyrere Star Wings" "Typhynane Star Wings"
+             "Hyteanane Star Wings" "Phoyteryve Star Wings" "Tyshiane Star Wings" "Tyoryrelyle Star Wings" "Mynoriahone Star Wings" "Gwyllollerae Star Wings"
+             "Bevysine Star Wings" "Ocyorelophe Star Wings" "Tynniane Star Wings" "Orelyophe Star Wings" "Tynollyle Star Wings" "Gwyrgere Star Wings"
+             "Dhisasyale Star Wings" "Nyphininore Star Wings" "Dhyphorgete Star Wings" "Tyaelyae Star Wings" "Tynorinoe Star Wings" "Hynororyphe Star Wings"
+             "Synanyse Star Wings" "Syphyphanere Star Wings" "Loyphine Star Wings" "Xyphinne Star Wings" "Tyloriephe Star Wings" "Seranoryle Star Wings"
+             "Nyvallolane Star Wings" "Lyonerge Star Wings" "Lynierore Star Wings" "Herelyoephe Star Wings" "Cyanishe Star Wings" "Lynysene Star Wings"
+             "Marypheryle Star Wings" "Ocynisyre Star Wings" "Lyanephiare Star Wings" "Lysthyoe Star Wings" "Voylyrephete Star Wings" "Thyphysie Star Wings"
+             "Tyaneallore Star Wings" "Dereryphe Star Wings" "Mynnelyle Star Wings" "Typheriene Star Wings" "Iearialyae Star Wings"
+        }
+        sequential_name = "%O% Space Swarm"
+    }
+
+    army_names = {
+        defense_army      = { sequential_name = "%O% Defence Harpies" }
+        assault_army      = { sequential_name = "%O% Invasion Harpies" }
+        slave_army        = { sequential_name = "%O% Chained Army" }
+        clone_army        = { sequential_name = "%O% Replicated Harpies" }
+        robotic_army      = { sequential_name = "%O% Steel Harpies" }
+        android_army      = { sequential_name = "%O% Synthetic Harpies" }
+        psionic_army      = { sequential_name = "%O% Psionic Harpies" }
+        xenomorph_army    = { sequential_name = "%O% Mutant Flock" }
+        gene_warrior_army = { sequential_name = "%O% Enhanced Harpies" }
+    }
+
+    planet_names = {
+        generic = {
+            names = {
+                Tyneanea Uetyna Ocyna Xypoemora Vyorea Orynynoria Hylina Hyrya Tynia Ocalyphisa Nyphena Nonyora Hynoelonia Dereanynia Lynoelea Lyphyna Porynia
+                Lyrallena Lylina Cyvinina Sylyna Lynena Tyllinava Ocynea Lyphena Lynyna Dhylola Nyneteroa Doryvia Selya Synoia Xynyla Tynninia Teryna Ocysinea
+                Lynisthia Olyrenynea Ilalloryna Nynesonea Tyvera Ioryoena Ocyniserya Gwynana Tyavoea Lyniemea Glisyphora Mysalyla Oryna Ocysyphia Sererypa Tyvia
+                Tyrela Syria Ocyneralea Mylororia Tylepa Xyphea Syalysa Gwyphyra Lyphella Tynisena Tyryria Syvya Vylara Hynoia Ocynonera Tythya Lystypheva
+                Ocyrieloya Ocynista Dynela Tynavoria Tynerona Zeorylea Gwylellia Ielya Hyanerera Nyanna Vorynenna Myteana Tyrolia Lyaea Verelyra Dhyranypha
+                Gloynona Lysthisea Hynia Hyoda Hyphethia Avylyna Uvynia Urynalia Tyorera Lynoinea Lyphia Dhyphia Hynnoia Nyreara Hynnea Tylellela
+            }
+        }
+
+        pc_desert = { names = { } }
+        pc_tropical = { names = { } }
+        pc_arid = { names = { } }
+        pc_continental = { names = { } }
+        pc_ocean = { names = { } }
+        pc_tundra = { names = { } }
+        pc_arctic = { names = { } }
+    }
+
+    character_names = {
+        default = {
+            full_names = {
+                Sysea Dhisyr Tyrie Gwyva Goryle Ocyla Xynorine Hyneryte Ocyvalo Hyna Hyreae Vylynne Lyphis Vyphiala Cyle Dhyphe Nyre Lyne Nyna Tyne Hyphia
+                Tylianele Hyvisine Ilys Tynylyne Nysyra Sypale Cyser Cyph Gyonin Oryphe Aeryris Synien Vyphe Tyno Araphys Tysinoda Tyra Belylline Urylle
+                Cyrirys Dyna Nyphisis Xyna Liaphya Gwyoa Marylyne Myonnero Lyllo Ioryryne Gwypa Gorynea Tyria Meroryne Lylialle Lylia Hyph Gynera Gwyvonea
+                Ialanevys Vysera Hyvelya Hyorynane Nyselor Lyphirise Gwyphis Myaesynyr Nephynya Hylletana Gwyloryra Vyphyra Gyasyris Gyavia Typhenoe Syalis
+                Dhynis Hyarollis Tyneravo Perys Typhoralo Lonorylia Tylyph Xinnys Ieryne Sylia Typhorere Tynnne Syne Vyre Dyore Vylene Glynnole Tyllys
+                Hyseryne Lynenona Loryshoda Xyre Dhynienna Hyorenea Cyphynala
+            }
+
+            first_names = { }
+            second_names = { }
+
+            regnal_first_names = {
+                Ocylis Loneryris Hyphis Glys Dylis Selys Cylis Xynis Ilevys Ocys Thisys Xisytas Belyris Ferelisys Oryphis Dhisyris Vynavis Lyphenis
+                Lylevis Yelenolys Saephys Nyas Tysoris Saryorys Dhys Lynellias Hyois Nyris Orys Vyrois Orysenes Ocyloras Zealys Nylas Ianys Xyllyras
+                Ocyphis Dyvis Zelinys Hyleles Vynyres Gyneras Hynavis Tynoris Voys Hynas Thys Gwynis Lyphis Dylys Lynevisis Nynois Hetys Syrys Xyphys
+                Nemolyrys Gynenes Tynasavys Dhynyphis Loelolys Cyloris Ocylles Manavys Tyallyris Gwyas Mysennes Gwyras Dhodys Lorys Aenys Aisyphys
+                Gyshis Glelynis Ocyphoys Yellylys Lyres Tyrisinis Lysis Manodynis Myris Gyphis Cyris Lophyles Lynanis Lolys Cyvas Vorys Tynores Tynis
+                Tyles Lyphys Iorys Yenynyvis Tyaroris Marys Thyphonis Ilys Gwyllis Myphis Sylyrynis
+            }
+
+            regnal_second_names = {
+                Tys Cys Hys Lys Mys Sys Xys Vys Dys Gys Nys
+            }
+        }
+    }
+}
+

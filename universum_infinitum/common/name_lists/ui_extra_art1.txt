@@ -2,7 +2,7 @@
 ### Extras
 ### Arthropoid 1
 
-ui_extra_mol1 = {
+ui_extra_art1 = {
     ship_names = {
         generic = {
             Evudodocuz Cazudivuz Jadudrrnaz Vrrugijiz Ebemphadegaruzz Khenokazz Inelorrarazz Kuaddradrimuz Jagrerinolruz Qebodacoz Wulbreredathuz
