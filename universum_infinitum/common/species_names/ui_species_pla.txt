@@ -1,0 +1,139 @@
+PLANT = {
+    ### Extra Plantoids 1 ###
+
+    # 1 - Gepeatea
+    gepeatea = {
+        name = Gepeatea
+        plural = Gepeateans
+        home_planet = "Gepeatea Prima"
+        home_system = Gepeatea
+        name_list = "ui_extra_pla1"
+    }
+
+    # 2 - Cacirana
+    cacirana = {
+        name = Cacirana
+        plural = Cacirani
+        home_planet = Cacirania
+        home_system = Cacira
+        name_list = "ui_extra_pla1"
+    }
+
+    # 3 - Kanelis
+    kanelis = {
+        name = Kanelis
+        plural = Kaneli
+        home_planet = Kanelisia
+        home_system = Kanela
+        name_list = "ui_extra_pla1"
+    }
+
+    # 4 - Rhodisia
+    rhodisia = {
+        name = Rhodisia
+        plural = Rhodisians
+        home_planet = Rhodisia
+        home_system = Rhodis
+        name_list = "ui_extra_pla1"
+    }
+
+    # 5 - Codisea
+    codisea = {
+        name = Codisea
+        plural = Codisians
+        home_planet = Codisania
+        home_system = Codis
+        name_list = "ui_extra_pla1"
+    }
+
+    # 6 - Ponarea
+    ponarea = {
+        name = Ponarea
+        plural = Ponari
+        home_planet = Ponarea
+        home_system = Pona
+        name_list = "ui_extra_pla1"
+    }
+
+    # 7 - Neloditolis
+    neloditolis = {
+        name = Neloditolis
+        plural = Neloditoli
+        home_planet = Neloditolia
+        home_system = Neloda
+        name_list = "ui_extra_pla1"
+    }
+
+    # 8 - Lorakis
+    lorakis = {
+        name = Lorakis
+        plural = Loraki
+        home_planet = Lorakisia
+        home_system = Lorak
+        name_list = "ui_extra_pla1"
+    }
+
+    # 9 - Amosana
+    amosana = {
+        name = Amosana
+        plural = Amosanians
+        home_planet = Amosania
+        home_system = Amos
+        name_list = "ui_extra_pla1"
+    }
+
+    # 10 - Viaxila
+    viaxila = {
+        name = Viaxila
+        plural = Viaxis
+        home_planet = Viaxila
+        home_system = Viax
+        name_list = "ui_extra_pla1"
+    }
+
+    # 11 - Verella
+    verella = {
+        name = Verella
+        plural = Verelli
+        home_planet = Verellia
+        home_system = Verell
+        name_list = "ui_extra_pla1"
+    }
+
+    # 12 - Lacolla
+    lacolla = {
+        name = Lacolla
+        plural = Lacolli
+        home_planet = Lacollania
+        home_system = Lacoll
+        name_list = "ui_extra_pla1"
+    }
+
+    # 13 - Jurnuxata
+    jurnuxata = {
+        name = Jurnuxata
+        plural = Jurnuxatans
+        home_planet = Jurnuxatia
+        home_system = Jurnux
+        name_list = "ui_extra_pla1"
+    }
+
+    # 14 - Cipterelia
+    cipterelia = {
+        name = Cipterelia
+        plural = Cipterelians
+        home_planet = Cipterelia
+        home_system = Cipter
+        name_list = "ui_extra_pla1"
+    }
+
+    # 15 - Ziaproeta
+    ziaproeta = {
+        name = Ziaproeta
+        plural = Ziaproets
+        home_planet = Ziaproetia
+        home_system = Ziapra
+        name_list = "ui_extra_pla1"
+    }
+}
+
