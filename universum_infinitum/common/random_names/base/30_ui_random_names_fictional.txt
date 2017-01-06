@@ -1,11 +1,11 @@
 black_hole_names = {
-    ### FICTIONAL ###
     "Babylon's Fall"
     "Byzantium's Fall"
     "Belzebuth's Maw"
     "Cthulhu's Maw"
     "Dracones Maelstrom"
     "Hades' Maw"
+    "Harambe's End"
     "Hope's End"
     "Horatiu's Singularity"
     "Lucifer's Maw"
@@ -13,20 +13,18 @@ black_hole_names = {
     "Teleorman Black Hole"
     "Zamolxis Black Hole"
 
-    ### FICTIONAL - Doctor Who ###
+    ### Doctor Who ###
     "Black Hole of Tartarus"
     "Magellan Black Hole"
 }
 
 asteroid_prefix = {
-    ### FICTIONAL ###
     HORI-
     HM-
     HML-
 }
 
 asteroid_postfix = {
-    ### FICTIONAL ###
     42
     613
     873
@@ -35,25 +33,12 @@ asteroid_postfix = {
 }
 
 star_names = {
-    ### REAL ###
-    Achrid
-    Alrai
-    "Alula Australis"
-    "Delta Trianguli"
-    "Gamma Virginis"
-    Menkalinan
-    Rasalmothalla
-    "Tau Bootis"
-    "Upsilon Andromedae"
-    Magellan
-
-    ### FICTIONAL - Go wild ###
     Sombrero
     Luchador
     Guacamelee
     Firefly
 
-    ### FICTIONAL - Places/People/Gods/etc from Earth ###
+    ### Places/People/Gods/etc from Earth ###
     Ardeal
     Bucharest
     Bucovina
@@ -65,6 +50,7 @@ star_names = {
     Dracones
     Eminescu
     Hades
+    Harambe
     Horatius
     Hori
     Linux
@@ -83,7 +69,7 @@ star_names = {
     Unix
     Zamolxis
 
-    ### FICTIONAL - Inspired from Elder Scrolls ###
+    ### Inspired from Elder Scrolls ###
     Akatosh
     Akavir
     Amalexia
@@ -131,7 +117,7 @@ star_names = {
     Ysmir
     Zenithar
 
-    ### FICTIONAL - Inspired from Game of Thrones ###
+    ### Inspired from Game of Thrones ###
     Asshai
     Astapor
     Braavos
@@ -154,7 +140,7 @@ star_names = {
     Volantis
     Yunkai
 
-    ### FICTIONAL - Doctor Who ###
+    ### Doctor Who ###
     Actean
     "Actron Pleiades"
     Althrace
@@ -225,7 +211,7 @@ star_names = {
     "Vega Opsis"
     Ventrassian
 
-    ### FICTIONAL - Star Trek ###
+    ### Star Trek ###
     Alastria
     "Alpha Leonis"
     "Alpha Omicron"
@@ -408,7 +394,7 @@ star_names = {
     Phelan
     Praxillus
 
-    ### FICTIONAL - Star Wars ###
+    ### Star Wars ###
     Ahakista
     Alderaan
     Anoat
@@ -507,7 +493,7 @@ star_names = {
     Yavin
     Yost
 
-    ### FICTIONAL - Stargate ###
+    ### Stargate ###
     Adara
     Archeva
     Edora
@@ -523,7 +509,7 @@ star_names = {
     Kohal
     Hala
 
-    ### FICTIONAL - Starcraft ###
+    ### Starcraft ###
     Antiga
     Artesia
     Astrid
@@ -582,7 +568,7 @@ star_names = {
     Wotan
     Zerus
 
-    ### FICTIONAL - Galactic Civilizations ###
+    ### Galactic Civilizations ###
     Abren
     Acelloria
     Acer
@@ -1104,7 +1090,7 @@ star_names = {
     Zinthor
     Zorak
 
-    ### FICTIONAL - EVE Online ###
+    ### EVE Online ###
     Aakari
     Abagawa
     Abai
@@ -1697,9 +1683,6 @@ star_names = {
 }
 
 nebula_names = {
-    ### REAL
-    "Lagoon Nebula"
-
     ### FICTIONAL ###
     "Dacia Nebula"
     "Dracones Nebula"
@@ -1711,7 +1694,7 @@ nebula_names = {
     "Sandstorm Nebula"
     "Sanguine Nebula"
 
-    ### FICTIONAL - Doctor Who ###
+    ### Doctor Who ###
     "Andrallis Nebula"
     "Blue Lagoon Nebula"
     "Brago Nebula"
@@ -1734,7 +1717,7 @@ nebula_names = {
     "Wolf's Heart Nebula"
     "Zordon Nebula"
 
-    ### FICTIONAL - Star Wars ###
+    ### Star Wars ###
     "Monsua Nebula"
     "Kaliida Nebula"
     "Metharian Nebula"
@@ -1743,3 +1726,4 @@ nebula_names = {
     "Queluhan Nebula"
     "Ghost Nebula"
 }
+

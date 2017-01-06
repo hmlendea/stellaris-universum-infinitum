@@ -1,0 +1,18 @@
+star_names = {
+    ### REAL ###
+    Achrid
+    Alrai
+    "Alula Australis"
+    "Delta Trianguli"
+    "Gamma Virginis"
+    Menkalinan
+    Rasalmothalla
+    "Tau Bootis"
+    "Upsilon Andromedae"
+    Magellan
+}
+
+nebula_names = {
+    "Lagoon Nebula"
+}
+
