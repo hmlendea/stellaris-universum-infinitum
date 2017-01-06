@@ -272,5 +272,142 @@ REP = {
         home_system = Belta
         name_list = "ui_extra_rep2"
     }
+
+    ### Extra Reptilians 3 ###
+
+    # 1 - Biatloz
+    biatloz = {
+        name = Biatloz
+        plural = Biatlozi
+        home_planet = Biatloss
+        home_system = Biat
+        name_list = "ui_extra_rep2"
+    }
+
+    # 2 - Thirqouz
+    thirqouz = {
+        name = Thirqouz
+        plural = Thirqouzi
+        home_planet = Thirqouss
+        home_system = Thirqo
+        name_list = "ui_extra_rep2"
+    }
+
+    # 3 - Droshot
+    droshot = {
+        name = Droshot
+        plural = Droshoti
+        home_planet = Droshoss
+        home_system = Drosh
+        name_list = "ui_extra_rep2"
+    }
+
+    # 4 - Sriszizk
+    sriszizk = {
+        name = Sriszizk
+        plural = Sriszi
+        home_planet = Srisziss
+        home_system = Srisz
+        name_list = "ui_extra_rep2"
+    }
+
+    # 5 - Chuknah
+    chuknah = {
+        name = Chuknah
+        plural = Chuknasi
+        home_planet = Chuknass
+        home_system = Chuk
+        name_list = "ui_extra_rep2"
+    }
+
+    # 6 - Terezeer
+    terezeer = {
+        name = Terezeer
+        plural = Terezians
+        home_planet = Terezesh
+        home_system = Terez
+        name_list = "ui_extra_rep2"
+    }
+
+    # 7 - Trazisk
+    trazisk = {
+        name = Trazisk
+        plural = Trazi
+        home_planet = Traziss
+        home_system = Traz
+        name_list = "ui_extra_rep2"
+    }
+
+    # 8 - Shrashk
+    shrashk = {
+        name = Shrashk
+        plural = Shrasi
+        home_planet = Shrass
+        home_system = Shrash
+        name_list = "ui_extra_rep2"
+    }
+
+    # 9 - Truurnax
+    truurnax = {
+        name = Truurnax
+        plural = Truurnai
+        home_planet = Truurnass
+        home_system = Truu
+        name_list = "ui_extra_rep2"
+    }
+
+    # 10 - Droxausk
+    droxausk = {
+        name = Droxausk
+        plural = Droxausians
+        home_planet = Droxauss
+        home_system = Droxa
+        name_list = "ui_extra_rep2"
+    }
+
+    # 11 - Debam
+    debam = {
+        name = Debam
+        plural = Debamians
+        home_planet = Debamhon
+        home_system = Deba
+        name_list = "ui_extra_rep2"
+    }
+
+    # 12 - Zottiqu
+    zottiqu = {
+        name = Zottiqu
+        plural = Zotti
+        home_planet = Zottiss
+        home_system = Zott
+        name_list = "ui_extra_rep2"
+    }
+
+    # 13 - Rhikkox
+    rhikkox = {
+        name = Rhikkox
+        plural = Rhikkosi
+        home_planet = Rhikkoss
+        home_system = Rhik
+        name_list = "ui_extra_rep2"
+    }
+
+    # 14 - Alzarsu
+    alzarsu = {
+        name = Alzarsu
+        plural = Alzarsi
+        home_planet = Alzarss
+        home_system = Alzar
+        name_list = "ui_extra_rep2"
+    }
+
+    # 15 - Orikuttuk
+    orikuttuk = {
+        name = Orikuttuk
+        plural = Orikutti
+        home_planet = Orikuttuss
+        home_system = Orikutt
+        name_list = "ui_extra_rep2"
+    }
 }
 
