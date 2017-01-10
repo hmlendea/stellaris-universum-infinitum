@@ -60,7 +60,7 @@ sr_ui_talpa = {
 
     modifier = {
 		ship_reparation_speed_mult = 0.10
-		country_ship_upgrade_cost_mult = -0.5
+		country_ship_upgrade_cost_mult = -0.05
     }
 }
 
