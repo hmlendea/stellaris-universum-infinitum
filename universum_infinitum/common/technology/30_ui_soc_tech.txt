@@ -232,8 +232,8 @@ tech_ui_barren_terraforming = {
 
     prereqfor_desc = {
         diplo_action = {
-            title = "TECH_UNLOCK_TERRAFORMING_BARREN_CHANGE_TITLE"
-            desc = "TECH_UNLOCK_TERRAFORMING_BARREN_CHANGE_DESC"
+            title = "TECH_UNLOCK_TERRAFORMING_UI_BARREN_CHANGE_TITLE"
+            desc = "TECH_UNLOCK_TERRAFORMING_UI_BARREN_CHANGE_DESC"
         }
     }
 
