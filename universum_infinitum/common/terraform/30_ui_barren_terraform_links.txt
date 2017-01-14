@@ -3,8 +3,8 @@ terraform_link = {
     from = "pc_barren"
     to = "pc_desert"
 
-    energy = 10000
-    duration = 8000
+    energy = 15000
+    duration = 10000
 
     condition = {
         has_technology = "tech_ui_barren_terraforming"
@@ -16,8 +16,8 @@ terraform_link = {
     from = "pc_barren"
     to = "pc_arid"
 
-    energy = 10000
-    duration = 8000
+    energy = 15000
+    duration = 10000
 
     condition = {
         has_technology = "tech_ui_barren_terraforming"
@@ -29,8 +29,8 @@ terraform_link = {
     from = "pc_barren"
     to = "pc_savannah"
 
-    energy = 10000
-    duration = 8000
+    energy = 15000
+    duration = 10000
 
     condition = {
         has_technology = "tech_ui_barren_terraforming"
@@ -42,8 +42,8 @@ terraform_link = {
     from = "pc_barren_cold"
     to = "pc_arctic"
 
-    energy = 10000
-    duration = 8000
+    energy = 15000
+    duration = 10000
 
     condition = {
         has_technology = "tech_ui_barren_terraforming"
@@ -55,8 +55,8 @@ terraform_link = {
     from = "pc_barren_cold"
     to = "pc_tundra"
 
-    energy = 10000
-    duration = 8000
+    energy = 15000
+    duration = 10000
 
     condition = {
         has_technology = "tech_ui_barren_terraforming"
@@ -68,8 +68,8 @@ terraform_link = {
     from = "pc_barren_cold"
     to = "pc_alpine"
 
-    energy = 10000
-    duration = 8000
+    energy = 15000
+    duration = 10000
 
     condition = {
         has_technology = "tech_ui_barren_terraforming"
