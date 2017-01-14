@@ -1,0 +1,170 @@
+﻿### Universum Infinitum
+### Extras
+### Human - Roman
+
+ui_extra_human_roman = {
+    randomized = no
+
+    ship_names = {
+        generic = {
+            # By Gods
+            Mars Iuppiter Iupiter Minerva Isis Iuno Neptunus Venus Bellona Ianus Vesta Quirinus Ceres Liber Libera "Liber Pater" Diana Mercurius Vulcanus Vulcan
+            Carmentis Falacer Flora Furrina Palatua Pomona Portunes Volturnus Saturnus Genius Sol Terra Tellus Tellumo Tellurus "Terra Mater" "Tellus Mater"
+            Orcus Luna Feronia Novensides Pales Salus Fons Fides Ops Flora Vdeiovis Summanus Larunda Terminus Vortummus Lares Lucina
+            
+            # By other Gods or personifications
+            Abundantia "Acca Larentia" Acis Aerecura Aequitas Aesculapius Aeternitas Aion "Aius Locutius" Alernus Elernus Helernus Angerona Angitia "Anna Perenna"
+            Annona Antevorta Apollo Arimanius Aura Aurora Averruncus Bacchus "Bona Dea" "Bonus Eventus" Bubona Caca Cacus Caelus Camenae Cardea Carmenta Carmentes
+            Carna Clementia Cloacina Consus Cupid Cura Cybele "Dea Dia" Decima Devera Deverra "Diana Nemorensis" "Dius Fidius" "Di Inferni" Fontus Fufluns
+            "Dis Pater" Dispater Egeria Empanda Epona Edesia Fama Fascinus Fauna Faunus Faustitas Februus Febris Fecunditas Felicitas Ferentina Fornax Fulgora
+            Furrina Gratiae Hora Intercidona Inuus Iustitia Juturna Juventas Laverna Latona Lemures Levana Letum Libitina Lua Lucifer Lucina Lupercus Lympha
+            "Mana Genita" Manes Mania Mantus "Mater Matuta" Meditrina Mefitis Mellona Mellonia Mena Mene Mithras Molae Moneta Mors Morta Murcia Murtia Pietas
+            "Mutunus Tutunus" Naenia Nascio Necessitas Nemesis Nerio Neverita Nixi Nixae Nona Nortia Nox Opis Parcae Pax Penates "Di Penates" Picumnus Picus
+            Pilumnus Pluto Poena Porrima Postverta Priapus Proserpina Providentia Pudicitia Querquetulanae Quiritis Robigo Robigus Roma Rumina Salacia Sancus
+            Silvanus "Sol Invictus" Somnus Soranus Sors Spes "Stata Mater" "Sterquilinus" Suadela Summanus "Sulis Minerva" Tempestas Tiberinus Tibertus Tranquilitas
+            Trivia Ubertas Unxia Vacuna Vagitanus Vaticanus Vediovus Veiovis Venilia Venelia Venti Veritas Verminus Vertumnus Vortumnus Vertimnus "Vica Pota" Victoria
+            "Viduus" "Virbius" "Virtus" "Volturnus" "Voluptas"
+                        
+            # By heroes and mythology
+            Hercules Aeneas Indiges Hermaphroditus
+            
+            # By maritime features
+            Rhenus Oceanus
+            
+            # By concepts
+            Pax Fides Victoria Concordia Discordia Disciplina Fortuna Honos Invidia Liberalitas Libertas Securitas
+            
+            # By places
+            Dacicus Salamina
+        }
+    }
+
+    ship_class_names = {
+        generic = {
+            Romanus # This is put here solely as a placeholder
+        }
+
+        corvette = {
+            Lembus Liburna
+        }
+
+        destroyer = {
+            Bireme Trireme Quadrireme Quinquereme
+        }
+
+        cruiser = {
+            Hexareme Sexireme
+        }
+
+        battleship = {
+            Septireme Octeres Enneres Deceres
+        }
+
+        transport = {
+            Hemiolia
+        }
+    }
+
+    fleet_names = {
+        sequential_name = "%O% Fleet" # "%0 Classis"
+    }
+
+    army_names = {
+        defense_army = {
+            sequential_name = "%O% Auxilliary"
+        }
+
+        assault_army = {
+            sequential_name = "%O% Cohort"
+        }
+
+        slave_army = {
+            sequential_name = "%O% Gladiators"
+        }
+
+        clone_army = {
+            sequential_name = "%O% Clone Cohort"
+        }
+
+        robotic_army = {
+            sequential_name = "%O% Iron Cohort"
+        }
+
+        android_army = {
+            sequential_name = "%O% Android Cohort"
+        }
+
+        psionic_army = {
+            sequential_name = "%O% Special Cohort"
+        }
+
+        xenomorph_army = {
+            sequential_name = "%O% Xenomorph Swarm"
+        }
+
+        gene_warrior_army = {
+            sequential_name = "%O% Supersoldier Cohort"
+        }
+    }
+
+
+    ### PLANETS
+
+    planet_names = {
+        # Gotta put God names in here
+        generic = {
+        }
+    }
+
+    ### CHARACTERS
+
+    character_names = {
+        default = {
+            # Always combined with a second name
+            first_names_male = {
+                ﻿Appius Aulus Decimus Gaius Gnaeus Lucius Manius Marcus Numerius Publius Quintus Servius Sextus Spurius Tiberius Titus Vibius
+            }
+
+            first_names_female = {
+                Appia Aula Decima Gaia Gnaea Lucia Mania Marca Numeria Publia Quinta Servia Sexta Spuria Tiberia Tita Vibia
+            }
+
+            second_names = {
+                Aculeo Agricola Agrippa Ahala Ahenobarbus Albinus Albus Ambustus Annalis Aquila Aquilinus Arvina Asellio Asina Atellus Avitus Baestia Balbus Barba
+                Barbatus Bassus Bibaculus Bibulus Blaesus Brocchus Brutus Bubulcus Bucco Bulbus Buteo Caecus Caepio Caesar Calidus Calvinus Calvus Camillus Caninus
+                Canus Capito Carbo Catilina Cato Catulus Celer Celsus Cethegus Cicero Cicurinus Cilo Cincinnatus Cinna Cordus Cornicen Cornutus Corvinus Corvus Cossus
+                Costa Cotta Crassipes Crassus Crispinus Crispus Culleo Curio Cursor Curvus Dentatus Denter Dento Dives Dolabella Dorsuo Drusus Figulus Fimbria Flaccus
+                Flavus Florus Fronto Fullo Fusus Galeo Gemellus Glabrio Gracchus Gurges Habitus Helva Imperiosus Iulius Labeo Lactuca Laenas Laevinus Lanatus Laterensis
+                Lentulus Lepidus Libo Licinus Longus Lucullus Lupus Lurco Macula Malleolus Mamercus Marcellus Maro Merenda Mergus Merula Messalla Metellus Murena Mus
+                Musca Nasica Naso Natta Nepos Nero Nerva Niger Novellus Ocella Pacilus Paetus Pansa Papus Paterculus Paullus Pavo Pera Pictor Piso Plancus Plautus
+                Poplicola Postumus Potitus Praeconinus Praetextatus Priscus Proculus Publicola Pulcher Pullus Pulvillus Purpureo Quadratus Ralla Regillus Regulus Rufus
+                Ruga Rullus Rutilus Salinator Saturninus Scaeva Scaevola Scapula Scaurus Scipio Scrofa Seneca Severus Silanus Silo Silus Stolo Strabo Structus Sulla
+                Sura Taurus Triarius Trigeminus Trio Tubero Tubertus Tubulus Tuditanus Tullus Turdus Varoo Varus Vatia Verres Vespillo Vetus Vitulus Volusus
+            }
+
+            ### TODO: Improve regnal names!
+
+            regnal_first_names_male = {
+                Appius Aulus Decimus Gaius Gnaeus Lucius Manius Marcus Numerius Publius Quintus Servius Sextus Spurius Tiberius Titus Vibius
+            }
+
+            regnal_first_names_female = {
+                Appia Aula Decima Gaia Gnaea Lucia Mania Marca Numeria Publia Quinta Servia Sexta Spuria Tiberia Tita Vibia
+            }
+
+            regnal_second_names = {
+                Aculeo Agricola Agrippa Ahala Ahenobarbus Albinus Albus Ambustus Annalis Aquila Aquilinus Arvina Asellio Asina Atellus Avitus Baestia Balbus Barba
+                Barbatus Bassus Bibaculus Bibulus Blaesus Brocchus Brutus Bubulcus Bucco Bulbus Buteo Caecus Caepio Caesar Calidus Calvinus Calvus Camillus Caninus
+                Canus Capito Carbo Catilina Cato Catulus Celer Celsus Cethegus Cicero Cicurinus Cilo Cincinnatus Cinna Cordus Cornicen Cornutus Corvinus Corvus Cossus
+                Costa Cotta Crassipes Crassus Crispinus Crispus Culleo Curio Cursor Curvus Dentatus Denter Dento Dives Dolabella Dorsuo Drusus Figulus Fimbria Flaccus
+                Flavus Florus Fronto Fullo Fusus Galeo Gemellus Glabrio Gracchus Gurges Habitus Helva Imperiosus Iulius Labeo Lactuca Laenas Laevinus Lanatus Laterensis
+                Lentulus Lepidus Libo Licinus Longus Lucullus Lupus Lurco Macula Malleolus Mamercus Marcellus Maro Merenda Mergus Merula Messalla Metellus Murena Mus
+                Musca Nasica Naso Natta Nepos Nero Nerva Niger Novellus Ocella Pacilus Paetus Pansa Papus Paterculus Paullus Pavo Pera Pictor Piso Plancus Plautus
+                Poplicola Postumus Potitus Praeconinus Praetextatus Priscus Proculus Publicola Pulcher Pullus Pulvillus Purpureo Quadratus Ralla Regillus Regulus Rufus
+                Ruga Rullus Rutilus Salinator Saturninus Scaeva Scaevola Scapula Scaurus Scipio Scrofa Seneca Severus Silanus Silo Silus Stolo Strabo Structus Sulla
+                Sura Taurus Triarius Trigeminus Trio Tubero Tubertus Tubulus Tuditanus Tullus Turdus Varoo Varus Vatia Verres Vespillo Vetus Vitulus Volusus
+            }
+        }
+    }
+}
+
