@@ -4,6 +4,7 @@ black_hole_names = {
     "Belzebuth's Maw"
     "Cthulhu's Maw"
     "Dracones Maelstrom"
+    "Ender Eye"
     "Hades' Maw"
     "Harambe's End"
     "Hope's End"
@@ -19,16 +20,21 @@ black_hole_names = {
 }
 
 asteroid_prefix = {
+    BLZ-
+    HH-
     HORI-
     HM-
     HML-
+    RO-
 }
 
 asteroid_postfix = {
     42
+    420
     613
     873
     1030
+    1337
     1995
 }
 
@@ -44,6 +50,7 @@ star_names = {
     Bucovina
     Burebista
     Cluj
+    Cossack
     Dacia
     Danube
     Decebalus
@@ -1680,12 +1687,258 @@ star_names = {
     Zet
     Ziona
     Zith
+    Hulm
+    Osoggur
+    Abudban
+    Trytedald
+    Odatrik
+    Rens
+    Ameinaka
+    Alakgur
+    Dammalin
+    Bosboger
+    Olfeim
+    Lulm
+    Gulmorogod
+    Edmalbrurdus
+    Kronsur
+    Dumkirinur
+    Sist
+    Obrolber
+    Austraka
+    Ivar
+    Meirakulf
+    Frarn
+    Illinfrik
+    Balginia
+    Gyng
+    Avesber
+    Gerek
+    Tongofur
+    Gerbold
+    Rokofur
+    Ebasgerdur
+    Ebodold
+    Amamake
+    Vard
+    Siseide
+    Lantorn
+    Dal
+    Auga
+    Eystur
+    Pator
+    Lustrevik
+    Isendeldik
+    Ammold
+    Emolgranian
+    Offugen
+    Roniko
+    Aralgrund
+    Eddar
+    Bogelek
+    Wiskeber
+    Eifer
+    Gusandall
+    Atgur
+    Endrulf
+    Ingunn
+    Gultratren
+    Auren
+    Trer
+    Egmur
+    Javrendei
+    Appen
+    Klir
+    Jorus
+    Onga
+    Osaumuni
+    Magiko
+    Oremmulf
+    Hurjafren
+    Vullat
+    Hrondedir
+    Sotrenzur
+    Hrondmund
+    Bundindus
+    Otraren
+    Hedgviter
+    Katugumur
+    Pettinck
+    "Du Annes"
+    Balle
+    Decon
+    Grinacanne
+    Metserel
+    Sharuveil
+    Adreland
+    Erme
+    Aufay
+    "Iyen-Oursta"
+    Faurent
+    Ambeke
+    Carrou
+    Direrie
+    Ignoitton
+    Ardene
+    Boillair
+    Ney
+    Fasse
+    Ala
+    Gratesier
+    Schoorasana
+    Vylade
+    Auvergne
+    Aunia
+    Agrailarier
+    Dodixie
+    Eglennaert
+    Botane
+    Pulin
+    Foves
+    Alles
+    Misneden
+    Basgerin
+    Chelien
+    Trosquesere
+    Ansone
+    Bunraelare
+    Nausschie
+    Inghenges
+    Estene
+    Gallareue
+    Stayme
+    Parchanier
+    Fluekele
+    Alsottobier
+    Jolia
+    Augnais
+    Deltole
+    Colelie
+    Barmalie
+    Audaerne
+    Dodenvale
+    Olettiers
+    Artisine
+    Chainelant
+    Sileperer
+    Bamiette
+    Crielere
+    Jel
+    Egghelende
+    Odette
+    Ation
+    Stegette
+    Ravarin
+    Aliette
+    Brapelille
+    Bawilan
+    Atier
+    Archee
+    Brybier
+    Adrallezoen
+    Croleur
+    Doussivitte
+    Unel
+    Claysson
+    Auberulle
+    Adiere
+    Stetille
+    Alillere
+    Abenyc
+    Poziblant
+    Bourynes
+    Aurcel
+    Aymaerne
+    Rancer
+    Miroitem
+    Thelan
+    Rorsins
+    Lamadent
+    Otou
+    Assiettes
+    Goinard
+    Raeghoscon
+    Allipes
+    Lermireve
+    Aetree
+    Esmes
+    Vittenyn
+    Mirilene
+    Pucherie
+    Fricoure
+    Caretyn
+    Ainaille
+    Konola
+    Inoue
+    Isaziwa
+    Eitu
+    Horkkisen
+    Erila
+    Ohvosamon
+    Auviken
+    Saikanen
+    Oijamon
+    Kakki
+    Jeras
+    Kausaaja
+    Oiniken
+    Kaimon
+    Ahynada
+    Aikoro
+    Alikara
+    Usi
+    Ishomiken
+    Nikkishina
+    Hasama
+    Uuna
+    Manjonakko
+    Kassigainen
+    Yashunen
+    Tennen
+    Hatakani
+    Sivala
+    Iivinen
+    Kubinen
+    Uedama
+    Enderailen
+    Tunudan
+    Kulelen
+    Rairomon
+    Hogimo
+    Huttaken
+    Paara
+    Annaro
+    Isutaka
+    Tasabeshi
+    Ono
+    Muvolailen
+    Halaima
+    Kamio
+    Sankkasen
+    Tintoh
+    Santola
+    Ikao
+    Waira
+    Inaro
+    Kaaputenen
+    Waskisen
+    Sirppala
+    Irjunen
+    Inari
+    Yria
+    Oshaima
+    Hysera
+    Kaunokka
+    Venilen
+    Oisio
+    Haatomo
 }
 
 nebula_names = {
     ### FICTIONAL ###
     "Dacia Nebula"
     "Dracones Nebula"
+    "Getic Clouds"
     "Lotus Flairs"
     "Mammoth Nebula"
     "Mlendea Nebula"
