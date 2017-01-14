@@ -122,7 +122,7 @@ ui_extra_human_roman = {
         default = {
             # Always combined with a second name
             first_names_male = {
-                ﻿Appius Aulus Decimus Gaius Gnaeus Lucius Manius Marcus Numerius Publius Quintus Servius Sextus Spurius Tiberius Titus Vibius
+                Appius Aulus Decimus Gaius Gnaeus Lucius Manius Marcus Numerius Publius Quintus Servius Sextus Spurius Tiberius Titus Vibius
             }
 
             first_names_female = {
