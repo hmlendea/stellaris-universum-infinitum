@@ -4,9 +4,13 @@
 
 @tier3cost1 = 3000
 @tier3cost2 = 4000
+@tier3cost3 = 5000
+@tier3cost4 = 6000
 
 @tier3weight1 = 50
 @tier3weight2 = 45
+@tier3weight3 = 40
+@tier3weight4 = 35
 
 tech_tb_ui_giant_earthworms = {
     cost = @tier1cost2
@@ -298,6 +302,46 @@ tech_ui_magnetic_field_generation = {
     category = { new_worlds }
     prerequisites = { "tech_ui_magnetic_field_enhancement" }
     weight = @tier3weight2
+
+    weight_modifier = {
+        modifier = {
+            factor = 0.33
+            NOT = {
+                research_leader = {
+                    area = society
+                    has_trait = "leader_trait_expertise_new_worlds"
+                }
+            }
+        }
+    }
+
+    ai_weight = {
+        modifier = {
+            factor = 1.25
+            research_leader = {
+                area = society
+                has_trait = "leader_trait_expertise_new_worlds"
+            }
+        }
+    }
+}
+
+tech_ui_ringworld_restoration = {
+    cost = @tier3cost3
+    area = society
+    tier = 3
+    category = { new_worlds }
+    prerequisites = { "tech_mine_living_metal" }
+    weight = @tier3weight3
+
+    # unlocks additional terraforming-options
+
+    prereqfor_desc = {
+        diplo_action = {
+            title = "TECH_UNLOCK_TERRAFORMING_UI_RINGWORLD_DAMAGED_CHANGE_TITLE"
+            desc = "TECH_UNLOCK_TERRAFORMING_UI_RINGWORLD_DAMAGED_CHANGE_DESC"
+        }
+    }
 
     weight_modifier = {
         modifier = {

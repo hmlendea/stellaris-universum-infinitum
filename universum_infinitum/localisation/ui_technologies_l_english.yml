@@ -1,6 +1,8 @@
 ﻿l_english:
  TECH_UNLOCK_TERRAFORMING_UI_BARREN_CHANGE_TITLE:0 "§HUnlocks Feature:§! Barren World Terraformation"
  TECH_UNLOCK_TERRAFORMING_UI_BARREN_CHANGE_DESC:1 "§HBarren World Terraformation§!\nAllows us to terraform lifeless barren worlds."
+ TECH_UNLOCK_TERRAFORMING_UI_RINGWORLD_DAMAGED_CHANGE_TITLE:0 "§HUnlocks Feature:§! Damaged Ringworld Restoration"
+ TECH_UNLOCK_TERRAFORMING_UI_RINGWORLD_DAMAGED_CHANGE_DESC:1 "§HDamaged Ringworld Restoration§!\nAllows us to restore damaged sections of the ancient ringworlds."
 
  tech_tb_ui_giant_earthworms:0 "Giant Earthworms Removal"
  tech_tb_ui_giant_earthworms_desc:1 "Selective soil poisoning combined with heavy firepower can quickly eliminate the giant eartoworms in a region.\n\n"
@@ -30,4 +32,6 @@
  tech_ui_magnetic_field_enhancement_desc:1 "Allows us to enhance the magnatic field of world where the natural one is too weak.\n\n"
  tech_ui_magnetic_field_generation:0 "Magnetic Field Generation"
  tech_ui_magnetic_field_generation_desc:1 "Allows us to generate an entire planetary magnetic field on worlds where there is none.\n\n"
+ tech_ui_ringworld_restoration:0 "Damaged Ringworld Restoration"
+ tech_ui_ringworld_restoration_desc:1 "Allows us to restore damaged sections of the ancient ringworlds.\n\n"
 
