@@ -290,13 +290,14 @@ ui_extra_human_extended = {
 
 	character_names = {
 
-        # Each language Should have a weight equal to the number of its native speakers as of the 2010 estimates, rounded up.
+        # Each language should have a weight equal to the percentage of its native speakers out of all the implemented languages, rounded down.
+        # Statistics should be taken from Wikipedia. Weight should not be lower than 1.
 
 		###############################
-		# CHINESE MANDARIN (14.1%)
+		# CHINESE
 		###############################
 		names1 = {
-			weight = 14
+			weight = 33
 			first_names_male = {
 				An Bao Bo Cai Cheng De Dong Feng Gang Guo Hu Hui Jian Jie Kang Li Liang Long Meng Ning Peng Qiang Shi Song Tao Tian Wei 
 				You Yong Yi Xiong Wu
@@ -321,10 +322,10 @@ ui_extra_human_extended = {
 		}
 		
 		###############################
-		# SPANISH (5.85%)
+		# SPANISH
 		###############################
 		names2 = {
-			weight = 6
+			weight = 14
 			first_names_male = {
 				Diego Luis Pedro Joaquin José Emilio Eduardo Alejandro Carlos Fernando Francisco Julio "José Antonio" "José Manuel" Juan
 				"José María" Ignacio Manuel Pablo Miguel Ramón Raimundo Santiago Ricardo Marcelo Javier Gaspar Alfonso Lorenzo Enrique
@@ -355,7 +356,7 @@ ui_extra_human_extended = {
         # ENGLISH names (5.52%)
         ###############################
 		names3 = {
-			weight = 6
+			weight = 12
 			first_names_male = {
 				John Brian Peter Adam James William Jacob Christopher Joshua Michael Ethan Joseph Matthew Anthony Daniel Ryan Samuel Kevin
 				David Logan Carter Benjamin Andrew Henry Nicholas Gavin Owen Jack Wyatt Wayne Walter Charles Louis Merritt Earl Alfred Vernon
@@ -438,10 +439,10 @@ ui_extra_human_extended = {
 		}
 		
 		###############################
-		# HINDI (4.46%)
+		# HINDI
 		###############################
 		names4 = {
-			weight = 5
+			weight = 10
 			first_names_male = {
 				Aarav Vivaan Aditya Arjun Reyansh Arnav Krishna Ishaan Shaurya Atharv Advik Pranav Advaith Dhruv Kabir Ritvik Aarush
 				Kayaan Darsh Veer Rahul Mahesh Shyam Raj Kumar Palash Rakesh Nishant Neeraj Prathamesh Shubham
@@ -470,7 +471,7 @@ ui_extra_human_extended = {
 		# ARABIC (4.23%)
 		###############################
 		names5 = {
-			weight = 5
+			weight = 10
 			first_names_male = {
 				Abdullah Abbas Abed Ahmad Ahmed Ali Ammar Amir Hamza Hassan Hydar Ibrahim Jamal Kareem Khathem Khalil Khalid Malik Mahdi 
 				Hussein Mohamed Mohammad Mohammed Muhammad Muhammed Nasir Omar Rashad Rashid Samir Tariq Yahir Yasin Yusuf Barak
@@ -499,7 +500,7 @@ ui_extra_human_extended = {
 		# RUSSIAN (2.42%)
 		###############################
 		names6 = {
-			weight = 3
+			weight = 5
 			first_names_male = {
 				Ivan Nikolai Boris Vladimir Pyotr Alexei Dmitri Sergei Viktor Roman Igor Mikhail Vasily Pavel Fyodor Nikita Valery
 				Vladislav Leonid Maxim Yuri Oleg Andrei Konstantin Vyacheslav Aleksandr Stanislav Anatoli Miroslav Artyom Bogdan
@@ -531,7 +532,7 @@ ui_extra_human_extended = {
 		# JAPANESE (1.92%)
 		###############################
 		names7 = {
-			weight = 2
+			weight = 4
 			first_names_male = {
 				Hiroto Hikaru Takumi Tsubasa Ren Minato Shota Yuuto Sota Yuma Takeru Rikuto Tatsuki Ryuto Haru Yushin Kosei Yoshinobu
 				Jiro Hiroshi Yoshida Mitsue Keisuke Saburo Junichi Yoshi Koshiro Kentaro Koichiro
@@ -560,7 +561,7 @@ ui_extra_human_extended = {
 		# GERMAN (1.39%)
 		###############################
 		names8 = {
-			weight = 2
+			weight = 3
 			first_names_male = {
 				Karl Wilhelm Otto Heinrich Friedrich Paul Hans Gustav Max Ernst Hermann Walter Werner Günther Wolfgang Helmuth Kurt Rolf
 				Peter Klaus Gerhard Heinz Horst Manfred Uwe Jürgen Dieter Andreas Thomas Stefan Lukas Felix Martin Fritz Johann Erich Arnold
@@ -623,7 +624,7 @@ ui_extra_human_extended = {
 		# ITALIAN (0.9%)
 		###############################
 		names10 = {
-			weight = 1
+			weight = 2
 			first_names_male = {
 				Mario Luigi Giovanni Guiseppe Antonio Roberto Andrea Stefano Marco Franscesco Angelo Vincenzo Pietro Salvatore Carlo Franco
 				Domenico Bruno Paulo Michele Giorgio Sergio Luciano Alessandro Alfonso Benito Fabrizio Cesare Enrico Gustavo Silvio Umberto
