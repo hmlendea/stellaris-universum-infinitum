@@ -42,6 +42,9 @@ ui_extra_human_extended = {
 			Murmansk Grozny Petrozavodsk Pskov Antwerp Utrecht "The Hague" Turin Palermo Genoa Seville Granada Aleppo "Kuwait City" Amman Mashhad Isfahan Gaza Sana'a Mosul Khartoum Accra Kano Ibadan Dakar Pretoria Benghazi
 			Rabat Freetown Djibouti Monrovia "Port Elizabeth" N'Djamena Lodz Canberra Baku Sofia Zagreb Astana Nouakchott "Ulan Bator" Abuja "Port Moresby" "Banja Luka" Douala Nicosia "San Salvador" Thessaloniki Guatemala
 			Port-au-Prince Georgetown Reykjavík Basra Cork Kingston Mombasa Ecatepec Windhoek Wellington Hebron "Panama City" Porto Ljubljana Malmö Bern Donetsk Harare Aarhus Liege
+
+			# From StarCraft
+			Victory
 		}
 		
 		cruiser = {
@@ -58,11 +61,17 @@ ui_extra_human_extended = {
 		}
 		
 		battleship = {
-			Ulysses Xenophon Xerxes Nelson Hercules Icarus Atlas Apollo Ajax Bellerophon Excalibur Agrippa Alexander Belisarius Hannibal Washington Saladin Bismarck Yamato Actium Agincourt Austerlitz Gettysburg Jutland
-			Trafalgar Tsushima "Valley Forge" Verdun Waterloo Granicus Pharsalus Akira Charlemagne "Black Prince" Hood Potemkin Musashi Warspite Victory Courage Dauntless Endeavor Excelsior Formidable Indefatigable Chivalrous
-			Valiant Monitor Bulwark Defender Endurance Vigilant Resolute Fortitude Yamamoto Lexington Midway Saratoga Yorktown "Coral Sea" Hermes Wasp Hornet "Ark Royal" Essex Akagi Kaga Illustrious Intrepid Invincible
-			Enterprise Constellation Constitution Ranger Andromeda Aquila Century Concord Defiant Galaxy Odyssey Orion Providence Reliant Pegasus Freedom Solaris "Sol Invictus" Independence Lionheart Unicorn Napoleon
-			"Royal Sovereign" Marathon Imperieuse
+			Ulysses Xenophon Xerxes Nelson Hercules Icarus Atlas Apollo Ajax Bellerophon Excalibur Agrippa Alexander Belisarius Hannibal Washington Saladin Bismarck Yamato Actium Agincourt Austerlitz Gettysburg
+			Jutland Trafalgar Tsushima "Valley Forge" Verdun Waterloo Granicus Pharsalus Akira Charlemagne "Black Prince" Hood Potemkin Musashi Warspite Victory Courage Dauntless Endeavor Excelsior Formidable
+			Indefatigable Chivalrous Valiant Monitor Bulwark Defender Endurance Vigilant Resolute Fortitude Yamamoto Lexington Midway Saratoga Yorktown "Coral Sea" Hermes Wasp Hornet "Ark Royal" Essex Akagi Kaga
+			Illustrious Intrepid Invincible Enterprise Constellation Constitution Ranger Andromeda Aquila Century Concord Defiant Galaxy Odyssey Orion Providence Reliant Pegasus Freedom Solaris "Sol Invictus"
+			Independence Lionheart Unicorn Napoleon "Royal Sovereign" Marathon Imperieuse
+
+			# From StarCraft
+            		Hyperion Norad Cyrus Bucephalus Scion Hephaestus Palatine Victory Medusa Herakles "White Star" "Emperor's Fury" Hoosier Tahoe "Gray Tiger" Fury
+            		Cerberus Helios Ragnorak Metis "Thunder Child" Meleager Amphitrite Phobos Titan Circe "Iron Justice" Merrimack Jackson Eos "Huey Long" Antigone
+            		"Iron Fist" Patroclus Aeneas "Theodore G. Bilbo" Bismarck Napoleon "Dark Skies" "Jackson's Revenge" "Valor of Vardona" "Kimeran Juggernaut"
+            		Kimera
 		}
 
 		constructor = {
@@ -74,85 +83,150 @@ ui_extra_human_extended = {
 			Mayflower Abundance Bountiful Felicity Hope Opportunity Serenity Unity Destiny Britannia Byzantium Caledonia "El Dorado" Knossos Memphis 
 			Olympus Persepolis "Sierra de la Plata" Sparta Valhalla "Crystal Palace" Alaska Angola Australia Brazil Canada Congo Guinea India Indonesia 
 			Jamaica Macau Mozambique Philippines Somalia "Sri Lanka" Taiwan
+			
+			# From StarCraft
+	                Nagglfar Argo
 		}
 		
 		science = {
-			Aldrin Armstrong Columbus Copernicus Cortez Drake Hubble Goddard Galileo Einstein Gagarin Tereshkova "Zheng He" "Leif Ericson" Magellan "James Cook" "Marco Polo" Newton Tesla "Von Braun" "Walter Raleigh" Asimov
-			Clarke Sagan "Ibn Battuta" Kepler Ptolemy Pytheas Azophi Discovery Voyager Tradewind Scout Pioneer Explorer Sojourner "Santa Maria" Hawking Earhart Nobel Kelvin Fahrenheit Equinox Lagrange Tsiolkovsky Darwin
-			Grissom Archimedes
+			Aldrin Armstrong Columbus Copernicus Cortez Drake Hubble Goddard Galileo Einstein Gagarin Tereshkova "Zheng He" "Leif Ericson" Magellan "James Cook" "Marco Polo" Newton Tesla "Von Braun"
+			"Walter Raleigh" Asimov Clarke Sagan "Ibn Battuta" Kepler Ptolemy Pytheas Azophi Discovery Voyager Tradewind Scout Pioneer Explorer Sojourner "Santa Maria" Hawking Earhart Nobel Kelvin Fahrenheit
+			Equinox Lagrange Tsiolkovsky Darwin Grissom Archimedes
+
+			# From StarCraft
+		        Brin Amerigo
 		}
 		
-		orbital_station = { }
-		mining_station = { }
-		research_station = { }
-		wormhole_station = { }
-		#terraform_station = { }
-		observation_station = { }
+		orbital_station = {
+		}
+
+		mining_station = {
+			# From StarCraft
+            		Sakrysta Shi Sorona Revelation Avernus "Char Aleph" Erebus Scrap
+		}
+
+		research_station = {
+			# From StarCraft
+            		"Skygeirr Platform" "Castanar Installation" Prometheus "Immortal Forge"
+		}
+
+		wormhole_station = {
+		}
+
+		observation_station = {
+		}
+
 		outpost_station = {
-			#random_names = {
-				"Far Reach" Watchtower Sphered Influential Assertion SPACERAD "Watchful Eye" Sentinel Demarcator "Frontier Finalizer" "Ever Watchful" Divider Bastion "Home Turf" Wide
-			#}
-			#sequential_name = "%O% Frontier Outpost"
+			"Far Reach" Watchtower Sphered Influential Assertion SPACERAD "Watchful Eye" Sentinel Demarcator "Frontier Finalizer" "Ever Watchful" Divider Bastion "Home Turf" Wide
+
+			# From StarCraft
+			Dylar
 		}
 		
 		transport = {
 			Cowpens "Belleau Wood" Bataan Monterey Veracruz Tarawa "Iwo Jima" Okinawa Inchon "Goose Green" Peleliu Guam
+
+			# From StarCraft
+            		Daisy Hydrus Cormorant
 		}
 
-		military_station_small = { 
-			Mercury Venus Terra Mars Jupiter Saturn Uranus Neptune Luna Phobos Deimos Ceres 
-			Ganymede Callisto Io Europa Titan Rhea Iapetus Dione Tethys Enceladus Mimas Titania 
-			Oberon Umbriel Ariel Miranda Triton Pluto Charon 
-		}
-		
-		#military_station_small = { 
-		#	sequential_names = { 
-		#		"Outpost 1" "Outpost 2" "Outpost 3" "Outpost 4" "Outpost 5" "Outpost 6" "Outpost 7" "Outpost 8" "Outpost 9" "Outpost 10" "Outpost 11" "Outpost 12"
-		#		"Outpost 13" "Outpost 14" "Outpost 15" "Outpost 16" "Outpost 17" "Outpost 18" "Outpost 19" "Outpost 20" "Outpost 21" "Outpost 22" "Outpost 23"
-		#		"Outpost 24" "Outpost 25" "Outpost 26" "Outpost 27" "Outpost 28" "Outpost 29" "Outpost 30" "Outpost 31" "Outpost 32" "Outpost 33" "Outpost 34"
-		#		"Outpost 35" "Outpost 36" "Outpost 37" "Outpost 38" "Outpost 39" "Outpost 40"
-		#	}
-		#}
-		
-		military_station_medium = { 
-			Mercury Venus Terra Mars Jupiter Saturn Uranus Neptune Luna Phobos Deimos Ceres 
-			Ganymede Callisto Io Europa Titan Rhea Iapetus Dione Tethys Enceladus Mimas Titania 
-			Oberon Umbriel Ariel Miranda Triton Pluto Charon 
-		}
-		
-		#military_station_medium = {
-		#	random_names = {
-		#		"Citadel Station" "Albacore Station" "Gateway Station" "Vincent Station" "Babylon Station" "Caernavon Station" "Acre Station" "Pembroke Station" 
-		#		"Acheron Station" "Spithead Station" "Halifax Station" "Victoria Station" "Chatham Station" "Anchorage Station" "Scapa Flow Station" "Hampton Roads Station"
-		#		"Brooklyn Station" "Norfolk Station" "Newport Station" "Guam Station" "Pensacola Station" "Vesuvius Station" "McKinley Station" "Everest Station"
-		#		"Kilimanjaro Station" "Aconcagua Station" "Elbrus Station" "St. Helens Station" "Fuji Station" "Olympus Station" "Sinai Station" "Ambrose Station"
-		#		"Bermuda Station" "Farpoint Station" "Blue Star Station" "Olympus Mons Station" "Tharsis Station" "Syrtis Station" "Blackham Station"
-		#	}
-		#		
-		#}
-		
-		military_station_large = { 
+		military_station_small = {
 			Mercury Venus Terra Mars Jupiter Saturn Uranus Neptune Luna Phobos Deimos Ceres 
 			Ganymede Callisto Io Europa Titan Rhea Iapetus Dione Tethys Enceladus Mimas Titania 
 			Oberon Umbriel Ariel Miranda Triton Pluto Charon
+
+			# From StarCraft
+            		"Sky Shield" Gemini Nova "Horley Barton" "Theta Prime" "Catwalk Alley" "Osborne Port" "Waypoint Junction"
 		}
 		
-		#military_station_large = { 
-		#	random_names = {
-		#		"Fletcher Naval Base" "Perry Naval Base" "Butakov Naval Base" "Morris Naval Base" "Moorsom Naval Base" "Hart Naval Base" "Hargood Naval Base"
-		#		"Spruance Naval Base" "Tanaka Naval Base" "Halsey Naval Base" "Turner Naval Base" "Doria Naval Base" "Tirpitz Naval Base" "Cunningham Naval Base"
-		#		"Jellicoe Naval Base" "Hipper Naval Base" "Beatty Naval Base" "Potemkin Naval Base" "Durham Naval Base" "Codrington Naval Base" "Milne Naval Base"
-		#		"Laforey Naval Base" "Tyler Naval Base" "Hawke Naval Base" "Yonai Naval Base" "Pound Naval Base" "King Naval Base" "Crutchley Naval Base"
-		#		"Mountbatten Naval Base" "Kountouriotis Naval Base" "Kuznetsov Naval Base" "Essen Naval Base" "Kornilov Naval Base" "Suffren Naval Base"
-		#		"Treville Naval Base" "Villeneuve Naval Base" "Grasse Naval Base" "Byng Naval Base" "Lezo Naval Base"
-		#	}
-		#}
+		military_station_medium = {
+			Mercury Venus Terra Mars Jupiter Saturn Uranus Neptune Luna Phobos Deimos Ceres 
+			Ganymede Callisto Io Europa Titan Rhea Iapetus Dione Tethys Enceladus Mimas Titania 
+			Oberon Umbriel Ariel Miranda Triton Pluto Charon
+
+			# From StarCraft
+            		"New Gettysburg" Crusader "Sigma Centari" "Paladino Terminal" Proxima Nimbus Gutterhulk
+		}
+		
+		military_station_large = {
+			Mercury Venus Terra Mars Jupiter Saturn Uranus Neptune Luna Phobos Deimos Ceres 
+			Ganymede Callisto Io Europa Titan Rhea Iapetus Dione Tethys Enceladus Mimas Titania 
+			Oberon Umbriel Ariel Miranda Triton Pluto Charon
+
+			# From StarCraft
+            		Gehanna "The Keep"
+		}
+	}
+
+	ship_class_names = {
+        	generic = {
+            		Human # This is put here solely as a placeholder
+        	}
+		
+		corvette = {
+			# From StarCraft
+		        Avenger Wraith Viking Valkyrie Banshee
+		}
+		
+		destroyer = {
+		}
+		
+		cruiser = {
+		}
+		
+		battleship = {
+			# From StarCraft
+            		Leviathan Behemoth Hercules Minotaur Gorgon Starcruiser Loki Hurricane
+		}
+
+		constructor = {
+		}
+		
+		colonizer = {
+		}
+		
+		science = {
+			# From StarCraft
+			Kurzweil Explorer
+		}
+		
+		orbital_station = {
+		}
+
+		mining_station = {
+		}
+
+		research_station = {
+		}
+
+		wormhole_station = {
+		}
+
+		observation_station = {
+		}
+
+		outpost_station = {
+		}
+		
+		transport = {
+			# From StarCraft
+            		Mammoth Cyrus Gladiator Hydrus
+		}
+
+		military_station_small = {
+		}
+		
+		military_station_medium = {
+		}
+		
+		military_station_large = {
+		}
 	}
 
 	fleet_names = {
 		random_names = {
 			"The Hoplite Fleet" "The Phalanx Fleet" "The Centurion Fleet" "The Immortal Fleet" "The Knight Fleet" "The Archer Fleet" "The Cavalry Fleet" "The Lancer Fleet" "The Landsknechte Fleet" "The Gendarme Fleet"
-			"The Arquebusier Fleet" "The Tercio Fleet" "The Musketeer Fleet" "The Millenial Fleet"
+			"The Arquebusier Fleet" "The Tercio Fleet" "The Musketeer Fleet" "The Millenial Fleet" "The Solar Sails"
 		}
 		sequential_name = "%O% Fleet"
 	}
@@ -160,6 +234,12 @@ ui_extra_human_extended = {
 	army_names = {
 	
 		defense_army = {
+            		random_names = {
+				"Praetorian Guard"
+
+				# From StarCraft
+                		"Elite Guard" "Aegis Guard"
+            		}
 			sequential_name = "%O% Planetary Guard"
 		}
 
@@ -171,7 +251,7 @@ ui_extra_human_extended = {
 			sequential_name = "%O% Indentured Rifles"
 		}
 		
-		clone_army = { 
+		clone_army = {
 			sequential_name = "%O% Clone Army"
 		}
 		
@@ -191,7 +271,10 @@ ui_extra_human_extended = {
 			sequential_name = "%O% Synthetic Rangers"
 		}
 		
-		psionic_army = { 
+		psionic_army = {
+			random_names = {
+				"Ghost Division" "XCOM Squadron"
+			}
 			sequential_name = "%O% Psi Commando"
 		}
 		
@@ -202,7 +285,7 @@ ui_extra_human_extended = {
 		gene_warrior_army = {
 			random_names = {
 				"SARC-A 'Gladiators'" "SARC-B 'Widowmakers'" "SARC-C 'Immortals'" "SARC-D 'Berserkers'" "SARC-E 'Assassins'"
-				"SARC-F 'Reapers'" "SARC-G 'Nighthawks'" "SARC-H 'Desperados'" "SARC-I 'Grey Knights'" "SARC-J 'Roughnecks'" 
+				"SARC-F 'Reapers'" "SARC-G 'Nighthawks'" "SARC-H 'Desperados'" "SARC-I 'Grey Knights'" "SARC-J 'Roughnecks'"
 			}
 			sequential_name = "%O% Bio-Engineered Squadron"
 		}
@@ -217,71 +300,110 @@ ui_extra_human_extended = {
 				Al-Nuqayrah Al-Karak Al-Matabbah "Las Veredas" "San Lucas" "San Fernando" "San Cristóbal" "Nueva Sonora" 
 				"Puerto González" Nozomi Akatsuki "Nueva Cádiz" "La Isabela" "New Coventry" "St. Yegorov" "St. Pomeroy"
 				"Port Karakosov"
+
+				# European capitals
+				"New Bucharest" "New Budapest" "New Berlin" "New Paris" "Roma Nova" "Nuevo Madrid" "Londinium" "New Dublin" "New Warsaw" "New Sophia" "New Belgrade" "New Helsinki" "New Vilnius"
+				"New Kiev"
 			}
 		}
 		
 		pc_desert = {
 			names = {
-				"Nova Arabia" Sahara Gobi Kalahari Mojave Patagonia Syria Chihuahua Sand "Kara Kum" Colorado Sonora 
-				"Kyzyl Kum" Taklamakan Thar Gibson Namib Lut Kavir Dune Kali Muspelheim Vulcan Baal Carthage 
-				Ordos Khara Lop Maranjab Negev Sinai Atacama Simpson
+				"Nova Arabia" Sahara Gobi Kalahari Mojave Patagonia Syria Chihuahua Sand "Kara Kum" Colorado Sonora "Kyzyl Kum" Taklamakan Thar Gibson Namib Lut Kavir Dune Kali Muspelheim Vulcan Baal
+                                Carthage Ordos Khara Lop Maranjab Negev Sinai Atacama Simpson Nazca "New Mojave"
+
+				# From Star Wars
+				Tatooine
 			}
 		}
 		
 		pc_arid = {
 			names = {
-				Lebanon Tyre Antioch Jaxartes Oxus Turan Accona Bardenas Larzac Oltenia Tabernas Atacama Tanami 
-				Rangipo "New Mars" Canaan
+				Lebanon Tyre Antioch Jaxartes Oxus Turan Accona Bardenas Larzac Oltenia Tabernas Atacama Tanami Rangipo "New Mars" "Canaan" "New Vegas"
 			}
 		}
 		
 		pc_tropical = {
 			names = {
 				Amazonia Congo Ecuador Rain Storm Monsoon Bengal "New Africa" Kishkindha Zanzibar Kipling
+
+				# From Avatar
+				Pandora
 			}
 		}
 		
 		pc_continental = {
 			names = {
-				Albion Amor Dawn Horizon Asgard "Terra Nova" Kongzi Zoroaster "Tian Yi" 
-				"Wu Ding" Zheng "Gao Zu" Tokugawa Oda Toyotomi Rama Vishnu Soma Pangea
+				Albion Amor Dawn Horizon Asgard "Terra Nova" Kongzi Zoroaster "Tian Yi" "Wu Ding" Zheng "Gao Zu" Tokugawa Oda Toyotomi Rama Vishnu Soma Pangea "Europa Nova"
 			}
 		}
 		
 		pc_gaia = {
 			names = {
-				Eden Elysium Cornucopia Utopia Shambhala Xanadu Shangri-La
+				Eden Elysium Cornucopia Utopia Shambhala Xanadu Shangri-La "El Dorado"
+
+				# From StarCraft
+				Agria
 			}
 		}
 		
 		pc_ocean = {
 			names = {
-				Atlantis Oceania Pacifica Atlantica Euxina Hyrcania Rubrica Erythraea Baltica R'lyeh Dagon Kraken Aegea 
-				Adriatica Tyrrhenia Mediterranea Mare "Port Rabcewicz" Ningbo
+				Atlantis Oceania Pacifica Atlantica Euxina Hyrcania Rubrica Erythraea Baltica R'lyeh Dagon Kraken Aegea Adriatica Tyrrhenia Mediterranea Mare "Port Rabcewicz" Ningbo Caspica Hydra
+				Danubia Coralia
+
+				# From StarCraft
+				Pridewater
 			}
 		}
 		
 		pc_tundra = {
 			names = {
-				Iceland Canada Kola Scandza Utgard Rus Blizzard Taiyuan
+				Iceland "Nova Canada" Kola Scandza Utgard Rus Blizzard Taiyuan Borealia
 			}
 		}
 		
 		pc_arctic = {
 			names = {
-				Thule Arctica Greenland Alaska Baffin Siberia Niflheim Hyperborea
+				Thule Arctica Greenland "New Alaska" Baffin "Novo Siberia" Niflheim Hyperborea "New Anchorage"
+
+				# From The Elder Scrolls (settlements, places)
+				Solstheim Atmora
 			}
 		}
 
+        	pc_tomb = {
+            		names = {
+				"New Pripyat" "New Chernobyl"
+
+				# From Fallout (settlements)
+                		"Megaton" 
+            		}
+        	}
+
 		pc_savannah = {
 			names = {
+				Savannah
 			}
 		}
 
 		pc_alpine = {
 			names = {
+				Alpina Carpathia "New Himalaya" Everest "The Rock" Olympus "Raven Rock"
+
+				# From The Elder Scrolls
+				"High Rock"
 			}
 		}
+
+        	pc_molten = {
+            		names = {
+                		Hel Inferna Draconia
+
+				# From StarCraft
+				Char
+            		}
+        	}
 		
 	}
 
