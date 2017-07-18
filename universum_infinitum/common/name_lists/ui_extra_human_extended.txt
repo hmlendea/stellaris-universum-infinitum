@@ -166,17 +166,27 @@ ui_extra_human_extended = {
 		corvette = {
 			# From StarCraft
 		        Avenger Wraith Viking Valkyrie Banshee
+
+			# Latin
+	                Lembus Liburna
 		}
 		
 		destroyer = {
+			# Latin
+			Bireme Trireme Quadrireme Quinquereme
 		}
 		
 		cruiser = {
+			# Latin
+			Hexareme Sexireme
 		}
 		
 		battleship = {
 			# From StarCraft
             		Leviathan Behemoth Hercules Minotaur Gorgon Starcruiser Loki Hurricane
+
+			# Latin
+			Septireme Octeres Enneres Deceres
 		}
 
 		constructor = {
@@ -211,6 +221,9 @@ ui_extra_human_extended = {
 		transport = {
 			# From StarCraft
             		Mammoth Cyrus Gladiator Hydrus
+
+			# Latin
+			Hemiolia
 		}
 
 		military_station_small = {
@@ -225,8 +238,8 @@ ui_extra_human_extended = {
 
 	fleet_names = {
 		random_names = {
-			"The Hoplite Fleet" "The Phalanx Fleet" "The Centurion Fleet" "The Immortal Fleet" "The Knight Fleet" "The Archer Fleet" "The Cavalry Fleet" "The Lancer Fleet" "The Landsknechte Fleet" "The Gendarme Fleet"
-			"The Arquebusier Fleet" "The Tercio Fleet" "The Musketeer Fleet" "The Millenial Fleet" "The Solar Sails"
+			"The Hoplite Fleet" "The Phalanx Fleet" "The Centurion Fleet" "The Immortal Fleet" "The Knight Fleet" "The Archer Fleet" "The Cavalry Fleet" "The Lancer Fleet" "The Landsknechte Fleet"
+			"The Gendarme Fleet" "The Arquebusier Fleet" "The Tercio Fleet" "The Musketeer Fleet" "The Millenial Fleet" "The Solar Sails"
 		}
 		sequential_name = "%O% Fleet"
 	}
@@ -359,7 +372,7 @@ ui_extra_human_extended = {
 		
 		pc_tundra = {
 			names = {
-				Iceland "Nova Canada" Kola Scandza Utgard Rus Blizzard Taiyuan Borealia
+				Iceland "Nova Canada" Kola Scandza Utgard Rus Blizzard Taiyuan Borealia Aesgaard
 			}
 		}
 		
@@ -368,7 +381,7 @@ ui_extra_human_extended = {
 				Thule Arctica Greenland "New Alaska" Baffin "Novo Siberia" Niflheim Hyperborea "New Anchorage"
 
 				# From The Elder Scrolls (settlements, places)
-				Solstheim Atmora
+				Solstheim Atmora Sovengarde
 			}
 		}
 
@@ -377,7 +390,7 @@ ui_extra_human_extended = {
 				"New Pripyat" "New Chernobyl"
 
 				# From Fallout (settlements)
-                		"Megaton" 
+                		"Megaton"
             		}
         	}
 
@@ -416,10 +429,11 @@ ui_extra_human_extended = {
         # Statistics should be taken from Wikipedia. Weight should not be lower than 1.
 
 		###############################
-		# CHINESE
+		# CHINESE (33.07)
 		###############################
 		names1 = {
 			weight = 33
+
 			first_names_male = {
 				An Bao Bo Cai Cheng De Dong Feng Gang Guo Hu Hui Jian Jie Kang Li Liang Long Meng Ning Peng Qiang Shi Song Tao Tian Wei 
 				You Yong Yi Xiong Wu
@@ -444,10 +458,11 @@ ui_extra_human_extended = {
 		}
 		
 		###############################
-		# SPANISH
+		# SPANISH (14.02)
 		###############################
 		names2 = {
 			weight = 14
+
 			first_names_male = {
 				Diego Luis Pedro Joaquin José Emilio Eduardo Alejandro Carlos Fernando Francisco Julio "José Antonio" "José Manuel" Juan
 				"José María" Ignacio Manuel Pablo Miguel Ramón Raimundo Santiago Ricardo Marcelo Javier Gaspar Alfonso Lorenzo Enrique
@@ -475,10 +490,11 @@ ui_extra_human_extended = {
 		}
 		
 		###############################
-        # ENGLISH names (5.52%)
-        ###############################
+        	# ENGLISH names (12.47%)
+        	###############################
 		names3 = {
 			weight = 12
+
 			first_names_male = {
 				John Brian Peter Adam James William Jacob Christopher Joshua Michael Ethan Joseph Matthew Anthony Daniel Ryan Samuel Kevin
 				David Logan Carter Benjamin Andrew Henry Nicholas Gavin Owen Jack Wyatt Wayne Walter Charles Louis Merritt Earl Alfred Vernon
@@ -561,13 +577,14 @@ ui_extra_human_extended = {
 		}
 		
 		###############################
-		# HINDI
+		# HINDI (10.73)
 		###############################
 		names4 = {
-			weight = 10
+			weight = 11
+
 			first_names_male = {
 				Aarav Vivaan Aditya Arjun Reyansh Arnav Krishna Ishaan Shaurya Atharv Advik Pranav Advaith Dhruv Kabir Ritvik Aarush
-				Kayaan Darsh Veer Rahul Mahesh Shyam Raj Kumar Palash Rakesh Nishant Neeraj Prathamesh Shubham
+				Kayaan Darsh Veer Rahul Mahesh Shyam Raj Kumar Palash Rakesh Nishant Neeraj Prathamesh Shubham Azam
 			}
 			first_names_female = {
 				Saanvi Aanya Aadhya Aaradhya Ananya Pari Anika Navya Diya Avani Myra Ira Aahana Anvi Prisha Riya Aarohi Anaya Akshara
@@ -576,7 +593,7 @@ ui_extra_human_extended = {
 			second_names = {
 				Kumar Moorthi Shastri Prasad Acharya Swamy Pillai Gowda Nayak Desmukh Bhat Bhandary Poojary Upadhyay Chowta Naik
 				Kulkarni Dodamani Patil Gupta Sharma Namboodiri Pannikar Potti Kutty Varma Sondharam Sooriyaprakash Chandran Vijay
-				Venktaesan Puttappa
+				Venktaesan Puttappa Abidi
 			}
 			regnal_first_names_male = {
 				Kayaan Darsh Veer Rahul Mahesh Shaurya Atharv Advik Pranav
@@ -590,10 +607,11 @@ ui_extra_human_extended = {
 		}
 		
 		###############################
-		# ARABIC (4.23%)
+		# ARABIC (10.21%)
 		###############################
 		names5 = {
 			weight = 10
+
 			first_names_male = {
 				Abdullah Abbas Abed Ahmad Ahmed Ali Ammar Amir Hamza Hassan Hydar Ibrahim Jamal Kareem Khathem Khalil Khalid Malik Mahdi 
 				Hussein Mohamed Mohammad Mohammed Muhammad Muhammed Nasir Omar Rashad Rashid Samir Tariq Yahir Yasin Yusuf Barak
@@ -619,10 +637,11 @@ ui_extra_human_extended = {
 		}
 		
 		###############################
-		# RUSSIAN (2.42%)
+		# RUSSIAN + UKRAINIAN (6.41%)
 		###############################
 		names6 = {
-			weight = 5
+			weight = 6
+
 			first_names_male = {
 				Ivan Nikolai Boris Vladimir Pyotr Alexei Dmitri Sergei Viktor Roman Igor Mikhail Vasily Pavel Fyodor Nikita Valery
 				Vladislav Leonid Maxim Yuri Oleg Andrei Konstantin Vyacheslav Aleksandr Stanislav Anatoli Miroslav Artyom Bogdan
@@ -651,10 +670,11 @@ ui_extra_human_extended = {
 		}
 		
 		###############################
-		# JAPANESE (1.92%)
+		# JAPANESE (4.33%)
 		###############################
 		names7 = {
 			weight = 4
+
 			first_names_male = {
 				Hiroto Hikaru Takumi Tsubasa Ren Minato Shota Yuuto Sota Yuma Takeru Rikuto Tatsuki Ryuto Haru Yushin Kosei Yoshinobu
 				Jiro Hiroshi Yoshida Mitsue Keisuke Saburo Junichi Yoshi Koshiro Kentaro Koichiro
@@ -680,7 +700,7 @@ ui_extra_human_extended = {
 		}
 		
 		###############################
-		# GERMAN (1.39%)
+		# GERMAN (3.29%)
 		###############################
 		names8 = {
 			weight = 3
@@ -688,17 +708,18 @@ ui_extra_human_extended = {
 				Karl Wilhelm Otto Heinrich Friedrich Paul Hans Gustav Max Ernst Hermann Walter Werner Günther Wolfgang Helmuth Kurt Rolf
 				Peter Klaus Gerhard Heinz Horst Manfred Uwe Jürgen Dieter Andreas Thomas Stefan Lukas Felix Martin Fritz Johann Erich Arnold
 				Bruno Franz Rudolf Erhard Jörg Axel Emil Gerhardt Gottfried Holger Joachim Konrad Lothar Ludwig Matthias Moritz Reinhard
-				Sigismund Ulrich Udo Hravn
+				Sigismund Ulrich Udo Hravn Adolf Hans
 			}
 			first_names_female = {
 				Anna Elsa Emma Helga Ursula Gisela Ingrid Ilse Jessika Sandra Stefanie Andrea Anja Katrin Birgit Martina Heike Sabine Erika
 				Edith Lena Lisa Katharina Claudia Silvia Tina Annike Renate Bettina Wibke Sara Lina Julia Marith Heidi Angelika Christel
-				Gretchen Hilde Hildegard Gertrude Wilhelmina Lisbeth Kerstin Johanna Anita
+				Gretchen Hilde Hildegard Gertrude Wilhelmina Lisbeth Kerstin Johanna Anita Eva
 			}
 			second_names = {
 				Müller Schmidt Schneider Fischer Weber Meyer Wagner Schulz Becker Hoffmann Bauer Brinkmann Brill Dietrich Erhard Grasser
 				"von Gebser" "von Fritsch" "von Wrangel" "von Halkett" "von Boyen" "von Falkenstein" Dreyer Wolf Klein Richter Schäfer
-				Neumann Braun Schwarz Krüger Stein Keller Schubert Baumann Ziegler Brandt Sauer Kreutz Bergmeister Andbert
+				Neumann Braun Schwarz Krüger Stein Keller Schubert Baumann Ziegler Brandt Sauer Kreutz Bergmeister Andbert Braun Strasse
+				Schwarzenegger
 			}
 			regnal_first_names_male = {
 				Alexander Vladimir Boris Tiberius Theobald Valerian Maximus Lucius
@@ -712,10 +733,10 @@ ui_extra_human_extended = {
 		}
 		
 		###############################
-		# FRENCH (1.12%)
+		# FRENCH (2.6%)
 		###############################
 		names9 = {
-			weight = 2
+			weight = 3
 			first_names_male = {
 				Philippe Pierre Jean-Marie Marcel Francois Hubert Paul Antoine Michel Henri Marc Jean Maurice René Claude Yves Jacques
 				Simon Olivier Joseph Robert Georges André Raymond Gaston Charles Thierry Guy Patrice Mathieu Jean-Francois Lucien Jean-Paul
@@ -743,7 +764,7 @@ ui_extra_human_extended = {
 		}
 		
 		###############################
-		# ITALIAN (0.9%)
+		# ITALIAN (2.04%)
 		###############################
 		names10 = {
 			weight = 2
@@ -775,9 +796,10 @@ ui_extra_human_extended = {
 		}
 		
 		###############################
-		# ROMANIAN (0.37%)
+		# ROMANIAN (0.83%)
 		###############################
 		# All 'sh' is a s with comma underneath
+		# All 'ã' is a with a cup above (cup like a 'c' rotated by 90* to the left)
 		names11 = {
 			weight = 1
 			first_names_male = {
