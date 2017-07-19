@@ -68,10 +68,10 @@ ui_extra_human_extended = {
             Independence Lionheart Unicorn Napoleon "Royal Sovereign" Marathon Imperieuse
 
             # From StarCraft
-                    Hyperion Norad Cyrus Bucephalus Scion Hephaestus Palatine Victory Medusa Herakles "White Star" "Emperor's Fury" Hoosier Tahoe "Gray Tiger" Fury
-                    Cerberus Helios Ragnorak Metis "Thunder Child" Meleager Amphitrite Phobos Titan Circe "Iron Justice" Merrimack Jackson Eos "Huey Long" Antigone
-                    "Iron Fist" Patroclus Aeneas "Theodore G. Bilbo" Bismarck Napoleon "Dark Skies" "Jackson's Revenge" "Valor of Vardona" "Kimeran Juggernaut"
-                    Kimera
+            Hyperion Norad Cyrus Bucephalus Scion Hephaestus Palatine Victory Medusa Herakles "White Star" "Emperor's Fury" Hoosier Tahoe "Gray Tiger" Fury
+            Cerberus Helios Ragnorak Metis "Thunder Child" Meleager Amphitrite Phobos Titan Circe "Iron Justice" Merrimack Jackson Eos "Huey Long" Antigone
+            "Iron Fist" Patroclus Aeneas "Theodore G. Bilbo" Bismarck Napoleon "Dark Skies" "Jackson's Revenge" "Valor of Vardona" "Kimeran Juggernaut"
+            Kimera
         }
 
         constructor = {
@@ -85,7 +85,7 @@ ui_extra_human_extended = {
             Jamaica Macau Mozambique Philippines Somalia "Sri Lanka" Taiwan
             
             # From StarCraft
-                    Nagglfar Argo
+            Nagglfar Argo
         }
         
         science = {
@@ -94,7 +94,7 @@ ui_extra_human_extended = {
             Equinox Lagrange Tsiolkovsky Darwin Grissom Archimedes
 
             # From StarCraft
-                Brin Amerigo
+            Brin Amerigo
         }
         
         orbital_station = {
@@ -102,12 +102,12 @@ ui_extra_human_extended = {
 
         mining_station = {
             # From StarCraft
-                    Sakrysta Shi Sorona Revelation Avernus "Char Aleph" Erebus Scrap
+            Sakrysta Shi Sorona Revelation Avernus "Char Aleph" Erebus Scrap
         }
 
         research_station = {
             # From StarCraft
-                    "Skygeirr Platform" "Castanar Installation" Prometheus "Immortal Forge"
+            "Skygeirr Platform" "Castanar Installation" Prometheus "Immortal Forge"
         }
 
         wormhole_station = {
@@ -127,7 +127,7 @@ ui_extra_human_extended = {
             Cowpens "Belleau Wood" Bataan Monterey Veracruz Tarawa "Iwo Jima" Okinawa Inchon "Goose Green" Peleliu Guam
 
             # From StarCraft
-                    Daisy Hydrus Cormorant
+            Daisy Hydrus Cormorant
         }
 
         military_station_small = {
@@ -136,7 +136,7 @@ ui_extra_human_extended = {
             Oberon Umbriel Ariel Miranda Triton Pluto Charon
 
             # From StarCraft
-                    "Sky Shield" Gemini Nova "Horley Barton" "Theta Prime" "Catwalk Alley" "Osborne Port" "Waypoint Junction"
+            "Sky Shield" Gemini Nova "Horley Barton" "Theta Prime" "Catwalk Alley" "Osborne Port" "Waypoint Junction"
         }
         
         military_station_medium = {
@@ -145,7 +145,7 @@ ui_extra_human_extended = {
             Oberon Umbriel Ariel Miranda Triton Pluto Charon
 
             # From StarCraft
-                    "New Gettysburg" Crusader "Sigma Centari" "Paladino Terminal" Proxima Nimbus Gutterhulk
+            "New Gettysburg" Crusader "Sigma Centari" "Paladino Terminal" Proxima Nimbus Gutterhulk
         }
         
         military_station_large = {
@@ -159,9 +159,9 @@ ui_extra_human_extended = {
     }
 
     ship_class_names = {
-            generic = {
-                    Human # This is put here solely as a placeholder
-            }
+        generic = {
+            Human # This is put here solely as a placeholder
+        }
         
         corvette = {
             # From StarCraft
@@ -309,12 +309,15 @@ ui_extra_human_extended = {
         generic = {
             names = {
                 Anchor Dis Avalon Bounty Hope Olympia Serendipity Spring Thinis Salaam Xianyang Concord Theia Tuscany Wenzhou  Delgovicia "Wang Tong" Al-Jissa Al-Mada'in 
-                Al-Nuqayrah Al-Karak Al-Matabbah "Las Veredas" "San Lucas" "San Fernando" "San Cristóbal" "Nueva Sonora"  "Puerto González" Nozomi Akatsuki "Nueva Cádiz"
-                "La Isabela" "St. Yegorov" "St. Pomeroy" "Port Karakosov"
+                Al-Nuqayrah Al-Karak Al-Matabbah "Las Veredas" "San Lucas" "San Fernando" "San Cristóbal" "Nueva Sonora" "Puerto González" Nozomi Akatsuki "Nueva Cádiz"
+                "La Isabela" "St. Yegorov" "St. Pomeroy" "Port Karakosov" Destiny Terminus Liber
+                
+                # Gods
+                Minerva Apollo
 
-                # *New*-prefix Capitals and cities
-                "New Bucharest" "New Budapest" "New Berlin" "New Paris" "Roma Nova" "Nuevo Madrid" "Londinium" "New Dublin" "New Warsaw" "New Sophia" "New Belgrade" "New Helsinki" "New Vilnius"
-                "New Kiev" "New Jerusalem" "New Jamestown" "New Troy" "New Roanoke" "New Coventry"
+                # Countries, capitals and cities
+                "New Bucharest" "New Budapest" "New Berlin" "New Paris" "Roma Nova" "Nuevo Madrid" Londinium "New Dublin" "New Warsaw" "New Sophia" "New Belgrade" "New Helsinki" "New Vilnius"
+                "New Kiev" "New Jerusalem" "New Jamestown" "New Troy" "New Roanoke" "New Coventry" Athena "Dacia Nova" Thrace
                 
                 # Other films and literature
                 Annares Solaris
@@ -348,13 +351,17 @@ ui_extra_human_extended = {
         
         pc_continental = {
             names = {
-                Albion Amor Dawn Horizon Asgard "Terra Nova" Kongzi Zoroaster "Tian Yi" "Wu Ding" Zheng "Gao Zu" Tokugawa Oda Toyotomi Rama Vishnu Soma Pangea "Europa Nova"
+                Albion Amor Dawn Horizon "Terra Nova" Kongzi Zoroaster "Tian Yi" "Wu Ding" Zheng "Gao Zu" Tokugawa Oda Toyotomi Rama Vishnu Soma Pangea "Europa Nova"
+                "Transilvania Nova"
             }
         }
         
         pc_gaia = {
             names = {
-                Eden Elysium Cornucopia Utopia Shambhala Xanadu Shangri-La "El Dorado"
+                Eden Elysium Cornucopia Utopia Shambhala Xanadu Shangri-La "El Dorado" Fortuna
+                
+                # "Heaven" in different languages
+                Taevas Paradiso Caelum Himlen
 
                 # From StarCraft
                 Agria
@@ -364,7 +371,7 @@ ui_extra_human_extended = {
         pc_ocean = {
             names = {
                 Atlantis Oceania Pacifica Atlantica Euxina Hyrcania Rubrica Erythraea Baltica R'lyeh Dagon Kraken Aegea Adriatica Tyrrhenia Mediterranea Mare "Port Rabcewicz" Ningbo Caspica Hydra
-                Danubia Coralia
+                Danubia Coralia Aquarius
 
                 # From StarCraft
                 Pridewater
@@ -388,11 +395,11 @@ ui_extra_human_extended = {
 
         pc_tomb = {
             names = {
-                "New Pripyat" "New Chernobyl"
+                Pripyat Chernobyl Verdun
                 
                 # From Fallout (settlements)
-                "Megaton"
-                }
+                Megaton
+            }
         }
 
         pc_savannah = {
@@ -411,12 +418,18 @@ ui_extra_human_extended = {
         }
 
         pc_molten = {
-                names = {
-                    Hel Inferna Draconia
+            names = {
+                Inferna Vulkan
 
-            # From StarCraft
-            Char
-                }
+                # Biblic/mythological settlements, places, etc
+                Hel Sodoma Gomorra Hades Draconia Dracula Tartarus Erebus
+                    
+                # From StarCraft
+                Char
+                
+                # From other games
+                "The Nether"
+            }
         }  
     }
 
@@ -563,7 +576,7 @@ ui_extra_human_extended = {
                 Sutherland Sutton Taggart Townsend Traynor Stark Strudwick MacArthur Barnes Atkins Ballard Biggs Baird Fredericks Humphry
                 Colt Dillard Cunningham DeStefano Finks Fletcher Galloway Kirby Sutter Preston Tucker "Smith Jr." "Williams Jr." "Evans Jr."
                 "Walker Jr." "Taylor Jr." "Scott Jr." "Meriweather II" "Barksdale III" "Leadbetter IV" "Pemberton II" "Trapier III" Kowalski
-                Rabinowitz Feldman Katz Roykirk Decker
+                Rabinowitz Feldman Katz Roykirk Decker Trump
             }
             regnal_first_names_male = {
                 Alexander Vladimir Boris Tiberius Theobald Valerian Maximus Lucius
@@ -702,12 +715,12 @@ ui_extra_human_extended = {
             first_names_male = {
                 Ivan Nikolai Boris Vladimir Pyotr Alexei Dmitri Sergei Viktor Roman Igor Mikhail Vasily Pavel Fyodor Nikita Valery
                 Vladislav Leonid Maxim Yuri Oleg Andrei Konstantin Vyacheslav Aleksandr Stanislav Anatoli Miroslav Artyom Bogdan
-                Branislav Ilya Jaroslav Radomir Kirill Radoslav Lubomir Ratimir Yegor Ignatyi Vitalyi Vasili
+                Branislav Ilya Jaroslav Radomir Kirill Radoslav Lubomir Ratimir Yegor Ignatyi Vitalyi Vasili Vadim
             }
             first_names_female = {
                 Anna Yelena Olga Oksana Tatyana Svetlana Nadya Yekaterina Irina Galina Miroslava Anastasia Vera Polina Lyudmila Elena
                 Marina Darya Irma Ksenia Alexandra Nadesja Valentina Arina Alya Galenka Katya Ljuba Radmila Natacha Vlada Nadezhda
-                Tatiana Sonia Mira
+                Tatiana Sonia Mira Ivanka
             }
             second_names = {
                 Grishina Fedorov Komarov Pushkov Petrenko Shatalov Ivanov Kamensky Vasiliev Ulanov Volkov Gryaznov Dudnik Yerzov Zhirov
@@ -764,12 +777,12 @@ ui_extra_human_extended = {
                 Karl Wilhelm Otto Heinrich Friedrich Paul Hans Gustav Max Ernst Hermann Walter Werner Günther Wolfgang Helmuth Kurt Rolf
                 Peter Klaus Gerhard Heinz Horst Manfred Uwe Jürgen Dieter Andreas Thomas Stefan Lukas Felix Martin Fritz Johann Erich Arnold
                 Bruno Franz Rudolf Erhard Jörg Axel Emil Gerhardt Gottfried Holger Joachim Konrad Lothar Ludwig Matthias Moritz Reinhard
-                Sigismund Ulrich Udo Hravn Adolf Hans Conrad
+                Sigismund Ulrich Udo Hravn Adolf Hans Conrad Albert
             }
             first_names_female = {
                 Anna Elsa Emma Helga Ursula Gisela Ingrid Ilse Jessika Sandra Stefanie Andrea Anja Katrin Birgit Martina Heike Sabine Erika
                 Edith Lena Lisa Katharina Claudia Silvia Tina Annike Renate Bettina Wibke Sara Lina Julia Marith Heidi Angelika Christel
-                Gretchen Hilde Hildegard Gertrude Wilhelmina Lisbeth Kerstin Johanna Anita Eva Petra
+                Gretchen Hilde Hildegard Gertrude Wilhelmina Lisbeth Kerstin Johanna Anita Eva Petra Margaret
             }
             second_names = {
                 Müller Schmidt Schneider Fischer Weber Meyer Wagner Schulz Becker Hoffmann Bauer Brinkmann Brill Dietrich Erhard Grasser
@@ -778,13 +791,13 @@ ui_extra_human_extended = {
                 Schwarzenegger "von Hotzendorf" Weiss
             }
             regnal_first_names_male = {
-                Alexander Vladimir Boris Tiberius Theobald Valerian Maximus Lucius
+                Wilhelm Leopold Rudolf Freidrich Karl Ferdinand Franz Otto Johann
             }
             regnal_first_names_female = {
-                Theodora Fatima Miranda Cordelia Svetlana Anastasia Valentina Henrietta
+                Maria Adelaide Hermine Margaret Anna
             }
             regnal_second_names = {
-                Habsburg Romanov Windsor Mountbatten Salazar Nelson
+                Karling Hohenstaufen Welf Habsburg Luxemburg Wittelsbach Hohenzollern Sigmaringen
             }
         }
         
@@ -796,26 +809,26 @@ ui_extra_human_extended = {
             first_names_male = {
                 Philippe Pierre Jean-Marie Marcel Francois Hubert Paul Antoine Michel Henri Marc Jean Maurice René Claude Yves Jacques
                 Simon Olivier Joseph Robert Georges André Raymond Gaston Charles Thierry Guy Patrice Mathieu Jean-Francois Lucien Jean-Paul
-                Daniel Thibault Luc Dominic Sébastien Hugo Jamie
+                Daniel Thibault Luc Dominic Sébastien Hugo Jamie Armand
             }
             first_names_female = {
                 Chloe Inés Manon Camille Clara Juliette Clémence Jeanne Charlotte Marie Nina Julia Elise Justine Yasmine Elina Andrea
                 Eleonore Clarisse Fanny Selma Leila Veronique Sophie Helena Daphne Suzanne Melanie Bernadette Maud Angeline Celine Jessica
-                Pauline Viviane Jeanette
+                Pauline Viviane Jeanette Margaret
             }
             second_names = {
                 Martin Bernard Dubois Durand Leroy Moreau Lambert Dupont Leclerc Laurent Renard Tremblay Gagnon Roy Bouchard Gauthier
                 Morin Lavoie Fortin Gagne Duval Hébert "Le Gall" "Le Roux" Deville Gerard Duchaine Jauvin Gilbert Bergeron Paquette
-                Pelletier Rémy Giroud Bosquet "de Castelnau" "de Montaignac" Lebouef Péllissier Deveraux
+                Pelletier Rémy Giroud Bosquet "de Castelnau" "de Montaignac" Lebouef Péllissier Deveraux Isabella Louise
             }
             regnal_first_names_male = {
-                Alexander Vladimir Boris Tiberius Theobald Valerian Maximus Lucius
+                Louis Philippe Robert Charles Henri Armand Antoine Francois Jean
             }
             regnal_first_names_female = {
-                Theodora Fatima Miranda Cordelia Svetlana Anastasia Valentina Henrietta
+                Margaret Isabella Suzanne Louise Marie
             }
             regnal_second_names = {
-                Habsburg Romanov Windsor Mountbatten Salazar Nelson
+                Bourbon
             }
         }
         
@@ -932,7 +945,7 @@ ui_extra_human_extended = {
                 Maria Ana Elena Elisabeta Ileana Margareta Irina Sofia Carina Diana
             }
             regnal_second_names = {
-                "De România"
+                "de România"
             }
         }
         
