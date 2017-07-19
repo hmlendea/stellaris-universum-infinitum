@@ -429,10 +429,10 @@ ui_extra_human_extended = {
         # Statistics should be taken from Wikipedia. Weight should not be lower than 1.
 
         ###############################
-        # CHINESE (33.07)
+        # CHINESE (30.78)
         ###############################
         names1 = {
-            weight = 33
+            weight = 31
 
             first_names_male = {
                 An Bao Bo Cai Cheng De Dong Feng Gang Guo Hu Hui Jian Jie Kang Li Liang Long Meng Ning Peng Qiang Shi Song Tao Tian Wei 
@@ -458,10 +458,10 @@ ui_extra_human_extended = {
         }
         
         ###############################
-        # SPANISH (14.02)
+        # SPANISH (13.05)
         ###############################
         names2 = {
-            weight = 14
+            weight = 13
 
             first_names_male = {
                 Diego Luis Pedro Joaquin José Emilio Eduardo Alejandro Carlos Fernando Francisco Julio "José Antonio" "José Manuel" Juan
@@ -490,8 +490,8 @@ ui_extra_human_extended = {
         }
         
         ###############################
-            # ENGLISH names (12.47%)
-            ###############################
+        # ENGLISH names (11.60%)
+        ###############################
         names3 = {
             weight = 12
 
@@ -577,10 +577,10 @@ ui_extra_human_extended = {
         }
         
         ###############################
-        # HINDI (10.73)
+        # HINDI (9.99)
         ###############################
         names4 = {
-            weight = 11
+            weight = 10
 
             first_names_male = {
                 Aarav Vivaan Aditya Arjun Reyansh Arnav Krishna Ishaan Shaurya Atharv Advik Pranav Advaith Dhruv Kabir Ritvik Aarush
@@ -607,7 +607,7 @@ ui_extra_human_extended = {
         }
         
         ###############################
-        # ARABIC (10.21%)
+        # ARABIC (9.51%)
         ###############################
         names5 = {
             weight = 10
@@ -637,7 +637,64 @@ ui_extra_human_extended = {
         }
         
         ###############################
-        # RUSSIAN + UKRAINIAN (6.41%)
+        # PORTUGUESE (6.93%)
+        ###############################
+        names5 = {
+            weight = 7
+
+            first_names_male = {
+                Álvaro Ângelo Érico Óscar Abílio Abel Abraão Adão Adalberto Adelmar Ademar Ademir Adriano Afonso Agostinho Alberto Albino Alcides Aldo Aleixo Alex Alexandre Alfredo Almir Almiro Aloísio Altair
+                Américo Amílcar Amancio Amando Ambrósio Amor Aníbal Anacleto André Anselmo António Antônio Antelmo Aristides Armando Arsenio Artur Atílio Augusto Aurélio Balbino Balduíno Bartolomeu Benedito
+                Benigno Benjamim Bento Bernardino Bernardo Bonifacio Brás Breno Brian Bruno Cândido César Cézar Caetano Caio Calisto Calixto Camilo Carlinhos Carlito Carlitos Carlos Carmo Casimiro Cecilio
+                Celestino Celio Celso Cesário Cezário Cezar Chico Cipriano Ciríaco Cláudio Clemente Cleto Cornélio Cosme Cristóvão Cristiano Cruz Custódio Dário Dado Dan Daniel Danilo Davi David Demétrio
+                Deodato Desidério Diego Dimas Dinis Diniz Diogo Dionísio Domingos Donato Du Duarte Duda Dudu Edgar Edmundo Edu Eduardo Egídio Elder Eleuterio Elias Elpidio Emanuel Emilio Enéas Enzo Erasmo
+                Ernesto Estevão Eugênio Eusébio Eustaquio Eutímio Evaristo Ezequiel Fábio Félix Fúlvio Fabiano Fabricio Faustino Fausto Feliciano Felipe Felipinho Fernão Fernando Filipe Flávio Florencio
+                Fortunato Francisco Fred Frederico Gabriel Gaspar Geraldo Germano Gervásio Gil Gilberto Gláucio Glauco Godofredo Gonçalo Graciano Guálter Gualberto Guilherme Guiomar Gustavo Hélder Haroldo
+                Heitor Helder Heliodoro Henrique Herberto Heriberto Hermínio Hermenegildo Hipólito Horácio Hugo Iago Ian Igor Inácio Isaac Isac Ismael Ivan Ivo Ivo  Jônatas Jacó Jacinto Jaime Jerónimo
+                Jerônimo Jeremias João Joãozinho Joaquim Joel Joel  Jordão Jorge Jorginho José Josué Julio Kévim Kevin Lúcio Leandro Leonardo Leonel Leopoldo Lino Lisandro Lourenço Luís Luca Lucas Luciano
+                Luisinho Luiz Márcio Mário Manel  Manoel Manuel Marcelinho Marcelino Marcelo Marciano Marco Marcos Maria Mariano Marinho Marquinhos Martim Martinho Mateus Matheus Matias Maurício Mauro
+                Maximiano Maximiliano Maximino Micael Miguel Miguelito Modesto Moisés Narciso Natanael Nataniel Nelinho Nelson Netuno Nico Nicodemo Nicolau Noé Noah  Norberto Nuno Octávio Odilon Olavo
+                Olegário Oscar Osvaldo Otávio Ovídio Patrício Paulinho Paulino Paulo Pedrinho Pedro Pio Plácido Plínio Primo Quim Quirino Régulo Rúben Raúl Rafael Rafinha Raimundo Ramiro Raul Raymundo Reinaldo
+                Remigio Renato Reynaldo Ricardo Roberto Rodolfo Rodrigo Rogério Rolando Roldão Ronaldo Roque Rubem Rubens Rubinho Rufino Rui Ruy Sérgio Salomão Salvador Samuel Sandro Santiago Saturnino
+                Sebastião Severino Silvestre Silvio Simão Téo Túlio Tacito Tadeu Teófilo Telmo Teobaldo Teodósio Teodoro Thiago Tiago Tiburcio Timoteo Tito Tomás Tomé Toninho Tristão Ulisses Vítor Valério
+                Valentin Valter Vasco Veríssimo Vicente Victor Victorino Vinícius Virgílio Viriato Wilson Xande Xandinho Xavier Zé Zeferino Zezé
+            }
+            first_names_female = {
+                Águeda Áurea Ângela Érica Íris Úrsula Adelaide Adelina Adriana Alícia Alberta Albertina Albina Alda Aldina Alex Alexandra Alexandrina Alice Aline Amália Amélia América Amanda Amor Ana Anabela
+                Andréa Andréia Andreia Angélica Anita Antónia Antônia Apolónia Apolônia Ariana Assunção Augusta Aurora Bárbara Balbina Beatriz Belinha Benedita Benigna Bia Bianca Brígida Branca Bruna Brunilda
+                Cátia Cândida Célia Cíntia Caetana Calista Calixta Camila Carina Carla Carlota Carminho Carmo Carolina Cassandra Catarina Cecília Cesária Chica Cláudia Clara Clarissa Clementina Cloé Clotilde
+                Constância Constança Cristiana Cristina Cruz Custódia Débora Délia Daniela Desidéria Diana Dina Domitila Dores Dorotéia Doroteia Duda Dulce Edite Eduarda Efigénia Efigênia Eliana Elisa Elisabete
+                Eliza Elvira Emília Ema Emiliana Eneida Esmeralda Estefânia Estela Ester Eufêmia Eugênia Eulália Eva Fábia Fátima Fabiana Felícia Felicidade Fernanda Filipa Filomena Flávia Florinda Fortunata
+                Francisca Frederica Gabriela Genoveva Gertrudes Gilda Gisela Gláucia Gloria Graça Gracília Graciana Guiomar Helena Hermínia Iara Ida Imaculada Inês Iolanda Irene Iria Irina Isabel Isabela Isaura
+                Isidora Isis Izabel Jéssica Júlia Jacinta Jaqueline Jessica Joana Joaninha Jordana Josefa Josefina Jovita Judite Juliana Julie Julinha Lídia Lígia Lílian Lívia Lúcia Lara Larissa Laura Leandra
+                Lena Leocádia Leonor Letícia Lia Liana Liliana Lorena Luísa Luana Lucília Luciana Lucinda Luiza Luna Lurdes Luzia Lygia Márcia Mélanie Mónica Mônica Madalena Mafalda Magda Maia Maiara Manoela
+                Manuela Mara Marciana Marciane Margarida Maria Mariana Mariazinha Marina Marisa Maristela Marta Matilde Melissa Mia Micaela Miguela Moema Monica Nádia Núria Naiara Narcisa Natália Natacha
+                Nathália Nela Nelinha Neves Nicole Nilda Noêmia Noa Noemí Octávia Ofélia Olívia Olga Ondina Otávia Palmira Paloma Patrícia Paula Paulina Paulinha Perpétua Pilar Priscila Rafaela Raissa Raquel
+                Rebeca Regina Renata Rita Rosália Rosário Rosa Rosalia Rosalina Rosana Rosinha Rute Sílvia Sónia Sabina Safira Salomé Sandra Sara Serafina Severina Silvia Sofia Sol Sonia Soraia Susana Suzana
+                Tânia Taís Talita Tatiana Telma Teodora Teresa Teresinha Tereza Terezinha Thaís Thalita Valéria Valentina Valquíria Vanda Vanessa Verônica Vera Victória Violeta Virginia Vitória Yasmin Zita
+            }
+            second_names = {
+                Águas Álvares Ávila Abreu Abril Agostinho Aguiar Albuquerque Alcantara Almeida Alves Alvim Amaral Amorim Andrade Antunes Araújo Azevedo Bandeira Baptista Barbosa Barboza Barreto Barros Bastos
+                Batista Bento Bettencourt Borges Botelho Braga Branco Brandão Brito Câmara Cabral Caetano Campos Cardoso Carneiro Carreira Carriço Carvalho Castro Cavaco Cerqueira Coelho Coimbra Cordeiro Correia
+                Corte-Real Cortes Costa Coutinho Couto Cruz Cunha Dantas de Freitas de Lima de Sá Dias do Rosário Duarte Faria Fernandes Ferreira Fidalgo Florencio Fonseca Fontes Freire Freitas Furtado Góes Gama
+                Garcia Gomes Gonçalves Gonsalves Gouveia Guerra Guimarães Gusmão Henriques Hernandes Leitão Leite Lima Lobo Lopes Luz Macedo Machado Maciel Magalhães Martins Mascarenhas Mata Matos Medeiros Melo
+                Mendes Mendez Mendonça Menezes Miranda Moniz Monteiro Montenegro Morais Moreira Moreno Moura Nascimento Neves Nogueira Nunes Oliveira Pacheco Paiva Pascoal Passos Pereira Peres Pimentel Pinho Pinto
+                Pires Queiros Queiroz Ramos Rebelo Rego Reis Resende Resendes Ribeiro Rocha Rodrigues Roque Rosa Sá Saldanha Salgado Santos Sapateiro Saraiva Seabra Seixas Sequeira Serra Silva Silveira Silvestre
+                Simões Siqueira Soares Sousa Tavares Teixeira Tomás Torres Valente Varejão Varela Vasconcelos Vaz Venâncio Vidal Vieira Vila Vomlel
+            }
+            regnal_first_names_male = {
+                Afonso Fernando Jaime Teodósio João Pedro Miguel Luís Carlos
+            }
+            regnal_first_names_female = {
+                Maria Teresa Teodora Isabel Eleanora Pia Leopoldina Francisca
+            }
+            regnal_second_names = {
+                "de Braganza"
+            }
+        }
+        
+        ###############################
+        # RUSSIAN + UKRAINIAN (5.96%)
         ###############################
         names6 = {
             weight = 6
@@ -669,7 +726,7 @@ ui_extra_human_extended = {
         }
         
         ###############################
-        # JAPANESE (4.33%)
+        # JAPANESE (4.03%)
         ###############################
         names7 = {
             weight = 4
@@ -699,7 +756,7 @@ ui_extra_human_extended = {
         }
         
         ###############################
-        # GERMAN (3.29%)
+        # GERMAN (3.06%)
         ###############################
         names8 = {
             weight = 3
@@ -732,7 +789,7 @@ ui_extra_human_extended = {
         }
         
         ###############################
-        # FRENCH (2.6%)
+        # FRENCH (2.42%)
         ###############################
         names9 = {
             weight = 3
@@ -763,7 +820,7 @@ ui_extra_human_extended = {
         }
         
         ###############################
-        # ITALIAN (2.04%)
+        # ITALIAN (1.90%)
         ###############################
         names10 = {
             weight = 2
@@ -796,7 +853,7 @@ ui_extra_human_extended = {
         }
         
         ###############################
-        # ROMANIAN (0.83%)
+        # ROMANIAN (0.77%)
         ###############################
         # All 'sh' is a s with comma underneath
         # All 'ã' is a with a cup above (cup like a 'c' rotated by 90* to the left)
