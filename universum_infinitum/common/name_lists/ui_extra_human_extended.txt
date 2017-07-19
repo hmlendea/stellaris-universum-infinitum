@@ -308,15 +308,16 @@ ui_extra_human_extended = {
 
         generic = {
             names = {
-                "New Jerusalem" Anchor Dis Avalon Bounty Hope Olympia Serendipity Spring Thinis Salaam Xianyang Concord
-                Theia Tuscany "New Roanoke" Wenzhou "New Jamestown" "New Troy" Delgovicia "Wang Tong" Al-Jissa Al-Mada'in 
-                Al-Nuqayrah Al-Karak Al-Matabbah "Las Veredas" "San Lucas" "San Fernando" "San Cristóbal" "Nueva Sonora" 
-                "Puerto González" Nozomi Akatsuki "Nueva Cádiz" "La Isabela" "New Coventry" "St. Yegorov" "St. Pomeroy"
-                "Port Karakosov"
+                Anchor Dis Avalon Bounty Hope Olympia Serendipity Spring Thinis Salaam Xianyang Concord Theia Tuscany Wenzhou  Delgovicia "Wang Tong" Al-Jissa Al-Mada'in 
+                Al-Nuqayrah Al-Karak Al-Matabbah "Las Veredas" "San Lucas" "San Fernando" "San Cristóbal" "Nueva Sonora"  "Puerto González" Nozomi Akatsuki "Nueva Cádiz"
+                "La Isabela" "St. Yegorov" "St. Pomeroy" "Port Karakosov"
 
-                # European capitals
+                # *New*-prefix Capitals and cities
                 "New Bucharest" "New Budapest" "New Berlin" "New Paris" "Roma Nova" "Nuevo Madrid" "Londinium" "New Dublin" "New Warsaw" "New Sophia" "New Belgrade" "New Helsinki" "New Vilnius"
-                "New Kiev"
+                "New Kiev" "New Jerusalem" "New Jamestown" "New Troy" "New Roanoke" "New Coventry"
+                
+                # Other films and literature
+                Annares Solaris
             }
         }
         
@@ -338,7 +339,7 @@ ui_extra_human_extended = {
         
         pc_tropical = {
             names = {
-                Amazonia Congo Ecuador Rain Storm Monsoon Bengal "New Africa" Kishkindha Zanzibar Kipling
+                Amazonia Congo Ecuador Rain Storm Monsoon Bengal "New Africa" Kishkindha Zanzibar Kipling Tropico
 
                 # From Avatar
                 Pandora
@@ -378,7 +379,7 @@ ui_extra_human_extended = {
         
         pc_arctic = {
             names = {
-                Thule Arctica Greenland "New Alaska" Baffin "Novo Siberia" Niflheim Hyperborea "New Anchorage"
+                Thule Arctica Greenland "New Alaska" Baffin "Novo Siberia" Niflheim Hyperborea "New Anchorage" Glacia
 
                 # From The Elder Scrolls (settlements, places)
                 Solstheim Atmora Sovengarde
@@ -644,13 +645,12 @@ ui_extra_human_extended = {
             first_names_male = {
                 Ivan Nikolai Boris Vladimir Pyotr Alexei Dmitri Sergei Viktor Roman Igor Mikhail Vasily Pavel Fyodor Nikita Valery
                 Vladislav Leonid Maxim Yuri Oleg Andrei Konstantin Vyacheslav Aleksandr Stanislav Anatoli Miroslav Artyom Bogdan
-                Branislav Ilya Jaroslav Radomir Kirill Radoslav Lubomir Ratimir Yegor
+                Branislav Ilya Jaroslav Radomir Kirill Radoslav Lubomir Ratimir Yegor Ignatyi Vitalyi Vasili
             }
             first_names_female = {
                 Anna Yelena Olga Oksana Tatyana Svetlana Nadya Yekaterina Irina Galina Miroslava Anastasia Vera Polina Lyudmila Elena
                 Marina Darya Irma Ksenia Alexandra Nadesja Valentina Arina Alya Galenka Katya Ljuba Radmila Natacha Vlada Nadezhda
                 Tatiana Sonia Mira
-                
             }
             second_names = {
                 Grishina Fedorov Komarov Pushkov Petrenko Shatalov Ivanov Kamensky Vasiliev Ulanov Volkov Gryaznov Dudnik Yerzov Zhirov
@@ -658,13 +658,13 @@ ui_extra_human_extended = {
                 Sayanovich Statnik Sorokin Turgenev Titov Tvardovsky Antonov Skobelev Lazarev Makarov Dragomirov Alexseyev
             }
             regnal_first_names_male = {
-                Alexander Vladimir Boris Tiberius Theobald Valerian Maximus Lucius
+                Alexei Aleksandr Nikolai George Paul Sergei Mikhail Boris Konstantin Pyotr Ivan
             }
             regnal_first_names_female = {
-                Theodora Fatima Miranda Cordelia Svetlana Anastasia Valentina Henrietta
+                Olga Tatiana Maria Anastasia Alexandra Elisaveta Yekaterina Anna
             }
             regnal_second_names = {
-                Habsburg Romanov Windsor Mountbatten Salazar Nelson
+                Romanov
             }
         }
         
@@ -707,18 +707,18 @@ ui_extra_human_extended = {
                 Karl Wilhelm Otto Heinrich Friedrich Paul Hans Gustav Max Ernst Hermann Walter Werner Günther Wolfgang Helmuth Kurt Rolf
                 Peter Klaus Gerhard Heinz Horst Manfred Uwe Jürgen Dieter Andreas Thomas Stefan Lukas Felix Martin Fritz Johann Erich Arnold
                 Bruno Franz Rudolf Erhard Jörg Axel Emil Gerhardt Gottfried Holger Joachim Konrad Lothar Ludwig Matthias Moritz Reinhard
-                Sigismund Ulrich Udo Hravn Adolf Hans
+                Sigismund Ulrich Udo Hravn Adolf Hans Conrad
             }
             first_names_female = {
                 Anna Elsa Emma Helga Ursula Gisela Ingrid Ilse Jessika Sandra Stefanie Andrea Anja Katrin Birgit Martina Heike Sabine Erika
                 Edith Lena Lisa Katharina Claudia Silvia Tina Annike Renate Bettina Wibke Sara Lina Julia Marith Heidi Angelika Christel
-                Gretchen Hilde Hildegard Gertrude Wilhelmina Lisbeth Kerstin Johanna Anita Eva
+                Gretchen Hilde Hildegard Gertrude Wilhelmina Lisbeth Kerstin Johanna Anita Eva Petra
             }
             second_names = {
                 Müller Schmidt Schneider Fischer Weber Meyer Wagner Schulz Becker Hoffmann Bauer Brinkmann Brill Dietrich Erhard Grasser
                 "von Gebser" "von Fritsch" "von Wrangel" "von Halkett" "von Boyen" "von Falkenstein" Dreyer Wolf Klein Richter Schäfer
                 Neumann Braun Schwarz Krüger Stein Keller Schubert Baumann Ziegler Brandt Sauer Kreutz Bergmeister Andbert Braun Strasse
-                Schwarzenegger
+                Schwarzenegger "von Hotzendorf" Weiss
             }
             regnal_first_names_male = {
                 Alexander Vladimir Boris Tiberius Theobald Valerian Maximus Lucius
@@ -782,6 +782,7 @@ ui_extra_human_extended = {
                 Albricci Badoglio Cappello "Di Robilant" "Di Savoia" Garibaldi Saletta Pallavicino Pianelli Mambretti Marcuzzi Valeri Pezzaglia
                 Balletti Bianconelli Antonelli Corsini D'Alessandro D'Agostino "De Rosa" "De Sciglio" "Di Chiara" "Di Bartolomei" Delvecchio
                 "Del Grosso" D'Antoni Fazio "Di Bella" "Di Gennaro" Fabbrini Gambadori Galvani Marchetti Mazzitelli Olivieri Pacini Quadrini
+                Renzi Cadorna
             }
             regnal_first_names_male = {
                 Mario Luigi Giovanni Enrico Gustavo Silvio Umberto
