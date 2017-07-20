@@ -310,14 +310,19 @@ ui_extra_human_extended = {
             names = {
                 Anchor Dis Avalon Bounty Hope Olympia Serendipity Spring Thinis Salaam Xianyang Concord Theia Tuscany Wenzhou  Delgovicia "Wang Tong" Al-Jissa Al-Mada'in 
                 Al-Nuqayrah Al-Karak Al-Matabbah "Las Veredas" "San Lucas" "San Fernando" "San Cristóbal" "Nueva Sonora" "Puerto González" Nozomi Akatsuki "Nueva Cádiz"
-                "La Isabela" "St. Yegorov" "St. Pomeroy" "Port Karakosov" Destiny Terminus Liber
+                "La Isabela" "St. Yegorov" "St. Pomeroy" "Port Karakosov" Destiny Terminus Liber Columbus
                 
                 # Gods
                 Minerva Apollo
 
                 # Countries, capitals and cities
-                "New Bucharest" "New Budapest" "New Berlin" "New Paris" "Roma Nova" "Nuevo Madrid" Londinium "New Dublin" "New Warsaw" "New Sophia" "New Belgrade" "New Helsinki" "New Vilnius"
-                "New Kiev" "New Jerusalem" "New Jamestown" "New Troy" "New Roanoke" "New Coventry" Athena "Dacia Nova" Thrace
+                "Nuevo Madrid" "New Belgrade" "New Helsinki" "New Vilnius" "New Jamestown" "New Roanoke" "New Coventry" Athena
+                
+                # GTA
+                "Las Venturas" "San Fierro" "Los Santos" Liberty Vice
+                
+                # Other games
+                Mundus
                 
                 # Other films and literature
                 Annares Solaris
@@ -336,13 +341,13 @@ ui_extra_human_extended = {
         
         pc_arid = {
             names = {
-                Lebanon Tyre Antioch Jaxartes Oxus Turan Accona Bardenas Larzac Oltenia Tabernas Atacama Tanami Rangipo "New Mars" "Canaan" "New Vegas"
+                Lebanon Tyre Antioch Jaxartes Oxus Turan Accona Bardenas Larzac Oltenia Tabernas Atacama Tanami Rangipo "New Mars" "New Canaan" "New Vegas" "New Jerusalem" "New Troy"
             }
         }
         
         pc_tropical = {
             names = {
-                Amazonia Congo Ecuador Rain Storm Monsoon Bengal "New Africa" Kishkindha Zanzibar Kipling Tropico
+                Amazonia Congo Ecuador Rain Storm Monsoon Bengal "New Africa" Kishkindha Zanzibar Kipling Tropico Maya
 
                 # From Avatar
                 Pandora
@@ -351,20 +356,29 @@ ui_extra_human_extended = {
         
         pc_continental = {
             names = {
-                Albion Amor Dawn Horizon "Terra Nova" Kongzi Zoroaster "Tian Yi" "Wu Ding" Zheng "Gao Zu" Tokugawa Oda Toyotomi Rama Vishnu Soma Pangea "Europa Nova"
-                "Transilvania Nova"
+                Albion Amor Dawn Horizon "Terra Nova" Kongzi Zoroaster "Tian Yi" "Wu Ding" Zheng "Gao Zu" Tokugawa Oda Toyotomi Rama Vishnu Soma Pangea
+                "Transilvania Nova" "Dacia Nova" Thrace
+                
+                # Countries, capitals, cities
+                "New Bucharest" "New Budapest" "New Berlin" "New Paris" "Roma Nova" "Europa Nova" "New Kiev" Londinium "New Dublin" "New Warsaw" "New Sophia"
+                
+                # The Elder Scrolls
+                Cyrodiil Akavir Tamriel
             }
         }
         
         pc_gaia = {
             names = {
-                Eden Elysium Cornucopia Utopia Shambhala Xanadu Shangri-La "El Dorado" Fortuna
+                Eden Elysium Cornucopia Utopia Shambhala Xanadu Shangri-La "El Dorado" Fortuna Arcadia
                 
                 # "Heaven" in different languages
                 Taevas Paradiso Caelum Himlen
 
                 # From StarCraft
                 Agria
+                
+                # From The Elder Scrolls
+                Summerset
             }
         }
         
@@ -375,6 +389,9 @@ ui_extra_human_extended = {
 
                 # From StarCraft
                 Pridewater
+                
+                # Biblic/mythological settlements, places, etc
+                Diluvia Noah
             }
         }
         
@@ -395,7 +412,10 @@ ui_extra_human_extended = {
 
         pc_tomb = {
             names = {
-                Pripyat Chernobyl Verdun
+                Pripyat Chernobyl Verdun Stalingrad Nagasaki Hiroshima
+                
+                # From literature
+                Valyria
                 
                 # From Fallout (settlements)
                 Megaton
@@ -410,8 +430,11 @@ ui_extra_human_extended = {
 
         pc_alpine = {
             names = {
-                Alpina Carpathia "New Himalaya" Everest "The Rock" Olympus "Raven Rock"
-
+                "The Rock" Rockrest
+                
+                # Places from Earth / adaptations of them
+                Alpina Carpathia "New Himalaya" Everest Olympus "Raven Rock" Uralia Rockrest Muntenia
+                
                 # From The Elder Scrolls
                 "High Rock"
             }
@@ -419,16 +442,19 @@ ui_extra_human_extended = {
 
         pc_molten = {
             names = {
-                Inferna Vulkan
+                Inferna Vulkan "Tierra del Fuego"
+                
+                # From literature
+                Mordor
 
                 # Biblic/mythological settlements, places, etc
-                Hel Sodoma Gomorra Hades Draconia Dracula Tartarus Erebus
+                Hel Sodoma Gomorra Hades Draconia Dracula Tartarus Erebus Cerberus
                     
                 # From StarCraft
                 Char
                 
                 # From other games
-                "The Nether"
+                "The Nether" Oblivion Ashpit Deadlands
             }
         }  
     }
@@ -840,7 +866,7 @@ ui_extra_human_extended = {
             first_names_male = {
                 Mario Luigi Giovanni Guiseppe Antonio Roberto Andrea Stefano Marco Franscesco Angelo Vincenzo Pietro Salvatore Carlo Franco
                 Domenico Bruno Paulo Michele Giorgio Sergio Luciano Alessandro Alfonso Benito Fabrizio Cesare Enrico Gustavo Silvio Umberto
-                Nicola Matteo Ignazio Camillo Daniele Cristian Alberto Guido Lorenzo Tommaso Fabio
+                Nicola Matteo Ignazio Camillo Daniele Cristian Alberto Guido Lorenzo Tommaso Fabio Vittorio
             }
             first_names_female = {
                 Maria Anna Guiseppina Rosa Angela Giovanna Teresa Lucia Carmela Caterina Francesca Antonietta Carla Elena Concetta Rita
@@ -852,7 +878,7 @@ ui_extra_human_extended = {
                 Albricci Badoglio Cappello "Di Robilant" "Di Savoia" Garibaldi Saletta Pallavicino Pianelli Mambretti Marcuzzi Valeri Pezzaglia
                 Balletti Bianconelli Antonelli Corsini D'Alessandro D'Agostino "De Rosa" "De Sciglio" "Di Chiara" "Di Bartolomei" Delvecchio
                 "Del Grosso" D'Antoni Fazio "Di Bella" "Di Gennaro" Fabbrini Gambadori Galvani Marchetti Mazzitelli Olivieri Pacini Quadrini
-                Renzi Cadorna
+                Renzi Cadorna Scaletta Soprano
             }
             regnal_first_names_male = {
                 Mario Luigi Giovanni Enrico Gustavo Silvio Umberto
