@@ -310,7 +310,7 @@ ui_extra_human_extended = {
             names = {
                 Anchor Dis Avalon Bounty Hope Olympia Serendipity Spring Thinis Salaam Xianyang Concord Theia Tuscany Wenzhou  Delgovicia "Wang Tong" Al-Jissa Al-Mada'in 
                 Al-Nuqayrah Al-Karak Al-Matabbah "Las Veredas" "San Lucas" "San Fernando" "San Cristóbal" "Nueva Sonora" "Puerto González" Nozomi Akatsuki "Nueva Cádiz"
-                "La Isabela" "St. Yegorov" "St. Pomeroy" "Port Karakosov" Destiny Terminus Liber Columbus
+                "La Isabela" "St. Yegorov" "St. Pomeroy" "Port Karakosov" Destiny Terminus Liber Columbus Camelot Kolob
                 
                 # Gods
                 Minerva Apollo
@@ -369,7 +369,7 @@ ui_extra_human_extended = {
         
         pc_gaia = {
             names = {
-                Eden Elysium Cornucopia Utopia Shambhala Xanadu Shangri-La "El Dorado" Fortuna Arcadia
+                Eden Elysium Cornucopia Utopia Shambhala Xanadu Shangri-La "El Dorado" Fortuna Arcadia Nymphaea Cockaigne Nysa
                 
                 # "Heaven" in different languages
                 Taevas Paradiso Caelum Himlen
@@ -385,7 +385,7 @@ ui_extra_human_extended = {
         pc_ocean = {
             names = {
                 Atlantis Oceania Pacifica Atlantica Euxina Hyrcania Rubrica Erythraea Baltica R'lyeh Dagon Kraken Aegea Adriatica Tyrrhenia Mediterranea Mare "Port Rabcewicz" Ningbo Caspica Hydra
-                Danubia Coralia Aquarius Lochness
+                Danubia Coralia Aquarius Lochness Oceanus
 
                 # From StarCraft
                 Pridewater
@@ -397,13 +397,13 @@ ui_extra_human_extended = {
         
         pc_tundra = {
             names = {
-                Iceland "Nova Canada" Kola Scandza Utgard Rus Blizzard Taiyuan Borealia Aesgaard
+                Iceland "Nova Canada" Kola Scandza Utgard Rus Blizzard Taiyuan Borealia Asgard
             }
         }
         
         pc_arctic = {
             names = {
-                Thule Arctica Greenland "New Alaska" Baffin "Novo Siberia" Niflheim Hyperborea "New Anchorage" Glacia Whitehaven Snowball
+                Thule Arctica Greenland "New Alaska" Baffin "Novo Siberia" Niflheim Hyperborea "New Anchorage" Glacia Whitehaven Snowball Jotunheim
 
                 # From The Elder Scrolls (settlements, places)
                 Solstheim Atmora Sovengarde
@@ -445,13 +445,13 @@ ui_extra_human_extended = {
 
         pc_molten = {
             names = {
-                Inferna Vulkan "Tierra del Fuego"
+                Inferna Vulkan "Tierra del Fuego" Pandemonium Demonia
                 
                 # From literature
                 Mordor
 
                 # Biblic/mythological settlements, places, etc
-                Hel Sodoma Gomorra Hades Draconia Dracula Tartarus Erebus Cerberus
+                Hel Sodoma Gomorra Hades Draconia Dracula Tartarus Erebus Cerberus Diyu Irkalla Muspelheim Xibalba Yomi
                     
                 # From StarCraft
                 Char
