@@ -15,4 +15,12 @@
  ui_trait_poor_physicists_desc:0 "§LMembers of this species have an inherent repulsion towards theoretical physics and astral phenomenae.§!\n"
  ui_trait_poor_sociologists:0 "Poor Sociologists"
  ui_trait_poor_sociologists_desc:0 "§LMembers of this species have an inherent repulsion towards sociology and biological studies.§!\n"
+ ui_trait_brave:0 "Brave"
+ ui_trait_brave_desc:0 "§LMembers of this species never shy away from danger, soldiering on in situations where others would flee.§!\n"
+ ui_trait_craven:0 "Craven"
+ ui_trait_craven_desc:0 "§LMembers of this species are known cowards, fleeing as soon as the situation becomes a little risky.§!\n"
+ ui_trait_deceitful:0 "Deceitful"
+ ui_trait_deceitful_desc:0 "§LMembers of this species are experienced manipulators, always manipulating others into doing their will.§!\n"
+ ui_trait_trusting:0 "Trusting"
+ ui_trait_trusting_desc:0 "§LMembers of this species are known naives, always being manipulated by others.§!\n"
  

@@ -63,3 +63,41 @@ ui_trait_poor_sociologists = {
 	}
 }
 
+ui_trait_brave = {
+	cost = 2
+	opposites = { "ui_trait_craven" }
+	
+	modifier = {
+		army_morale = 0.15
+		army_damage_mult = 0.15
+	}
+}
+
+ui_trait_craven = {
+	cost = -2
+	opposites = { "ui_trait_brave" }
+	
+	modifier = {
+		army_morale = -0.15
+		army_damage_mult = -0.15
+	}
+}
+
+ui_trait_deceitful = {
+	cost = 2
+	opposites = { "ui_trait_trusting" }
+	
+	modifier = {
+		country_resource_influence_add = 1
+	}
+}
+
+ui_trait_trusting = {
+	cost = -2
+	opposites = { "ui_trait_deceitful" }
+	
+	modifier = {
+		country_resource_influence_add = -1
+	}
+}
+
