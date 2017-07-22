@@ -385,13 +385,13 @@ ui_extra_human_extended = {
         pc_ocean = {
             names = {
                 Atlantis Oceania Pacifica Atlantica Euxina Hyrcania Rubrica Erythraea Baltica R'lyeh Dagon Kraken Aegea Adriatica Tyrrhenia Mediterranea Mare "Port Rabcewicz" Ningbo Caspica Hydra
-                Danubia Coralia Aquarius
+                Danubia Coralia Aquarius Lochness
 
                 # From StarCraft
                 Pridewater
                 
                 # Biblic/mythological settlements, places, etc
-                Diluvia Noah
+                Diluvia Noah "The Ark"
             }
         }
         
@@ -403,7 +403,7 @@ ui_extra_human_extended = {
         
         pc_arctic = {
             names = {
-                Thule Arctica Greenland "New Alaska" Baffin "Novo Siberia" Niflheim Hyperborea "New Anchorage" Glacia
+                Thule Arctica Greenland "New Alaska" Baffin "Novo Siberia" Niflheim Hyperborea "New Anchorage" Glacia Whitehaven Snowball
 
                 # From The Elder Scrolls (settlements, places)
                 Solstheim Atmora Sovengarde
@@ -412,7 +412,7 @@ ui_extra_human_extended = {
 
         pc_tomb = {
             names = {
-                Pripyat Chernobyl Verdun Stalingrad Nagasaki Hiroshima
+                Pripyat Chernobyl Verdun Stalingrad Nagasaki Hiroshima Tombstone
                 
                 # From literature
                 Valyria
@@ -434,6 +434,9 @@ ui_extra_human_extended = {
                 
                 # Places from Earth / adaptations of them
                 Alpina Carpathia "New Himalaya" Everest Olympus "Raven Rock" Uralia Rockrest Muntenia
+                
+                # From Fallout
+                Grayditch
                 
                 # From The Elder Scrolls
                 "High Rock"
