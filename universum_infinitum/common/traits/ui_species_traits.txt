@@ -1,0 +1,65 @@
+ui_trait_urban = {
+	cost = -2
+	opposites = { "trait_agrarian" }
+	
+	modifier = {
+		tile_resource_food_mult = -0.15
+	}
+}
+
+ui_trait_uneconomical = {
+	cost = -2
+	opposites = { "trait_thrifty" }
+	
+	modifier = {
+		tile_resource_energy_mult = -0.15
+	}
+}
+
+ui_trait_lazy = {
+	cost = -2
+	opposites = { "trait_industrious" }
+	
+	modifier = {
+		tile_resource_minerals_mult = -0.15
+	}
+}
+
+ui_trait_dumb = {
+	cost = -2
+	opposites = { "trait_intelligent" "trait_nerve_stapled" "trait_erudite" }
+	
+	modifier = {
+		tile_resource_engineering_research_mult = -0.1
+		tile_resource_physics_research_mult = -0.1
+		tile_resource_society_research_mult = -0.1
+	}
+}
+
+ui_trait_poor_engineers = {
+	cost = -1
+	opposites = { "ui_trait_poor_physicists" "ui_trait_poor_sociologists" "trait_nerve_stapled" }
+	
+	modifier = {
+		tile_resource_engineering_research_mult = -0.15
+	}
+}
+
+ui_trait_poor_physicists = {
+	cost = -1
+	opposites = { "ui_trait_poor_engineers" "ui_trait_poor_sociologists" "trait_nerve_stapled" }
+	
+	modifier = {
+		tile_resource_physics_research_mult = -0.15
+	}
+}
+
+ui_trait_poor_sociologists = {
+	cost = -1
+	opposites = { "ui_trait_poor_physicists" "ui_trait_poor_engineers" "trait_nerve_stapled" }
+	
+	modifier = {
+		tile_resource_society_research_mult = -0.15
+	}
+}
+

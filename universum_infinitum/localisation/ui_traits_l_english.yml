@@ -1,0 +1,18 @@
+﻿l_english:
+
+# Species traits
+ ui_trait_urban:0 "Urban"
+ ui_trait_urban_desc:0 "§LThis species has a deep connection with the cosmopolitan areas, and make poor farmers and gardeners.§!\n"
+ ui_trait_uneconomical:0 "Uneconomical"
+ ui_trait_uneconomical_desc:0 "§LMembers of this species are inherently uneconomical, and often find themselves in financial trouble.§!\n"
+ ui_trait_lazy:0 "Lazy"
+ ui_trait_lazy_desc:0 "§LMembers of this species are known for their convenience and lazy nature, always lacking behind and missing deadlines.§!\n"
+ ui_trait_dumb:0 "Dumb"
+ ui_trait_dumb_desc:0 "§LThis species is noticeably dumb, and suffers slow technological progress.§!\n"
+ ui_trait_poor_engineers:0 "Poor Engineers"
+ ui_trait_poor_engineers_desc:0 "§LMembers of this species have an inherent repulsion towards engineering and material sciences.§!\n"
+ ui_trait_poor_physicists:0 "Poor Physicists"
+ ui_trait_poor_physicists_desc:0 "§LMembers of this species have an inherent repulsion towards theoretical physics and astral phenomenae.§!\n"
+ ui_trait_poor_sociologists:0 "Poor Sociologists"
+ ui_trait_poor_sociologists_desc:0 "§LMembers of this species have an inherent repulsion towards sociology and biological studies.§!\n"
+ 
