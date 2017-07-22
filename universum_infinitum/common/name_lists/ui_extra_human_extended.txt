@@ -238,8 +238,9 @@ ui_extra_human_extended = {
 
     fleet_names = {
         random_names = {
-            "The Hoplite Fleet" "The Phalanx Fleet" "The Centurion Fleet" "The Immortal Fleet" "The Knight Fleet" "The Archer Fleet" "The Cavalry Fleet" "The Lancer Fleet" "The Landsknechte Fleet"
-            "The Gendarme Fleet" "The Arquebusier Fleet" "The Tercio Fleet" "The Musketeer Fleet" "The Millenial Fleet" "The Solar Sails"
+            "The Hoplite Fleet" "The Phalanx Fleet" "The Centurion Fleet" "The Immortal Fleet" "The Knight Fleet" "The Archer Fleet" "The Cavalry Fleet" "The Lancer Fleet"
+            "The Landsknechte Fleet" "The Gendarme Fleet" "The Arquebusier Fleet" "The Tercio Fleet" "The Musketeer Fleet" "The Millenial Fleet" "The Solar Sails"
+            "The Dorobant Fleet" "The Praetorian Fleet"
         }
         sequential_name = "%O% Fleet"
     }
@@ -308,9 +309,9 @@ ui_extra_human_extended = {
 
         generic = {
             names = {
-                Anchor Dis Avalon Bounty Hope Olympia Serendipity Spring Thinis Salaam Xianyang Concord Theia Tuscany Wenzhou  Delgovicia "Wang Tong" Al-Jissa Al-Mada'in 
+                Anchor Dis Avalon Bounty Hope Olympia Serendipity Spring Thinis Salaam Xianyang Concord Theia Tuscany Wenzhou  Delgovicia "Wang Tong" Al-Jissa Al-Mada'in
                 Al-Nuqayrah Al-Karak Al-Matabbah "Las Veredas" "San Lucas" "San Fernando" "San Cristóbal" "Nueva Sonora" "Puerto González" Nozomi Akatsuki "Nueva Cádiz"
-                "La Isabela" "St. Yegorov" "St. Pomeroy" "Port Karakosov" Destiny Terminus Liber Columbus Camelot Kolob
+                "La Isabela" "St. Yegorov" "St. Pomeroy" "Port Karakosov" Destiny Terminus Liber Columbus Camelot Kolob Albatross
                 
                 # Gods
                 Minerva Apollo
@@ -331,8 +332,11 @@ ui_extra_human_extended = {
         
         pc_desert = {
             names = {
-                "Nova Arabia" Sahara Gobi Kalahari Mojave Patagonia Syria Chihuahua Sand "Kara Kum" Colorado Sonora "Kyzyl Kum" Taklamakan Thar Gibson Namib Lut Kavir Dune Kali Muspelheim Vulcan Baal
-                Carthage Ordos Khara Lop Maranjab Negev Sinai Atacama Simpson Nazca "New Mojave"
+                "Nova Arabia" Sahara Gobi Kalahari Mojave Patagonia Syria Chihuahua Sand "Kara Kum" Colorado Sonora "Kyzyl Kum" Taklamakan Thar Gibson Namib Lut Kavir Dune Kali
+                Vulcan Baal Carthage Ordos Khara Lop Maranjab Negev Sinai Atacama Simpson Nazca "New Mojave"
+                
+                # From mythology/religion
+                Muspelheim
 
                 # From Star Wars
                 Tatooine
@@ -341,7 +345,8 @@ ui_extra_human_extended = {
         
         pc_arid = {
             names = {
-                Lebanon Tyre Antioch Jaxartes Oxus Turan Accona Bardenas Larzac Oltenia Tabernas Atacama Tanami Rangipo "New Mars" "New Canaan" "New Vegas" "New Jerusalem" "New Troy"
+                Lebanon Tyre Antioch Jaxartes Oxus Turan Accona Bardenas Larzac Oltenia Tabernas Atacama Tanami Rangipo "New Mars" "New Canaan" "New Vegas" "New Jerusalem"
+                "New Troy"
             }
         }
         
@@ -369,7 +374,7 @@ ui_extra_human_extended = {
         
         pc_gaia = {
             names = {
-                Eden Elysium Cornucopia Utopia Shambhala Xanadu Shangri-La "El Dorado" Fortuna Arcadia Nymphaea Cockaigne Nysa
+                Eden Elysium Cornucopia Utopia Shambhala Xanadu Shangri-La "El Dorado" Fortuna Arcadia Nymphaea Cockaigne Nysa Splendoria Terraria
                 
                 # "Heaven" in different languages
                 Taevas Paradiso Caelum Himlen
@@ -384,8 +389,8 @@ ui_extra_human_extended = {
         
         pc_ocean = {
             names = {
-                Atlantis Oceania Pacifica Atlantica Euxina Hyrcania Rubrica Erythraea Baltica R'lyeh Dagon Kraken Aegea Adriatica Tyrrhenia Mediterranea Mare "Port Rabcewicz" Ningbo Caspica Hydra
-                Danubia Coralia Aquarius Lochness Oceanus
+                Atlantis Oceania Pacifica Atlantica Euxina Hyrcania Rubrica Erythraea Baltica R'lyeh Dagon Kraken Aegea Adriatica Tyrrhenia Mediterranea Mare "Port Rabcewicz"
+                Ningbo Caspica Hydra Danubia Coralia Aquarius Lochness Oceanus
 
                 # From StarCraft
                 Pridewater
@@ -635,7 +640,7 @@ ui_extra_human_extended = {
             second_names = {
                 Kumar Moorthi Shastri Prasad Acharya Swamy Pillai Gowda Nayak Desmukh Bhat Bhandary Poojary Upadhyay Chowta Naik
                 Kulkarni Dodamani Patil Gupta Sharma Namboodiri Pannikar Potti Kutty Varma Sondharam Sooriyaprakash Chandran Vijay
-                Venktaesan Puttappa Abidi
+                Venktaesan Puttappa Abidi Koothrappali
             }
             regnal_first_names_male = {
                 Kayaan Darsh Veer Rahul Mahesh Shaurya Atharv Advik Pranav
@@ -754,7 +759,7 @@ ui_extra_human_extended = {
             second_names = {
                 Grishina Fedorov Komarov Pushkov Petrenko Shatalov Ivanov Kamensky Vasiliev Ulanov Volkov Gryaznov Dudnik Yerzov Zhirov
                 Zhivenkov Kazakov Krutov Ivannikov Kolosov Kuzin Larionov Maksimushkin Markov Ostrovsky Polachev Rychenkov Romanov
-                Sayanovich Statnik Sorokin Turgenev Titov Tvardovsky Antonov Skobelev Lazarev Makarov Dragomirov Alexseyev
+                Sayanovich Statnik Sorokin Turgenev Titov Tvardovsky Antonov Skobelev Lazarev Makarov Dragomirov Alexseyev Stukov
             }
             regnal_first_names_male = {
                 Alexei Aleksandr Nikolai George Paul Sergei Mikhail Boris Konstantin Pyotr Ivan
@@ -838,7 +843,7 @@ ui_extra_human_extended = {
             first_names_male = {
                 Philippe Pierre Jean-Marie Marcel Francois Hubert Paul Antoine Michel Henri Marc Jean Maurice René Claude Yves Jacques
                 Simon Olivier Joseph Robert Georges André Raymond Gaston Charles Thierry Guy Patrice Mathieu Jean-Francois Lucien Jean-Paul
-                Daniel Thibault Luc Dominic Sébastien Hugo Jamie Armand
+                Daniel Thibault Luc Dominic Sébastien Hugo Jamie Armand Gerard
             }
             first_names_female = {
                 Chloe Inés Manon Camille Clara Juliette Clémence Jeanne Charlotte Marie Nina Julia Elise Justine Yasmine Elina Andrea
@@ -848,7 +853,7 @@ ui_extra_human_extended = {
             second_names = {
                 Martin Bernard Dubois Durand Leroy Moreau Lambert Dupont Leclerc Laurent Renard Tremblay Gagnon Roy Bouchard Gauthier
                 Morin Lavoie Fortin Gagne Duval Hébert "Le Gall" "Le Roux" Deville Gerard Duchaine Jauvin Gilbert Bergeron Paquette
-                Pelletier Rémy Giroud Bosquet "de Castelnau" "de Montaignac" Lebouef Péllissier Deveraux Isabella Louise
+                Pelletier Rémy Giroud Bosquet "de Castelnau" "de Montaignac" Lebouef Péllissier Deveraux Isabella Louise DuGalle
             }
             regnal_first_names_male = {
                 Louis Philippe Robert Charles Henri Armand Antoine Francois Jean
@@ -897,75 +902,94 @@ ui_extra_human_extended = {
         ###############################
         # ROMANIAN (0.77%)
         ###############################
-        # All 'sh' is a s with comma underneath
         # All 'ã' is a with a cup above (cup like a 'c' rotated by 90* to the left)
         names11 = {
             weight = 1
             first_names_male = {
-                Adam Adrian Alex Alexandru Alin Anatolie Andrei Anghel Anton Antonie Antoniu Apostol Arsenie Augustin Aurel Aurelian Avram Barbu Bogdan Cãlin Camil Carol Casian Cãtãlin Cezar Ciprian Claudiu Codin Codrin
-                Codruț Constantin Coriolan Cornel Corneliu Corvin Cosmin Costache Costin Cozma Crin Cristian Cristofor Dacian Damian Dan Daniel Darian Darius David Decebal Denis Dimitrie Dinu Dorian Dorin Doru Dragomir
-                Dragosh Dumitru Eduard Eftimie Emanuel Emanuil Emil Emilian Enache Eremia Eugen Eugeniu Fabian Felician Felix Filip Flaviu Flavius Florentin Florian Florin Gabriel Gavril Gelu George Ghenadie Gheorghe
-                Ghițã Gica Glad Grațian Grigore Horațiu Horea Horia Iacob Iancu Ieremia Ilarie Ilarion Ilie Ioan Ion Ionel Ionuț Iordache Iordan Iorghu Iosif Irinel Iulian Iuliu Iurie Iustin Iustinian Lascãr Latcu Laur
-                Laurențiu Laviniu Lazãr Leontin Licã Liviu Lorin Luca Lucian Lucrețiu Mãdãlin Manea Manole Manuel Marc Marcel Marcu Marian Marin Marinache Marius Matei Maximilian Mihai Mihail Mihnea Mircea Mirel Miron
-                Miticã Mitru Mitruț Moise Mugur Narcis Naum Nechifor Neculai Nelu Nichifor Nicoarã Nicolae Nicolaie Nicu Niculae Niculaie Nicushor Nistor Octavian Olimpiu Oliviu Ovidiu Patriciu Paul Pavel Petre Petricã
-                Petru Puiu Radu Raresh Raul Rãzvan Relu Remus Robert Roman Romicã Sabin Sandu Sebastian Sherban Sergiu Sever Silviu Simion Sorin Spiru Stan Shtefan Stelian Stroe Tache Teodor Tiberiu Timotei Titu Titus
-                Toader Toma Traian Tudor Vadim Valentin Valerian Valeriu Vasile Victor Vintilã Viorel Virgil Virgiliu Vlad Vladimir Vlaicu Voicu Zaharia Zamfir
+                ﻿Adam Adelin Adrian Alex Alexandru Alin Anatolie Andrei Anghel Anton Antonie Antoniu Apostol Arsenie Augustin Aurel Aurelian Avram Barbu Bogdan Cãlin Camil Carol
+                Casian Cãtãlin Cezar Ciprian Claudiu Codin Codrin Codruț Constantin Coriolan Cornel Corneliu Corvin Cosmin Costache Costin Cozma Crin Cristian Cristofor Dacian
+                Damian Dan Daniel Darian Darius David Decebal Denis Dimitrie Dinu Dorian Dorin Doru Dragomir Dragos Dumitru Eduard Eftimie Emanuel Emanuil Emil Emilian Enache
+                Eremia Eugen Eugeniu Fabian Felician Felix Filip Flaviu Flavius Florentin Florian Florin Gabriel Gavril Gelu George Ghenadie Gheorghe Ghițã Gica Glad Grațian
+                Grigore Horațiu Horea Horia Iacob Iancu Ieremia Ilarie Ilarion Ilie Ioan Ion Ionel Ionuț Iordache Iordan Iorghu Iosif Irinel Iulian Iuliu Iurie Iustin Iustinian
+                Lascãr Latcu Laur Laurențiu Laviniu Lazãr Leontin Licã Liviu Lorin Luca Lucian Lucrețiu Mãdãlin Manea Manole Manuel Marc Marcel Marcu Marian Marin Marinache Marius
+                Matei Maximilian Mihai Mihail Mihnea Mircea Mirel Miron Miticã Mitru Mitruț Moise Mugur Narcis Naum Nechifor Neculai Nelu Nichifor Nicoarã Nicolae Nicolaie Nicu
+                Niculae Niculaie Nicusor Nistor Octavian Olimpiu Oliviu Ovidiu Patriciu Paul Pavel Petre Petricã Petru Puiu Radu Rares Raul Rãzvan Relu Remus Robert Roman Romicã
+                Sabin Sandu Sebastian Serban Sergiu Sever Silviu Simion Sorin Spiru Stan Stefan Stelian Stroe Tache Teodor Tiberiu Timotei Titu Titus Toader Toma Traian Tudor Vadim
+                Valentin Valerian Valeriu Vasile Victor Vintilã Viorel Virgil Virgiliu Vlad Vladimir Vlaicu Voicu Zaharia Zamfir
             }
             first_names_female = {
-                Adela Adelina Adina Adriana Agneta Alexandra Alina Alisia Amalia Amelia Ana Anamaria Anca Anda Andra Andrada Andreea Aneta Antonia Aura Aurelia Aurica Aurora Bianca Camelia Carina Carla Carmen Cãtãlina
-                Clara Claudia Codruța Constanța Corina Cornelia Cosmina Crina Cristiana Cristina Daciana Dalina Dana Daniela Daria Delia Denisa Diana Dochia Doina Dora Dorina Ecaterina Elena Elisabeta Elvira Emanuela
-                Emilia Eugenia Eva Felicia Flavia Florentina Florica Florina Gabriela Geanina Georgeta Georgiana Ileana Ioana Ionela Irina Iulia Iuliana Izabela Larisa Laura Lavinia Lenuța Leontina Liana Lidia Ligia
-                Liliana Lisa Livia Loredana Lorena Luciana Lucreția Luiza Luminița Mãdãlina Magda Magdalena Maia Manuela Mara Marcela Margareta Maria Mariana Marilena Marina Marinela Marioara Mãrioara Mãriuca Marta
-                Melania Melisa Mihaela Milena Mioara Mirela Miruna Monica Morica Nadia Nadina Narcisa Natalia Nichita Nicoleta Niculina Nina Oana Octavia Olimpia Olivia Otilia Patricia Paula Petra Petronela Petruța
-                Rafaela Raluca Ramona Rebeca Renata Roberta Rodica Roxana Rozalia Ruxandra Sabina Sandra Saveta Silvia Simona Sofia Sonia Sorina Shtefana Shtefania Stela Tamara Tatiana Teodora Valentina Valeria
-                Valerica Veronica Victoria Viorica Voichița Zeina
+                ﻿Adela Adelina Adina Adriana Agneta Alexandra Alina Alisia Amalia Amelia Ana Anamaria Anca Ancuța Anda Andra Andrada Andreea Aneta Antonia Aura Aurelia Aurica Aurora
+                Bianca Camelia Carina Carla Carmen Cãtãlina Clara Claudia Codruța Constanța Corina Cornelia Cosmina Crina Cristiana Cristina Daciana Dalina Dana Daniela Daria Delia
+                Denisa Diana Dochia Doina Dora Dorina Ecaterina Elena Elisabeta Elvira Emanuela Emilia Eugenia Eva Felicia Flavia Florentina Florica Florina Gabriela Geanina
+                Georgeta Georgiana Ileana Ilinca Ioana Ionela Irina Iulia Iuliana Izabela Larisa Laura Lavinia Lenuța Leontina Liana Lidia Ligia Liliana Lisa Livia Loredana Lorena
+                Luciana Lucreția Luiza Luminița Mãdãlina Magda Magdalena Maia Manuela Mara Marcela Margareta Maria Mariana Marilena Marina Marinela Marioara Mãrioara Mãriuca Marta
+                Melania Melisa Mihaela Milena Mioara Mirela Miruna Monica Morica Nadia Nadina Narcisa Natalia Nichita Nicoleta Niculina Nina Oana Octavia Olimpia Olivia Otilia
+                Patricia Paula Petra Petronela Petruța Rafaela Raluca Ramona Rebeca Renata Roberta Rodica Roxana Rozalia Ruxandra Sabina Sandra Saveta Silvia Simona Sofia Sonia
+                Sorina Stefana Stefania Stela Tamara Tatiana Teodora Valentina Valeria Valerica Veronica Victoria Viorica Voichița Zeina
             }
             second_names = {
-                Abrudan Aciubotariței Adam Adamache Adameshteanu Adamuț Adãmuț Adrianescu Agache Aiordãchioaiei Aiordãcioaei Alba Albescu Albu Albulescu Aldea Alecsandri Alecu Alexandrescu Almãshan Alupoaei Alupoaiei
-                Aluței Amânar Ambrozie Andone Andreescu Andreica Andronache Anghel Anghelache Anghelescu Angheluțã Aniței Antohie Antonescu Apostol Apostolescu Apostu Arãdeanu Arãpashu Ardelean Ardeleanu Arghezi
-                Argintaru Armashu Atanasiu Augustin Averescu Avram Avramescu Bab Baba Babu Baciu Bacovia Badea Bãdelițã Bãdescu Baghiu Baiu Bãlãceanu Bãlan Bãlãneanu Bãlãnescu Balc Bãlcescu Balint Baltag Ban Banciu
-                Bãnicã Banuț Bar Barbu Bãrceanu Barițiu Bârladeanu Bârlãdeanu Barnuțiu Bãrnuțiu Basarab Basarabeanu Bãsãrãbeanu Basarabescu Bãsãrãbescu Bãsescu Bâtã Bãtrân Begu Bejan Beldean Belea Beleanu Beleiu Belu
-                Bendea Bendeac Bengescu Berbec Berbecu Berce Bercean Berceanu Berea Berinde Berlea Bihoreanu Birãu Bîrladeanu Birshan Bizgan Blaga Blãjan Blandiana Blidar Blidaru Bob Boboc Bobu Boc Boca Bocea Bocean
-                Bocshan Bocuțiu Bodea Boeriu Boga Bogdãnescu Bogza Boian Boiculese Bolboacã Boldijar Boloca Bolojan Bolovãneanu Bolovãnescu Bondar Bordea Borha Borilã Borshan Boshca Bota Botezatu Botish Boureanu Bracaciu
-                Brad Bradea Brãileanu Brâncoveanu Brâncushi Brãnescu Brânzã Brashovean Brashoveanu Brashovianu Brãtianu Bratu Breban Brînza Brumaru Brustur Bucin Buciuman Bucsha Bucur Bucurean Bucureanu Bucurescu Budescu
-                Budishteanu Budnar Budnaru Bufnea Buha Buhai Bulzan Bulzean Bulzescu Bumbescu Bunãu Bunea Burcã Burciu Buric Burlacu Busuioc Butacu Butan Bute Butean Butescu Butnariu Butnaru Butuc Buzã Buzea Buzescu
-                Buzilã Caciulã Cacovean Cadish Cãlinescu Cãlugãr Cãlugãreanu Cãlugãrescu Cãlugãru Câmpean Câmpeanu Cândea Cantemir Caragiale Cãrãian Cãrãmidaru Caramitru Cârjan Cârlan Cârlova Cãrpar Cârpar Cârstea
-                Cãrtãrescu Cãstãian Catana Catargiu Cãtinean Cazac Cazacu Cazan Ceaushescu Celan Cenan Ceoban Ceobanu Ceoca Cepoi Cercelaru Cernat Cernãu Cernea Cetinã Chelaru Chelu Chesãuan Chețan Chiorean Chiriac
-                Chirilã Chițu Chivu Cîmpean Cîmpeanu Cimpoi Cioarã Cioba Cioban Ciobanu Ciobotaru Ciobotea Cioca Cioci Cioculescu Ciolacu Cionca Cioran Ciorbã Ciorican Ciorogariu Cioroianu Ciortea Cios Cipcigan Cîrjan
-                Cîrlova Cîrpar Cîrstea Ciubotaru Ciufudean Ciuhat Ciungu Ciupei Ciupit Ciupitu Ciurcã Cizmaru Coandã Coca Cocosh Codarcea Codrea Codreanu Codrescu Cojan Cojoc Cojocar Cojocariu Cojocaru Cojocean Colac
-                Coman Comãneci Comãnescu Constãnțeanu Constantin Constantinescu Copaciu Copciuc Copil Copindean Copos Coposu Coprean Corbeanu Corbu Corda Cornea Corneanu Coroian Coroiu Coshbuc Coshofreț Costan Coste
-                Costea Costean Costeanu Costescu Costin Cotan Coțofanã Cotoi Cotrush Cotuțiu Covaci Cozma Crãciun Crãciunash Crãciunean Crainic Craioveanu Cravã Creangã Cretu Crețu Crishan Crishanu Cristea Cristescu
-                Cristoiu Crivãț Crivei Croitor Croitoru Cruceru Crudu Cucicea Culgheru Culianu Cumpãnas Cuțui Cuza Dâlcã Damian Danciu Dârjan Dascãl Dãscãlescu Dascãlu Deac Deaconescu Decean Dej Dejeu Delean Deleanu
-                Demian Densushianu Diacon Diaconescu Diaconu Dicã Dima Dimitrescu Dincu Dincuțã Dinescu Dinicã Dinu Dioshan Dîrjan Dobrash Dobre Dobrea Dobrean Dobrescu Dobrilã Dobrița Dobrițã Dobrogeanu Dogaru Doja
-                Dolãnescu Doroftei Drãgan Drãganu Drãghici Drãghinescu Dragnea Drãgoi Dragu Drimba Dubleshiu Ducã Duicã Dulgheru Duma Duminicã Dumitrache Dumitrash Dumitrescu Dusha Duțã Eliade Eminescu Enache Ene Enea
-                Enescu Epureanu Farcash Farcashianu Faur Fecioru Fedeshan Felea Feneshan Fericean Fericeanu Fericescu Fieraru Filimon Filimonescu Filip Filipash Filipciuc Filipescu Flãmând Floare Florea Florescu
-                Florinescu Florishtean Florishteanu Focsheanu Frãtean Frãțilã Frumos Frumushanu Frunzã Funar Furcã Gabor Gãceanu Gãinã Gãlãteanu Galbazã Gâlcã Gale Galea Galosh Ganea Ganga Gâshteanu Gâshtescu Gavrilã
-                Gavrilescu Gavriliu Gavriloae Gavriloaie Geoana Georgescu Gheorghe Gheorghel Gheorghescu Gheorghicã Gheorghiu Gherea Gherman Ghicã Ghilescu Ghimpu Ghiocel Ghițea Ghiu Ghiurea Gilãuan Gioshan Giurescu
-                Giurgiu Giurgiuveanu Gociu Godean Godeanu Goga Gogean Goia Goian Goldish Golea Grãdinaru Graur Grecu Grigorash Grigorescu Grigoriu Grigoroiu Grivei Groparu Grosu Groza Grozea Grozeanu Grozescu Gusha Hagi
-                Halițã Halmãgean Han Handru Hãnescu Hãnganu Hashdeu Hațieganu Herãscu Herea Herțeg Hodrea Hosu Hotea Hritcu Hudea Huidu Hule Hulea Hunedoreanu Husar Huțanu Huțu Huțupan Iacob Iacobescu Iacovițã Iancu Iaru
-                Iederan Iftimia Iga Ilash Ile Ilea Iliash Ilie Iliesh Iliescu Inovan Ioja Ionash Ionescu Ionițã Iordãnescu Iorga Iosif Iova Irimescu Isãrescu Ispirescu Istrate Iuga Iurashcu Iuresh Ivãnescu Ivashcu Jalea
-                Jianu Jinga Judean Jugaru Jurcã Labish Lãcãtush Lascãr Lascu Latcu Latish Lazãr Lazea Lefter Lemnaru Lenga Leonte Lesenciuc Leu Leucuța Lincar Lincu Lipa Lipan Loghin Lovinescu Lozbã Luca Lucescu Luncan
-                Lung Lungu Lup Lupash Lupe Lupean Lupeanu Lupescu Lupsha Lupshe Lupu Macaru Machin Macinic Macovei Macovescu Maior Maiorescu Mãlin Manea Mãnescu Maniu Manole Manoliu Marc Marchish Marcu Marculescu Margea
-                Mãrgelaru Mãrginean Mãrgineanu Marian Mãriesh Marincash Martinescu Marton Mârza Mãtãrângã Mateescu Matei Matesh Maxim Mazilescu Medan Medrea Melinescu Mergea Merisanu Merishescu Merlushcã Mermeze Micle
-                Miclea Micu Micula Micuț Mihacea Mihãilã Mihãilescu Mihalache Mihalcea Mihoc Mihu Mihuța Milescu Mincu Minea Minulescu Mircea Mircescu Miron Mironescu Mîrza Mițu Mițulescu Miu Mizgan Mlendea Mocanu Moculescu
-                Modoi Moga Moise Moisescu Moisuc Moldovan Moldovanu Moldovean Moldoveanu Morar Morariu Moraru Morosan Moroshanu Moț Mugurescu Muntean Munteanu Murar Murariu Murea Mureshan Mureshanu Mushat Muscã Mutu Nashca
-                Nãstase Naum Neacsha Neacshu Neag Neagoe Neagu Neamț Neamțu Necshulescu Neculce Neculcea Nedelcu Negoițescu Negrãu Negrea Negreanu Negrescu Negrilã Negru Negruț Negruțiu Negulescu Nemesh Nemoianu Nesha Nica
-                Nichițescu Nicoarã Nicolãescu Nicolescu Niculescu Niculițã Nisipeanu Nistor Oancea Oatu Olar Olaru Oltean Olteanu Onaciu Oncescu Oncioiu Onicescu Onishor Onița Onițiu Oprea Oprescu Oprish Orãdeanu Oros Orz
-                Orza Pãcurar Pãcuraru Pãdurar Pãdurariu Pãduraru Pãdurean Pãdureanu Pãlãcean Palade Palalogosh Paleologu Pamfilie Panã Pâncã Panea Pantiru Pantofaru Paparã Parfene Parosh Parțoc Pârvan Pârvu Pârvulescu Pashc
-                Pascã Pascal Pascu Pastiu Pashtiu Pãstor Pãtrãshcanu Pãtrashcu Patriciu Pãulescu Pãun Pãunescu Pavel Pavelescu Pelea Pescar Pescariu Pescaru Petrache Petran Petrashcu Petrea Petrean Petrescu Petric Petriceicu
-                Petru Petrush Petrushel Petruțiu Piciu Picosh Piersic Pinte Pintea Pintilie Pircãbulescu Pîrvan Pîrvu Pîrvulescu Pitaru Piteshteanu Pițigoi Pițurcã Pituț Pivaru Plesha Pleshu Pletea Ploieshteanu Podar Podariu
-                Poenaru Pogor Poienar Pojar Pomohaci Ponor Ponorean Ponta Popa Popan Popescu Popovici Popoviciu Porcar Porumbescu Porumboiu Potcovaru Prahovean Prahoveanu Precup Preda Prelipceanu Pribag Pribagu Prigoanã Prodan
-                Prunã Prunariu Prunaru Prunea Prutean Pruteanu Puiu Pupãzã Purcar Purdea Puscash Pushcashu Racheru Racovițã Rãdãuțeanu Rãdeanu Rãdescu Rãdoi Rãdoiu Rãducan Rãducanu Rãducioiu Rãdulescu Rarãu Raț Rațiu Rãuț
-                Rebengiuc Rebreanu Retegan Rogojan Roman Roshca Roshu Rotar Rotaru Rotund Rozeanu Rujan Runcan Rus Rusescu Rusu Sabãu Safta Saftoiu Sãftoiu Shaguna Sala Sãlãgeanu Sãlãjean Sãlãjeanu Sãlcudean Shamshodan Sânã
-                Sandu Sãndulescu Shanta Sãpuneanu Sãrac Sârb Sârbu Sas Sasu Sav Sava Savescu Savu Scrob Scurtu Scurtuț Sebeshtean Sheicaru Shendrea Sherban Sherbãnescu Sim Sima Simionescu Sircã Slavici Soare Socaciu Socol
-                Somesan Someshan Someshanu Sorescu Sorlea Shotropa Spãtãcean Spãtaru Spinean Stan Stânã Stãncel Stâncel Stanciu Stancu Stãnescu Stãniloae Stãniloaie Stãnoiu Stãnushoiu Stârcu Shtefãnescu Shtefu Stegerean Stelea
-                Sticlaru Stîncel Shtirb Stîrcu Stoenescu Stoian Stoica Stoicescu Stoleru Stolojan Stribei Stupariu Sturzoiu Suceveanu Suciu Surdu Shutu Tabarcea Tamash Tãmash Tãnase Tãnãsescu Țãran Țãranu Tãrâțã Tarcãu Tarcea
-                Tãriceanu Tãrîțã Tãtãran Tãtãranu Tãtãrescu Tãtãrushanu Tãutu Tecãu Tecuceanu Telcian Tenishan Teodor Teodorescu Țicã Tighineanu Tilea Timish Timishoreanu Timofte Tincescu Țiriac Titulescu Tivadar Toader Tocut
-                Todea Todoran Todoruț Toma Tomache Tomescu Tonciu Topârceanu Topîrceanu Trahanache Traistã Trâmbițash Trashcã Trif Trifa Trifan Trifu Trîmbițash Trofan Tudoran Tudorescu Tudoroiu Tudose Țugurlan Tulea Tuns
-                Tunsu Țurcã Turcanu Turcescu Turcu Turian Țuțea Udishtean Udishteanu Udrea Ungur Ungureanu Ungurescu Urât Urâțescu Urît Urîțescu Ursache Ursachi Ursu Ursuța Urzicã Urziceanu Ushor Ushurelu Vãcãrean Vãcãreanu
-                Vãcãrescu Vãdan Vãduvã Vaida Vaina Vãlean Valentin Vancea Vanciu Vancu Vântu Varga Variu Vârtosu Vasilescu Vasiliu Vasluianu Vãtãmãnescu Veresh Vesa Vianu Vidican Vidrean Vieru Vinea Vinț Vintilã Vishan
-                Vishinescu Viziru Vladimirescu Vlãducu Vlah Vlaicu Vlãsceanu Vlascu Vodã Voicu Voiculescu Voinea Voinescu Voinic Vorobeț Vrabie Vrâncean Vrânceanu Vranciu Vrîncean Vulpe Vulpean Vultur Zãgan Zaharia Zaharie
-                Zaiț Zamfir Zamfirescu Zãvoian Zãvoran Zãvoranu Zbranca Zdrenghia Zegreanu Zelea Zgonea Zidaru Zisu Zugrãvescu Zugravu
+                ﻿Abrudan Aciubotariței Adam Adamache Adamesteanu Adamuț Adrianescu Adãmuț Agache Aiordãchioaiei Aiordãcioaei Alba Albescu Albu Albulescu Aldea Alecsandri Alecu
+                Alexandrescu Almãsan Alupoaei Alupoaiei Aluței Ambrozie Amânar Andone Andreescu Andreica Andronache Anghel Anghelache Anghelescu Angheluța Angheluțã Aniței Antohie
+                Antonescu Apetroaei Apostol Apostolescu Apostu Ardelean Ardeleanu Arghezi Argintaru Armasu Arãdeanu Arãpasu Atanasiu Augustin Averescu Avram Avramescu Bab Baba Babu
+                Baciu Bacovia Badea Baghiu Baicu Baiu Balauru Balc Balint Balițiu Balomirean Baltag Ban Banciu Banuț Bar Barbu Barbulescu Barițiu Barnuțiu Basarab Basarabeanu
+                Basarabescu Begu Beian Bejan Beldean Belea Beleanu Beleiu Belu Bendea Bendeac Bengescu Berbec Berbecu Berce Bercean Berceanu Berea Berinde Berlea Bihoreanu Birãu
+                Birsan Bizgan Blaga Blandiana Blidar Blidaru Blãjan Bob Boboc Bobu Boc Boca Bocea Bocean Bocuțiu Bocsan Bodea Boeriu Boga Bogdãnescu Boghean Bogza Boian Boiculese
+                Boieru Bolboacã Boldijar Boloca Bolojan Bolovãneanu Bolovãnescu Bondar Bordea Bordean Borha Borilã Boroi Borsan Bota Botezatu Botis Boureanu Bosca Bracaciu Brad
+                Bradea Bratu Brasovean Brasoveanu Brasovianu Breban Briciu Brumaru Brustur Brâncoveanu Brâncusi Brânzescu Brânzã Brînza Brãileanu Brãnescu Brãtianu Bucin Buciuman
+                Bucur Bucurean Bucureanu Bucurescu Bucsa Budescu Budisteanu Budnar Budnaru Bufnea Buha Buhai Bulzan Bulzean Bulzescu Bumbescu Bunea Bunãu Burciu Burcã Buric Burlacu
+                Busuioc Butacu Butan Bute Butean Butescu Butnariu Butnaru Butuc Buzea Buzescu Buzilã Buzã Bâldean Bârladeanu Bârlãdeanu Bâtã Bîrladeanu Bãdelițã Bãdescu Bãlan
+                Bãlcescu Bãlãceanu Bãlãnean Bãlãneanu Bãlãnescu Bãnicã Bãrceanu Bãrnuțiu Bãsescu Bãsãrãbeanu Bãsãrãbescu Bãtrân Caciulã Cacovean Cadis Cantemir Caragiale Caramitru
+                Cardei Catana Catargiu Cazac Cazacu Cazan Ceausescu Celan Cenan Ceoban Ceobanu Ceoca Cepoi Cercelaru Cernat Cernea Cernãu Cetinã Chelaru Chelu Chesãuan Chețan
+                Chiciudean Chioran Chiorean Chiriac Chirilã Chivu Chițu Cimpoi Cioarã Cioba Cioban Ciobanu Ciobotaru Ciobotea Cioca Cioci Cioculescu Ciolacu Cionca Cioran Ciorbã
+                Ciorei Ciorhan Ciorican Ciorogariu Cioroianu Ciortea Cios Cipcigan Ciubotaru Ciufudean Ciuhat Ciungu Ciupei Ciupit Ciupitu Ciurca Ciurcã Ciuta Cizmaru Coandã Coca
+                Cocan Cocis Cocos Codarcea Codrea Codreanu Codrescu Cojan Cojoc Cojocar Cojocariu Cojocaru Cojocean Colac Coman Comãneci Comãnescu Constandache Constantin
+                Constantinescu Constantinoiu Constãnțeanu Copaciu Copciuc Copil Copindean Copos Coposu Coprean Corbea Corbean Corbeanu Corbu Corda Cornea Corneanu Coroian Coroiu
+                Costan Coste Costea Costean Costeanu Costescu Costin Costiniu Cotan Cotoi Cotrus Cotuțiu Covaci Cozma Cozmei Cosbuc Cosofreț Coțofanã Crainic Craioveanu Cravã
+                Creangã Cretu Creț Crețu Cristea Cristescu Cristoiu Crivei Crivãț Crisan Crisanu Croitor Croitoru Cruceru Crudu Crãciun Crãciunas Crãciunean Crãmar Cucea Cucicea
+                Cuciureanu Cucuieț Culgheru Culianu Cumpãnas Cuza Cuțui Câmpanu Câmpean Câmpeanu Câmpian Cândea Cârjan Cârlan Cârlova Cârpar Cârstea Cîmpanu Cîmpean Cîmpeanu
+                Cîmpian Cîrjan Cîrlova Cîrpar Cîrstea Cãlinescu Cãlugãr Cãlugãreanu Cãlugãrescu Cãlugãru Cãrpar Cãrtãrescu Cãrãian Cãrãmidaru Cãstãian Cãtinean Damian Danciu Dascãl
+                Dascãlu Deac Deaconescu Decean Dej Dejeu Delean Deleanu Demian Densusianu Diacon Diaconescu Diaconu Dicã Dima Dimitrescu Dincu Dincuțã Dinescu Dinicã Dinu Diosan
+                Dirlãu Divricean Dobras Dobre Dobrea Dobrean Dobrescu Dobrilã Dobrița Dobrițã Dobrogeanu Dogaru Doja Dolãnescu Doroftei Dragnea Dragomir Dragomirescu Dragomiroiu
+                Dragu Drimba Drule Drãgan Drãganu Drãghiceanu Drãghicescu Drãghici Drãghicioiu Drãghinescu Drãgoi Dublesiu Ducã Duicã Dulgheru Duma Duminicã Dumitrache Dumitras
+                Dumitrescu Dusa Duțã Dâlcã Dârjan Dîrjan Dãrãban Dãscãlescu Eliade Eminescu Enache Ene Enea Enescu Epureanu Eremia Farcas Farcasianu Faur Fecioru Fedesan Felea
+                Fenesan Fericean Fericeanu Fericescu Fieraru Filimon Filimonescu Filip Filipas Filipciuc Filipescu Floare Florea Florescu Florinescu Floristean Floristeanu Flãmând
+                Focseanu Frumos Frumusanu Frunzã Frãtean Frãțilã Funar Furcã Fâsie Gabor Galbazã Gale Galea Galos Ganea Ganga Gavrilescu Gavriliu Gavriloae Gavriloaie Gavrilã
+                Geoanã Georgescu Gheorghe Gheorghel Gheorghescu Gheorghicã Gheorghiu Gherea Gherman Ghicã Ghilescu Ghimpu Ghiocel Ghiu Ghiurea Ghițea Gilãuan Giosan Giurean
+                Giureanu Giurescu Giurgiu Giurgiuveanu Gociu Godean Godeanu Godiac Goga Gogean Goia Goian Goldis Golea Grasu Graur Grecu Grigoras Grigoreanu Grigorescu Grigoriu
+                Grigoroiu Grivei Groparu Grosu Groza Grozea Grozeanu Grozescu Grãdinaru Gusa Gusã Gâlcã Gâsteanu Gâstescu Gãceanu Gãinã Gãlãteanu Hagi Halițã Halmãgean Han Handru
+                Hasdeu Hațieganu Herea Herãscu Herțeg Hodrea Hopârțean Horincar Hosu Hotea Hritcu Hudea Huidu Hule Hulea Hunedoreanu Hurducas Hurgoi Husar Huțanu Huțu Huțupan
+                Hãnescu Hãnganu Iacob Iacobeanu Iacobescu Iacovițã Iancu Iaru Iederan Iftimia Iga Ilas Ile Ilea Ilias Ilie Iliescu Ilies Inovan Ioaniciu Ioja Ionas Ionescu Ionițã
+                Iordache Iordãcheanu Iordãnescu Iorga Iosif Iova Irimescu Ispirescu Istrate Isãrescu Iuga Iurascu Iures Ivascu Ivãnescu Jalea Jianu Jinga Judean Jugaru Jurcã Labis
+                Laic Lascu Lascãr Latcu Latis Lazea Lazãr Lefter Lemnaru Lenga Leonte Lesenciuc Leu Leucuța Lincar Lincu Lipa Lipan Loghin Lovinescu Lozbã Luca Lucescu Ludusan
+                Luncan Lung Lungu Lup Lupas Lupe Lupean Lupeanu Lupescu Lupu Lupsa Lupse Lãcustã Lãcãtus Macaru Machin Macinic Macovei Macovescu Maior Maiorescu Manea Maniu
+                Manolache Manole Manoliu Marc Marchis Marcu Marculescu Margea Marian Marincas Marinescu Martinescu Marton Mateas Mateescu Matei Mates Maxim Mazilescu Medan Medrea
+                Melinescu Mergea Merisanu Merisescu Merluscã Mermeze Mesesan Micle Miclea Micu Micula Micuț Mihacea Mihalache Mihalcea Mihali Mihoc Mihu Mihuța Mihãescu Mihãilescu
+                Mihãilã Milescu Mincu Minea Minulescu Mircea Mircescu Miron Mironescu Miu Mizgan Mițu Mițulescu Mladin Mlendea Mocanu Moculeanu Moculescu Modoi Moga Moise Moisescu
+                Moisuc Moldovan Moldovanu Moldovean Moldoveanu Morar Morariu Moraru Morosan Morosan Morosanu Movilã Moț Mugurescu Muntean Munteanu Muntianu Murar Murariu Murea
+                Murescu Muresan Muresanu Muscã Mutu Musat Mândruleanu Mârza Mînzat Mîrza Mãlin Mãnescu Mãrgelaru Mãrginean Mãrgineanu Mãries Mãtãrângã Naum Nasca Neacsa Neacsu Neag
+                Neagoe Neagu Neamț Neamțu Neculce Neculcea Necsulescu Nedelcu Negoițescu Negrea Negrean Negreanu Negrescu Negrilã Negru Negruț Negruțiu Negrãu Negulescu Nemes
+                Nemoianu Nesa Nica Nichițescu Nicoarã Nicolescu Nicolãescu Niculescu Niculițã Nisipeanu Nistor Nițã Noica Nuțu Nãstase Oancea Oatu Olar Olaru Olinescu Oltean
+                Olteanu Onaciu Oncescu Oncioiu Onicescu Onisor Onița Onițiu Oprea Oprescu Opris Oros Orz Orza Orãdeanu Palade Palalogos Paleologu Pamfilie Panea Pantiru Pantofaru
+                Panã Paparã Parfene Paros Parțoc Pascal Pascu Pascã Pastiu Patriciu Pavel Pavelescu Pasc Pastiu Pelea Pescar Pescariu Pescaru Petrache Petran Petrascu Petrea
+                Petrean Petrescu Petric Petriceicu Petru Petrus Petrusel Petruțiu Piciu Picos Piersic Pincu Pinte Pintea Pintilie Pircãbulescu Pitaru Pitesteanu Pitu Pituț Pivaru
+                Pițigoi Pițurcã Pletea Plesa Plesu Ploiesteanu Plotuna Podar Podariu Poenaru Pogor Poienar Poienaru Pojar Pomohaci Ponor Ponorean Ponta Popa Popan Popescu Popovici
+                Popoviciu Porcar Porim Porumbescu Porumboiu Potcovaru Prahovean Prahoveanu Precup Preda Predoiu Prelipceanu Presecan Pribag Pribagu Prigoanã Proca Prodan Prodãnescu
+                Prunariu Prunaru Prunea Pruneanu Prunã Prutean Pruteanu Puiu Pupãzã Purcar Purdea Puscas Puscasu Pâncã Pârvan Pârvu Pârvulescu Pîrvan Pîrvu Pîrvulescu Pãcurar
+                Pãcuraru Pãdurar Pãdurariu Pãduraru Pãdurean Pãdureanu Pãlãcean Pãstor Pãtrascu Pãtrãscanu Pãulescu Pãun Pãunescu Racheru Racovițã Rarãu Raț Rațiu Rebengiuc
+                Rebreanu Retegan Rogojan Roman Romanu Român Românescu Rotar Rotaru Rotund Rozeanu Rosca Rosu Rudeanu Rujan Runcan Rus Rusescu Rusu Rãceanu Rãdeanu Rãdescu Rãdoi
+                Rãdoiu Rãducan Rãducanu Rãducioiu Rãdulescu Rãdãuțeanu Rãuț Sabãu Safta Saftoiu Sala Sandu Sas Sasu Sav Sava Savescu Savu Scrob Scrobota Scurtu Scurtuț Scutaru
+                Sebestean Selejan Sim Sima Similea Simionescu Sircã Slavici Soare Socaciu Socol Somesan Somesan Somesanu Sorescu Sorlea Spinean Spãtaru Spãtãcean Stan Stanciu
+                Stancu Stegerean Stejerean Stelea Sticlaru Stoenescu Stoian Stoica Stoicescu Stoleru Stolojan Stribei Stupariu Sturzoiu Stâncel Stâncã Stânã Stârcu Stîncel Stîrcu
+                Stãncel Stãnescu Stãniloae Stãniloaie Stãnoiu Stãnusoiu Suceveanu Suciu Surdu Sânã Sârb Sârbu Sârca Sãftoiu Sãlcudean Sãlãgeanu Sãlãjean Sãlãjeanu Sãndulescu
+                Sãpuneanu Sãrac Tabarcea Tabãrã Tamas Tarcea Tarcãu Tecuceanu Tecãu Telcian Tenisan Teodor Teodorescu Tighineanu Tilea Timis Timisoreanu Timofte Tincescu Titulescu
+                Tivadar Toader Tocut Todea Todoran Todoruț Toma Tomache Tomescu Tomoiagã Tonciu Topârceanu Topîrceanu Trahanache Traistã Trascã Trif Trifa Trifan Trifu Trofan
+                Trombițas Trâmbițas Trîmbițas Tudoran Tudorescu Tudoroiu Tudose Tulbure Tulea Tuns Tunsu Turcanu Turcescu Turcu Turian Tãmas Tãnase Tãnãsescu Tãriceanu Tãrâțã
+                Tãrîțã Tãtãran Tãtãranu Tãtãrean Tãtãreanu Tãtãrescu Tãtãrusanu Tãutu Udistean Udisteanu Udrea Ungur Ungureanu Ungurescu Ursache Ursachi Ursu Ursuța Urziceanu
+                Urzicã Urât Urâțescu Urît Urîțescu Usor Usurelu Vaida Vaina Valentin Vancea Vanciu Vancu Varga Variu Vasilescu Vasiliu Vasluianu Vedean Verde Veres Vesa Vianu
+                Vidican Vidrean Vieru Vinea Vintilã Vinț Viziru Visan Visinescu Vladimirescu Vlah Vlaicu Vlascu Vlãducu Vlãsceanu Vodã Voicu Voiculescu Voina Voinea Voinescu Voinic
+                Vorobeț Vrabie Vranciu Vrâncean Vrânceanu Vrîncean Vrînceanu Vulpe Vulpean Vulpes Vultur Vântu Vârtosu Vãcãrean Vãcãreanu Vãcãrescu Vãdan Vãduvã Vãlean Vãtãmãnescu
+                Zaharia Zaharie Zaiț Zaițuc Zamfir Zamfirescu Zbranca Zdrenghia Zegreanu Zelea Zgonea Zidaru Zisu Zugravu Zugrãvescu Zãgan Zãhãrescu Zãvoian Zãvoran Zãvoranu
+                Șaguna Samsodan Santa Seicaru Sendrea Serban Serbãnescu Sotropa Stefu Stefãnescu Stefãnoiu Stirb Stirbei Stirbu Sutu Țicã Țiriac Țugurlan Țurcã Țuțea Țãran Țãranu
             }
             regnal_first_names_male = {
                 Traian Mihai Carol Ferdinand Nicolae Mircea
