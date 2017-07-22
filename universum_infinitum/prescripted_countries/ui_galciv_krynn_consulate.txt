@@ -1,53 +1,60 @@
-ui_galciv_krynn_consulate = {
-    name = "Krynn Consulate"
-    spawn_enabled = yes
-    ignore_portrait_duplication = yes
-
-    name_list = "ART3"
-    ship_prefix = "KCS"
-
-    species_name = "Krynn"
-    species_plural = "Krynn"
-    species_adjective = "Krynn"
-    species_class = "ART"
-    trait = "trait_talented"
-    portrait = "art1"
-    adjective = "Krynn"
-
-    government = "theocratic_oligarchy"
-    ethic = "ethic_militarist"
-    ethic = "ethic_fanatic_spiritualist"
-
-    weapon = "tech_mass_drivers_1"
-    ftl = warp
-
-    planet_name = "Kryseth"
-    planet_class = "pc_continental"
-    initializer = "ui_alora_system_initialiser"
-    system_name = "Alora"
-
-    graphical_culture = "arthropoid_01"
-    city_graphical_culture = "arthropoid_01"
-
-    empire_flag = {
-        icon= {
-            category = "ui_galciv"
-            file = "flag_ui_galciv_krynn.dds"
-        }
-        background= {
-            category = "backgrounds"
-            file="circle.dds"
-        }
-        colors={
-            "orange"
-            "dark_blue"
-            "null"
-            "null"
-        }
-    }
-    ruler = {
-        name = "Ynrhed Eidden"
-        gender = male
-        portrait = "art1"
-    }
+ui_galciv_krynn_colsulate = {
+	key="Krynn Consulate"
+	name_list="ART3"
+	ship_prefix="KCS"
+	species_name="Krynn"
+	species_plural="Krynn"
+	species_class="ART"
+	species_adjective="Krynn"
+	species_bio="These guys are trying to bring order to the galaxy in the name of religion. Staunch Federalists, they usually have the cash to take advantage of whatever interspecies opportunities happen to come up."
+	portrait="art1"
+	name="Krynn Consulate"
+	adjective="Krynn"
+	authority="auth_oligarchic"
+	government="gov_holy_tribunal"
+	ftl=warp
+	weapon="tech_lasers_1"
+	planet_name="Kryseth"
+	planet_class="pc_continental"
+	system_name="Alora"
+	initializer="ui_alora_system_initialiser"
+	graphical_culture="arthropoid_01"
+	city_graphical_culture="arthropoid_01"
+	empire_flag={
+		icon={
+			category="ui_galciv"
+			file="flag_ui_galciv_krynn.dds"
+		}
+		background={
+			category="backgrounds"
+			file="ui_star2.dds"
+		}
+		colors={
+			"dark_purple"
+			"light_orange"
+			"null"
+			"null"
+		}
+	}
+	ruler={
+		gender=female
+		name="Ynhred Eidden"
+		portrait="art1"
+		texture=1
+		hair=0
+		clothes=0
+		ruler_title_female="Consul"
+	}
+	spawn_as_fallen=no
+	ignore_portrait_duplication=no
+	room="personality_evangelizing_zealots_room"
+	spawn_enabled=yes
+	ethic="ethic_xenophile"
+	ethic="ethic_fanatic_spiritualist"
+	civics={
+		"civic_exalted_priesthood"
+		"civic_corporate_dominion"
+	}
+	trait="trait_thrifty"
 }
+
