@@ -1,0 +1,27 @@
+ui_trait_ruler_backroom_backstabber = {
+	cost = 1
+	modification = no
+	potential = {
+		NOT = { from = { has_ethic = "ethic_hive_mind" } }
+	}
+	modifier = {
+		country_resource_influence_add = 0.05
+		pop_government_ethic_attraction = 0.05
+	}
+	leader_trait = yes
+	leader_class = { ruler }
+}
+
+ui_trait_ruler_smoothtalking_charmer = {
+	cost = 1
+	modification = no
+	potential = {
+		NOT = { from = { has_ethic = "ethic_hive_mind" } }
+	}
+	modifier = {
+	    country_trust_growth = 0.1
+	}
+	leader_trait = yes
+	leader_class = { ruler }
+}
+

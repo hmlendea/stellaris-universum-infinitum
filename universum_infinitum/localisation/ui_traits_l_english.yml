@@ -46,3 +46,9 @@
  ui_trait_governor_miner:0 "Miner"
  ui_trait_governor_miner_desc:0 "This character is a ex-mining guild founder, and has a vast expertise in mineral extraction.§!\n"
  
+# Governor traits
+ ui_trait_ruler_backroom_backstabber:0 "Backroom Backstabber"
+ ui_trait_ruler_backroom_backstabber_desc:0 "This politician is very skilled in the arts of manipulation, and would stop at nothing to achieve its goals.§!\n"
+ ui_trait_ruler_smoothtalking_charmer:0 "Smooth-Talking Charmer"
+ ui_trait_ruler_smoothtalking_charmer_desc:0 "This character is a very skilled diplomat, and is very sucessful at forming and maintaining foreign relations.§!\n"
+ 
