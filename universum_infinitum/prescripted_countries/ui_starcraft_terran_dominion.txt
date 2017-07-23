@@ -56,8 +56,9 @@ ui_starcraft_terran_dominion = {
 		"civic_police_state"
 		"civic_nationalistic_zeal"
 	}
+	trait="ui_trait_very_adaptive"
 	trait="trait_nomadic"
-	trait="trait_adaptive"
 	trait="trait_deviants"
+	trait="trait_wasteful"
 }
 

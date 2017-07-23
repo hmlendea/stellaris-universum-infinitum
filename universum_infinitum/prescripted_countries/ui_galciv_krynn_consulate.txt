@@ -55,6 +55,6 @@ ui_galciv_krynn_colsulate = {
 		"civic_exalted_priesthood"
 		"civic_corporate_dominion"
 	}
-	trait="trait_thrifty"
+	trait="ui_trait_deceitful"
 }
 

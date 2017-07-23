@@ -58,7 +58,6 @@ ui_elderscrolls_argonia = {
 	trait="trait_agrarian"
 	trait="trait_solitary"
 	trait="trait_sedentary"
-	trait="trait_resilient"
-	trait="trait_strong"
+	trait="ui_trait_brave"
 }
 
