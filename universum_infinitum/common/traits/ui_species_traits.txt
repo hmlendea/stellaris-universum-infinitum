@@ -1,9 +1,20 @@
 ui_trait_urban = {
 	cost = -2
-	opposites = { "trait_agrarian" }
+	opposites = { "trait_agrarian" "ui_trait_subterranean" }
 	
 	modifier = {
 		tile_resource_food_mult = -0.15
+	}
+}
+
+ui_trait_subterranean = {
+	cost = 2
+	opposites = { "trait_agrarian" "ui_trait_urban" }
+	
+	modifier = {
+		pop_environment_tolerance = 0.05
+        pop_fortification_defense = 0.15
+        planet_building_build_speed_mult = -0.15
 	}
 }
 
@@ -99,5 +110,27 @@ ui_trait_trusting = {
 	modifier = {
 		country_resource_influence_add = -1
 	}
+}
+
+ui_trait_agile = {
+  cost = 2
+	opposites = { "ui_trait_sluggish" }
+  
+  modifier = {
+    weapon_type_kinetic_weapon_fire_rate_mult = 0.05
+    weapon_type_energy_weapon_fire_rate_mult = 0.05
+    weapon_type_explosive_weapon_fire_rate_mult = 0.05
+  }
+}
+
+ui_trait_sluggish = {
+  cost = -2
+	opposites = { "ui_trait_agile" }
+  
+  modifier = {
+    weapon_type_kinetic_weapon_fire_rate_mult = -0.05
+    weapon_type_energy_weapon_fire_rate_mult = -0.05
+    weapon_type_explosive_weapon_fire_rate_mult = -0.05
+  }
 }
 
