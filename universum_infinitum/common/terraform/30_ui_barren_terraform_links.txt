@@ -1,78 +1,84 @@
-#### Barren to Desert
-#terraform_link = {
-#    from = "pc_barren"
-#    to = "pc_desert"
-#
-#    energy = 15000
-#    duration = 10000
-#
-#    condition = {
-#        has_technology = "tech_ui_barren_terraforming"
-#    }
-#}
-#
-#### Barren to Arid
-#terraform_link = {
-#    from = "pc_barren"
-#    to = "pc_arid"
-#
-#    energy = 15000
-#    duration = 10000
-#
-#    condition = {
-#        has_technology = "tech_ui_barren_terraforming"
-#    }
-#}
-#
-#### Barren to Savanna
-#terraform_link = {
-#    from = "pc_barren"
-#    to = "pc_savannah"
-#
-#    energy = 15000
-#    duration = 10000
-#
-#    condition = {
-#        has_technology = "tech_ui_barren_terraforming"
-#    }
-#}
-#
-#### Barren (Cold) to Arctic
-#terraform_link = {
-#    from = "pc_barren_cold"
-#    to = "pc_arctic"
-#
-#    energy = 15000
-#    duration = 10000
-#
-#    condition = {
-#        has_technology = "tech_ui_barren_terraforming"
-#    }
-#}
-#
-#### Barren (Cold) to Tundra
-#terraform_link = {
-#    from = "pc_barren_cold"
-#    to = "pc_tundra"
-#
-#    energy = 15000
-#    duration = 10000
-#
-#    condition = {
-#        has_technology = "tech_ui_barren_terraforming"
-#    }
-#}
-#
-#### Barren (Cold) to Alpine
-#terraform_link = {
-#    from = "pc_barren_cold"
-#    to = "pc_alpine"
-#
-#    energy = 15000
-#    duration = 10000
-#
-#    condition = {
-#        has_technology = "tech_ui_barren_terraforming"
-#    }
-#}
-#
+### Barren to Desert
+terraform_link = {
+    from = "pc_barren"
+    to = "pc_desert"
+
+    energy = 10000
+    duration = 5400
+
+    condition = {
+        has_technology = "tech_ui_barren_terraforming"
+		from = { NOT = { has_modifier = terraforming_candidate } }
+    }
+}
+
+### Barren to Arid
+terraform_link = {
+    from = "pc_barren"
+    to = "pc_arid"
+
+    energy = 15000
+    duration = 7200
+
+    condition = {
+        has_technology = "tech_ui_barren_terraforming"
+		from = { NOT = { has_modifier = terraforming_candidate } }
+    }
+}
+
+### Barren to Savanna
+terraform_link = {
+    from = "pc_barren"
+    to = "pc_savannah"
+
+    energy = 17500
+    duration = 9000
+
+    condition = {
+        has_technology = "tech_ui_barren_terraforming"
+		from = { NOT = { has_modifier = terraforming_candidate } }
+    }
+}
+
+### Barren (Cold) to Arctic
+terraform_link = {
+    from = "pc_barren_cold"
+    to = "pc_arctic"
+
+    energy = 10000
+    duration = 5400
+
+    condition = {
+        has_technology = "tech_ui_barren_terraforming"
+		from = { NOT = { has_modifier = terraforming_candidate } }
+    }
+}
+
+### Barren (Cold) to Tundra
+terraform_link = {
+    from = "pc_barren_cold"
+    to = "pc_tundra"
+
+    energy = 12500
+    duration = 7200
+
+    condition = {
+        has_technology = "tech_ui_barren_terraforming"
+		from = { NOT = { has_modifier = terraforming_candidate } }
+    }
+}
+
+### Barren (Cold) to Alpine
+terraform_link = {
+    from = "pc_barren_cold"
+    to = "pc_alpine"
+
+    energy = 17500
+    duration = 9000
+
+    condition = {
+        has_technology = "tech_ui_barren_terraforming"
+		from = { NOT = { has_modifier = terraforming_candidate } }
+    }
+}
+
