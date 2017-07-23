@@ -17,6 +17,8 @@
  ui_trait_poor_physicists_desc:0 "§LMembers of this species have an inherent repulsion towards theoretical physics and astral phenomenae.§!\n"
  ui_trait_poor_sociologists:0 "Poor Sociologists"
  ui_trait_poor_sociologists_desc:0 "§LMembers of this species have an inherent repulsion towards sociology and biological studies.§!\n"
+ ui_trait_very_adaptive:0 "Very Adaptive"
+ ui_trait_very_adaptive_desc:0 "§LThis species if very adaptive to most foreign environments.§!\n"
  ui_trait_brave:0 "Brave"
  ui_trait_brave_desc:0 "§LMembers of this species never shy away from danger, soldiering on in situations where others would flee.§!\n"
  ui_trait_craven:0 "Craven"

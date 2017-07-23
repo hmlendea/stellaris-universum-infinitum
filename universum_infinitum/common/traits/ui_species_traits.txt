@@ -74,6 +74,15 @@ ui_trait_poor_sociologists = {
 	}
 }
 
+ui_trait_very_adaptive = {
+	cost = 3
+	opposites = { "trait_nonadaptive" "trait_adaptive" "trait_extremely_adaptive" "trait_robust"}
+	
+	modifier = {
+		pop_environment_tolerance = 0.15
+	}
+}
+
 ui_trait_brave = {
 	cost = 2
 	opposites = { "ui_trait_craven" }
