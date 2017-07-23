@@ -26,6 +26,10 @@ asteroid_prefix = {
     HM-
     HML-
     RO-
+    MD-
+    GTA-
+    CK-
+    EU-
 }
 
 asteroid_postfix = {
@@ -34,8 +38,11 @@ asteroid_postfix = {
     613
     873
     1030
+    1080
     1337
     1995
+    2077
+    2277
 }
 
 star_names = {
