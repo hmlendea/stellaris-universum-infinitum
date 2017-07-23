@@ -8,7 +8,7 @@ ui_trait_urban = {
 }
 
 ui_trait_subterranean = {
-	cost = 2
+	cost = 0
 	opposites = { "trait_agrarian" "ui_trait_urban" }
 	
 	modifier = {
@@ -49,7 +49,7 @@ ui_trait_dumb = {
 
 ui_trait_poor_engineers = {
 	cost = -1
-	opposites = { "ui_trait_poor_physicists" "ui_trait_poor_sociologists" "trait_nerve_stapled" }
+	opposites = { "ui_trait_poor_physicists" "ui_trait_poor_sociologists" "trait_natural_engineers" "trait_nerve_stapled" }
 	
 	modifier = {
 		tile_resource_engineering_research_mult = -0.15
@@ -58,7 +58,7 @@ ui_trait_poor_engineers = {
 
 ui_trait_poor_physicists = {
 	cost = -1
-	opposites = { "ui_trait_poor_engineers" "ui_trait_poor_sociologists" "trait_nerve_stapled" }
+	opposites = { "ui_trait_poor_engineers" "ui_trait_poor_sociologists" "trait_natural_physicists" "trait_nerve_stapled" }
 	
 	modifier = {
 		tile_resource_physics_research_mult = -0.15
@@ -67,7 +67,7 @@ ui_trait_poor_physicists = {
 
 ui_trait_poor_sociologists = {
 	cost = -1
-	opposites = { "ui_trait_poor_physicists" "ui_trait_poor_engineers" "trait_nerve_stapled" }
+	opposites = { "ui_trait_poor_physicists" "ui_trait_poor_engineers" "trait_natural_sociologists" "trait_nerve_stapled" }
 	
 	modifier = {
 		tile_resource_society_research_mult = -0.15
@@ -86,12 +86,39 @@ ui_trait_brave = {
 
 ui_trait_craven = {
 	cost = -2
-	opposites = { "ui_trait_brave" }
+	opposites = { "ui_trait_brave" "ui_trait_violent" }
 	
 	modifier = {
 		army_morale = -0.15
 		army_damage_mult = -0.15
 	}
+}
+
+ui_trait_violent = {
+    cost = 0
+    valid_for_all_ethics = no
+	allowed_ethics = {
+	    ethic_authoritarian
+		ethic_fanatic_authoritarian
+		ethic_egalitarian
+		ethic_fanatic_egalitarian
+		ethic_materialist
+		ethic_fanatic_materialist
+		ethic_militarist
+		ethic_fanatic_militarist
+		ethic_spiritualist
+		ethic_fanatic_spiritualist
+		ethic_xenophile
+		ethic_fanatic_xenophile
+		ethic_xenophobe
+		ethic_fanatic_xenophobe
+	}
+	opposites = { "ui_trait_craven" }
+	
+    modifier = {
+        army_damage_mult = 0.1
+        pop_growth_speed = -0.1
+    }
 }
 
 ui_trait_deceitful = {
@@ -109,6 +136,24 @@ ui_trait_trusting = {
 	
 	modifier = {
 		country_resource_influence_add = -1
+	}
+}
+
+ui_trait_optimistic = {
+	cost = 1
+	opposites = { "ui_trait_pessimistic" }
+	
+	modifier = {
+		pop_happiness = 0.05
+	}
+}
+
+ui_trait_pessimistic = {
+	cost = -1
+	opposites = { "ui_trait_optimistic" }
+	
+	modifier = {
+		pop_happiness = -0.05
 	}
 }
 
@@ -132,5 +177,15 @@ ui_trait_sluggish = {
     weapon_type_energy_weapon_fire_rate_mult = -0.05
     weapon_type_explosive_weapon_fire_rate_mult = -0.05
   }
+}
+
+ui_trait_cannibalistic = {
+    cost = 0
+    
+    modifier = {
+        pop_food_req_mult = -0.1
+        pop_growth_speed = -0.15
+        pop_other_species_happiness = -0.05
+    }
 }
 
