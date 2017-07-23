@@ -38,7 +38,7 @@ ui_galciv_krynn_colsulate = {
 	}
 	ruler={
 		gender=female
-		name="Ynhred Eidden"
+		name="Ynrhed Eidden"
 		portrait="art1"
 		texture=1
 		hair=0

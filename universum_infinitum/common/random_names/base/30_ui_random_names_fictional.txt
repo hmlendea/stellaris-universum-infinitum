@@ -1,17 +1,20 @@
 black_hole_names = {
     "Babylon's Fall"
-    "Byzantium's Fall"
     "Belzebuth's Maw"
+    "Byzantium's Fall"
     "Cthulhu's Maw"
     "Dracones Maelstrom"
+    "Dracula's Maw"
     "Ender Eye"
     "Hades' Maw"
     "Harambe's End"
+    "Hell's Gate"
     "Hope's End"
     "Horatiu's Singularity"
     "Lucifer's Maw"
     "Medusa's Eye"
     "Teleorman Black Hole"
+    "Vampire's Fang"
     "Zamolxis Black Hole"
 
     ### Doctor Who ###
@@ -21,28 +24,60 @@ black_hole_names = {
 
 asteroid_prefix = {
     BLZ-
+    CIV-
+    CK-
+    DAC-
+    DOT-
+    EU-
+    EUR-
+    FO-
+    GIMP-
+    GNU-
+    GTA-
     HH-
-    HORI-
     HM-
     HML-
-    RO-
+    HOR-
+    HORI-
+    JAVA-
+    MAC-
     MD-
-    GTA-
-    CK-
-    EU-
+    NET-
+    RO-
+    ROM-
+    ROU-
+    TES-
+    TUX-
+    WIN-
 }
 
 asteroid_postfix = {
+    8
+    16
+    32
     42
+    48
+    64
+    101
+    128
+    256
+    360
     420
+    480
+    512
     613
+    720
     873
+    1024
     1030
     1080
     1337
     1995
+    2048
     2077
     2277
+    4096
+    8192
 }
 
 star_names = {
@@ -1953,6 +1988,8 @@ nebula_names = {
     "Teleorman Nebula"
     "Sandstorm Nebula"
     "Sanguine Nebula"
+    "Vampire Nebula"
+    "Dracula Nebula"
 
     ### Doctor Who ###
     "Andrallis Nebula"
