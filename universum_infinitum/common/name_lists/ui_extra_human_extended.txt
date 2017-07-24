@@ -1,4 +1,4 @@
-﻿### Universum Infinitum
+### Universum Infinitum
 ### Extras
 ### Human - Extended
 
@@ -6,97 +6,132 @@ ui_extra_human_extended = {
     randomized = no
 
     ship_names = {
-        
+
         corvette = {
-            Aardvark Accentor Adder Albatross Alligator Anaconda Antelope Armadillo Asp Badger Bass Beagle Bloodhound Buffalo Bulldog Buzzard Camel Cheetah Cobra Coyote Dingo Dolphin Dragonfly Dromedary Eagle Elephant Falcon
-            Ferret Firefly Fox Gazelle Glowworm "Grey Wolf" Greyhound Haddock Hawk Jackal Jackdaw Jaguar Kangaroo Kestrel "King Cobra" "King Fish" Ladybird Leopard Lion Lizard Lynx Minx Mongoose Mosquito Narwhal Nighthawk
-            Ocelot Orca Osprey Panther Peacock Pelican Penguin Petrel Platypus Polecat Porcupine Puma Python Rattlesnake Raven Salamander Sardine Scorpion Shark Shrike Skylark Sparrow Spider Starfish Stingray Stork Sturgeon
-            Swordfish Tapir Tiger "Tiger Shark" Vulture Walrus Wolverine Apache Aztec Cossack Dervish Druid Highlander Janissary Matador Papillon Parthian Patrician Saracen Sphinx Sultan Tomahawk Viking Zulu Abhay Akshay Akula
-            Soyuz Harrier "Tomoe Gozen" Garuda Yangwei Datong Haifeng Hailong Yongcheng Yinghao Taiyang Chaoyang Qiuxing Guangxing Zhengsheng Taizhao Meihong Wulong Jiangkun Acorn Musketeer Pharaoh Mongol Rickenbacker
-            "John Paul Jones" Doblestnyi Steregushchiy Soobrazitelny "Rodger Young" "Crazy Horse" Richthofen Boyington Fonck Mannock Bishop Kazakov Coppens Brumowski Baracca Hartmann Juutilainen Nishizawa Sakai Shestakov
-            Kozhedub Cantacuzino "Van Lierde" Bong Thachn Clostermann Mitralexis Shinohara Iwamoto Mölders Skalski MacLachlan Caldwell Litvyak Yeager McCampbell O'Hare Sealion Balao Gato Doolittle Novikov Uhlan Cataphract
-            Soyokaze Orff Vandal Chameleon Grizzly Gurkha Hoplite Kodiak Piranha Wildcat Hellcat Bearcat Tomcat Kingfisher Cougar Mohawk Blackhawk "Shooting Star" Avocet Sparrowhawk Skua Firecrest Fulmar Arrowhead Condor
-            Goshawk Nicator Samurai Smilodon Whippet Cormorant Ranvir Rajput Rana Toreador McAuliffe Cardinal Nightingale Adler Seahorse Ronin Iguana Redeemer "William Tell" "Sitting Bull" Hiawatha "John Henry" "Paul Bunyan"
-            Cangjie "Dakshin Rai" "Guru Baaje" Madoc Rostam Esfandiar "Juan Valdivia" Yinxi Yennenga "Running Eagle" "Hua Mulan" Yuenü Boudica Ethelfleda Gwenllian Gwendolen Cordelia Andraste Scathach Muirisc Morrigan Badb Macha
-            Teuta "Jeanne Hachette" Atalanta Hippolyta Penthesilea Clorinda Tancred Brunhild Agustina Gordafarid Semiramis Malalai "Shaka Zulu" Lafayette "Reuben James" Nostromo Sulaco Costaguana Ribiera Shashka Sica Jian Dao
-            Zhanmadao Makhaira Falcata Kopis Rhomphaia Kilij Shamshir Kaskara Flyssa Takoba Yatagan Urumi Liuyedao Tachi Khanda Wodao Changdao Yanmaodao Miaodao Chokuto Tsurugi Odachi Wakizashi Uchigatana Shikomizue Firangi
-            Talwar Pata Kastane Macana Khopesh Acinaces Macuahuitl Belawa Nimcha Shotel Krabi Parang Klewang Surik Niabor Mandau Kampilan Gari Panabas
+            "Crazy Horse" "Dakshin Rai" "Grey Wolf" "Guru Baaje" "Hua Mulan" "Jeanne Hachette" "John Henry" "John Paul Jones"
+            "Juan Valdivia" "King Cobra" "King Fish" "Paul Bunyan" "Reuben James" "Rodger Young" "Running Eagle" "Shaka Zulu"
+            "Shooting Star" "Sitting Bull" "Tiger Shark" "Tomoe Gozen" "Van Lierde" "William Tell" Aardvark Abhay Accentor Acinaces
+            Acorn Adder Adler Agustina Akshay Akula Albatross Alligator Anaconda Andraste Antelope Apache Armadillo Arrowhead Asp
+            Atalanta Avocet Aztec Badb Badger Balao Baracca Bass Beagle Bearcat Belawa Bishop Blackhawk Bloodhound Bong Boudica 
+            Boyington Brumowski Brunhild Buffalo Bulldog Buzzard Caldwell Camel Cangjie Cantacuzino Cardinal Cataphract Chameleon 
+            Changdao Chaoyang Cheetah Chokuto Clorinda Clostermann Cobra Condor Coppens Cordelia Cormorant Cossack Costaguana Cougar 
+            Coyote Dao Datong Dervish Dingo Doblestnyi Dolphin Doolittle Dragonfly Dromedary Druid Eagle Elephant Esfandiar Ethelfleda 
+            Falcata Falcon Ferret Firangi Firecrest Firefly Flyssa Fonck Fox Fulmar Gari Garuda Gato Gazelle Glowworm Gordafarid 
+            Goshawk Greyhound Grizzly Guangxing Gurkha Gwendolen Gwenllian Haddock Haifeng Hailong Harrier Hartmann Hawk Hellcat 
+            Hiawatha Highlander Hippolyta Hoplite Iguana Iwamoto Jackal Jackdaw Jaguar Janissary Jian Jiangkun Juutilainen Kampilan 
+            Kangaroo Kaskara Kastane Kazakov Kestrel Khanda Khopesh Kilij Kingfisher Klewang Kodiak Kopis Kozhedub Krabi Ladybird 
+            Lafayette Leopard Lion Litvyak Liuyedao Lizard Lynx Macana Macha MacLachlan Macuahuitl Madoc Makhaira Malalai Mandau 
+            Mannock Matador McAuliffe McCampbell Meihong Miaodao Minx Mitralexis Mohawk Mongol Mongoose Morrigan Mosquito Muirisc 
+            Musketeer Mölders Narwhal Niabor Nicator Nighthawk Nightingale Nimcha Nishizawa Nostromo Novikov O'Hare Ocelot Odachi Orca
+            Orff Osprey Panabas Panther Papillon Parang Parthian Pata Patrician Peacock Pelican Penguin Penthesilea Petrel Pharaoh 
+            Piranha Platypus Polecat Porcupine Puma Python Qiuxing Rajput Rana Ranvir Rattlesnake Raven Redeemer Rhomphaia Ribiera 
+            Richthofen Rickenbacker Ronin Rostam Sakai Salamander Samurai Saracen Sardine Scathach Scorpion Seahorse Sealion Semiramis
+            Shamshir Shark Shashka Shestakov Shikomizue Shinohara Shotel Shrike Sica Skalski Skua Skylark Smilodon Soobrazitelny 
+            Soyokaze Soyuz Sparrow Sparrowhawk Sphinx Spider Starfish Steregushchiy Stingray Stork Sturgeon Sulaco Sultan Surik 
+            Swordfish Tachi Taiyang Taizhao Takoba Talwar Tancred Tapir Teuta Thachn Tiger Tomahawk Tomcat Toreador Tsurugi Uchigatana
+            Uhlan Urumi Vandal Viking Vulture Wakizashi Walrus Whippet Wildcat Wodao Wolverine Wulong Yangwei Yanmaodao Yatagan Yeager
+            Yennenga Yinghao Yinxi Yongcheng Yuenü Zhanmadao Zhengsheng Zulu
         }
-        
+
         destroyer = {
-            Amsterdam Austin Athens Atlanta Baghdad Baltimore Bangkok Barcelona Beijing Belfast Berlin Bombay Boston Hyderabad Budapest "Buenos Aires" Cairo Calcutta "Cape Town" Chicago Copenhagen Damascus "Dar es Salaam"
-            Detroit Dubai Dublin Edinburgh Gibraltar Glasgow Guangzhou Hanoi Havana Helsinki "Hong Kong" Houston Istanbul Jakarta Jerusalem Johannesburg Kiev London "Los Angeles" Madrid Manila Minsk Moscow Mumbai "New York"
-            "New Orleans" Novgorod Osaka Oslo Paris Prague "Rio de Janeiro" Rome Rotterdam "San Francisco" "Sao Paulo" Sarajevo Seattle Seoul Sevastopol Shanghai Singapore "St. Louis" Stockholm Tokyo Toronto Vancouver Vienna
-            Vladivostok Warsaw Sydney Brisbane "Mexico City" München Nairobi Smolensk Casablanca Venice Mogadishu Montreal Birmingham Liverpool Manchester Kabul Kyoto Volgograd "St. Petersburg" Frankfurt Belgrade Marseille
-            Brussels Tripoli Tehran Quebec Florence Exeter Dallas Denver Lagos Melbourne Calgary Ottawa Algiers Brazzaville Santiago Montevideo Bogota Chengdu Hangzhou Shaoxing Yokohama Pittsburgh Philadelphia Miami Lisbon
-            Hamburg Bremen Phoenix Indianapolis Minneapolis Milan Surabaya "Kuala Lumpur" "Abu Dhabi" Ankara Beirut Kathmandu Tapei Islamabad Karachi Zürich Delhi Bangalore Düsseldorf "Tel Aviv" Lima Luxembourg Bucharest
-            Geneva Gothenburg Lyon Bratislava Tunis Riyadh Riga Valencia Krakow Vilnius Tallinn Edmonton Tijuana Trondheim Dhaka Shenzhen Suzhou Kinshasa Lahore Dongguan Chongqing Chennai Changsha Wuhan Tianjin Faisalabad Foshan
-            Zunyi Ahmedabad Shantou Rangoon Abidjan Alexandria Xi'an Surat Harbin Giza Izmir Zhengzhou Xiamen Quanzhou Busan Rawalpindi Guayaquil Jeddah Durban Hefei Pyongyang Peshawar Ekurhuleni Zhongshan Multan Pune
-            "Addis Ababa" Jaipur Lucknow Wenzhou "Quezon City" Salvador Luanda Kaohsiung Taichung Gujranwala Quito Chittagong Bandung Brasilia Daegu Nagpur Nagoya "Phnom Penh" Kochi Medan Perth Sapporo "Davao City" Caloocan
-            Kobe Guadalajara Auckland Fukuoka Kawasaki Adelaide Ulsan Tbilisi Fez Yerevan Köln "San Antonio" "San Diego" "San Jose" Jacksonville "Fort Worth" "Charlotte" "El Paso" Nashville Portland "Oklahoma City" "Las Vegas"
-            Louisville Milwaukee Albuquerque Tucson Fresno Sacramento "Kansas City" Omaha Oakland Tulsa Wichita Arlington Cleveland Tampa Bakersfield Honolulu Anchorage Cincinnati Orlando Irvine Reno Richmond Spokane
-            "Salt Lake City" Tallahassee Huntsville Knoxville Springfield Savannah Hartford Fargo Winnipeg Hamilton Mississauga Halifax Bristol Sheffield Leeds Leicester Bradford Cardiff Coventry Nottingham Newcastle
-            Wolverhampton Southampton Portsmouth Brighton Aberdeen Bolton Norwich Swansea Oxford York Blackpool Cambridge Ipswich Stuttgart Dortmund Essen Dresden Hannover Nürnberg Duisburg Bonn Münster Karlsruhe Mannheim
-            Augsburg Freiburg Aachen Lübeck Mainz Rostock Potsdam Toulouse Nice Nantes Strasbourg Montpellier Bordeaux Lille Rennes Reims "Le Havre" Toulon Grenoble Dijon Brest Metz Novosibirsk Yekaterinburg Samara Omsk Kazan
-            Chelyabinsk Rostov Ufa Perm Krasnoyarsk Voronezh Saratov Krasnodar Izhevsk Ulyanovsk Yaroslavl Irkutsk Khabarovsk Orenburg Ryazan Astrakhan Lipetsk Tula Kirov Bryansk Ivanovo Stavropol Tver Arkhangelsk Vladimir
-            Murmansk Grozny Petrozavodsk Pskov Antwerp Utrecht "The Hague" Turin Palermo Genoa Seville Granada Aleppo "Kuwait City" Amman Mashhad Isfahan Gaza Sana'a Mosul Khartoum Accra Kano Ibadan Dakar Pretoria Benghazi
-            Rabat Freetown Djibouti Monrovia "Port Elizabeth" N'Djamena Lodz Canberra Baku Sofia Zagreb Astana Nouakchott "Ulan Bator" Abuja "Port Moresby" "Banja Luka" Douala Nicosia "San Salvador" Thessaloniki Guatemala
-            Port-au-Prince Georgetown Reykjavík Basra Cork Kingston Mombasa Ecatepec Windhoek Wellington Hebron "Panama City" Porto Ljubljana Malmö Bern Donetsk Harare Aarhus Liege
+            Amsterdam Austin Athens Atlanta Baghdad Baltimore Bangkok Barcelona Beijing Belfast Berlin Bombay Boston Hyderabad Budapest
+            "Buenos Aires" Cairo Calcutta "Cape Town" Chicago Copenhagen Damascus "Dar es Salaam" Detroit Dubai Dublin Edinburgh 
+            Gibraltar Glasgow Guangzhou Hanoi Havana Helsinki "Hong Kong" Houston Istanbul Jakarta Jerusalem Johannesburg Kiev London 
+            "Los Angeles" Madrid Manila Minsk Moscow Mumbai "New York" "New Orleans" Novgorod Osaka Oslo Paris Prague "Rio de Janeiro"
+            Rome Rotterdam "San Francisco" "Sao Paulo" Sarajevo Seattle Seoul Sevastopol Shanghai Singapore "St. Louis" Stockholm Tokyo 
+            Toronto Vancouver Vienna Vladivostok Warsaw Sydney Brisbane "Mexico City" München Nairobi Smolensk Casablanca Venice 
+            Mogadishu Montreal Birmingham Liverpool Manchester Kabul Kyoto Volgograd "St. Petersburg" Frankfurt Belgrade Marseille 
+            Brussels Tripoli Tehran Quebec Florence Exeter Dallas Denver Lagos Melbourne Calgary Ottawa Algiers Brazzaville Santiago
+            Montevideo Bogota Chengdu Hangzhou Shaoxing Yokohama Pittsburgh Philadelphia Miami Lisbon Hamburg Bremen Phoenix 
+            Indianapolis Minneapolis Milan Surabaya "Kuala Lumpur" "Abu Dhabi" Ankara Beirut Kathmandu Tapei Islamabad Karachi Zürich
+            Delhi Bangalore Düsseldorf "Tel Aviv" Lima Luxembourg Bucharest Geneva Gothenburg Lyon Bratislava Tunis Riyadh Riga 
+            Valencia Krakow Vilnius Tallinn Edmonton Tijuana Trondheim Dhaka Shenzhen Suzhou Kinshasa Lahore Dongguan Chongqing Chennai
+            Changsha Wuhan Tianjin Faisalabad Foshan Zunyi Ahmedabad Shantou Rangoon Abidjan Alexandria Xi'an Surat Harbin Giza Izmir 
+            Zhengzhou Xiamen Quanzhou Busan Rawalpindi Guayaquil Jeddah Durban Hefei Pyongyang Peshawar Ekurhuleni Zhongshan Multan
+            Pune "Addis Ababa" Jaipur Lucknow Wenzhou "Quezon City" Salvador Luanda Kaohsiung Taichung Gujranwala Quito Chittagong 
+            Bandung Brasilia Daegu Nagpur Nagoya "Phnom Penh" Kochi Medan Perth Sapporo "Davao City" Caloocan Kobe Guadalajara Auckland
+            Fukuoka Kawasaki Adelaide Ulsan Tbilisi Fez Yerevan Köln "San Antonio" "San Diego" "San Jose" Jacksonville "Fort Worth" 
+            "Charlotte" "El Paso" Nashville Portland "Oklahoma City" "Las Vegas" Louisville Milwaukee Albuquerque Tucson Fresno 
+            Sacramento "Kansas City" Omaha Oakland Tulsa Wichita Arlington Cleveland Tampa Bakersfield Honolulu Anchorage Cincinnati 
+            Orlando Irvine Reno Richmond Spokane "Salt Lake City" Tallahassee Huntsville Knoxville Springfield Savannah Hartford Fargo
+            Winnipeg Hamilton Mississauga Halifax Bristol Sheffield Leeds Leicester Bradford Cardiff Coventry Nottingham Newcastle 
+            Wolverhampton Southampton Portsmouth Brighton Aberdeen Bolton Norwich Swansea Oxford York Blackpool Cambridge Ipswich 
+            Stuttgart Dortmund Essen Dresden Hannover Nürnberg Duisburg Bonn Münster Karlsruhe Mannheim Augsburg Freiburg Aachen Lübeck
+            Mainz Rostock Potsdam Toulouse Nice Nantes Strasbourg Montpellier Bordeaux Lille Rennes Reims "Le Havre" Toulon Grenoble
+            Dijon Brest Metz Novosibirsk Yekaterinburg Samara Omsk Kazan Chelyabinsk Rostov Ufa Perm Krasnoyarsk Voronezh Saratov 
+            Krasnodar Izhevsk Ulyanovsk Yaroslavl Irkutsk Khabarovsk Orenburg Ryazan Astrakhan Lipetsk Tula Kirov Bryansk Ivanovo 
+            Stavropol Tver Arkhangelsk Vladimir Murmansk Grozny Petrozavodsk Pskov Antwerp Utrecht "The Hague" Turin Palermo Genoa 
+            Seville Granada Aleppo "Kuwait City" Amman Mashhad Isfahan Gaza Sana'a Mosul Khartoum Accra Kano Ibadan Dakar Pretoria 
+            Benghazi Rabat Freetown Djibouti Monrovia "Port Elizabeth" N'Djamena Lodz Canberra Baku Sofia Zagreb Astana Nouakchott 
+            "Ulan Bator" Abuja "Port Moresby" "Banja Luka" Douala Nicosia "San Salvador" Thessaloniki Guatemala Port-au-Prince 
+            Georgetown Reykjavík Basra Cork Kingston Mombasa Ecatepec Windhoek Wellington Hebron "Panama City" Porto Ljubljana Malmö 
+            Bern Donetsk Harare Aarhus Liege
 
             # From StarCraft
             Victory
         }
-        
+
         cruiser = {
-            Bolivar Brusilov Churchill Clausewitz Garibaldi "Gustavus Adolphus" Hammurabi "Julius Caesar" Justinian Lincoln Patton Rommel "Sun Tzu" Liberator Zhukov "Alexander Nevsky" Pyrrhus "Yi Sun-sin" Heihachiro
-            "Khalid ibn al-Walid" Vasa Hindenburg "De Gaulle" Subutai Nagato Scharnhorst Clemenceau Richelieu "Jean Bart" Sparviero Affondatore Tromp "De Ruyter" Esperanza Pelayo Velasco Juneau Sherwood Alamo Bannockburn
-            Borodino Breitenfeld Cannae "El Alamein" Gaugamela Kadesh Kursk Masada Normandy Salamis Sedan Tannenberg Ticonderoga Thermopylae Marengo Leipzig Shiloh Königgrätz Ypres Somme Suomussalmi Kharkov Guadalcanal
-            "Leyte Gulf" "Dien Bien Phu" Thymbra Manassas Blenheim Adelphi Angel Borealis Bounty Emancipator "Morning Star" "Shi Lang" Vikramaditya Viraat Vikrant Vishal Kongo Oriskany "Bunker Hill" Farragut "Kitty Hawk"
-            "Royal Oak" Thunderbolt Nimitz Eisenhower Roland "Tran Hung Dao" Themistocles Cunaxa Uhuru Ramses Vauban Harpagos Anzio Caen Carentan Bastogne Arnhem Temeraire Vesuvius Etna "St. Helens" "Olympus Mons" Alcibiades
-            Patrocles Santander Vega Rigel Sirius Canopus Arcturus Capella Procyon Altair Betelgeuse Antares Achernar Aldebaran Pollux Deneb Regulus Proxima "Rigil Kentaurus" Spica Polaris Bellatrix Capricorn Syracuse Metaurus
-            Chalons Tours Hastings Orléans Valmy Mukden Narvik Narva Poltava "Lake Peipus" Malta Antietam "Baton Rouge" Beauport Abukir Lund Issus Changping "Teutoburg Forest" "Watling Street" Yarmouk Salamanca Berezina
-            Fredericksburg Chickamauga Caporetto "Khalkhin Gol" Gazala "Monte Cassino" Saipan Breslau Plataea Hydaspes Sentinum Heraclea Kalinga Magnesia Adrianople Ravenna Lützen Cambrai Marne Chancellorsville "Philippine Sea"
-            "Savo Island" "Cape Esperance" Taranto "Cape Matapan" "Java Sea" Gallipoli "De Valette" Suleiman MacArthur Roosevelt Victoria Nebuchadnezzar Pachacuti "Catherine the Great" "Frederick the Great" Ashoka
-            "Qin Shi Huang" Tamerlane Marshall "Joan of Arc" "Genghis Khan" Atatürk "William the Conqueror"
+            Bolivar Brusilov Churchill Clausewitz Garibaldi "Gustavus Adolphus" Hammurabi "Julius Caesar" Justinian Lincoln Patton 
+            Rommel "Sun Tzu" Liberator Zhukov "Alexander Nevsky" Pyrrhus "Yi Sun-sin" Heihachiro "Khalid ibn al-Walid" Vasa Hindenburg 
+            "De Gaulle" Subutai Nagato Scharnhorst Clemenceau Richelieu "Jean Bart" Sparviero Affondatore Tromp "De Ruyter" Esperanza 
+            Pelayo Velasco Juneau Sherwood Alamo Bannockburn Borodino Breitenfeld Cannae "El Alamein" Gaugamela Kadesh Kursk Masada 
+            Normandy Salamis Sedan Tannenberg Ticonderoga Thermopylae Marengo Leipzig Shiloh Königgrätz Ypres Somme Suomussalmi Kharkov
+            Guadalcanal "Leyte Gulf" "Dien Bien Phu" Thymbra Manassas Blenheim Adelphi Angel Borealis Bounty Emancipator "Morning Star" 
+            "Shi Lang" Vikramaditya Viraat Vikrant Vishal Kongo Oriskany "Bunker Hill" Farragut "Kitty Hawk" "Royal Oak" Thunderbolt 
+            Nimitz Eisenhower Roland "Tran Hung Dao" Themistocles Cunaxa Uhuru Ramses Vauban Harpagos Anzio Caen Carentan Bastogne 
+            Arnhem Temeraire Vesuvius Etna "St. Helens" "Olympus Mons" Alcibiades Patrocles Santander Vega Rigel Sirius Canopus 
+            Arcturus Capella Procyon Altair Betelgeuse Antares Achernar Aldebaran Pollux Deneb Regulus Proxima "Rigil Kentaurus" Spica
+            Polaris Bellatrix Capricorn Syracuse Metaurus Chalons Tours Hastings Orléans Valmy Mukden Narvik Narva Poltava
+            "Lake Peipus" Malta Antietam "Baton Rouge" Beauport Abukir Lund Issus Changping "Teutoburg Forest" "Watling Street" Yarmouk 
+            Salamanca Berezina Fredericksburg Chickamauga Caporetto "Khalkhin Gol" Gazala "Monte Cassino" Saipan Breslau Plataea 
+            Hydaspes Sentinum Heraclea Kalinga Magnesia Adrianople Ravenna Lützen Cambrai Marne Chancellorsville "Philippine Sea"
+            "Savo Island" "Cape Esperance" Taranto "Cape Matapan" "Java Sea" Gallipoli "De Valette" Suleiman MacArthur Roosevelt 
+            Victoria Nebuchadnezzar Pachacuti "Catherine the Great" "Frederick the Great" Ashoka "Qin Shi Huang" Tamerlane Marshall 
+            "Joan of Arc" "Genghis Khan" Atatürk "William the Conqueror"
         }
-        
+
         battleship = {
-            Ulysses Xenophon Xerxes Nelson Hercules Icarus Atlas Apollo Ajax Bellerophon Excalibur Agrippa Alexander Belisarius Hannibal Washington Saladin Bismarck Yamato Actium Agincourt Austerlitz Gettysburg
-            Jutland Trafalgar Tsushima "Valley Forge" Verdun Waterloo Granicus Pharsalus Akira Charlemagne "Black Prince" Hood Potemkin Musashi Warspite Victory Courage Dauntless Endeavor Excelsior Formidable
-            Indefatigable Chivalrous Valiant Monitor Bulwark Defender Endurance Vigilant Resolute Fortitude Yamamoto Lexington Midway Saratoga Yorktown "Coral Sea" Hermes Wasp Hornet "Ark Royal" Essex Akagi Kaga
-            Illustrious Intrepid Invincible Enterprise Constellation Constitution Ranger Andromeda Aquila Century Concord Defiant Galaxy Odyssey Orion Providence Reliant Pegasus Freedom Solaris "Sol Invictus"
-            Independence Lionheart Unicorn Napoleon "Royal Sovereign" Marathon Imperieuse
+            Ulysses Xenophon Xerxes Nelson Hercules Icarus Atlas Apollo Ajax Bellerophon Excalibur Agrippa Alexander Belisarius 
+            Hannibal Washington Saladin Bismarck Yamato Actium Agincourt Austerlitz Gettysburg Jutland Trafalgar Tsushima
+            "Valley Forge" Verdun Waterloo Granicus Pharsalus Akira Charlemagne "Black Prince" Hood Potemkin Musashi Warspite Victory 
+            Courage Dauntless Endeavor Excelsior Formidable Indefatigable Chivalrous Valiant Monitor Bulwark Defender Endurance 
+            Vigilant Resolute Fortitude Yamamoto Lexington Midway Saratoga Yorktown "Coral Sea" Hermes Wasp Hornet "Ark Royal" Essex 
+            Akagi Kaga Illustrious Intrepid Invincible Enterprise Constellation Constitution Ranger Andromeda Aquila Century Concord 
+            Defiant Galaxy Odyssey Orion Providence Reliant Pegasus Freedom Solaris "Sol Invictus" Independence Lionheart Unicorn 
+            Napoleon "Royal Sovereign" Marathon Imperieuse
 
             # From StarCraft
-            Hyperion Norad Cyrus Bucephalus Scion Hephaestus Palatine Victory Medusa Herakles "White Star" "Emperor's Fury" Hoosier Tahoe "Gray Tiger" Fury
-            Cerberus Helios Ragnorak Metis "Thunder Child" Meleager Amphitrite Phobos Titan Circe "Iron Justice" Merrimack Jackson Eos "Huey Long" Antigone
-            "Iron Fist" Patroclus Aeneas "Theodore G. Bilbo" Bismarck Napoleon "Dark Skies" "Jackson's Revenge" "Valor of Vardona" "Kimeran Juggernaut"
-            Kimera
+            Hyperion Norad Cyrus Bucephalus Scion Hephaestus Palatine Victory Medusa Herakles "White Star" "Emperor's Fury" Hoosier
+            Tahoe "Gray Tiger" Fury Cerberus Helios Ragnorak Metis "Thunder Child" Meleager Amphitrite Phobos Titan Circe
+            "Iron Justice" Merrimack Jackson Eos "Huey Long" Antigone "Iron Fist" Patroclus Aeneas "Theodore G. Bilbo" Bismarck 
+            Napoleon "Dark Skies" "Jackson's Revenge" "Valor of Vardona" "Kimeran Juggernaut" Kimera
         }
 
         constructor = {
-            Pacific Atlantic Adriatic Amazon Danube India Africa Volga Colorado Ganges Jordan Mekong "Rio Grande" Rubicon Yangtze Mississippi Yukon Indus
-            Rhine Tigris Sahara Bengal Merrimack Potomac Susquehanna Orinoco Shenandoah
+            Pacific Atlantic Adriatic Amazon Danube India Africa Volga Colorado Ganges Jordan Mekong "Rio Grande" Rubicon Yangtze
+            Mississippi Yukon Indus Rhine Tigris Sahara Bengal Merrimack Potomac Susquehanna Orinoco Shenandoah
         }
-        
+
         colonizer = {
-            Mayflower Abundance Bountiful Felicity Hope Opportunity Serenity Unity Destiny Britannia Byzantium Caledonia "El Dorado" Knossos Memphis 
-            Olympus Persepolis "Sierra de la Plata" Sparta Valhalla "Crystal Palace" Alaska Angola Australia Brazil Canada Congo Guinea India Indonesia 
-            Jamaica Macau Mozambique Philippines Somalia "Sri Lanka" Taiwan
-            
+            Mayflower Abundance Bountiful Felicity Hope Opportunity Serenity Unity Destiny Britannia Byzantium Caledonia "El Dorado" 
+            Knossos Memphis Olympus Persepolis "Sierra de la Plata" Sparta Valhalla "Crystal Palace" Alaska Angola Australia Brazil 
+            Canada Congo Guinea India Indonesia Jamaica Macau Mozambique Philippines Somalia "Sri Lanka" Taiwan
+
             # From StarCraft
             Nagglfar Argo
         }
-        
+
         science = {
-            Aldrin Armstrong Columbus Copernicus Cortez Drake Hubble Goddard Galileo Einstein Gagarin Tereshkova "Zheng He" "Leif Ericson" Magellan "James Cook" "Marco Polo" Newton Tesla "Von Braun"
-            "Walter Raleigh" Asimov Clarke Sagan "Ibn Battuta" Kepler Ptolemy Pytheas Azophi Discovery Voyager Tradewind Scout Pioneer Explorer Sojourner "Santa Maria" Hawking Earhart Nobel Kelvin Fahrenheit
-            Equinox Lagrange Tsiolkovsky Darwin Grissom Archimedes
+            Aldrin Armstrong Columbus Copernicus Cortez Drake Hubble Goddard Galileo Einstein Gagarin Tereshkova "Zheng He"
+            "Leif Ericson" Magellan "James Cook" "Marco Polo" Newton Tesla "Von Braun" "Walter Raleigh" Asimov Clarke Sagan
+            "Ibn Battuta" Kepler Ptolemy Pytheas Azophi Discovery Voyager Tradewind Scout Pioneer Explorer Sojourner "Santa Maria" 
+            Hawking Earhart Nobel Kelvin Fahrenheit Equinox Lagrange Tsiolkovsky Darwin Grissom Archimedes
 
             # From StarCraft
             Brin Amerigo
         }
-        
+
         orbital_station = {
         }
 
@@ -117,12 +152,13 @@ ui_extra_human_extended = {
         }
 
         outpost_station = {
-            "Far Reach" Watchtower Sphered Influential Assertion SPACERAD "Watchful Eye" Sentinel Demarcator "Frontier Finalizer" "Ever Watchful" Divider Bastion "Home Turf" Wide
+            "Far Reach" Watchtower Sphered Influential Assertion SPACERAD "Watchful Eye" Sentinel Demarcator "Frontier Finalizer"
+            "Ever Watchful" Divider Bastion "Home Turf" Wide
 
             # From StarCraft
             Dylar
         }
-        
+
         transport = {
             Cowpens "Belleau Wood" Bataan Monterey Veracruz Tarawa "Iwo Jima" Okinawa Inchon "Goose Green" Peleliu Guam
 
@@ -131,27 +167,24 @@ ui_extra_human_extended = {
         }
 
         military_station_small = {
-            Mercury Venus Terra Mars Jupiter Saturn Uranus Neptune Luna Phobos Deimos Ceres 
-            Ganymede Callisto Io Europa Titan Rhea Iapetus Dione Tethys Enceladus Mimas Titania 
-            Oberon Umbriel Ariel Miranda Triton Pluto Charon
+            Mercury Venus Terra Mars Jupiter Saturn Uranus Neptune Luna Phobos Deimos Ceres Ganymede Callisto Io Europa Titan Rhea
+            Iapetus Dione Tethys Enceladus Mimas Titania Oberon Umbriel Ariel Miranda Triton Pluto Charon
 
             # From StarCraft
             "Sky Shield" Gemini Nova "Horley Barton" "Theta Prime" "Catwalk Alley" "Osborne Port" "Waypoint Junction"
         }
-        
+
         military_station_medium = {
-            Mercury Venus Terra Mars Jupiter Saturn Uranus Neptune Luna Phobos Deimos Ceres 
-            Ganymede Callisto Io Europa Titan Rhea Iapetus Dione Tethys Enceladus Mimas Titania 
-            Oberon Umbriel Ariel Miranda Triton Pluto Charon
+            Mercury Venus Terra Mars Jupiter Saturn Uranus Neptune Luna Phobos Deimos Ceres Ganymede Callisto Io Europa Titan Rhea 
+            Iapetus Dione Tethys Enceladus Mimas Titania Oberon Umbriel Ariel Miranda Triton Pluto Charon
 
             # From StarCraft
             "New Gettysburg" Crusader "Sigma Centari" "Paladino Terminal" Proxima Nimbus Gutterhulk
         }
-        
+
         military_station_large = {
-            Mercury Venus Terra Mars Jupiter Saturn Uranus Neptune Luna Phobos Deimos Ceres 
-            Ganymede Callisto Io Europa Titan Rhea Iapetus Dione Tethys Enceladus Mimas Titania 
-            Oberon Umbriel Ariel Miranda Triton Pluto Charon
+            Mercury Venus Terra Mars Jupiter Saturn Uranus Neptune Luna Phobos Deimos Ceres Ganymede Callisto Io Europa Titan Rhea 
+            Iapetus Dione Tethys Enceladus Mimas Titania Oberon Umbriel Ariel Miranda Triton Pluto Charon
 
             # From StarCraft
             Gehanna "The Keep"
@@ -162,7 +195,7 @@ ui_extra_human_extended = {
         generic = {
             Human # This is put here solely as a placeholder
         }
-        
+
         corvette = {
             # From StarCraft
             Avenger Wraith Viking Valkyrie Banshee
@@ -170,17 +203,17 @@ ui_extra_human_extended = {
             # Latin
             Lembus Liburna
         }
-        
+
         destroyer = {
             # Latin
             Bireme Trireme Quadrireme Quinquereme
         }
-        
+
         cruiser = {
             # Latin
             Hexareme Sexireme
         }
-        
+
         battleship = {
             # From StarCraft
             Leviathan Behemoth Hercules Minotaur Gorgon Starcruiser Loki Hurricane
@@ -191,15 +224,15 @@ ui_extra_human_extended = {
 
         constructor = {
         }
-        
+
         colonizer = {
         }
-        
+
         science = {
             # From StarCraft
             Kurzweil Explorer
         }
-        
+
         orbital_station = {
         }
 
@@ -217,7 +250,7 @@ ui_extra_human_extended = {
 
         outpost_station = {
         }
-        
+
         transport = {
             # From StarCraft
             Mammoth Cyrus Gladiator Hydrus
@@ -228,25 +261,26 @@ ui_extra_human_extended = {
 
         military_station_small = {
         }
-        
+
         military_station_medium = {
         }
-        
+
         military_station_large = {
         }
     }
 
     fleet_names = {
         random_names = {
-            "The Hoplite Fleet" "The Phalanx Fleet" "The Centurion Fleet" "The Immortal Fleet" "The Knight Fleet" "The Archer Fleet" "The Cavalry Fleet" "The Lancer Fleet"
-            "The Landsknechte Fleet" "The Gendarme Fleet" "The Arquebusier Fleet" "The Tercio Fleet" "The Musketeer Fleet" "The Millenial Fleet" "The Solar Sails"
-            "The Dorobant Fleet" "The Praetorian Fleet"
+            "The Hoplite Fleet" "The Phalanx Fleet" "The Centurion Fleet" "The Immortal Fleet" "The Knight Fleet" "The Archer Fleet"
+            "The Cavalry Fleet" "The Lancer Fleet" "The Landsknechte Fleet" "The Gendarme Fleet" "The Arquebusier Fleet"
+            "The Tercio Fleet" "The Musketeer Fleet" "The Millenial Fleet" "The Solar Sails" "The Dorobant Fleet"
+            "The Praetorian Fleet"
         }
         sequential_name = "%O% Fleet"
     }
-    
+
     army_names = {
-    
+
         defense_army = {
             random_names = {
                 "Praetorian Guard"
@@ -260,15 +294,15 @@ ui_extra_human_extended = {
         assault_army = {
             sequential_name = "%O% Expeditionary Force"
         }
-        
+
         slave_army = {
             sequential_name = "%O% Indentured Rifles"
         }
-        
+
         clone_army = {
             sequential_name = "%O% Clone Army"
         }
-        
+
         robotic_army = {
             sequential_name = "%O% Hunter-Killer Group"
         }
@@ -276,7 +310,7 @@ ui_extra_human_extended = {
         robotic_defense_army = {
             sequential_name = "%O% Hunter-Killer Group"
         }
-        
+
         android_army = {
             sequential_name = "%O% Synthetic Rangers"
         }
@@ -284,18 +318,18 @@ ui_extra_human_extended = {
         android_defense_army = {
             sequential_name = "%O% Synthetic Rangers"
         }
-        
+
         psionic_army = {
             random_names = {
                 "Ghost Division" "XCOM Squadron"
             }
             sequential_name = "%O% Psi Commando"
         }
-        
+
         xenomorph_army = {
             sequential_name = "%O% Bio-Warfare Division"
         }
-        
+
         gene_warrior_army = {
             random_names = {
                 "SARC-A 'Gladiators'" "SARC-B 'Widowmakers'" "SARC-C 'Immortals'" "SARC-D 'Berserkers'" "SARC-E 'Assassins'"
@@ -309,32 +343,34 @@ ui_extra_human_extended = {
 
         generic = {
             names = {
-                Anchor Dis Avalon Bounty Hope Olympia Serendipity Spring Thinis Salaam Xianyang Concord Theia Tuscany Wenzhou  Delgovicia "Wang Tong" Al-Jissa Al-Mada'in
-                Al-Nuqayrah Al-Karak Al-Matabbah "Las Veredas" "San Lucas" "San Fernando" "San Cristóbal" "Nueva Sonora" "Puerto González" Nozomi Akatsuki "Nueva Cádiz"
-                "La Isabela" "St. Yegorov" "St. Pomeroy" "Port Karakosov" Destiny Terminus Liber Columbus Camelot Kolob Albatross
-                
+                Anchor Dis Avalon Bounty Hope Olympia Serendipity Spring Thinis Salaam Xianyang Concord Theia Tuscany Wenzhou  
+                Delgovicia "Wang Tong" Al-Jissa Al-Mada'in Al-Nuqayrah Al-Karak Al-Matabbah "Las Veredas" "San Lucas" "San Fernando" 
+                "San Cristóbal" "Nueva Sonora" "Puerto González" Nozomi Akatsuki "Nueva Cádiz" "La Isabela" "St. Yegorov" "St. Pomeroy"
+                "Port Karakosov" Destiny Terminus Liber Columbus Camelot Kolob Albatross
+
                 # Gods
                 Minerva Apollo
 
                 # Countries, capitals and cities
                 "Nuevo Madrid" "New Belgrade" "New Helsinki" "New Vilnius" "New Jamestown" "New Roanoke" "New Coventry" Athena
-                
+
                 # GTA
                 "Las Venturas" "San Fierro" "Los Santos" Liberty Vice
-                
+
                 # Other games
                 Mundus
-                
+
                 # Other films and literature
                 Annares Solaris
             }
         }
-        
+
         pc_desert = {
             names = {
-                "Nova Arabia" Sahara Gobi Kalahari Mojave Patagonia Syria Chihuahua Sand "Kara Kum" Colorado Sonora "Kyzyl Kum" Taklamakan Thar Gibson Namib Lut Kavir Dune Kali
-                Vulcan Baal Carthage Ordos Khara Lop Maranjab Negev Sinai Atacama Simpson Nazca "New Mojave"
-                
+                "Nova Arabia" Sahara Gobi Kalahari Mojave Patagonia Syria Chihuahua Sand "Kara Kum" Colorado Sonora "Kyzyl Kum" 
+                Taklamakan Thar Gibson Namib Lut Kavir Dune Kali Vulcan Baal Carthage Ordos Khara Lop Maranjab Negev Sinai Atacama 
+                Simpson Nazca "New Mojave"
+
                 # From mythology/religion
                 Muspelheim
 
@@ -342,14 +378,14 @@ ui_extra_human_extended = {
                 Tatooine
             }
         }
-        
+
         pc_arid = {
             names = {
-                Lebanon Tyre Antioch Jaxartes Oxus Turan Accona Bardenas Larzac Oltenia Tabernas Atacama Tanami Rangipo "New Mars" "New Canaan" "New Vegas" "New Jerusalem"
-                "New Troy"
+                Lebanon Tyre Antioch Jaxartes Oxus Turan Accona Bardenas Larzac Oltenia Tabernas Atacama Tanami Rangipo "New Mars"
+                "New Canaan" "New Vegas" "New Jerusalem" "New Troy"
             }
         }
-        
+
         pc_tropical = {
             names = {
                 Amazonia Congo Ecuador Rain Storm Monsoon Bengal "New Africa" Kishkindha Zanzibar Kipling Tropico Maya
@@ -358,57 +394,60 @@ ui_extra_human_extended = {
                 Pandora
             }
         }
-        
+
         pc_continental = {
             names = {
-                Albion Amor Dawn Horizon "Terra Nova" Kongzi Zoroaster "Tian Yi" "Wu Ding" Zheng "Gao Zu" Tokugawa Oda Toyotomi Rama Vishnu Soma Pangea
-                "Transilvania Nova" "Dacia Nova" Thrace
-                
+                Albion Amor Dawn Horizon "Terra Nova" Kongzi Zoroaster "Tian Yi" "Wu Ding" Zheng "Gao Zu" Tokugawa Oda Toyotomi Rama
+                Vishnu Soma Pangea "Transilvania Nova" "Dacia Nova" Thrace
+
                 # Countries, capitals, cities
-                "New Bucharest" "New Budapest" "New Berlin" "New Paris" "Roma Nova" "Europa Nova" "New Kiev" Londinium "New Dublin" "New Warsaw" "New Sophia"
-                
+                "New Bucharest" "New Budapest" "New Berlin" "New Paris" "Roma Nova" "Europa Nova" "New Kiev" Londinium "New Dublin" 
+                "New Warsaw" "New Sophia"
+
                 # The Elder Scrolls
                 Cyrodiil Akavir Tamriel
             }
         }
-        
+
         pc_gaia = {
             names = {
-                Eden Elysium Cornucopia Utopia Shambhala Xanadu Shangri-La "El Dorado" Fortuna Arcadia Nymphaea Cockaigne Nysa Splendoria Terraria
-                
+                Eden Elysium Cornucopia Utopia Shambhala Xanadu Shangri-La "El Dorado" Fortuna Arcadia Nymphaea Cockaigne Nysa 
+                Splendoria Terraria
+
                 # "Heaven" in different languages
                 Taevas Paradiso Caelum Himlen
 
                 # From StarCraft
                 Agria
-                
+
                 # From The Elder Scrolls
                 Summerset
             }
         }
-        
+
         pc_ocean = {
             names = {
-                Atlantis Oceania Pacifica Atlantica Euxina Hyrcania Rubrica Erythraea Baltica R'lyeh Dagon Kraken Aegea Adriatica Tyrrhenia Mediterranea Mare "Port Rabcewicz"
-                Ningbo Caspica Hydra Danubia Coralia Aquarius Lochness Oceanus
+                Atlantis Oceania Pacifica Atlantica Euxina Hyrcania Rubrica Erythraea Baltica R'lyeh Dagon Kraken Aegea Adriatica 
+                Tyrrhenia Mediterranea Mare "Port Rabcewicz" Ningbo Caspica Hydra Danubia Coralia Aquarius Lochness Oceanus
 
                 # From StarCraft
                 Pridewater
-                
+
                 # Biblic/mythological settlements, places, etc
                 Diluvia Noah "The Ark"
             }
         }
-        
+
         pc_tundra = {
             names = {
                 Iceland "Nova Canada" Kola Scandza Utgard Rus Blizzard Taiyuan Borealia Asgard
             }
         }
-        
+
         pc_arctic = {
             names = {
-                Thule Arctica Greenland "New Alaska" Baffin "Novo Siberia" Niflheim Hyperborea "New Anchorage" Glacia Whitehaven Snowball Jotunheim
+                Thule Arctica Greenland "New Alaska" Baffin "Novo Siberia" Niflheim Hyperborea "New Anchorage" Glacia Whitehaven 
+                Snowball Jotunheim
 
                 # From The Elder Scrolls (settlements, places)
                 Solstheim Atmora Sovengarde
@@ -418,10 +457,10 @@ ui_extra_human_extended = {
         pc_tomb = {
             names = {
                 Pripyat Chernobyl Verdun Stalingrad Nagasaki Hiroshima Tombstone
-                
+
                 # From literature
                 Valyria
-                
+
                 # From Fallout (settlements)
                 Megaton
             }
@@ -436,13 +475,13 @@ ui_extra_human_extended = {
         pc_alpine = {
             names = {
                 "The Rock" Rockrest
-                
+
                 # Places from Earth / adaptations of them
                 Alpina Carpathia "New Himalaya" Everest Olympus "Raven Rock" Uralia Rockrest Muntenia
-                
+
                 # From Fallout
                 Grayditch
-                
+
                 # From The Elder Scrolls
                 "High Rock"
             }
@@ -451,20 +490,20 @@ ui_extra_human_extended = {
         pc_molten = {
             names = {
                 Inferna Vulkan "Tierra del Fuego" Pandemonium Demonia
-                
+
                 # From literature
                 Mordor
 
                 # Biblic/mythological settlements, places, etc
                 Hel Sodoma Gomorra Hades Draconia Dracula Tartarus Erebus Cerberus Diyu Irkalla Muspelheim Xibalba Yomi
-                    
+
                 # From StarCraft
                 Char
-                
+
                 # From other games
                 "The Nether" Oblivion Ashpit Deadlands
             }
-        }  
+        }
     }
 
 
@@ -472,7 +511,7 @@ ui_extra_human_extended = {
 
     character_names = {
 
-        # Each language should have a weight equal to the percentage of its native speakers out of all the implemented languages, rounded down.
+        # Languages should have a weight equal to the rounded down percentage of its native speakers out of all the implemented ones
         # Statistics should be taken from Wikipedia. Weight should not be lower than 1.
 
         ###############################
@@ -482,7 +521,7 @@ ui_extra_human_extended = {
             weight = 31
 
             first_names_male = {
-                An Bao Bo Cai Cheng De Dong Feng Gang Guo Hu Hui Jian Jie Kang Li Liang Long Meng Ning Peng Qiang Shi Song Tao Tian Wei 
+                An Bao Bo Cai Cheng De Dong Feng Gang Guo Hu Hui Jian Jie Kang Li Liang Long Meng Ning Peng Qiang Shi Song Tao Tian Wei
                 You Yong Yi Xiong Wu
             }
             first_names_female = {
@@ -490,8 +529,8 @@ ui_extra_human_extended = {
                 Xiang Xiu Xue Yan Ying Yu Yuan Yun Zhen Zhi Zhu Zi
             }
             second_names = {
-                Liang Luo Kuang Lu Zheng Lin Xu Xie Wang Zhu Yang Mao Shen Hu Tan He Deng Wu Cheng Gao Wan Kong Pan Sima Zhuge Ouyang Situ
-                Huang Zhao Zhang
+                Liang Luo Kuang Lu Zheng Lin Xu Xie Wang Zhu Yang Mao Shen Hu Tan He Deng Wu Cheng Gao Wan Kong Pan Sima Zhuge Ouyang
+                Situ Huang Zhao Zhang
             }
             regnal_first_names_male = {
                 You Yong Yi Xiong Wu Feng Gang Guo Hu Hui
@@ -503,7 +542,7 @@ ui_extra_human_extended = {
                 Wang Zhu Yang
             }
         }
-        
+
         ###############################
         # SPANISH (13.05)
         ###############################
@@ -511,19 +550,19 @@ ui_extra_human_extended = {
             weight = 13
 
             first_names_male = {
-                Diego Luis Pedro Joaquin José Emilio Eduardo Alejandro Carlos Fernando Francisco Julio "José Antonio" "José Manuel" Juan
-                "José María" Ignacio Manuel Pablo Miguel Ramón Raimundo Santiago Ricardo Marcelo Javier Gaspar Alfonso Lorenzo Enrique
-                Ernesto Gerardo Guillermo Jesús Salvadore Sergio Roberto Esteban
+                Diego Luis Pedro Joaquin José Emilio Eduardo Alejandro Carlos Fernando Francisco Julio "José Antonio" "José Manuel"
+                Juan "José María" Ignacio Manuel Pablo Miguel Ramón Raimundo Santiago Ricardo Marcelo Javier Gaspar Alfonso Lorenzo
+                Enrique Ernesto Gerardo Guillermo Jesús Salvadore Sergio Roberto Esteban
             }
             first_names_female = {
-                Hortensia Isabel Valentina Alejandra Alicia Antonia Carla Carmen Catalina Dolores Estefania Eva Fernanda Florencia 
+                Hortensia Isabel Valentina Alejandra Alicia Antonia Carla Carmen Catalina Dolores Estefania Eva Fernanda Florencia
                 Gabriela Grizelda Maria Lorena Magdalena Mercedes Miriam Paulina Sofia Yolanda Camila Luciana Valeria Mariana Daniela
                 Martina Julieta Antonella Renata Agustina Constanza Fabiana
             }
             second_names = {
-                Garcia Martinez Rodriguez Fernandez Sanchez Lopez Martin Perez Gonzalez Alvarez Gomez Diaz Dominguez Hernandez
-                Ramirez Mendez Perez Vasquez Ruiz Aguera Alonso Batista Esguerra Flores "de la Guardia" "de la Cruz" "de la Vega"
-                "de Vargas" Ibanez Moralez Riveros Rosario Velazco Torres Quesada Saldana Salazar Ortega Ortiz Solano Romero
+                Garcia Martinez Rodriguez Fernandez Sanchez Lopez Martin Perez Gonzalez Alvarez Gomez Diaz Dominguez Hernandez Ramirez
+                Mendez Perez Vasquez Ruiz Aguera Alonso Batista Esguerra Flores "de la Guardia" "de la Cruz" "de la Vega" "de Vargas"
+                Ibanez Moralez Riveros Rosario Velazco Torres Quesada Saldana Salazar Ortega Ortiz Solano Romero
             }
             regnal_first_names_male = {
                 Santiago Ricardo Marcelo Javier Ernesto Gerardo Guillermo
@@ -535,7 +574,7 @@ ui_extra_human_extended = {
                 Fernandez Sanchez Lopez Martin Perez Gonzalez Alvarez Gomez Diaz
             }
         }
-        
+
         ###############################
         # ENGLISH names (11.60%)
         ###############################
@@ -543,74 +582,77 @@ ui_extra_human_extended = {
             weight = 12
 
             first_names_male = {
-                John Brian Peter Adam James William Jacob Christopher Joshua Michael Ethan Joseph Matthew Anthony Daniel Ryan Samuel Kevin
-                David Logan Carter Benjamin Andrew Henry Nicholas Gavin Owen Jack Wyatt Wayne Walter Charles Louis Merritt Earl Alfred Vernon
-                Edward Donald George Paul Greg Thomas Robert Gene Glen Hugh Ronald Francis Stephen Jon Richard Mark Marcus Scott Duncan
-                Douglas Keith Howard Russell Clayton Lee Steve Tom Clay Oliver Kenneth Ralph Andy Tony Tyrone Lawrence Patrick Harry Alan
-                Eugene Frank Craig Jason Martin Jonathan Harrison Connor Gaylord Sean Cooper Stanley Calhoun Neil Jeffrey Harold Raymond Fred
-                Marshall Silas Roy Jesse Ken Bruce Norris Horatio Clarence Lloyd Duane Mortimer Ben Ernest Warren Graham Marvin Orson Dennis
-                Jackson Dwight Harlan Arthur Percival Montgomery Clyde Rodney Gerald Franklin Jake Horace Irving Seth Randolph Floyd Carl 
-                Brent Cliff Malcolm Timothy Wallace Pierce Edmund Gary Tony Nathan Eric Albert Robin Geoffrey Larry Ian Leonard Gordon Derek
-                Maxwell Alec Bernard Stuart Rupert Dean Philip Ross Colin Darren Melvin Justin Zack Elliot Simon Morgan Clark Xavier Jared
-                Edgar Crispin Nelson Emmett Trevor Travis Lance Adrian Desmond Brendan Brett Ambrose Basil Kieran Conan Dermot Dudley Felix
-                Finn Oscar Sidney Aaron Vincent Angus Grant Luke Miles Morton Randall Reginald Herbert Wesley Nigel Alexander Dominic Bradley
-                Liam Dirk "Sir Benjamin" "Sir James" "Sir Walter" "Sir Nigel" "Sir Montgomery" "Sir Douglas" "Sir Andrew" Vance Kyle Chester
+                John Brian Peter Adam James William Jacob Christopher Joshua Michael Ethan Joseph Matthew Anthony Daniel Ryan Samuel
+                Kevin David Logan Carter Benjamin Andrew Henry Nicholas Gavin Owen Jack Wyatt Wayne Walter Charles Louis Merritt Earl
+                Alfred Vernon Edward Donald George Paul Greg Thomas Robert Gene Glen Hugh Ronald Francis Stephen Jon Richard Mark
+                Marcus Scott Duncan Douglas Keith Howard Russell Clayton Lee Steve Tom Clay Oliver Kenneth Ralph Andy Tony Tyrone 
+                Lawrence Patrick Harry Alan Eugene Frank Craig Jason Martin Jonathan Harrison Connor Gaylord Sean Cooper Stanley 
+                Calhoun Neil Jeffrey Harold Raymond Fred Marshall Silas Roy Jesse Ken Bruce Norris Horatio Clarence Lloyd Duane 
+                Mortimer Ben Ernest Warren Graham Marvin Orson Dennis Jackson Dwight Harlan Arthur Percival Montgomery Clyde Rodney 
+                Gerald Franklin Jake Horace Irving Seth Randolph Floyd Carl Brent Cliff Malcolm Timothy Wallace Pierce Edmund Gary Tony
+                Nathan Eric Albert Robin Geoffrey Larry Ian Leonard Gordon Derek Maxwell Alec Bernard Stuart Rupert Dean Philip Ross
+                Colin Darren Melvin Justin Zack Elliot Simon Morgan Clark Xavier Jared Edgar Crispin Nelson Emmett Trevor Travis Lance
+                Adrian Desmond Brendan Brett Ambrose Basil Kieran Conan Dermot Dudley Felix Finn Oscar Sidney Aaron Vincent Angus Grant
+                Luke Miles Morton Randall Reginald Herbert Wesley Nigel Alexander Dominic Bradley Liam Dirk "Sir Benjamin" "Sir James" 
+                "Sir Walter" "Sir Nigel" "Sir Montgomery" "Sir Douglas" "Sir Andrew" Vance Kyle Chester
             }
             first_names_female = {
-                Olivia Emily Sophie Jessica Alice Scarlett Emma Daisy Eve Phoebe Sienna Anna Mary Megan Elizabeth Amy Darcy Matilda Erin
-                Lucy Grace Evelyn Amber Harriet Caitlyn Jasmine Madison Kate Eleanor Alexandra Sarah Martha Bethany Rebecca Victoria
-                Gabriella Naomi Lauren Clara Laura Kayla Nicole Skye Eliza Patricia Linda Barbara Jennifer Maria Susan Margaret Dorothy
-                Lisa Nancy Helen Sandra Donna Carol Ruth Sharon Michelle Kimberly Deborah Amelia Charlotte Isabella Ruby Addison Alyssa
-                Abigail Julia Samantha Brooklyn Ashley Natalie Brianna Chloe Hailey Lillian Judith Alison Amanda Angela Audrey Beatrice
-                Brenda Bridget Caroline Cassandra Charity Cecilia Anne Clarissa Christabel Cheryl Cynthia Cadence Cordelia Daphne Deanna
-                Denise Dolores Doreen Drusilia Edith Edna Eleonor Eileen Edwina Ellen Estelle Ethel Felicity Fiona Genevieve Gertie Gwen
-                Gwendolyn Henrietta Imogen Iris Imelda Jacqueline Jane Jenna Joanna Josephine Julianne Kathleen Kierra Kaylee Leah Lois
-                Loretta Lorna Louisa Lynnette Lucinda Mabel Marcia Marilyn Marissa Marjorie Maud Melanie Myrna Mavis Nadine Paula Penelope
-                Philippa Priscilla Rhonda Rita Roberta Rosamund Rosemary Roxanne Sabrina Selma Selina Sibyl Suzanne Tara Tabitha Thelma
-                Teresa Tiffany Vanessa Vivian Melissa Wanda Wendy Winifred Victoria Yvette Vera Zelda Joan Pamela Sherry Adrienne Monica
-                Irene Heather Lindsay Gillian Kristen Odette Felicia Christina Candace Arlene Tisha Majel Fran Doris Julie Courtney Shelly
-                Frances Mandy Mindy Rachel Miranda Virginia Gina Karla Tricia Diane Phyllis Sally Elaine Kara Shannon Susie Elle Gail Ann
-                Kathryn Tina Carrie Miriam Vivica Tamara Judy Willow Hilary Claire Danielle Teri Jackie Kelly Bonnie Holly Janice Brittney
-                Bianca Stephanie Natasha Lydia Mona Meredith Lynda Erica Heidi Paige Carmen Hayden Mallory Mercedes Marion Winona Jill
-                Molly Constance Jenny Penny Meryl Jodie Veronica April Sigourney Jillian Honor
+                Olivia Emily Sophie Jessica Alice Scarlett Emma Daisy Eve Phoebe Sienna Anna Mary Megan Elizabeth Amy Darcy Matilda 
+                Erin Lucy Grace Evelyn Amber Harriet Caitlyn Jasmine Madison Kate Eleanor Alexandra Sarah Martha Bethany Rebecca 
+                Victoria Gabriella Naomi Lauren Clara Laura Kayla Nicole Skye Eliza Patricia Linda Barbara Jennifer Maria Susan 
+                Margaret Dorothy Lisa Nancy Helen Sandra Donna Carol Ruth Sharon Michelle Kimberly Deborah Amelia Charlotte Isabella 
+                Ruby Addison Alyssa Abigail Julia Samantha Brooklyn Ashley Natalie Brianna Chloe Hailey Lillian Judith Alison Amanda 
+                Angela Audrey Beatrice Brenda Bridget Caroline Cassandra Charity Cecilia Anne Clarissa Christabel Cheryl Cynthia 
+                Cadence Cordelia Daphne Deanna Denise Dolores Doreen Drusilia Edith Edna Eleonor Eileen Edwina Ellen Estelle Ethel
+                Felicity Fiona Genevieve Gertie Gwen Gwendolyn Henrietta Imogen Iris Imelda Jacqueline Jane Jenna Joanna Josephine 
+                Julianne Kathleen Kierra Kaylee Leah Lois Loretta Lorna Louisa Lynnette Lucinda Mabel Marcia Marilyn Marissa Marjorie 
+                Maud Melanie Myrna Mavis Nadine Paula Penelope Philippa Priscilla Rhonda Rita Roberta Rosamund Rosemary Roxanne Sabrina
+                Selma Selina Sibyl Suzanne Tara Tabitha Thelma Teresa Tiffany Vanessa Vivian Melissa Wanda Wendy Winifred Victoria 
+                Yvette Vera Zelda Joan Pamela Sherry Adrienne Monica Irene Heather Lindsay Gillian Kristen Odette Felicia Christina 
+                Candace Arlene Tisha Majel Fran Doris Julie Courtney Shelly Frances Mandy Mindy Rachel Miranda Virginia Gina Karla 
+                Tricia Diane Phyllis Sally Elaine Kara Shannon Susie Elle Gail Ann Kathryn Tina Carrie Miriam Vivica Tamara Judy Willow
+                Hilary Claire Danielle Teri Jackie Kelly Bonnie Holly Janice Brittney Bianca Stephanie Natasha Lydia Mona Meredith 
+                Lynda Erica Heidi Paige Carmen Hayden Mallory Mercedes Marion Winona Jill Molly Constance Jenny Penny Meryl Jodie 
+                Veronica April Sigourney Jillian Honor
             }
             second_names = {
-                Smith Jones Williams Taylor Brown Davies Evans Wilson Johnson Robinson Wright Thompson Evans Walker White Roberts Green Hall
-                Wood Jackson Clark Lewis Mason Mitchell Cox Campbell Stewart Quinn Murphy Hamilton Moore Murray McLaughlin Martin O'Neill
-                Anderson Scott MacDonald Reid Ross Watson Patterson Morrison Sanders Harris Hughes Driscoll Price Jenkins Morgan Moss
-                Sinclair Simpson Zimmerman Young York Youngfellow Winters Worley Woodard Whitley Wheeler Wentworth West Weaver Webb Welsh
-                Sparks Spencer Stafford Stanley Steel Sterling Stevens Stone Stewart Sullivan Swanson Sweeney Swift Sykes Terrell Thornton
-                Tipton Turner Tyler Underwood Vincent Voight Wade Washington Watts O'Connor O'Donnell O'Hara Owens Page Palmer Parker
-                Perry Parson Paxton Payne Perkins Peters Pershing Phillips Pitt Potter Reynolds Reaves Reese Richardson Rivers Robbins
-                Robertson Roswell Ryan Salinger Samuels Sandler Savage Saxton Schneider Scowley Sedgwick Shannon Flint Sibbett Silverman
-                Silverstone Smart Snow Kruger Landau Lawrence Lawson Lee Leonard Little Lowell Michaels McGillis McKinnon McSwain McCoy
-                McCarthy McCormick McCreary Marshall Lynch Miller Montgomery Morris Nash Newman Nichols North Masterson Mayfield McCall
-                Hansen Harrington Hart Hendricks Holmes Higgins Hoffman Hood Hutchinson Hyland Knight Kirk King Kenway Kennedy Kelly
-                Kane Nathanson Jennings Jacobs Jefferies Irwin Gilbert Glass Glover Goldberg Goldstein Goodman Goodwin Graham Grant Graves
-                Gray Greenberg Gorney Griffin Halley Hunter Holloway Hoover Hutchins Hill Hines Holden Harvey Handler Cohen Collins Conrad
-                Conroy Cook Conley Compton Cody Crouch Crosby Curtis Fields Farrell Felton Fisher Fleming Forrest Foster Fox Freeman
-                Futterman Gardner Garrett Gates Garfield Gabriel Daniels Darling Easterbrook Edwards Edelstein Elliott Emerson Ericson
-                Duncan Dickinson Alexander Allen Austin Bauer Bancroft Baker Bailey Banks Barks Bassett Brewster Brooks Breckenridge Booth
-                Bloom Sherman Sheridan Billingsley Billings Bergman Bates Becker Bell Bellflower Bains Bean Cartwright Carpenter Buckland
-                Burness Burnett Bush Butler French England Carroll Carter Cavanaugh Chaffin Chase Channing Chapman Arnold Fry Milton
-                Sharp Durston Howell Mead Poole Ashton Brockbank Cooper Cursham Dixon Baxter Drake Garland Wells Hargreaves Houghton
-                Haygarth Hurst Kingsford Lindsay Rawson Walden Walters Whitfield Bennett Cross Buxton Dyson McMillan Russell Scott Beauclerk
-                Ward Howard Lloyd Tanner Nicholas Matthews Ellis Whyting Whittaker Barton Hawkins Garrovick Spector Reeves Vernon McNiven
-                Rowley Sandford Fawcett Lockhart Lang Oliphant Wilkins Balfour Appleby Buchanan Yardley Shaw Stokes Allenby Cockburn Mundy
-                Franklin Armstrong Chamberlain Powell Abbott Blair "Van Hoof" "Van Rijn" Burnside Schofield Farnsworth Ford Warner Porter
-                Barksdale Polk Gibbons Archer Pickett Houston Whitfield Pearson Lucas Horner Bainbridge Rollins Casey Cochrane Merchant
-                Bowden Douglas Muldoon Wickham Milligan Bradley Findley Spooner Harper Shepard Kingston Knox Colbeck Shields Burns Gibson
-                Burton Crutchley Gilligan Bridges Richter Fowler Novak Longfield Seabrook Hazelton Kingsley Doggart Wilcox Hudson Hooks Hicks
-                Cameron Hammond Knotts Jefferson Coffey Adams Babcock Baldwin Bannister Purcell Baumgartner Birch Blackwood Blake Bolander
-                Bolton Brock Brannigan Burke Weyland Burrows Cairns Carlyle Carson Charlesworth Church Clancy Cullen Dufresne Bixby Featherstone
-                Ferguson Foley Funk Gorman Haddock Grisdale Grimes Hoffmeyer Holt Ingram Kaiser Kearns Keeler Kellerman Kinnear Kurtz Kyle
-                Laidlaw Lankshear Lessard Lowe MacKenzie MacNevin MacInnis Madigan Maloney Marsh McAllister McBain Myers Nicholson Olsen
-                O'Malley Peacock Peckham Murdoch Prefontaine Pratt Popovic Pritchard Quackenbush Penebscott Pfaffenbach Ramsey Quincey
-                Reilly Reinhart Renaud Rolston Shoebottom Skinner Sloan Snell Snider Sorensen Spiller Spurgeon Stanfield Stackhouse Stiles
-                Sutherland Sutton Taggart Townsend Traynor Stark Strudwick MacArthur Barnes Atkins Ballard Biggs Baird Fredericks Humphry
-                Colt Dillard Cunningham DeStefano Finks Fletcher Galloway Kirby Sutter Preston Tucker "Smith Jr." "Williams Jr." "Evans Jr."
-                "Walker Jr." "Taylor Jr." "Scott Jr." "Meriweather II" "Barksdale III" "Leadbetter IV" "Pemberton II" "Trapier III" Kowalski
-                Rabinowitz Feldman Katz Roykirk Decker Trump
+                Smith Jones Williams Taylor Brown Davies Evans Wilson Johnson Robinson Wright Thompson Evans Walker White Roberts Green
+                Hall Wood Jackson Clark Lewis Mason Mitchell Cox Campbell Stewart Quinn Murphy Hamilton Moore Murray McLaughlin Martin
+                O'Neill Anderson Scott MacDonald Reid Ross Watson Patterson Morrison Sanders Harris Hughes Driscoll Price Jenkins
+                Morgan Moss Sinclair Simpson Zimmerman Young York Youngfellow Winters Worley Woodard Whitley Wheeler Wentworth West 
+                Weaver Webb Wels Sparks Spencer Stafford Stanley Steel Sterling Stevens Stone Stewart Sullivan Swanson Sweeney Swift
+                Sykes Terrell Thornton Tipton Turner Tyler Underwood Vincent Voight Wade Washington Watts O'Connor O'Donnell O'Hara
+                Owens Page Palmer Parker Perry Parson Paxton Payne Perkins Peters Pershing Phillips Pitt Potter Reynolds Reaves Reese
+                Richardson Rivers Robbins Robertson Roswell Ryan Salinger Samuels Sandler Savage Saxton Schneider Scowley Sedgwick 
+                Shannon Flint Sibbett Silverman Silverstone Smart Snow Kruger Landau Lawrence Lawson Lee Leonard Little Lowell Michaels
+                McGillis McKinnon McSwain McCoy McCarthy McCormick McCreary Marshall Lynch Miller Montgomery Morris Nash Newman Nichols
+                North Masterson Mayfield McCall Hansen Harrington Hart Hendricks Holmes Higgins Hoffman Hood Hutchinson Hyland Knight
+                Kirk King Kenway Kennedy Kelly Kane Nathanson Jennings Jacobs Jefferies Irwin Gilbert Glass Glover Goldberg Goldstein
+                Goodman Goodwin Graham Grant Graves Gray Greenberg Gorney Griffin Halley Hunter Holloway Hoover Hutchins Hill Hines
+                Holden Harvey Handler Cohen Collins Conrad Conroy Cook Conley Compton Cody Crouch Crosby Curtis Fields Farrell Felton 
+                Fisher Fleming Forrest Foster Fox Freeman Futterman Gardner Garrett Gates Garfield Gabriel Daniels Darling Easterbrook
+                Edwards Edelstein Elliott Emerson Ericson Duncan Dickinson Alexander Allen Austin Bauer Bancroft Baker Bailey Banks 
+                Barks Bassett Brewster Brooks Breckenridge Booth Bloom Sherman Sheridan Billingsley Billings Bergman Bates Becker Bell
+                Bellflower Bains Bean Cartwright Carpenter Buckland Burness Burnett Bush Butler French England Carroll Carter Cavanaugh
+                Chaffin Chase Channing Chapman Arnold Fry Milton Sharp Durston Howell Mead Poole Ashton Brockbank Cooper Cursham Dixon
+                Baxter Drake Garland Wells Hargreaves Houghton Haygarth Hurst Kingsford Lindsay Rawson Walden Walters Whitfield Bennett
+                Cross Buxton Dyson McMillan Russell Scott Beauclerk Ward Howard Lloyd Tanner Nicholas Matthews Ellis Whyting Whittaker
+                Barton Hawkins Garrovick Spector Reeves Vernon McNiven Rowley Sandford Fawcett Lockhart Lang Oliphant Wilkins Balfour
+                Appleby Buchanan Yardley Shaw Stokes Allenby Cockburn Mundy Franklin Armstrong Chamberlain Powell Abbott Blair
+                "Van Hoof" "Van Rijn" Burnside Schofield Farnsworth Ford Warner Porter Barksdale Polk Gibbons Archer Pickett Houston 
+                Whitfield Pearson Lucas Horner Bainbridge Rollins Casey Cochrane Merchant Bowden Douglas Muldoon Wickham Milligan 
+                Bradley Findley Spooner Harper Shepard Kingston Knox Colbeck Shields Burns Gibson Burton Crutchley Gilligan Bridges
+                Richter Fowler Novak Longfield Seabrook Hazelton Kingsley Doggart Wilcox Hudson Hooks Hicks Cameron Hammond Knotts
+                Jefferson Coffey Adams Babcock Baldwin Bannister Purcell Baumgartner Birch Blackwood Blake Bolander Bolton Brock
+                Brannigan Burke Weyland Burrows Cairns Carlyle Carson Charlesworth Church Clancy Cullen Dufresne Bixby Featherstone
+                Ferguson Foley Funk Gorman Haddock Grisdale Grimes Hoffmeyer Holt Ingram Kaiser Kearns Keeler Kellerman Kinnear Kurtz
+                Kyle Laidlaw Lankshear Lessard Lowe MacKenzie MacNevin MacInnis Madigan Maloney Marsh McAllister McBain Myers Nicholson 
+                Olsen O'Malley Peacock Peckham Murdoch Prefontaine Pratt Popovic Pritchard Quackenbush Penebscott Pfaffenbach Ramsey
+                Quincey Reilly Reinhart Renaud Rolston Shoebottom Skinner Sloan Snell Snider Sorensen Spiller Spurgeon Stanfield 
+                Stackhouse Stiles Sutherland Sutton Taggart Townsend Traynor Stark Strudwick MacArthur Barnes Atkins Ballard Biggs 
+                Baird Fredericks Humphry Colt Dillard Cunningham DeStefano Finks Fletcher Galloway Kirby Sutter Preston Tucker
+                "Smith Jr." "Williams Jr." "Evans Jr." "Walker Jr." "Taylor Jr." "Scott Jr." "Meriweather II" "Barksdale III" 
+                "Leadbetter IV" "Pemberton II" "Trapier III" Kowalski Rabinowitz Feldman Katz Roykirk Decker Trump
             }
             regnal_first_names_male = {
                 Alexander Vladimir Boris Tiberius Theobald Valerian Maximus Lucius
@@ -622,7 +664,7 @@ ui_extra_human_extended = {
                 Habsburg Romanov Windsor Mountbatten Salazar Nelson
             }
         }
-        
+
         ###############################
         # HINDI (9.99)
         ###############################
@@ -652,7 +694,7 @@ ui_extra_human_extended = {
                 Kumar Moorthi Shastri Prasad Acharya Patil Gupta Sharma Namboodiri Pannikar Potti Kutty Varma Sondharam
             }
         }
-        
+
         ###############################
         # ARABIC (9.51%)
         ###############################
@@ -660,17 +702,19 @@ ui_extra_human_extended = {
             weight = 10
 
             first_names_male = {
-                Abdullah Abbas Abed Ahmad Ahmed Ali Ammar Amir Hamza Hassan Hydar Ibrahim Jamal Kareem Khathem Khalil Khalid Malik Mahdi 
-                Hussein Mohamed Mohammad Mohammed Muhammad Muhammed Nasir Omar Rashad Rashid Samir Tariq Yahir Yasin Yusuf Barak
+                Abdullah Abbas Abed Ahmad Ahmed Ali Ammar Amir Hamza Hassan Hydar Ibrahim Jamal Kareem Khathem Khalil Khalid Malik 
+                Mahdi Hussein Mohamed Mohammad Mohammed Muhammad Muhammed Nasir Omar Rashad Rashid Samir Tariq Yahir Yasin Yusuf Barak
             }
             first_names_female = {
-                Alma Amani Amira Aisha Fatima Hala Hana Hasti Imani Jana Jaliyah Jazmin Jenna Kaliyah Layan Leen Leila Lydia Malak Maryam 
-                Maritza Mina Naima Noor Salma Samira Sanaa Yesenia Zahra Satayesh Zeinab Reihaneh Mobina Narges Ma'soumeh Sakineh Aya
+                Alma Amani Amira Aisha Fatima Hala Hana Hasti Imani Jana Jaliyah Jazmin Jenna Kaliyah Layan Leen Leila Lydia Malak 
+                Maryam Maritza Mina Naima Noor Salma Samira Sanaa Yesenia Zahra Satayesh Zeinab Reihaneh Mobina Narges Ma'soumeh 
+                Sakineh Aya
             }
             second_names = {
-                Barakat Abbas "Abdel Nour" Abboud al-Ahdal al-Ajlani al-Bariqi al-Mubarak Adwam Akkad Alawi al-Asiri al-Atrash al-Dimashqi
-                Bakir Hussein al-Hazmi al-Bishi El-Baz Ibrahim Ishak Ismail El-Farouk Hassan El-Ghazali Bilal Nadir Juhani Jawahir Hamidi
-                al-Jazari al-Samarrai Salman Qasim Qudsi Qaderi al-Qadi Farrokhzad Madani Sassani Turani Khadem Ghorbani Jamshidi Rahimi
+                Barakat Abbas "Abdel Nour" Abboud al-Ahdal al-Ajlani al-Bariqi al-Mubarak Adwam Akkad Alawi al-Asiri al-Atrash
+                al-Dimashqi Bakir Hussein al-Hazmi al-Bishi El-Baz Ibrahim Ishak Ismail El-Farouk Hassan El-Ghazali Bilal Nadir Juhani 
+                Jawahir Hamidi al-Jazari al-Samarrai Salman Qasim Qudsi Qaderi al-Qadi Farrokhzad Madani Sassani Turani Khadem Ghorbani 
+                Jamshidi Rahimi
             }
             regnal_first_names_male = {
                 Abdullah Abbas Abed Khalil Khalid Malik Mahdi Nasir Omar Rashad Rashid Samir
@@ -682,7 +726,7 @@ ui_extra_human_extended = {
                 arakat Abbas "Abdel Nour" Abboud al-Ahdal al-Jazari al-Samarrai Salman Qasim Qudsi Qaderi al-Qadi Farrokhzad Madani
             }
         }
-        
+
         ###############################
         # PORTUGUESE (6.93%)
         ###############################
@@ -690,44 +734,66 @@ ui_extra_human_extended = {
             weight = 7
 
             first_names_male = {
-                Álvaro Ângelo Érico Óscar Abílio Abel Abraão Adão Adalberto Adelmar Ademar Ademir Adriano Afonso Agostinho Alberto Albino Alcides Aldo Aleixo Alex Alexandre Alfredo Almir Almiro Aloísio Altair
-                Américo Amílcar Amancio Amando Ambrósio Amor Aníbal Anacleto André Anselmo António Antônio Antelmo Aristides Armando Arsenio Artur Atílio Augusto Aurélio Balbino Balduíno Bartolomeu Benedito
-                Benigno Benjamim Bento Bernardino Bernardo Bonifacio Brás Breno Brian Bruno Cândido César Cézar Caetano Caio Calisto Calixto Camilo Carlinhos Carlito Carlitos Carlos Carmo Casimiro Cecilio
-                Celestino Celio Celso Cesário Cezário Cezar Chico Cipriano Ciríaco Cláudio Clemente Cleto Cornélio Cosme Cristóvão Cristiano Cruz Custódio Dário Dado Dan Daniel Danilo Davi David Demétrio
-                Deodato Desidério Diego Dimas Dinis Diniz Diogo Dionísio Domingos Donato Du Duarte Duda Dudu Edgar Edmundo Edu Eduardo Egídio Elder Eleuterio Elias Elpidio Emanuel Emilio Enéas Enzo Erasmo
-                Ernesto Estevão Eugênio Eusébio Eustaquio Eutímio Evaristo Ezequiel Fábio Félix Fúlvio Fabiano Fabricio Faustino Fausto Feliciano Felipe Felipinho Fernão Fernando Filipe Flávio Florencio
-                Fortunato Francisco Fred Frederico Gabriel Gaspar Geraldo Germano Gervásio Gil Gilberto Gláucio Glauco Godofredo Gonçalo Graciano Guálter Gualberto Guilherme Guiomar Gustavo Hélder Haroldo
-                Heitor Helder Heliodoro Henrique Herberto Heriberto Hermínio Hermenegildo Hipólito Horácio Hugo Iago Ian Igor Inácio Isaac Isac Ismael Ivan Ivo Ivo  Jônatas Jacó Jacinto Jaime Jerónimo
-                Jerônimo Jeremias João Joãozinho Joaquim Joel Joel  Jordão Jorge Jorginho José Josué Julio Kévim Kevin Lúcio Leandro Leonardo Leonel Leopoldo Lino Lisandro Lourenço Luís Luca Lucas Luciano
-                Luisinho Luiz Márcio Mário Manel  Manoel Manuel Marcelinho Marcelino Marcelo Marciano Marco Marcos Maria Mariano Marinho Marquinhos Martim Martinho Mateus Matheus Matias Maurício Mauro
-                Maximiano Maximiliano Maximino Micael Miguel Miguelito Modesto Moisés Narciso Natanael Nataniel Nelinho Nelson Netuno Nico Nicodemo Nicolau Noé Noah  Norberto Nuno Octávio Odilon Olavo
-                Olegário Oscar Osvaldo Otávio Ovídio Patrício Paulinho Paulino Paulo Pedrinho Pedro Pio Plácido Plínio Primo Quim Quirino Régulo Rúben Raúl Rafael Rafinha Raimundo Ramiro Raul Raymundo Reinaldo
-                Remigio Renato Reynaldo Ricardo Roberto Rodolfo Rodrigo Rogério Rolando Roldão Ronaldo Roque Rubem Rubens Rubinho Rufino Rui Ruy Sérgio Salomão Salvador Samuel Sandro Santiago Saturnino
-                Sebastião Severino Silvestre Silvio Simão Téo Túlio Tacito Tadeu Teófilo Telmo Teobaldo Teodósio Teodoro Thiago Tiago Tiburcio Timoteo Tito Tomás Tomé Toninho Tristão Ulisses Vítor Valério
-                Valentin Valter Vasco Veríssimo Vicente Victor Victorino Vinícius Virgílio Viriato Wilson Xande Xandinho Xavier Zé Zeferino Zezé
+                Álvaro Ângelo Érico Óscar Abílio Abel Abraão Adão Adalberto Adelmar Ademar Ademir Adriano Afonso Agostinho Alberto 
+                Albino Alcides Aldo Aleixo Alex Alexandre Alfredo Almir Almiro Aloísio Altair Américo Amílcar Amancio Amando Ambrósio
+                Amor Aníbal Anacleto André Anselmo António Antônio Antelmo Aristides Armando Arsenio Artur Atílio Augusto Aurélio 
+                Balbino Balduíno Bartolomeu Benedito Benigno Benjamim Bento Bernardino Bernardo Bonifacio Brás Breno Brian Bruno 
+                Cândido César Cézar Caetano Caio Calisto Calixto Camilo Carlinhos Carlito Carlitos Carlos Carmo Casimiro Cecilio
+                Celestino Celio Celso Cesário Cezário Cezar Chico Cipriano Ciríaco Cláudio Clemente Cleto Cornélio Cosme Cristóvão 
+                Cristiano Cruz Custódio Dário Dado Dan Daniel Danilo Davi David Demétrio Deodato Desidério Diego Dimas Dinis Diniz 
+                Diogo Dionísio Domingos Donato Du Duarte Duda Dudu Edgar Edmundo Edu Eduardo Egídio Elder Eleuterio Elias Elpidio 
+                Emanuel Emilio Enéas Enzo Erasmo Ernesto Estevão Eugênio Eusébio Eustaquio Eutímio Evaristo Ezequiel Fábio Félix Fúlvio
+                Fabiano Fabricio Faustino Fausto Feliciano Felipe Felipinho Fernão Fernando Filipe Flávio Florencio Fortunato Francisco 
+                Fred Frederico Gabriel Gaspar Geraldo Germano Gervásio Gil Gilberto Gláucio Glauco Godofredo Gonçalo Graciano Guálter
+                Gualberto Guilherme Guiomar Gustavo Hélder Haroldo Heitor Helder Heliodoro Henrique Herberto Heriberto Hermínio 
+                Hermenegildo Hipólito Horácio Hugo Iago Ian Igor Inácio Isaac Isac Ismael Ivan Ivo Ivo  Jônatas Jacó Jacinto Jaime 
+                Jerónimo Jerônimo Jeremias João Joãozinho Joaquim Joel Joel  Jordão Jorge Jorginho José Josué Julio Kévim Kevin Lúcio
+                Leandro Leonardo Leonel Leopoldo Lino Lisandro Lourenço Luís Luca Lucas Luciano Luisinho Luiz Márcio Mário Manel  
+                Manoel Manuel Marcelinho Marcelino Marcelo Marciano Marco Marcos Maria Mariano Marinho Marquinhos Martim Martinho 
+                Mateus Matheus Matias Maurício Mauro Maximiano Maximiliano Maximino Micael Miguel Miguelito Modesto Moisés Narciso 
+                Natanael Nataniel Nelinho Nelson Netuno Nico Nicodemo Nicolau Noé Noah  Norberto Nuno Octávio Odilon Olavo Olegário 
+                Oscar Osvaldo Otávio Ovídio Patrício Paulinho Paulino Paulo Pedrinho Pedro Pio Plácido Plínio Primo Quim Quirino Régulo
+                Rúben Raúl Rafael Rafinha Raimundo Ramiro Raul Raymundo Reinaldo Remigio Renato Reynaldo Ricardo Roberto Rodolfo 
+                Rodrigo Rogério Rolando Roldão Ronaldo Roque Rubem Rubens Rubinho Rufino Rui Ruy Sérgio Salomão Salvador Samuel Sandro
+                Santiago Saturnino Sebastião Severino Silvestre Silvio Simão Téo Túlio Tacito Tadeu Teófilo Telmo Teobaldo Teodósio 
+                Teodoro Thiago Tiago Tiburcio Timoteo Tito Tomás Tomé Toninho Tristão Ulisses Vítor Valério Valentin Valter Vasco 
+                Veríssimo Vicente Victor Victorino Vinícius Virgílio Viriato Wilson Xande Xandinho Xavier Zé Zeferino Zezé
             }
             first_names_female = {
-                Águeda Áurea Ângela Érica Íris Úrsula Adelaide Adelina Adriana Alícia Alberta Albertina Albina Alda Aldina Alex Alexandra Alexandrina Alice Aline Amália Amélia América Amanda Amor Ana Anabela
-                Andréa Andréia Andreia Angélica Anita Antónia Antônia Apolónia Apolônia Ariana Assunção Augusta Aurora Bárbara Balbina Beatriz Belinha Benedita Benigna Bia Bianca Brígida Branca Bruna Brunilda
-                Cátia Cândida Célia Cíntia Caetana Calista Calixta Camila Carina Carla Carlota Carminho Carmo Carolina Cassandra Catarina Cecília Cesária Chica Cláudia Clara Clarissa Clementina Cloé Clotilde
-                Constância Constança Cristiana Cristina Cruz Custódia Débora Délia Daniela Desidéria Diana Dina Domitila Dores Dorotéia Doroteia Duda Dulce Edite Eduarda Efigénia Efigênia Eliana Elisa Elisabete
-                Eliza Elvira Emília Ema Emiliana Eneida Esmeralda Estefânia Estela Ester Eufêmia Eugênia Eulália Eva Fábia Fátima Fabiana Felícia Felicidade Fernanda Filipa Filomena Flávia Florinda Fortunata
-                Francisca Frederica Gabriela Genoveva Gertrudes Gilda Gisela Gláucia Gloria Graça Gracília Graciana Guiomar Helena Hermínia Iara Ida Imaculada Inês Iolanda Irene Iria Irina Isabel Isabela Isaura
-                Isidora Isis Izabel Jéssica Júlia Jacinta Jaqueline Jessica Joana Joaninha Jordana Josefa Josefina Jovita Judite Juliana Julie Julinha Lídia Lígia Lílian Lívia Lúcia Lara Larissa Laura Leandra
-                Lena Leocádia Leonor Letícia Lia Liana Liliana Lorena Luísa Luana Lucília Luciana Lucinda Luiza Luna Lurdes Luzia Lygia Márcia Mélanie Mónica Mônica Madalena Mafalda Magda Maia Maiara Manoela
-                Manuela Mara Marciana Marciane Margarida Maria Mariana Mariazinha Marina Marisa Maristela Marta Matilde Melissa Mia Micaela Miguela Moema Monica Nádia Núria Naiara Narcisa Natália Natacha
-                Nathália Nela Nelinha Neves Nicole Nilda Noêmia Noa Noemí Octávia Ofélia Olívia Olga Ondina Otávia Palmira Paloma Patrícia Paula Paulina Paulinha Perpétua Pilar Priscila Rafaela Raissa Raquel
-                Rebeca Regina Renata Rita Rosália Rosário Rosa Rosalia Rosalina Rosana Rosinha Rute Sílvia Sónia Sabina Safira Salomé Sandra Sara Serafina Severina Silvia Sofia Sol Sonia Soraia Susana Suzana
-                Tânia Taís Talita Tatiana Telma Teodora Teresa Teresinha Tereza Terezinha Thaís Thalita Valéria Valentina Valquíria Vanda Vanessa Verônica Vera Victória Violeta Virginia Vitória Yasmin Zita
+                Águeda Áurea Ângela Érica Íris Úrsula Adelaide Adelina Adriana Alícia Alberta Albertina Albina Alda Aldina Alex 
+                Alexandra Alexandrina Alice Aline Amália Amélia América Amanda Amor Ana Anabela Andréa Andréia Andreia Angélica Anita
+                Antónia Antônia Apolónia Apolônia Ariana Assunção Augusta Aurora Bárbara Balbina Beatriz Belinha Benedita Benigna Bia
+                Bianca Brígida Branca Bruna Brunilda Cátia Cândida Célia Cíntia Caetana Calista Calixta Camila Carina Carla Carlota 
+                Carminho Carmo Carolina Cassandra Catarina Cecília Cesária Chica Cláudia Clara Clarissa Clementina Cloé Clotilde 
+                Constância Constança Cristiana Cristina Cruz Custódia Débora Délia Daniela Desidéria Diana Dina Domitila Dores Dorotéia
+                Doroteia Duda Dulce Edite Eduarda Efigénia Efigênia Eliana Elisa Elisabete Eliza Elvira Emília Ema Emiliana Eneida 
+                Esmeralda Estefânia Estela Ester Eufêmia Eugênia Eulália Eva Fábia Fátima Fabiana Felícia Felicidade Fernanda Filipa 
+                Filomena Flávia Florinda Fortunata Francisca Frederica Gabriela Genoveva Gertrudes Gilda Gisela Gláucia Gloria Graça 
+                Gracília Graciana Guiomar Helena Hermínia Iara Ida Imaculada Inês Iolanda Irene Iria Irina Isabel Isabela Isaura
+                Isidora Isis Izabel Jéssica Júlia Jacinta Jaqueline Jessica Joana Joaninha Jordana Josefa Josefina Jovita Judite 
+                Juliana Julie Julinha Lídia Lígia Lílian Lívia Lúcia Lara Larissa Laura Leandra Lena Leocádia Leonor Letícia Lia Liana 
+                Liliana Lorena Luísa Luana Lucília Luciana Lucinda Luiza Luna Lurdes Luzia Lygia Márcia Mélanie Mónica Mônica Madalena
+                Mafalda Magda Maia Maiara Manoela Manuela Mara Marciana Marciane Margarida Maria Mariana Mariazinha Marina Marisa 
+                Maristela Marta Matilde Melissa Mia Micaela Miguela Moema Monica Nádia Núria Naiara Narcisa Natália Natacha Nathália 
+                Nela Nelinha Neves Nicole Nilda Noêmia Noa Noemí Octávia Ofélia Olívia Olga Ondina Otávia Palmira Paloma Patrícia Paula 
+                Paulina Paulinha Perpétua Pilar Priscila Rafaela Raissa Raquel Rebeca Regina Renata Rita Rosália Rosário Rosa Rosalia
+                Rosalina Rosana Rosinha Rute Sílvia Sónia Sabina Safira Salomé Sandra Sara Serafina Severina Silvia Sofia Sol Sonia
+                Soraia Susana Suzana Tânia Taís Talita Tatiana Telma Teodora Teresa Teresinha Tereza Terezinha Thaís Thalita Valéria
+                Valentina Valquíria Vanda Vanessa Verônica Vera Victória Violeta Virginia Vitória Yasmin Zita
             }
             second_names = {
-                Águas Álvares Ávila Abreu Abril Agostinho Aguiar Albuquerque Alcantara Almeida Alves Alvim Amaral Amorim Andrade Antunes Araújo Azevedo Bandeira Baptista Barbosa Barboza Barreto Barros Bastos
-                Batista Bento Bettencourt Borges Botelho Braga Branco Brandão Brito Câmara Cabral Caetano Campos Cardoso Carneiro Carreira Carriço Carvalho Castro Cavaco Cerqueira Coelho Coimbra Cordeiro Correia
-                Corte-Real Cortes Costa Coutinho Couto Cruz Cunha Dantas de Freitas de Lima de Sá Dias do Rosário Duarte Faria Fernandes Ferreira Fidalgo Florencio Fonseca Fontes Freire Freitas Furtado Góes Gama
-                Garcia Gomes Gonçalves Gonsalves Gouveia Guerra Guimarães Gusmão Henriques Hernandes Leitão Leite Lima Lobo Lopes Luz Macedo Machado Maciel Magalhães Martins Mascarenhas Mata Matos Medeiros Melo
-                Mendes Mendez Mendonça Menezes Miranda Moniz Monteiro Montenegro Morais Moreira Moreno Moura Nascimento Neves Nogueira Nunes Oliveira Pacheco Paiva Pascoal Passos Pereira Peres Pimentel Pinho Pinto
-                Pires Queiros Queiroz Ramos Rebelo Rego Reis Resende Resendes Ribeiro Rocha Rodrigues Roque Rosa Sá Saldanha Salgado Santos Sapateiro Saraiva Seabra Seixas Sequeira Serra Silva Silveira Silvestre
-                Simões Siqueira Soares Sousa Tavares Teixeira Tomás Torres Valente Varejão Varela Vasconcelos Vaz Venâncio Vidal Vieira Vila Vomlel
+                Águas Álvares Ávila Abreu Abril Agostinho Aguiar Albuquerque Alcantara Almeida Alves Alvim Amaral Amorim Andrade 
+                Antunes Araújo Azevedo Bandeira Baptista Barbosa Barboza Barreto Barros Bastos Batista Bento Bettencourt Borges Botelho
+                Braga Branco Brandão Brito Câmara Cabral Caetano Campos Cardoso Carneiro Carreira Carriço Carvalho Castro Cavaco 
+                Cerqueira Coelho Coimbra Cordeiro Correia Corte-Real Cortes Costa Coutinho Couto Cruz Cunha Dantas "de Freitas" 
+                "de Lima" "de Sá Dias" "do Rosário" Duarte Faria Fernandes Ferreira Fidalgo Florencio Fonseca Fontes Freire Freitas 
+                Furtado Góes Gama Garcia Gomes Gonçalves Gonsalves Gouveia Guerra Guimarães Gusmão Henriques Hernandes Leitão Leite 
+                Lima Lobo Lopes Luz Macedo Machado Maciel Magalhães Martins Mascarenhas Mata Matos Medeiros Melo Mendes Mendez Mendonça
+                Menezes Miranda Moniz Monteiro Montenegro Morais Moreira Moreno Moura Nascimento Neves Nogueira Nunes Oliveira Pacheco
+                Paiva Pascoal Passos Pereira Peres Pimentel Pinho Pinto Pires Queiros Queiroz Ramos Rebelo Rego Reis Resende Resendes
+                Ribeiro Rocha Rodrigues Roque Rosa Sá Saldanha Salgado Santos Sapateiro Saraiva Seabra Seixas Sequeira Serra Silva 
+                Silveira Silvestre Simões Siqueira Soares Sousa Tavares Teixeira Tomás Torres Valente Varejão Varela Vasconcelos Vaz
+                Venâncio Vidal Vieira Vila Vomlel
             }
             regnal_first_names_male = {
                 Afonso Fernando Jaime Teodósio João Pedro Miguel Luís Carlos
@@ -739,7 +805,7 @@ ui_extra_human_extended = {
                 "de Braganza"
             }
         }
-        
+
         ###############################
         # RUSSIAN + UKRAINIAN (5.96%)
         ###############################
@@ -747,8 +813,8 @@ ui_extra_human_extended = {
             weight = 6
 
             first_names_male = {
-                Ivan Nikolai Boris Vladimir Pyotr Alexei Dmitri Sergei Viktor Roman Igor Mikhail Vasily Pavel Fyodor Nikita Valery
-                Vladislav Leonid Maxim Yuri Oleg Andrei Konstantin Vyacheslav Aleksandr Stanislav Anatoli Miroslav Artyom Bogdan
+                Ivan Nikolai Boris Vladimir Pyotr Alexei Dmitri Sergei Viktor Roman Igor Mikhail Vasily Pavel Fyodor Nikita Valery 
+                Vladislav Leonid Maxim Yuri Oleg Andrei Konstantin Vyacheslav Aleksandr Stanislav Anatoli Miroslav Artyom Bogdan 
                 Branislav Ilya Jaroslav Radomir Kirill Radoslav Lubomir Ratimir Yegor Ignatyi Vitalyi Vasili Vadim
             }
             first_names_female = {
@@ -771,7 +837,7 @@ ui_extra_human_extended = {
                 Romanov
             }
         }
-        
+
         ###############################
         # JAPANESE (4.03%)
         ###############################
@@ -801,28 +867,28 @@ ui_extra_human_extended = {
                 "no Mikoto" Sumeramikoto Otomo Suijin Mononobe Yamato
             }
         }
-        
+
         ###############################
         # GERMAN (3.06%)
         ###############################
         names8 = {
             weight = 3
             first_names_male = {
-                Karl Wilhelm Otto Heinrich Friedrich Paul Hans Gustav Max Ernst Hermann Walter Werner Günther Wolfgang Helmuth Kurt Rolf
-                Peter Klaus Gerhard Heinz Horst Manfred Uwe Jürgen Dieter Andreas Thomas Stefan Lukas Felix Martin Fritz Johann Erich Arnold
-                Bruno Franz Rudolf Erhard Jörg Axel Emil Gerhardt Gottfried Holger Joachim Konrad Lothar Ludwig Matthias Moritz Reinhard
-                Sigismund Ulrich Udo Hravn Adolf Hans Conrad Albert
+                Karl Wilhelm Otto Heinrich Friedrich Paul Hans Gustav Max Ernst Hermann Walter Werner Günther Wolfgang Helmuth Kurt 
+                Rolf Peter Klaus Gerhard Heinz Horst Manfred Uwe Jürgen Dieter Andreas Thomas Stefan Lukas Felix Martin Fritz Johann 
+                Erich Arnold Bruno Franz Rudolf Erhard Jörg Axel Emil Gerhardt Gottfried Holger Joachim Konrad Lothar Ludwig Matthias
+                Moritz Reinhard Sigismund Ulrich Udo Hravn Adolf Hans Conrad Albert
             }
             first_names_female = {
-                Anna Elsa Emma Helga Ursula Gisela Ingrid Ilse Jessika Sandra Stefanie Andrea Anja Katrin Birgit Martina Heike Sabine Erika
-                Edith Lena Lisa Katharina Claudia Silvia Tina Annike Renate Bettina Wibke Sara Lina Julia Marith Heidi Angelika Christel
-                Gretchen Hilde Hildegard Gertrude Wilhelmina Lisbeth Kerstin Johanna Anita Eva Petra Margaret
+                Anna Elsa Emma Helga Ursula Gisela Ingrid Ilse Jessika Sandra Stefanie Andrea Anja Katrin Birgit Martina Heike Sabine
+                Erika Edith Lena Lisa Katharina Claudia Silvia Tina Annike Renate Bettina Wibke Sara Lina Julia Marith Heidi Angelika 
+                Christel Gretchen Hilde Hildegard Gertrude Wilhelmina Lisbeth Kerstin Johanna Anita Eva Petra Margaret
             }
             second_names = {
-                Müller Schmidt Schneider Fischer Weber Meyer Wagner Schulz Becker Hoffmann Bauer Brinkmann Brill Dietrich Erhard Grasser
-                "von Gebser" "von Fritsch" "von Wrangel" "von Halkett" "von Boyen" "von Falkenstein" Dreyer Wolf Klein Richter Schäfer
-                Neumann Braun Schwarz Krüger Stein Keller Schubert Baumann Ziegler Brandt Sauer Kreutz Bergmeister Andbert Braun Strasse
-                Schwarzenegger "von Hotzendorf" Weiss
+                Müller Schmidt Schneider Fischer Weber Meyer Wagner Schulz Becker Hoffmann Bauer Brinkmann Brill Dietrich Erhard 
+                Grasser "von Gebser" "von Fritsch" "von Wrangel" "von Halkett" "von Boyen" "von Falkenstein" Dreyer Wolf Klein Richter
+                Schäfer Neumann Braun Schwarz Krüger Stein Keller Schubert Baumann Ziegler Brandt Sauer Kreutz Bergmeister Andbert 
+                Braun Strasse Schwarzenegger "von Hotzendorf" Weiss
             }
             regnal_first_names_male = {
                 Wilhelm Leopold Rudolf Freidrich Karl Ferdinand Franz Otto Johann
@@ -834,7 +900,7 @@ ui_extra_human_extended = {
                 Karling Hohenstaufen Welf Habsburg Luxemburg Wittelsbach Hohenzollern Sigmaringen
             }
         }
-        
+
         ###############################
         # FRENCH (2.42%)
         ###############################
@@ -842,13 +908,13 @@ ui_extra_human_extended = {
             weight = 3
             first_names_male = {
                 Philippe Pierre Jean-Marie Marcel Francois Hubert Paul Antoine Michel Henri Marc Jean Maurice René Claude Yves Jacques
-                Simon Olivier Joseph Robert Georges André Raymond Gaston Charles Thierry Guy Patrice Mathieu Jean-Francois Lucien Jean-Paul
-                Daniel Thibault Luc Dominic Sébastien Hugo Jamie Armand Gerard
+                Simon Olivier Joseph Robert Georges André Raymond Gaston Charles Thierry Guy Patrice Mathieu Jean-Francois Lucien
+                Jean-Paul Daniel Thibault Luc Dominic Sébastien Hugo Jamie Armand Gerard
             }
             first_names_female = {
                 Chloe Inés Manon Camille Clara Juliette Clémence Jeanne Charlotte Marie Nina Julia Elise Justine Yasmine Elina Andrea
-                Eleonore Clarisse Fanny Selma Leila Veronique Sophie Helena Daphne Suzanne Melanie Bernadette Maud Angeline Celine Jessica
-                Pauline Viviane Jeanette Margaret
+                Eleonore Clarisse Fanny Selma Leila Veronique Sophie Helena Daphne Suzanne Melanie Bernadette Maud Angeline Celine 
+                Jessica Pauline Viviane Jeanette Margaret
             }
             second_names = {
                 Martin Bernard Dubois Durand Leroy Moreau Lambert Dupont Leclerc Laurent Renard Tremblay Gagnon Roy Bouchard Gauthier
@@ -865,28 +931,28 @@ ui_extra_human_extended = {
                 Bourbon
             }
         }
-        
+
         ###############################
         # ITALIAN (1.90%)
         ###############################
         names10 = {
             weight = 2
             first_names_male = {
-                Mario Luigi Giovanni Guiseppe Antonio Roberto Andrea Stefano Marco Franscesco Angelo Vincenzo Pietro Salvatore Carlo Franco
-                Domenico Bruno Paulo Michele Giorgio Sergio Luciano Alessandro Alfonso Benito Fabrizio Cesare Enrico Gustavo Silvio Umberto
-                Nicola Matteo Ignazio Camillo Daniele Cristian Alberto Guido Lorenzo Tommaso Fabio Vittorio
+                Mario Luigi Giovanni Guiseppe Antonio Roberto Andrea Stefano Marco Franscesco Angelo Vincenzo Pietro Salvatore Carlo
+                Franco Domenico Bruno Paulo Michele Giorgio Sergio Luciano Alessandro Alfonso Benito Fabrizio Cesare Enrico Gustavo 
+                Silvio Umberto Nicola Matteo Ignazio Camillo Daniele Cristian Alberto Guido Lorenzo Tommaso Fabio Vittorio
             }
             first_names_female = {
                 Maria Anna Guiseppina Rosa Angela Giovanna Teresa Lucia Carmela Caterina Francesca Antonietta Carla Elena Concetta Rita
-                Margherita Franca Paola Vittoria Arianna Orietta Nicoletta Clara Stefania Gisella Claudia Lorenza Gabriella Isabella Valeria
-                Lucrezia Dina Benedetta Pietra
+                Margherita Franca Paola Vittoria Arianna Orietta Nicoletta Clara Stefania Gisella Claudia Lorenza Gabriella Isabella
+                Valeria Lucrezia Dina Benedetta Pietra
             }
             second_names = {
-                Rossi Russo Ferrari Bianchi Ricci Marino "De Luca" Costa Giordano Mancini Rizzo Lombardi Moretti Ravelli Conti Gallo Bello
-                Albricci Badoglio Cappello "Di Robilant" "Di Savoia" Garibaldi Saletta Pallavicino Pianelli Mambretti Marcuzzi Valeri Pezzaglia
-                Balletti Bianconelli Antonelli Corsini D'Alessandro D'Agostino "De Rosa" "De Sciglio" "Di Chiara" "Di Bartolomei" Delvecchio
-                "Del Grosso" D'Antoni Fazio "Di Bella" "Di Gennaro" Fabbrini Gambadori Galvani Marchetti Mazzitelli Olivieri Pacini Quadrini
-                Renzi Cadorna Scaletta Soprano
+                Rossi Russo Ferrari Bianchi Ricci Marino "De Luca" Costa Giordano Mancini Rizzo Lombardi Moretti Ravelli Conti Gallo 
+                Bello Albricci Badoglio Cappello "Di Robilant" "Di Savoia" Garibaldi Saletta Pallavicino Pianelli Mambretti Marcuzzi
+                Valeri Pezzaglia Balletti Bianconelli Antonelli Corsini D'Alessandro D'Agostino "De Rosa" "De Sciglio" "Di Chiara"
+                "Di Bartolomei" Delvecchio "Del Grosso" D'Antoni Fazio "Di Bella" "Di Gennaro" Fabbrini Gambadori Galvani Marchetti 
+                Mazzitelli Olivieri Pacini Quadrini Renzi Cadorna Scaletta Soprano
             }
             regnal_first_names_male = {
                 Mario Luigi Giovanni Enrico Gustavo Silvio Umberto
@@ -898,7 +964,7 @@ ui_extra_human_extended = {
                 Ferrari Bianchi Ricci Marino "De Luca" Costa Giordano
             }
         }
-        
+
         ###############################
         # ROMANIAN (0.77%)
         ###############################
@@ -906,90 +972,121 @@ ui_extra_human_extended = {
         names11 = {
             weight = 1
             first_names_male = {
-                ﻿Adam Adelin Adrian Alex Alexandru Alin Anatolie Andrei Anghel Anton Antonie Antoniu Apostol Arsenie Augustin Aurel Aurelian Avram Barbu Bogdan Cãlin Camil Carol
-                Casian Cãtãlin Cezar Ciprian Claudiu Codin Codrin Codruț Constantin Coriolan Cornel Corneliu Corvin Cosmin Costache Costin Cozma Crin Cristian Cristofor Dacian
-                Damian Dan Daniel Darian Darius David Decebal Denis Dimitrie Dinu Dorian Dorin Doru Dragomir Dragos Dumitru Eduard Eftimie Emanuel Emanuil Emil Emilian Enache
-                Eremia Eugen Eugeniu Fabian Felician Felix Filip Flaviu Flavius Florentin Florian Florin Gabriel Gavril Gelu George Ghenadie Gheorghe Ghițã Gica Glad Grațian
-                Grigore Horațiu Horea Horia Iacob Iancu Ieremia Ilarie Ilarion Ilie Ioan Ion Ionel Ionuț Iordache Iordan Iorghu Iosif Irinel Iulian Iuliu Iurie Iustin Iustinian
-                Lascãr Latcu Laur Laurențiu Laviniu Lazãr Leontin Licã Liviu Lorin Luca Lucian Lucrețiu Mãdãlin Manea Manole Manuel Marc Marcel Marcu Marian Marin Marinache Marius
-                Matei Maximilian Mihai Mihail Mihnea Mircea Mirel Miron Miticã Mitru Mitruț Moise Mugur Narcis Naum Nechifor Neculai Nelu Nichifor Nicoarã Nicolae Nicolaie Nicu
-                Niculae Niculaie Nicusor Nistor Octavian Olimpiu Oliviu Ovidiu Patriciu Paul Pavel Petre Petricã Petru Puiu Radu Rares Raul Rãzvan Relu Remus Robert Roman Romicã
-                Sabin Sandu Sebastian Serban Sergiu Sever Silviu Simion Sorin Spiru Stan Stefan Stelian Stroe Tache Teodor Tiberiu Timotei Titu Titus Toader Toma Traian Tudor Vadim
-                Valentin Valerian Valeriu Vasile Victor Vintilã Viorel Virgil Virgiliu Vlad Vladimir Vlaicu Voicu Zaharia Zamfir
+                Adam Adelin Adrian Alex Alexandru Alin Anatolie Andrei Anghel Anton Antonie Antoniu Apostol Arsenie Augustin Aurel 
+                Aurelian Avram Barbu Bogdan Cãlin Camil Carol Casian Cãtãlin Cezar Ciprian Claudiu Codin Codrin Codruț Constantin 
+                Coriolan Cornel Corneliu Corvin Cosmin Costache Costin Cozma Crin Cristian Cristofor Dacian Damian Dan Daniel Darian 
+                Darius David Decebal Denis Dimitrie Dinu Dorian Dorin Doru Dragomir Dragos Dumitru Eduard Eftimie Emanuel Emanuil Emil 
+                Emilian Enache Eremia Eugen Eugeniu Fabian Felician Felix Filip Flaviu Flavius Florentin Florian Florin Gabriel Gavril 
+                Gelu George Ghenadie Gheorghe Ghițã Gica Glad Grațian Grigore Horațiu Horea Horia Iacob Iancu Ieremia Ilarie Ilarion 
+                Ilie Ioan Ion Ionel Ionuț Iordache Iordan Iorghu Iosif Irinel Iulian Iuliu Iurie Iustin Iustinian Lascãr Latcu Laur 
+                Laurențiu Laviniu Lazãr Leontin Licã Liviu Lorin Luca Lucian Lucrețiu Mãdãlin Manea Manole Manuel Marc Marcel Marcu 
+                Marian Marin Marinache Marius Matei Maximilian Mihai Mihail Mihnea Mircea Mirel Miron Miticã Mitru Mitruț Moise Mugur 
+                Narcis Naum Nechifor Neculai Nelu Nichifor Nicoarã Nicolae Nicolaie Nicu Niculae Niculaie Nicusor Nistor Octavian 
+                Olimpiu Oliviu Ovidiu Patriciu Paul Pavel Petre Petricã Petru Puiu Radu Rares Raul Rãzvan Relu Remus Robert Roman 
+                Romicã Sabin Sandu Sebastian Serban Sergiu Sever Silviu Simion Sorin Spiru Stan Stefan Stelian Stroe Tache Teodor 
+                Tiberiu Timotei Titu Titus Toader Toma Traian Tudor Vadim Valentin Valerian Valeriu Vasile Victor Vintilã Viorel Virgil 
+                Virgiliu Vlad Vladimir Vlaicu Voicu Zaharia Zamfir
             }
             first_names_female = {
-                ﻿Adela Adelina Adina Adriana Agneta Alexandra Alina Alisia Amalia Amelia Ana Anamaria Anca Ancuța Anda Andra Andrada Andreea Aneta Antonia Aura Aurelia Aurica Aurora
-                Bianca Camelia Carina Carla Carmen Cãtãlina Clara Claudia Codruța Constanța Corina Cornelia Cosmina Crina Cristiana Cristina Daciana Dalina Dana Daniela Daria Delia
-                Denisa Diana Dochia Doina Dora Dorina Ecaterina Elena Elisabeta Elvira Emanuela Emilia Eugenia Eva Felicia Flavia Florentina Florica Florina Gabriela Geanina
-                Georgeta Georgiana Ileana Ilinca Ioana Ionela Irina Iulia Iuliana Izabela Larisa Laura Lavinia Lenuța Leontina Liana Lidia Ligia Liliana Lisa Livia Loredana Lorena
-                Luciana Lucreția Luiza Luminița Mãdãlina Magda Magdalena Maia Manuela Mara Marcela Margareta Maria Mariana Marilena Marina Marinela Marioara Mãrioara Mãriuca Marta
-                Melania Melisa Mihaela Milena Mioara Mirela Miruna Monica Morica Nadia Nadina Narcisa Natalia Nichita Nicoleta Niculina Nina Oana Octavia Olimpia Olivia Otilia
-                Patricia Paula Petra Petronela Petruța Rafaela Raluca Ramona Rebeca Renata Roberta Rodica Roxana Rozalia Ruxandra Sabina Sandra Saveta Silvia Simona Sofia Sonia
-                Sorina Stefana Stefania Stela Tamara Tatiana Teodora Valentina Valeria Valerica Veronica Victoria Viorica Voichița Zeina
+                Adela Adelina Adina Adriana Agneta Alexandra Alina Alisia Amalia Amelia Ana Anamaria Anca Ancuța Anda Andra Andrada 
+                Andreea Aneta Antonia Aura Aurelia Aurica Aurora Bianca Camelia Carina Carla Carmen Cãtãlina Clara Claudia Codruța 
+                Constanța Corina Cornelia Cosmina Crina Cristiana Cristina Daciana Dalina Dana Daniela Daria Delia Denisa Diana Dochia 
+                Doina Dora Dorina Ecaterina Elena Elisabeta Elvira Emanuela Emilia Eugenia Eva Felicia Flavia Florentina Florica 
+                Florina Gabriela Geanina Georgeta Georgiana Ileana Ilinca Ioana Ionela Irina Iulia Iuliana Izabela Larisa Laura Lavinia 
+                Lenuța Leontina Liana Lidia Ligia Liliana Lisa Livia Loredana Lorena Luciana Lucreția Luiza Luminița Mãdãlina Magda 
+                Magdalena Maia Manuela Mara Marcela Margareta Maria Mariana Marilena Marina Marinela Marioara Mãrioara Mãriuca Marta 
+                Melania Melisa Mihaela Milena Mioara Mirela Miruna Monica Morica Nadia Nadina Narcisa Natalia Nichita Nicoleta Niculina 
+                Nina Oana Octavia Olimpia Olivia Otilia Patricia Paula Petra Petronela Petruța Rafaela Raluca Ramona Rebeca Renata 
+                Roberta Rodica Roxana Rozalia Ruxandra Sabina Sandra Saveta Silvia Simona Sofia Sonia Sorina Stefana Stefania Stela 
+                Tamara Tatiana Teodora Valentina Valeria Valerica Veronica Victoria Viorica Voichița Zeina
             }
             second_names = {
-                ﻿Abrudan Aciubotariței Adam Adamache Adamesteanu Adamuț Adrianescu Adãmuț Agache Aiordãchioaiei Aiordãcioaei Alba Albescu Albu Albulescu Aldea Alecsandri Alecu
-                Alexandrescu Almãsan Alupoaei Alupoaiei Aluței Ambrozie Amânar Andone Andreescu Andreica Andronache Anghel Anghelache Anghelescu Angheluța Angheluțã Aniței Antohie
-                Antonescu Apetroaei Apostol Apostolescu Apostu Ardelean Ardeleanu Arghezi Argintaru Armasu Arãdeanu Arãpasu Atanasiu Augustin Averescu Avram Avramescu Bab Baba Babu
-                Baciu Bacovia Badea Baghiu Baicu Baiu Balauru Balc Balint Balițiu Balomirean Baltag Ban Banciu Banuț Bar Barbu Barbulescu Barițiu Barnuțiu Basarab Basarabeanu
-                Basarabescu Begu Beian Bejan Beldean Belea Beleanu Beleiu Belu Bendea Bendeac Bengescu Berbec Berbecu Berce Bercean Berceanu Berea Berinde Berlea Bihoreanu Birãu
-                Birsan Bizgan Blaga Blandiana Blidar Blidaru Blãjan Bob Boboc Bobu Boc Boca Bocea Bocean Bocuțiu Bocsan Bodea Boeriu Boga Bogdãnescu Boghean Bogza Boian Boiculese
-                Boieru Bolboacã Boldijar Boloca Bolojan Bolovãneanu Bolovãnescu Bondar Bordea Bordean Borha Borilã Boroi Borsan Bota Botezatu Botis Boureanu Bosca Bracaciu Brad
-                Bradea Bratu Brasovean Brasoveanu Brasovianu Breban Briciu Brumaru Brustur Brâncoveanu Brâncusi Brânzescu Brânzã Brînza Brãileanu Brãnescu Brãtianu Bucin Buciuman
-                Bucur Bucurean Bucureanu Bucurescu Bucsa Budescu Budisteanu Budnar Budnaru Bufnea Buha Buhai Bulzan Bulzean Bulzescu Bumbescu Bunea Bunãu Burciu Burcã Buric Burlacu
-                Busuioc Butacu Butan Bute Butean Butescu Butnariu Butnaru Butuc Buzea Buzescu Buzilã Buzã Bâldean Bârladeanu Bârlãdeanu Bâtã Bîrladeanu Bãdelițã Bãdescu Bãlan
-                Bãlcescu Bãlãceanu Bãlãnean Bãlãneanu Bãlãnescu Bãnicã Bãrceanu Bãrnuțiu Bãsescu Bãsãrãbeanu Bãsãrãbescu Bãtrân Caciulã Cacovean Cadis Cantemir Caragiale Caramitru
-                Cardei Catana Catargiu Cazac Cazacu Cazan Ceausescu Celan Cenan Ceoban Ceobanu Ceoca Cepoi Cercelaru Cernat Cernea Cernãu Cetinã Chelaru Chelu Chesãuan Chețan
-                Chiciudean Chioran Chiorean Chiriac Chirilã Chivu Chițu Cimpoi Cioarã Cioba Cioban Ciobanu Ciobotaru Ciobotea Cioca Cioci Cioculescu Ciolacu Cionca Cioran Ciorbã
-                Ciorei Ciorhan Ciorican Ciorogariu Cioroianu Ciortea Cios Cipcigan Ciubotaru Ciufudean Ciuhat Ciungu Ciupei Ciupit Ciupitu Ciurca Ciurcã Ciuta Cizmaru Coandã Coca
-                Cocan Cocis Cocos Codarcea Codrea Codreanu Codrescu Cojan Cojoc Cojocar Cojocariu Cojocaru Cojocean Colac Coman Comãneci Comãnescu Constandache Constantin
-                Constantinescu Constantinoiu Constãnțeanu Copaciu Copciuc Copil Copindean Copos Coposu Coprean Corbea Corbean Corbeanu Corbu Corda Cornea Corneanu Coroian Coroiu
-                Costan Coste Costea Costean Costeanu Costescu Costin Costiniu Cotan Cotoi Cotrus Cotuțiu Covaci Cozma Cozmei Cosbuc Cosofreț Coțofanã Crainic Craioveanu Cravã
-                Creangã Cretu Creț Crețu Cristea Cristescu Cristoiu Crivei Crivãț Crisan Crisanu Croitor Croitoru Cruceru Crudu Crãciun Crãciunas Crãciunean Crãmar Cucea Cucicea
-                Cuciureanu Cucuieț Culgheru Culianu Cumpãnas Cuza Cuțui Câmpanu Câmpean Câmpeanu Câmpian Cândea Cârjan Cârlan Cârlova Cârpar Cârstea Cîmpanu Cîmpean Cîmpeanu
-                Cîmpian Cîrjan Cîrlova Cîrpar Cîrstea Cãlinescu Cãlugãr Cãlugãreanu Cãlugãrescu Cãlugãru Cãrpar Cãrtãrescu Cãrãian Cãrãmidaru Cãstãian Cãtinean Damian Danciu Dascãl
-                Dascãlu Deac Deaconescu Decean Dej Dejeu Delean Deleanu Demian Densusianu Diacon Diaconescu Diaconu Dicã Dima Dimitrescu Dincu Dincuțã Dinescu Dinicã Dinu Diosan
-                Dirlãu Divricean Dobras Dobre Dobrea Dobrean Dobrescu Dobrilã Dobrița Dobrițã Dobrogeanu Dogaru Doja Dolãnescu Doroftei Dragnea Dragomir Dragomirescu Dragomiroiu
-                Dragu Drimba Drule Drãgan Drãganu Drãghiceanu Drãghicescu Drãghici Drãghicioiu Drãghinescu Drãgoi Dublesiu Ducã Duicã Dulgheru Duma Duminicã Dumitrache Dumitras
-                Dumitrescu Dusa Duțã Dâlcã Dârjan Dîrjan Dãrãban Dãscãlescu Eliade Eminescu Enache Ene Enea Enescu Epureanu Eremia Farcas Farcasianu Faur Fecioru Fedesan Felea
-                Fenesan Fericean Fericeanu Fericescu Fieraru Filimon Filimonescu Filip Filipas Filipciuc Filipescu Floare Florea Florescu Florinescu Floristean Floristeanu Flãmând
-                Focseanu Frumos Frumusanu Frunzã Frãtean Frãțilã Funar Furcã Fâsie Gabor Galbazã Gale Galea Galos Ganea Ganga Gavrilescu Gavriliu Gavriloae Gavriloaie Gavrilã
-                Geoanã Georgescu Gheorghe Gheorghel Gheorghescu Gheorghicã Gheorghiu Gherea Gherman Ghicã Ghilescu Ghimpu Ghiocel Ghiu Ghiurea Ghițea Gilãuan Giosan Giurean
-                Giureanu Giurescu Giurgiu Giurgiuveanu Gociu Godean Godeanu Godiac Goga Gogean Goia Goian Goldis Golea Grasu Graur Grecu Grigoras Grigoreanu Grigorescu Grigoriu
-                Grigoroiu Grivei Groparu Grosu Groza Grozea Grozeanu Grozescu Grãdinaru Gusa Gusã Gâlcã Gâsteanu Gâstescu Gãceanu Gãinã Gãlãteanu Hagi Halițã Halmãgean Han Handru
-                Hasdeu Hațieganu Herea Herãscu Herțeg Hodrea Hopârțean Horincar Hosu Hotea Hritcu Hudea Huidu Hule Hulea Hunedoreanu Hurducas Hurgoi Husar Huțanu Huțu Huțupan
-                Hãnescu Hãnganu Iacob Iacobeanu Iacobescu Iacovițã Iancu Iaru Iederan Iftimia Iga Ilas Ile Ilea Ilias Ilie Iliescu Ilies Inovan Ioaniciu Ioja Ionas Ionescu Ionițã
-                Iordache Iordãcheanu Iordãnescu Iorga Iosif Iova Irimescu Ispirescu Istrate Isãrescu Iuga Iurascu Iures Ivascu Ivãnescu Jalea Jianu Jinga Judean Jugaru Jurcã Labis
-                Laic Lascu Lascãr Latcu Latis Lazea Lazãr Lefter Lemnaru Lenga Leonte Lesenciuc Leu Leucuța Lincar Lincu Lipa Lipan Loghin Lovinescu Lozbã Luca Lucescu Ludusan
-                Luncan Lung Lungu Lup Lupas Lupe Lupean Lupeanu Lupescu Lupu Lupsa Lupse Lãcustã Lãcãtus Macaru Machin Macinic Macovei Macovescu Maior Maiorescu Manea Maniu
-                Manolache Manole Manoliu Marc Marchis Marcu Marculescu Margea Marian Marincas Marinescu Martinescu Marton Mateas Mateescu Matei Mates Maxim Mazilescu Medan Medrea
-                Melinescu Mergea Merisanu Merisescu Merluscã Mermeze Mesesan Micle Miclea Micu Micula Micuț Mihacea Mihalache Mihalcea Mihali Mihoc Mihu Mihuța Mihãescu Mihãilescu
-                Mihãilã Milescu Mincu Minea Minulescu Mircea Mircescu Miron Mironescu Miu Mizgan Mițu Mițulescu Mladin Mlendea Mocanu Moculeanu Moculescu Modoi Moga Moise Moisescu
-                Moisuc Moldovan Moldovanu Moldovean Moldoveanu Morar Morariu Moraru Morosan Morosan Morosanu Movilã Moț Mugurescu Muntean Munteanu Muntianu Murar Murariu Murea
-                Murescu Muresan Muresanu Muscã Mutu Musat Mândruleanu Mârza Mînzat Mîrza Mãlin Mãnescu Mãrgelaru Mãrginean Mãrgineanu Mãries Mãtãrângã Naum Nasca Neacsa Neacsu Neag
-                Neagoe Neagu Neamț Neamțu Neculce Neculcea Necsulescu Nedelcu Negoițescu Negrea Negrean Negreanu Negrescu Negrilã Negru Negruț Negruțiu Negrãu Negulescu Nemes
-                Nemoianu Nesa Nica Nichițescu Nicoarã Nicolescu Nicolãescu Niculescu Niculițã Nisipeanu Nistor Nițã Noica Nuțu Nãstase Oancea Oatu Olar Olaru Olinescu Oltean
-                Olteanu Onaciu Oncescu Oncioiu Onicescu Onisor Onița Onițiu Oprea Oprescu Opris Oros Orz Orza Orãdeanu Palade Palalogos Paleologu Pamfilie Panea Pantiru Pantofaru
-                Panã Paparã Parfene Paros Parțoc Pascal Pascu Pascã Pastiu Patriciu Pavel Pavelescu Pasc Pastiu Pelea Pescar Pescariu Pescaru Petrache Petran Petrascu Petrea
-                Petrean Petrescu Petric Petriceicu Petru Petrus Petrusel Petruțiu Piciu Picos Piersic Pincu Pinte Pintea Pintilie Pircãbulescu Pitaru Pitesteanu Pitu Pituț Pivaru
-                Pițigoi Pițurcã Pletea Plesa Plesu Ploiesteanu Plotuna Podar Podariu Poenaru Pogor Poienar Poienaru Pojar Pomohaci Ponor Ponorean Ponta Popa Popan Popescu Popovici
-                Popoviciu Porcar Porim Porumbescu Porumboiu Potcovaru Prahovean Prahoveanu Precup Preda Predoiu Prelipceanu Presecan Pribag Pribagu Prigoanã Proca Prodan Prodãnescu
-                Prunariu Prunaru Prunea Pruneanu Prunã Prutean Pruteanu Puiu Pupãzã Purcar Purdea Puscas Puscasu Pâncã Pârvan Pârvu Pârvulescu Pîrvan Pîrvu Pîrvulescu Pãcurar
-                Pãcuraru Pãdurar Pãdurariu Pãduraru Pãdurean Pãdureanu Pãlãcean Pãstor Pãtrascu Pãtrãscanu Pãulescu Pãun Pãunescu Racheru Racovițã Rarãu Raț Rațiu Rebengiuc
-                Rebreanu Retegan Rogojan Roman Romanu Român Românescu Rotar Rotaru Rotund Rozeanu Rosca Rosu Rudeanu Rujan Runcan Rus Rusescu Rusu Rãceanu Rãdeanu Rãdescu Rãdoi
-                Rãdoiu Rãducan Rãducanu Rãducioiu Rãdulescu Rãdãuțeanu Rãuț Sabãu Safta Saftoiu Sala Sandu Sas Sasu Sav Sava Savescu Savu Scrob Scrobota Scurtu Scurtuț Scutaru
-                Sebestean Selejan Sim Sima Similea Simionescu Sircã Slavici Soare Socaciu Socol Somesan Somesan Somesanu Sorescu Sorlea Spinean Spãtaru Spãtãcean Stan Stanciu
-                Stancu Stegerean Stejerean Stelea Sticlaru Stoenescu Stoian Stoica Stoicescu Stoleru Stolojan Stribei Stupariu Sturzoiu Stâncel Stâncã Stânã Stârcu Stîncel Stîrcu
-                Stãncel Stãnescu Stãniloae Stãniloaie Stãnoiu Stãnusoiu Suceveanu Suciu Surdu Sânã Sârb Sârbu Sârca Sãftoiu Sãlcudean Sãlãgeanu Sãlãjean Sãlãjeanu Sãndulescu
-                Sãpuneanu Sãrac Tabarcea Tabãrã Tamas Tarcea Tarcãu Tecuceanu Tecãu Telcian Tenisan Teodor Teodorescu Tighineanu Tilea Timis Timisoreanu Timofte Tincescu Titulescu
-                Tivadar Toader Tocut Todea Todoran Todoruț Toma Tomache Tomescu Tomoiagã Tonciu Topârceanu Topîrceanu Trahanache Traistã Trascã Trif Trifa Trifan Trifu Trofan
-                Trombițas Trâmbițas Trîmbițas Tudoran Tudorescu Tudoroiu Tudose Tulbure Tulea Tuns Tunsu Turcanu Turcescu Turcu Turian Tãmas Tãnase Tãnãsescu Tãriceanu Tãrâțã
-                Tãrîțã Tãtãran Tãtãranu Tãtãrean Tãtãreanu Tãtãrescu Tãtãrusanu Tãutu Udistean Udisteanu Udrea Ungur Ungureanu Ungurescu Ursache Ursachi Ursu Ursuța Urziceanu
-                Urzicã Urât Urâțescu Urît Urîțescu Usor Usurelu Vaida Vaina Valentin Vancea Vanciu Vancu Varga Variu Vasilescu Vasiliu Vasluianu Vedean Verde Veres Vesa Vianu
-                Vidican Vidrean Vieru Vinea Vintilã Vinț Viziru Visan Visinescu Vladimirescu Vlah Vlaicu Vlascu Vlãducu Vlãsceanu Vodã Voicu Voiculescu Voina Voinea Voinescu Voinic
-                Vorobeț Vrabie Vranciu Vrâncean Vrânceanu Vrîncean Vrînceanu Vulpe Vulpean Vulpes Vultur Vântu Vârtosu Vãcãrean Vãcãreanu Vãcãrescu Vãdan Vãduvã Vãlean Vãtãmãnescu
-                Zaharia Zaharie Zaiț Zaițuc Zamfir Zamfirescu Zbranca Zdrenghia Zegreanu Zelea Zgonea Zidaru Zisu Zugravu Zugrãvescu Zãgan Zãhãrescu Zãvoian Zãvoran Zãvoranu
-                Șaguna Samsodan Santa Seicaru Sendrea Serban Serbãnescu Sotropa Stefu Stefãnescu Stefãnoiu Stirb Stirbei Stirbu Sutu Țicã Țiriac Țugurlan Țurcã Țuțea Țãran Țãranu
+                Abrudan Aciubotariței Adam Adamache Adamesteanu Adamuț Adrianescu Adãmuț Agache Aiordãchioaiei Aiordãcioaei Alba 
+                Albescu Albu Albulescu Aldea Alecsandri Alecu Alexandrescu Almãsan Alupoaei Alupoaiei Aluței Ambrozie Amânar Andone 
+                Andreescu Andreica Andronache Anghel Anghelache Anghelescu Angheluța Angheluțã Aniței Antohie Antonescu Apetroaei 
+                Apostol Apostolescu Apostu Ardelean Ardeleanu Arghezi Argintaru Armasu Arãdeanu Arãpasu Atanasiu Augustin Averescu 
+                Avram Avramescu Bab Baba Babu Baciu Bacovia Badea Baghiu Baicu Baiu Balauru Balc Balint Balițiu Balomirean Baltag Ban 
+                Banciu Banuț Bar Barbu Barbulescu Barițiu Barnuțiu Basarab Basarabeanu Basarabescu Begu Beian Bejan Beldean Belea 
+                Beleanu Beleiu Belu Bendea Bendeac Bengescu Berbec Berbecu Berce Bercean Berceanu Berea Berinde Berlea Bihoreanu Birãu
+                Birsan Bizgan Blaga Blandiana Blidar Blidaru Blãjan Bob Boboc Bobu Boc Boca Bocea Bocean Bocuțiu Bocsan Bodea Boeriu 
+                Boga Bogdãnescu Boghean Bogza Boian Boiculese Boieru Bolboacã Boldijar Boloca Bolojan Bolovãneanu Bolovãnescu Bondar 
+                Bordea Bordean Borha Borilã Boroi Borsan Bota Botezatu Botis Boureanu Bosca Bracaciu Brad Bradea Bratu Brasovean 
+                Brasoveanu Brasovianu Breban Briciu Brumaru Brustur Brâncoveanu Brâncusi Brânzescu Brânzã Brînza Brãileanu Brãnescu 
+                Brãtianu Bucin Buciuman Bucur Bucurean Bucureanu Bucurescu Bucsa Budescu Budisteanu Budnar Budnaru Bufnea Buha Buhai 
+                Bulzan Bulzean Bulzescu Bumbescu Bunea Bunãu Burciu Burcã Buric Burlacu Busuioc Butacu Butan Bute Butean Butescu 
+                Butnariu Butnaru Butuc Buzea Buzescu Buzilã Buzã Bâldean Bârladeanu Bârlãdeanu Bâtã Bîrladeanu Bãdelițã Bãdescu Bãlan
+                Bãlcescu Bãlãceanu Bãlãnean Bãlãneanu Bãlãnescu Bãnicã Bãrceanu Bãrnuțiu Bãsescu Bãsãrãbeanu Bãsãrãbescu Bãtrân Cãciulã
+                Cacovean Cadis Cantemir Caragiale Caramitru Cardei Catana Catargiu Cazac Cazacu Cazan Ceausescu Celan Cenan Ceoban 
+                Ceobanu Ceoca Cepoi Cercelaru Cernat Cernea Cernãu Cetinã Chelaru Chelu Chesãuan Chețan Chiciudean Chioran Chiorean 
+                Chiriac Chirilã Chivu Chițu Cimpoi Cioarã Cioba Cioban Ciobanu Ciobotaru Ciobotea Cioca Cioci Cioculescu Ciolacu Cionca 
+                Cioran Ciorbã Ciorei Ciorhan Ciorican Ciorogariu Cioroianu Ciortea Cios Cipcigan Ciubotaru Ciufudean Ciuhat Ciungu 
+                Ciupei Ciupit Ciupitu Ciurca Ciurcã Ciuta Cizmaru Coandã Coca Cocan Cocis Cocos Codarcea Codrea Codreanu Codrescu Cojan
+                Cojoc Cojocar Cojocariu Cojocaru Cojocean Colac Coman Comãneci Comãnescu Constandache Constantin Constantinescu 
+                Constantinoiu Constãnțeanu Copaciu Copciuc Copil Copindean Copos Coposu Coprean Corbea Corbean Corbeanu Corbu Corda 
+                Cornea Corneanu Coroian Coroiu Costan Coste Costea Costean Costeanu Costescu Costin Costiniu Cotan Cotoi Cotrus Cotuțiu
+                Covaci Cozma Cozmei Cosbuc Cosofreț Coțofanã Crainic Craioveanu Cravã Creangã Cretu Creț Crețu Cristea Cristescu 
+                Cristoiu Crivei Crivãț Crisan Crisanu Croitor Croitoru Cruceru Crudu Crãciun Crãciunas Crãciunean Crãmar Cucea Cucicea
+                Cuciureanu Cucuieț Culgheru Culianu Cumpãnas Cuza Cuțui Câmpanu Câmpean Câmpeanu Câmpian Cândea Cârjan Cârlan Cârlova 
+                Cârpar Cârstea Cîmpanu Cîmpean Cîmpeanu Cîmpian Cîrjan Cîrlova Cîrpar Cîrstea Cãlinescu Cãlugãr Cãlugãreanu Cãlugãrescu 
+                Cãlugãru Cãrpar Cãrtãrescu Cãrãian Cãrãmidaru Cãstãian Cãtinean Damian Danciu Dascãl Dascãlu Deac Deaconescu Decean Dej
+                Dejeu Delean Deleanu Demian Densusianu Diacon Diaconescu Diaconu Dicã Dima Dimitrescu Dincu Dincuțã Dinescu Dinicã Dinu
+                Diosan Dirlãu Divricean Dobras Dobre Dobrea Dobrean Dobrescu Dobrilã Dobrița Dobrițã Dobrogeanu Dogaru Doja Dolãnescu 
+                Doroftei Dragnea Dragomir Dragomirescu Dragomiroiu Dragu Drimba Drule Drãgan Drãganu Drãghiceanu Drãghicescu Drãghici
+                Drãghicioiu Drãghinescu Drãgoi Dublesiu Ducã Duicã Dulgheru Duma Duminicã Dumitrache Dumitras Dumitrescu Dusa Duțã 
+                Dâlcã Dârjan Dîrjan Dãrãban Dãscãlescu Eliade Eminescu Enache Ene Enea Enescu Epureanu Eremia Farcas Farcasianu Faur 
+                Fecioru Fedesan Felea Fenesan Fericean Fericeanu Fericescu Fieraru Filimon Filimonescu Filip Filipas Filipciuc 
+                Filipescu Floare Florea Florescu Florinescu Floristean Floristeanu Flãmând Focseanu Frumos Frumusanu Frunzã Frãtean 
+                Frãțilã Funar Furcã Fâsie Gabor Galbazã Gale Galea Galos Ganea Ganga Gavrilescu Gavriliu Gavriloae Gavriloaie Gavrilã 
+                Geoanã Georgescu Gheorghe Gheorghel Gheorghescu Gheorghicã Gheorghiu Gherea Gherman Ghicã Ghilescu Ghimpu Ghiocel Ghiu
+                Ghiurea Ghițea Gilãuan Giosan Giurean Giureanu Giurescu Giurgiu Giurgiuveanu Gociu Godean Godeanu Godiac Goga Gogean 
+                Goia Goian Goldis Golea Grasu Graur Grecu Grigoras Grigoreanu Grigorescu Grigoriu Grigoroiu Grivei Groparu Grosu Groza 
+                Grozea Grozeanu Grozescu Grãdinaru Gusa Gusã Gâlcã Gâsteanu Gâstescu Gãceanu Gãinã Gãlãteanu Hagi Halițã Halmãgean Han 
+                Handru Hasdeu Hațieganu Herea Herãscu Herțeg Hodrea Hopârțean Horincar Hosu Hotea Hritcu Hudea Huidu Hule Hulea 
+                Hunedoreanu Hurducas Hurgoi Husar Huțanu Huțu Huțupan Hãnescu Hãnganu Iacob Iacobeanu Iacobescu Iacovițã Iancu Iaru 
+                Iederan Iftimia Iga Ilas Ile Ilea Ilias Ilie Iliescu Ilies Inovan Ioaniciu Ioja Ionas Ionescu Ionițã Iordache 
+                Iordãcheanu Iordãnescu Iorga Iosif Iova Irimescu Ispirescu Istrate Isãrescu Iuga Iurascu Iures Ivascu Ivãnescu Jalea 
+                Jianu Jinga Judean Jugaru Jurcã Labis Laic Lascu Lascãr Latcu Latis Lazea Lazãr Lefter Lemnaru Lenga Leonte Lesenciuc 
+                Leu Leucuța Lincar Lincu Lipa Lipan Loghin Lovinescu Lozbã Luca Lucescu Ludusan Luncan Lung Lungu Lup Lupas Lupe Lupean 
+                Lupeanu Lupescu Lupu Lupsa Lupse Lãcustã Lãcãtus Macaru Machin Macinic Macovei Macovescu Maior Maiorescu Manea Maniu 
+                Manolache Manole Manoliu Marc Marchis Marcu Marculescu Margea Marian Marincas Marinescu Martinescu Marton Mateas 
+                Mateescu Matei Mates Maxim Mazilescu Medan Medrea Melinescu Mergea Merisanu Merisescu Merluscã Mermeze Mesesan Micle 
+                Miclea Micu Micula Micuț Mihacea Mihalache Mihalcea Mihali Mihoc Mihu Mihuța Mihãescu Mihãilescu Mihãilã Milescu Mincu 
+                Minea Minulescu Mircea Mircescu Miron Mironescu Miu Mizgan Mițu Mițulescu Mladin Mlendea Mocanu Moculeanu Moculescu 
+                Modoi Moga Moise Moisescu Moisuc Moldovan Moldovanu Moldovean Moldoveanu Morar Morariu Moraru Morosan Morosan Morosanu
+                Movilã Moț Mugurescu Muntean Munteanu Muntianu Murar Murariu Murea Murescu Muresan Muresanu Muscã Mutu Musat 
+                Mândruleanu Mârza Mînzat Mîrza Mãlin Mãnescu Mãrgelaru Mãrginean Mãrgineanu Mãries Mãtãrângã Naum Nasca Neacsa Neacsu 
+                Neag Neagoe Neagu Neamț Neamțu Neculce Neculcea Necsulescu Nedelcu Negoițescu Negrea Negrean Negreanu Negrescu Negrilã
+                Negru Negruț Negruțiu Negrãu Negulescu Nemes Nemoianu Nesa Nica Nichițescu Nicoarã Nicolescu Nicolãescu Niculescu 
+                Niculițã Nisipeanu Nistor Nițã Noica Nuțu Nãstase Oancea Oatu Olar Olaru Olinescu Oltean Olteanu Onaciu Oncescu Oncioiu
+                Onicescu Onisor Onița Onițiu Oprea Oprescu Opris Oros Orz Orza Orãdeanu Palade Palalogos Paleologu Pamfilie Panea 
+                Pantiru Pantofaru Panã Paparã Parfene Paros Parțoc Pascal Pascu Pascã Pastiu Patriciu Pavel Pavelescu Pasc Pastiu Pelea
+                Pescar Pescariu Pescaru Petrache Petran Petrascu Petrea Petrean Petrescu Petric Petriceicu Petru Petrus Petrusel 
+                Petruțiu Piciu Picos Piersic Pincu Pinte Pintea Pintilie Pircãbulescu Pitaru Pitesteanu Pitu Pituț Pivaru Pițigoi 
+                Pițurcã Pletea Plesa Plesu Ploiesteanu Plotuna Podar Podariu Poenaru Pogor Poienar Poienaru Pojar Pomohaci Ponor 
+                Ponorean Ponta Popa Popan Popescu Popovici Popoviciu Porcar Porim Porumbescu Porumboiu Potcovaru Prahovean Prahoveanu 
+                Precup Preda Predoiu Prelipceanu Presecan Pribag Pribagu Prigoanã Proca Prodan Prodãnescu Prunariu Prunaru Prunea 
+                Pruneanu Prunã Prutean Pruteanu Puiu Pupãzã Purcar Purdea Puscas Puscasu Pâncã Pârvan Pârvu Pârvulescu Pîrvan Pîrvu 
+                Pîrvulescu Pãcurar Pãcuraru Pãdurar Pãdurariu Pãduraru Pãdurean Pãdureanu Pãlãcean Pãstor Pãtrascu Pãtrãscanu Pãulescu 
+                Pãun Pãunescu Racheru Racovițã Rarãu Raț Rațiu Rebengiuc Rebreanu Retegan Rogojan Roman Romanu Român Românescu Rotar 
+                Rotaru Rotund Rozeanu Rosca Rosu Rudeanu Rujan Runcan Rus Rusescu Rusu Rãceanu Rãdeanu Rãdescu Rãdoi Rãdoiu Rãducan 
+                Rãducanu Rãducioiu Rãdulescu Rãdãuțeanu Rãuț Sabãu Safta Saftoiu Sala Sandu Sas Sasu Sav Sava Savescu Savu Scrob 
+                Scrobota Scurtu Scurtuț Scutaru Sebestean Selejan Sim Sima Similea Simionescu Sircã Slavici Soare Socaciu Socol Somesan 
+                Somesan Somesanu Sorescu Sorlea Spinean Spãtaru Spãtãcean Stan Stanciu Stancu Stegerean Stejerean Stelea Sticlaru 
+                Stoenescu Stoian Stoica Stoicescu Stoleru Stolojan Stribei Stupariu Sturzoiu Stâncel Stâncã Stânã Stârcu Stîncel Stîrcu 
+                Stãncel Stãnescu Stãniloae Stãniloaie Stãnoiu Stãnusoiu Suceveanu Suciu Surdu Sânã Sârb Sârbu Sârca Sãftoiu Sãlcudean 
+                Sãlãgeanu Sãlãjean Sãlãjeanu Sãndulescu Sãpuneanu Sãrac Tabarcea Tabãrã Tamas Tarcea Tarcãu Tecuceanu Tecãu Telcian 
+                Tenisan Teodor Teodorescu Tighineanu Tilea Timis Timisoreanu Timofte Tincescu Titulescu Tivadar Toader Tocut Todea 
+                Todoran Todoruț Toma Tomache Tomescu Tomoiagã Tonciu Topârceanu Topîrceanu Trahanache Traistã Trascã Trif Trifa Trifan 
+                Trifu Trofan Trombițas Trâmbițas Trîmbițas Tudoran Tudorescu Tudoroiu Tudose Tulbure Tulea Tuns Tunsu Turcanu Turcescu
+                Turcu Turian Tãmas Tãnase Tãnãsescu Tãriceanu Tãrâțã Tãrîțã Tãtãran Tãtãranu Tãtãrean Tãtãreanu Tãtãrescu Tãtãrusanu 
+                Tãutu Udistean Udisteanu Udrea Ungur Ungureanu Ungurescu Ursache Ursachi Ursu Ursuța Urziceanu Urzicã Urât Urâțescu 
+                Urît Urîțescu Usor Usurelu Vaida Vaina Valentin Vancea Vanciu Vancu Varga Variu Vasilescu Vasiliu Vasluianu Vedean 
+                Verde Veres Vesa Vianu Vidican Vidrean Vieru Vinea Vintilã Vinț Viziru Visan Visinescu Vladimirescu Vlah Vlaicu Vlascu
+                Vlãducu Vlãsceanu Vodã Voicu Voiculescu Voina Voinea Voinescu Voinic Vorobeț Vrabie Vranciu Vrâncean Vrânceanu Vrîncean
+                Vrînceanu Vulpe Vulpean Vulpes Vultur Vântu Vârtosu Vãcãrean Vãcãreanu Vãcãrescu Vãdan Vãduvã Vãlean Vãtãmãnescu 
+                Zaharia Zaharie Zaiț Zaițuc Zamfir Zamfirescu Zbranca Zdrenghia Zegreanu Zelea Zgonea Zidaru Zisu Zugravu Zugrãvescu
+                Zãgan Zãhãrescu Zãvoian Zãvoran Zãvoranu Șaguna Samsodan Santa Seicaru Sendrea Serban Serbãnescu Sotropa Stefu 
+                Stefãnescu Stefãnoiu Stirb Stirbei Stirbu Sutu Țicã Țiriac Țugurlan Țurcã Țuțea Țãran Țãranu
             }
             regnal_first_names_male = {
                 Traian Mihai Carol Ferdinand Nicolae Mircea
@@ -1001,32 +1098,35 @@ ui_extra_human_extended = {
                 "de România"
             }
         }
-        
+
         ###############################
         #
         ###############################
         names12 = {
             weight = 1
-            
+
             first_names_male = {
-                Faraji Imamu Jelani Jengo Jumaane Khamisi Kibwe Mosi Mwenye Sefu Simba Tendaji Zuberi Abasi Annan Azizi Badru Bakari Bwana
-                Chane Chuma Enzi Faraji Hanisi Idi Issa Jabari Akani Aluwanip Ayanda Bambanani Bheka Bhekithemba Bhekizizwe Butholezwe Dikotsi 
-                Dzingai Esaia Hangwani Humbe Kabelo Khathu Khumbu Kutlwano Kwanele Lentswe Lesebo Letswalo Lutendo Mahlubandile Makalo Mareka 
-                Masingita Moeketsi Molapo Mosemotsane Motlalentwa Mothusi Msizi Mzwamadoda Nthofeela Oagile Paseka Phahamo Poloko Qukeza Refilwe 
-                Sanele S'bu Sehlolo Sekgolokhane Sibusiso Sizwe Teboho Thabiso Themba Thuso Tsebo T'sehla Tshawe Unathi Wandile Mbutu Kofi
+                Faraji Imamu Jelani Jengo Jumaane Khamisi Kibwe Mosi Mwenye Sefu Simba Tendaji Zuberi Abasi Annan Azizi Badru Bakari
+                Bwana Chane Chuma Enzi Faraji Hanisi Idi Issa Jabari Akani Aluwanip Ayanda Bambanani Bheka Bhekithemba Bhekizizwe 
+                Butholezwe Dikotsi Dzingai Esaia Hangwani Humbe Kabelo Khathu Khumbu Kutlwano Kwanele Lentswe Lesebo Letswalo Lutendo 
+                Mahlubandile Makalo Mareka Masingita Moeketsi Molapo Mosemotsane Motlalentwa Mothusi Msizi Mzwamadoda Nthofeela Oagile
+                Paseka Phahamo Poloko Qukeza Refilwe Sanele S'bu Sehlolo Sekgolokhane Sibusiso Sizwe Teboho Thabiso Themba Thuso Tsebo 
+                T'sehla Tshawe Unathi Wandile Mbutu Kofi
             }
             first_names_female = {
-                Asha Abla Adhra Adila Aeeshah Afiya Chausiku Eshe Furaha Imani Kamaria Marjani Mchumba Mwanajuma Nia Nuru Sanaa Sauda Subira 
-                Zuri Aizivaishe Anatswanashe Anodiwa Anokosha Awande Bokang Bongani Dikeledi Edzai Fikile Gugu Kagiso Keneuwe Koketso Langalibalele
-                Lerato Lindidwe Litsoanelo Lulama Majobo Maletsatsi Matshediso Mbali Mmaabo Mncedisi Mohau Moratuoa Muambiwa Nnyadzeni Nofoto
-                Nthati Ntsebo Ntswaki Phathu Reneilwe Rudzani Shandu Sinethemba Sizani Thanduxolo Tshanduko Tungu Zinhle
-            } 
+                Asha Abla Adhra Adila Aeeshah Afiya Chausiku Eshe Furaha Imani Kamaria Marjani Mchumba Mwanajuma Nia Nuru Sanaa Sauda 
+                Subira Zuri Aizivaishe Anatswanashe Anodiwa Anokosha Awande Bokang Bongani Dikeledi Edzai Fikile Gugu Kagiso Keneuwe 
+                Koketso Langalibalele Lerato Lindidwe Litsoanelo Lulama Majobo Maletsatsi Matshediso Mbali Mmaabo Mncedisi Mohau 
+                Moratuoa Muambiwa Nnyadzeni Nofoto Nthati Ntsebo Ntswaki Phathu Reneilwe Rudzani Shandu Sinethemba Sizani Thanduxolo 
+                Tshanduko Tungu Zinhle
+            }
             second_names = {
-                Azikiwe Awolowo Balewa Akintola Nzeogwu Onwuatuegwu Okeke Okonkwo Babangida Buhari Dimka Ibori Jomo-Gbomo Iwu Bamgboshe Biobaku
-                Tinibu Akinjide Akiloye Adeyemi Sekibo Bankole Nnamani Okadigbo Ironsi Ojukwu Chukwumereije Iweala Okonjo Gbadamosi Olanrewaju
-                Madaki Oyinlola Onyejekwe Jakande Ngige Uba Ohakim Alakija Onobanjo Mbanefo Mbadinuju Ekwensi Gowon Saro-Wiwa Naidoo Swanepoel 
-                Msibi Ngobese Ngema Masuku Khonjwayo Khumalo Kwayi Mambi Mbanjwa Mkhwemte Mtakwenda Ngwanya Nkwali Thwane Skhosana Tshangisa 
-                Tshonyane Xhamela Xoko Zangwa Ndungwane Bhukhwana Dzana Gatyeni Gxarha Jwarha Khawuta
+                Azikiwe Awolowo Balewa Akintola Nzeogwu Onwuatuegwu Okeke Okonkwo Babangida Buhari Dimka Ibori Jomo-Gbomo Iwu Bamgboshe
+                Biobaku Tinibu Akinjide Akiloye Adeyemi Sekibo Bankole Nnamani Okadigbo Ironsi Ojukwu Chukwumereije Iweala Okonjo 
+                Gbadamosi Olanrewaju Madaki Oyinlola Onyejekwe Jakande Ngige Uba Ohakim Alakija Onobanjo Mbanefo Mbadinuju Ekwensi 
+                Gowon Saro-Wiwa Naidoo Swanepoel Msibi Ngobese Ngema Masuku Khonjwayo Khumalo Kwayi Mambi Mbanjwa Mkhwemte Mtakwenda 
+                Ngwanya Nkwali Thwane Skhosana Tshangisa Tshonyane Xhamela Xoko Zangwa Ndungwane Bhukhwana Dzana Gatyeni Gxarha Jwarha
+                Khawuta
             }
             regnal_first_names_male = {
                 Faraji Imamu Jelani Jengo Jumaane Khamisi Kwanele Lentswe Lesebo Letswalo Lutendo Mahlubandile Makalo Mareka
@@ -1038,49 +1138,57 @@ ui_extra_human_extended = {
                 Azikiwe Awolowo Balewa Akintola Nzeogwu Onwuatuegwu
             }
         }
-        
+
         ###############################
         # LATIN (0%)
         ###############################
         names13 = {
             weight = 1
-            
+
             first_names_male = {
-                Appius Aulus Decimus Gaius Gnaeus Lucius Manius Marcus Numerius Publius Quintus Servius Sextus Spurius Tiberius Titus Vibius
+                Appius Aulus Decimus Gaius Gnaeus Lucius Manius Marcus Numerius Publius Quintus Servius Sextus Spurius Tiberius Titus 
+                Vibius
             }
             first_names_female = {
                 Appia Aula Decima Gaia Gnaea Lucia Mania Marca Numeria Publia Quinta Servia Sexta Spuria Tiberia Tita Vibia
             }
             second_names = {
-                Aculeo Agricola Agrippa Ahala Ahenobarbus Albinus Albus Ambustus Annalis Aquila Aquilinus Arvina Asellio Asina Atellus Avitus Baestia Balbus Barba
-                Barbatus Bassus Bibaculus Bibulus Blaesus Brocchus Brutus Bubulcus Bucco Bulbus Buteo Caecus Caepio Caesar Calidus Calvinus Calvus Camillus Caninus
-                Canus Capito Carbo Catilina Cato Catulus Celer Celsus Cethegus Cicero Cicurinus Cilo Cincinnatus Cinna Cordus Cornicen Cornutus Corvinus Corvus Cossus
-                Costa Cotta Crassipes Crassus Crispinus Crispus Culleo Curio Cursor Curvus Dentatus Denter Dento Dives Dolabella Dorsuo Drusus Figulus Fimbria Flaccus
-                Flavus Florus Fronto Fullo Fusus Galeo Gemellus Glabrio Gracchus Gurges Habitus Helva Imperiosus Iulius Labeo Lactuca Laenas Laevinus Lanatus Laterensis
-                Lentulus Lepidus Libo Licinus Longus Lucullus Lupus Lurco Macula Malleolus Mamercus Marcellus Maro Merenda Mergus Merula Messalla Metellus Murena Mus
-                Musca Nasica Naso Natta Nepos Nero Nerva Niger Novellus Ocella Pacilus Paetus Pansa Papus Paterculus Paullus Pavo Pera Pictor Piso Plancus Plautus
-                Poplicola Postumus Potitus Praeconinus Praetextatus Priscus Proculus Publicola Pulcher Pullus Pulvillus Purpureo Quadratus Ralla Regillus Regulus Rufus
-                Ruga Rullus Rutilus Salinator Saturninus Scaeva Scaevola Scapula Scaurus Scipio Scrofa Seneca Severus Silanus Silo Silus Stolo Strabo Structus Sulla
-                Sura Taurus Triarius Trigeminus Trio Tubero Tubertus Tubulus Tuditanus Tullus Turdus Varoo Varus Vatia Verres Vespillo Vetus Vitulus Volusus
+                Aculeo Agricola Agrippa Ahala Ahenobarbus Albinus Albus Ambustus Annalis Aquila Aquilinus Arvina Asellio Asina Atellus
+                Avitus Baestia Balbus Barba Barbatus Bassus Bibaculus Bibulus Blaesus Brocchus Brutus Bubulcus Bucco Bulbus Buteo 
+                Caecus Caepio Caesar Calidus Calvinus Calvus Camillus Caninus Canus Capito Carbo Catilina Cato Catulus Celer Celsus 
+                Cethegus Cicero Cicurinus Cilo Cincinnatus Cinna Cordus Cornicen Cornutus Corvinus Corvus Cossus Costa Cotta Crassipes
+                Crassus Crispinus Crispus Culleo Curio Cursor Curvus Dentatus Denter Dento Dives Dolabella Dorsuo Drusus Figulus 
+                Fimbria Flaccus Flavus Florus Fronto Fullo Fusus Galeo Gemellus Glabrio Gracchus Gurges Habitus Helva Imperiosus Iulius
+                Labeo Lactuca Laenas Laevinus Lanatus Laterensis Lentulus Lepidus Libo Licinus Longus Lucullus Lupus Lurco Macula
+                Malleolus Mamercus Marcellus Maro Merenda Mergus Merula Messalla Metellus Murena Mus Musca Nasica Naso Natta Nepos Nero
+                Nerva Niger Novellus Ocella Pacilus Paetus Pansa Papus Paterculus Paullus Pavo Pera Pictor Piso Plancus Plautus
+                Poplicola Postumus Potitus Praeconinus Praetextatus Priscus Proculus Publicola Pulcher Pullus Pulvillus Purpureo 
+                Quadratus Ralla Regillus Regulus Rufus Ruga Rullus Rutilus Salinator Saturninus Scaeva Scaevola Scapula Scaurus Scipio
+                Scrofa Seneca Severus Silanus Silo Silus Stolo Strabo Structus Sulla Sura Taurus Triarius Trigeminus Trio Tubero
+                Tubertus Tubulus Tuditanus Tullus Turdus Varoo Varus Vatia Verres Vespillo Vetus Vitulus Volusus
             }
 
             regnal_first_names_male = {
-                Appius Aulus Decimus Gaius Gnaeus Lucius Manius Marcus Numerius Publius Quintus Servius Sextus Spurius Tiberius Titus Vibius
+                Appius Aulus Decimus Gaius Gnaeus Lucius Manius Marcus Numerius Publius Quintus Servius Sextus Spurius Tiberius Titus 
+                Vibius
             }
             regnal_first_names_female = {
                 Appia Aula Decima Gaia Gnaea Lucia Mania Marca Numeria Publia Quinta Servia Sexta Spuria Tiberia Tita Vibia
             }
             regnal_second_names = {
-                Aculeo Agricola Agrippa Ahala Ahenobarbus Albinus Albus Ambustus Annalis Aquila Aquilinus Arvina Asellio Asina Atellus Avitus Baestia Balbus Barba
-                Barbatus Bassus Bibaculus Bibulus Blaesus Brocchus Brutus Bubulcus Bucco Bulbus Buteo Caecus Caepio Caesar Calidus Calvinus Calvus Camillus Caninus
-                Canus Capito Carbo Catilina Cato Catulus Celer Celsus Cethegus Cicero Cicurinus Cilo Cincinnatus Cinna Cordus Cornicen Cornutus Corvinus Corvus Cossus
-                Costa Cotta Crassipes Crassus Crispinus Crispus Culleo Curio Cursor Curvus Dentatus Denter Dento Dives Dolabella Dorsuo Drusus Figulus Fimbria Flaccus
-                Flavus Florus Fronto Fullo Fusus Galeo Gemellus Glabrio Gracchus Gurges Habitus Helva Imperiosus Iulius Labeo Lactuca Laenas Laevinus Lanatus Laterensis
-                Lentulus Lepidus Libo Licinus Longus Lucullus Lupus Lurco Macula Malleolus Mamercus Marcellus Maro Merenda Mergus Merula Messalla Metellus Murena Mus
-                Musca Nasica Naso Natta Nepos Nero Nerva Niger Novellus Ocella Pacilus Paetus Pansa Papus Paterculus Paullus Pavo Pera Pictor Piso Plancus Plautus
-                Poplicola Postumus Potitus Praeconinus Praetextatus Priscus Proculus Publicola Pulcher Pullus Pulvillus Purpureo Quadratus Ralla Regillus Regulus Rufus
-                Ruga Rullus Rutilus Salinator Saturninus Scaeva Scaevola Scapula Scaurus Scipio Scrofa Seneca Severus Silanus Silo Silus Stolo Strabo Structus Sulla
-                Sura Taurus Triarius Trigeminus Trio Tubero Tubertus Tubulus Tuditanus Tullus Turdus Varoo Varus Vatia Verres Vespillo Vetus Vitulus Volusus
+                Aculeo Agricola Agrippa Ahala Ahenobarbus Albinus Albus Ambustus Annalis Aquila Aquilinus Arvina Asellio Asina Atellus
+                Avitus Baestia Balbus Barba Barbatus Bassus Bibaculus Bibulus Blaesus Brocchus Brutus Bubulcus Bucco Bulbus Buteo 
+                Caecus Caepio Caesar Calidus Calvinus Calvus Camillus Caninus Canus Capito Carbo Catilina Cato Catulus Celer Celsus 
+                Cethegus Cicero Cicurinus Cilo Cincinnatus Cinna Cordus Cornicen Cornutus Corvinus Corvus Cossus Costa Cotta Crassipes
+                Crassus Crispinus Crispus Culleo Curio Cursor Curvus Dentatus Denter Dento Dives Dolabella Dorsuo Drusus Figulus 
+                Fimbria Flaccus Flavus Florus Fronto Fullo Fusus Galeo Gemellus Glabrio Gracchus Gurges Habitus Helva Imperiosus Iulius 
+                Labeo Lactuca Laenas Laevinus Lanatus Laterensis Lentulus Lepidus Libo Licinus Longus Lucullus Lupus Lurco Macula 
+                Malleolus Mamercus Marcellus Maro Merenda Mergus Merula Messalla Metellus Murena Mus Musca Nasica Naso Natta Nepos Nero
+                Nerva Niger Novellus Ocella Pacilus Paetus Pansa Papus Paterculus Paullus Pavo Pera Pictor Piso Plancus Plautus 
+                Poplicola Postumus Potitus Praeconinus Praetextatus Priscus Proculus Publicola Pulcher Pullus Pulvillus Purpureo 
+                Quadratus Ralla Regillus Regulus Rufus Ruga Rullus Rutilus Salinator Saturninus Scaeva Scaevola Scapula Scaurus Scipio
+                Scrofa Seneca Severus Silanus Silo Silus Stolo Strabo Structus Sulla Sura Taurus Triarius Trigeminus Trio Tubero 
+                Tubertus Tubulus Tuditanus Tullus Turdus Varoo Varus Vatia Verres Vespillo Vetus Vitulus Volusus
             }
         }
     }
