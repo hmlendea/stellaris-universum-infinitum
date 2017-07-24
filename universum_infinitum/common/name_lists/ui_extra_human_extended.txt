@@ -143,6 +143,9 @@ ui_extra_human_extended = {
         research_station = {
             # From StarCraft
             "Skygeirr Platform" "Castanar Installation" Prometheus "Immortal Forge"
+            
+            # From Fallout
+            "Helios One"
         }
 
         wormhole_station = {
@@ -153,10 +156,14 @@ ui_extra_human_extended = {
 
         outpost_station = {
             "Far Reach" Watchtower Sphered Influential Assertion SPACERAD "Watchful Eye" Sentinel Demarcator "Frontier Finalizer"
-            "Ever Watchful" Divider Bastion "Home Turf" Wide
+            "Ever Watchful" Divider Bastion "Home Turf" Wide "New Frontier" Solitude Echo "New Horizon" "Far Harbor" Forward Silence
+            Lonely "Lone Wolf" Lighthouse Checkpoint
 
             # From StarCraft
             Dylar
+            
+            # From other games
+            "No Man's Sky"
         }
 
         transport = {
@@ -194,6 +201,14 @@ ui_extra_human_extended = {
     ship_class_names = {
         generic = {
             Human # This is put here solely as a placeholder
+            
+            # Real-world aircraft manufacturers
+            Boeing Airbus "Lockheed Martin" Raytheon Safran "Rolls-Royce"
+            
+            # Nations
+            American German French Italian Spanish British English Scottish Irish Belgian Dutch Norwegian Swedish Polish Romanian 
+            Bulgarian Hungarian Moldovan Czech Croatian Serbian Bosnian Slovakian Slovenian Ukrainian Lithuanian Estonian Latvian 
+            European African Asian Chinese Japanese Korean Russian Greek Turkish Mexican Canadian Australian Zeelandian Thai 
         }
 
         corvette = {
@@ -226,6 +241,8 @@ ui_extra_human_extended = {
         }
 
         colonizer = {
+            # Real-world aircraft manufacturers
+            Airbus Boeing Bombardier Embraer Tupoloev
         }
 
         science = {
@@ -252,6 +269,9 @@ ui_extra_human_extended = {
         }
 
         transport = {
+            # Real-world aircraft manufacturers
+            Airbus Boeing Bombardier Embraer Tupoloev
+            
             # From StarCraft
             Mammoth Cyrus Gladiator Hydrus
 
@@ -274,7 +294,7 @@ ui_extra_human_extended = {
             "The Hoplite Fleet" "The Phalanx Fleet" "The Centurion Fleet" "The Immortal Fleet" "The Knight Fleet" "The Archer Fleet"
             "The Cavalry Fleet" "The Lancer Fleet" "The Landsknechte Fleet" "The Gendarme Fleet" "The Arquebusier Fleet"
             "The Tercio Fleet" "The Musketeer Fleet" "The Millenial Fleet" "The Solar Sails" "The Dorobant Fleet"
-            "The Praetorian Fleet"
+            "The Praetorian Fleet" "The Falxmen Fleet"
         }
         sequential_name = "%O% Fleet"
     }
@@ -334,6 +354,7 @@ ui_extra_human_extended = {
             random_names = {
                 "SARC-A 'Gladiators'" "SARC-B 'Widowmakers'" "SARC-C 'Immortals'" "SARC-D 'Berserkers'" "SARC-E 'Assassins'"
                 "SARC-F 'Reapers'" "SARC-G 'Nighthawks'" "SARC-H 'Desperados'" "SARC-I 'Grey Knights'" "SARC-J 'Roughnecks'"
+                "SARC-K 'Purgers'" "SARC-L 'Lawnmowers'" "SARC-M 'Steamrollers'" "SARC-N 'Dark Knights'" "SARC-O 'Templars'"
             }
             sequential_name = "%O% Bio-Engineered Squadron"
         }
@@ -346,7 +367,7 @@ ui_extra_human_extended = {
                 Anchor Dis Avalon Bounty Hope Olympia Serendipity Spring Thinis Salaam Xianyang Concord Theia Tuscany Wenzhou  
                 Delgovicia "Wang Tong" Al-Jissa Al-Mada'in Al-Nuqayrah Al-Karak Al-Matabbah "Las Veredas" "San Lucas" "San Fernando" 
                 "San Cristóbal" "Nueva Sonora" "Puerto González" Nozomi Akatsuki "Nueva Cádiz" "La Isabela" "St. Yegorov" "St. Pomeroy"
-                "Port Karakosov" Destiny Terminus Liber Columbus Camelot Kolob Albatross
+                "Port Karakosov" Destiny Terminus Liber Columbus Camelot Kolob Albatross Solitude
 
                 # Gods
                 Minerva Apollo
@@ -411,8 +432,10 @@ ui_extra_human_extended = {
 
         pc_gaia = {
             names = {
-                Eden Elysium Cornucopia Utopia Shambhala Xanadu Shangri-La "El Dorado" Fortuna Arcadia Nymphaea Cockaigne Nysa 
-                Splendoria Terraria
+                Eden Elysium Cornucopia Utopia Shambhala Xanadu Shangri-La Fortuna Arcadia Nymphaea Cockaigne Nysa Splendoria Terraria
+                
+                # Religious or mythological
+                "Holy Grail" "El Dorado"
 
                 # "Heaven" in different languages
                 Taevas Paradiso Caelum Himlen
@@ -428,8 +451,8 @@ ui_extra_human_extended = {
         pc_ocean = {
             names = {
                 Atlantis Oceania Pacifica Atlantica Euxina Hyrcania Rubrica Erythraea Baltica R'lyeh Dagon Kraken Aegea Adriatica 
-                Tyrrhenia Mediterranea Mare "Port Rabcewicz" Ningbo Caspica Hydra Danubia Coralia Aquarius Lochness Oceanus
-
+                Tyrrhenia Mediterranea Mare "Port Rabcewicz" Ningbo Caspia Hydra Danubia Coralia Aquarius Lochness Oceanus Azovia
+                
                 # From StarCraft
                 Pridewater
 
@@ -474,7 +497,7 @@ ui_extra_human_extended = {
 
         pc_alpine = {
             names = {
-                "The Rock" Rockrest
+                "The Rock" Rockrest Boulder
 
                 # Places from Earth / adaptations of them
                 Alpina Carpathia "New Himalaya" Everest Olympus "Raven Rock" Uralia Rockrest Muntenia
@@ -495,7 +518,7 @@ ui_extra_human_extended = {
                 Mordor
 
                 # Biblic/mythological settlements, places, etc
-                Hel Sodoma Gomorra Hades Draconia Dracula Tartarus Erebus Cerberus Diyu Irkalla Muspelheim Xibalba Yomi
+                Hel Sodoma Gomorrah Hades Draconia Dracula Tartarus Erebus Cerberus Diyu Irkalla Muspelheim Xibalba Yomi
 
                 # From StarCraft
                 Char
