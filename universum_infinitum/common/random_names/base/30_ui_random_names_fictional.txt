@@ -1981,15 +1981,18 @@ nebula_names = {
     "Dacia Nebula"
     "Dracones Nebula"
     "Getic Clouds"
-    "Lotus Flairs"
-    "Mammoth Nebula"
     "Mlendea Nebula"
-    "Rubine Nebula"
     "Teleorman Nebula"
-    "Sandstorm Nebula"
     "Sanguine Nebula"
     "Vampire Nebula"
     "Dracula Nebula"
+
+    ### DARK PIRATES ###
+    "Green Hell"
+    "Lotus Flairs"
+    "Mammoth Nebula"
+    "Rubine Nebula"
+    "Sandstorm Nebula"
 
     ### Doctor Who ###
     "Andrallis Nebula"
