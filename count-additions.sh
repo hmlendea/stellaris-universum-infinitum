@@ -20,7 +20,7 @@ TILE_BLOCKERS_DIR="$MOD_DIR/tile_blockers"
 # ACTUAL COUNTING
 ANOMALIES_COUNT=
 BUILDINGS_COUNT=
-CELESTIAL_BODIES_COUNT=$(cat $CELESTIAL_BODIES_DIR/* | sed '/^\s*$\|=\|}/d' | uniq | wc -l)
+CELESTIAL_BODIES_COUNT=$(cat $CELESTIAL_BODIES_DIR/* | sed 's/ //g' | sed '/^\s*$\|=\|}\|^#/d' | uniq | wc -l)
 FLAG_BACKGROUNDS_COUNT=$(ls $FLAG_BACKGROUNDS_DIR | wc -l)
 FLAG_SYMBOLS_COUNT=$(find $FLAG_DIR -maxdepth 2 -type f | grep -v "^$FLAG_BACKGROUNDS_DIR" | wc -l)
 GALAXY_SIZES_COUNT=$(ls $GALAXY_SIZES_DIR | wc -l)
