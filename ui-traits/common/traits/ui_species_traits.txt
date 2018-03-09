@@ -2,6 +2,8 @@ ui_trait_urban = {
 	cost = -2
 	opposites = { "trait_agrarian" "ui_trait_subterranean" }
 	
+	allowed_archetypes = { BIOLOGICAL }
+	
 	modifier = {
 		tile_resource_food_mult = -0.15
 	}
@@ -10,6 +12,8 @@ ui_trait_urban = {
 ui_trait_subterranean = {
 	cost = 0
 	opposites = { "trait_agrarian" "ui_trait_urban" }
+	
+	allowed_archetypes = { BIOLOGICAL }
 	
 	modifier = {
 		pop_environment_tolerance = 0.05
@@ -31,6 +35,8 @@ ui_trait_lazy = {
 	cost = -2
 	opposites = { "trait_industrious" }
 	
+	allowed_archetypes = { BIOLOGICAL }
+	
 	modifier = {
 		tile_resource_minerals_mult = -0.15
 	}
@@ -39,6 +45,8 @@ ui_trait_lazy = {
 ui_trait_dumb = {
 	cost = -2
 	opposites = { "trait_intelligent" "trait_nerve_stapled" "trait_erudite" }
+	
+	allowed_archetypes = { BIOLOGICAL }
 	
 	modifier = {
 		tile_resource_engineering_research_mult = -0.1
@@ -51,6 +59,8 @@ ui_trait_poor_engineers = {
 	cost = -1
 	opposites = { "ui_trait_poor_physicists" "ui_trait_poor_sociologists" "trait_natural_engineers" "trait_nerve_stapled" }
 	
+	allowed_archetypes = { BIOLOGICAL }
+	
 	modifier = {
 		tile_resource_engineering_research_mult = -0.15
 	}
@@ -59,6 +69,8 @@ ui_trait_poor_engineers = {
 ui_trait_poor_physicists = {
 	cost = -1
 	opposites = { "ui_trait_poor_engineers" "ui_trait_poor_sociologists" "trait_natural_physicists" "trait_nerve_stapled" }
+	
+	allowed_archetypes = { BIOLOGICAL }
 	
 	modifier = {
 		tile_resource_physics_research_mult = -0.15
@@ -69,6 +81,8 @@ ui_trait_poor_sociologists = {
 	cost = -1
 	opposites = { "ui_trait_poor_physicists" "ui_trait_poor_engineers" "trait_natural_sociologists" "trait_nerve_stapled" }
 	
+	allowed_archetypes = { BIOLOGICAL }
+	
 	modifier = {
 		tile_resource_society_research_mult = -0.15
 	}
@@ -77,6 +91,8 @@ ui_trait_poor_sociologists = {
 ui_trait_very_adaptive = {
 	cost = 3
 	opposites = { "trait_nonadaptive" "trait_adaptive" "trait_extremely_adaptive" "trait_robust"}
+	
+	allowed_archetypes = { BIOLOGICAL }
 	
 	modifier = {
 		pop_environment_tolerance = 0.15
@@ -87,6 +103,8 @@ ui_trait_brave = {
 	cost = 2
 	opposites = { "ui_trait_craven" }
 	
+	allowed_archetypes = { BIOLOGICAL }
+	
 	modifier = {
 		army_morale = 0.15
 		army_damage_mult = 0.15
@@ -96,6 +114,8 @@ ui_trait_brave = {
 ui_trait_craven = {
 	cost = -2
 	opposites = { "ui_trait_brave" "ui_trait_violent" }
+	
+	allowed_archetypes = { BIOLOGICAL }
 	
 	modifier = {
 		army_morale = -0.15
@@ -124,6 +144,8 @@ ui_trait_violent = {
 	}
 	opposites = { "ui_trait_craven" }
 	
+	allowed_archetypes = { BIOLOGICAL }
+	
     modifier = {
         army_damage_mult = 0.1
         pop_growth_speed = -0.1
@@ -134,6 +156,8 @@ ui_trait_deceitful = {
 	cost = 2
 	opposites = { "ui_trait_trusting" }
 	
+	allowed_archetypes = { BIOLOGICAL }
+	
 	modifier = {
 		country_resource_influence_add = 1
 	}
@@ -142,6 +166,8 @@ ui_trait_deceitful = {
 ui_trait_trusting = {
 	cost = -2
 	opposites = { "ui_trait_deceitful" }
+	
+	allowed_archetypes = { BIOLOGICAL }
 	
 	modifier = {
 		country_resource_influence_add = -1
@@ -152,6 +178,8 @@ ui_trait_optimistic = {
 	cost = 1
 	opposites = { "ui_trait_pessimistic" }
 	
+	allowed_archetypes = { BIOLOGICAL }
+	
 	modifier = {
 		pop_happiness = 0.05
 	}
@@ -161,6 +189,8 @@ ui_trait_pessimistic = {
 	cost = -1
 	opposites = { "ui_trait_optimistic" }
 	
+	allowed_archetypes = { BIOLOGICAL }
+	
 	modifier = {
 		pop_happiness = -0.05
 	}
@@ -169,6 +199,8 @@ ui_trait_pessimistic = {
 ui_trait_agile = {
   cost = 2
 	opposites = { "ui_trait_sluggish" }
+	
+	allowed_archetypes = { BIOLOGICAL }
   
   modifier = {
     weapon_type_kinetic_weapon_fire_rate_mult = 0.05
@@ -180,6 +212,8 @@ ui_trait_agile = {
 ui_trait_sluggish = {
   cost = -2
 	opposites = { "ui_trait_agile" }
+	
+	allowed_archetypes = { BIOLOGICAL }
   
   modifier = {
     weapon_type_kinetic_weapon_fire_rate_mult = -0.05
@@ -190,6 +224,8 @@ ui_trait_sluggish = {
 
 ui_trait_cannibalistic = {
     cost = 0
+	
+	allowed_archetypes = { BIOLOGICAL }
     
     modifier = {
         pop_food_req_mult = -0.1
