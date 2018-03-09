@@ -28,10 +28,6 @@
  tech_mine_ui_stiriacus_desc:1 "This gel is a naturally ocurring cryogenic preservant on some frozen worlds. It can be used to safely keep organisms frozen for extended periods of time, like food and colonists."
  tech_ui_barren_terraforming:0 "Barren World Terraformation"
  tech_ui_barren_terraforming_desc:1 "Allows us to create a whole new, livable world, out of a lifeless space rock.\n\n"
- tech_ui_magnetic_field_enhancement:0 "Magnetic Field Enhancement"
- tech_ui_magnetic_field_enhancement_desc:1 "Allows us to enhance the magnatic field of world where the natural one is too weak.\n\n"
- tech_ui_magnetic_field_generation:0 "Magnetic Field Generation"
- tech_ui_magnetic_field_generation_desc:1 "Allows us to generate an entire planetary magnetic field on worlds where there is none.\n\n"
  tech_ui_ringworld_restoration:0 "Damaged Ringworld Restoration"
  tech_ui_ringworld_restoration_desc:1 "Allows us to restore damaged sections of the ancient ringworlds.\n\n"
 
