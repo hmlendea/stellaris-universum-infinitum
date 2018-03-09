@@ -4,12 +4,6 @@
  TECH_UNLOCK_TERRAFORMING_UI_RINGWORLD_DAMAGED_CHANGE_TITLE:0 "§HUnlocks Feature:§! Damaged Ringworld Restoration"
  TECH_UNLOCK_TERRAFORMING_UI_RINGWORLD_DAMAGED_CHANGE_DESC:1 "§HDamaged Ringworld Restoration§!\nAllows us to restore damaged sections of the ancient ringworlds."
 
- tech_tb_ui_giant_earthworms:0 "Giant Earthworms Removal"
- tech_tb_ui_giant_earthworms_desc:1 "Selective soil poisoning combined with heavy firepower can quickly eliminate the giant eartoworms in a region.\n\n"
- tech_tb_ui_sea_monsters:0 "Sea Monsters Removal"
- tech_tb_ui_sea_monsters_desc:1 "Swarms of automated underwater drones that hunt and kill sea monsters.\n\n"
- tech_tb_ui_dry_desert:0 "Dry Deset Removal"
- tech_tb_ui_dry_desert_desc:1 "Deep automated wells and weather control devices can quickly turn a dry desert into a habitable area.\n\n"
  tech_mine_ui_laevis:0 "Laevis Liquids Refining"
  tech_mine_ui_laevis_desc:1 "Refined from the plasma of certain stars, the Laevis Liquid is a very rare type of liquid that is near frictionless and weightless.\n\n"
  tech_mine_ui_gaudium:0 "Gaudium Crystals Extraction"
