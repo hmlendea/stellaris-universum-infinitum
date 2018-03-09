@@ -1,7 +1,7 @@
 ui_trait_ruler_backroom_backstabber = {
 	cost = 1
 	modification = no
-	potential = {
+	leader_potential_add = {
 		NOT = { from = { has_ethic = "ethic_hive_mind" } }
 	}
 	modifier = {
@@ -15,7 +15,7 @@ ui_trait_ruler_backroom_backstabber = {
 ui_trait_ruler_smoothtalking_charmer = {
 	cost = 1
 	modification = no
-	potential = {
+	leader_potential_add = {
 		NOT = { from = { has_ethic = "ethic_hive_mind" } }
 	}
 	modifier = {
