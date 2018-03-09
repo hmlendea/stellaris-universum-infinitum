@@ -1,0 +1,295 @@
+@tier1cost3 = 600
+
+@tier2cost1 = 1000
+
+@tier3cost2 = 4000
+
+@tier1weight3 = 90
+
+@tier2weight1 = 75
+
+@tier3weight2 = 45
+
+# Laevis Liquids Refining
+tech_mine_ui_laevis = {
+    cost = @tier3cost2
+    area = engineering
+    tier = 3
+    category = { materials }
+    prerequisites = { "tech_sensors_4" }
+    weight = @tier3weight2
+
+    weight_modifier = {
+        modifier = {
+            factor = 1.5
+            research_leader = {
+                area = engineering
+                has_trait = "leader_trait_expertise_materials"
+            }
+        }
+    }
+
+    ai_weight = {
+        factor = 5
+        modifier = {
+            factor = 1.25
+            research_leader = {
+                area = engineering
+                has_trait = "leader_trait_expertise_materials"
+            }
+        }
+    }
+}
+
+# Gaudium Extraction
+tech_mine_ui_gaudium = {
+    cost = @tier2cost1
+    area = physics
+    tier = 2
+    category = { materials }
+    prerequisites = { "tech_sensors_3" }
+    weight = @tier2weight1
+
+    weight_modifier = {
+        factor = 2
+        modifier = {
+            factor = 2
+            research_leader = {
+                area = engineering
+                has_trait = "leader_trait_expertise_materials"
+            }
+        }
+    }
+
+    ai_weight = {
+        factor = 5
+        modifier = {
+            factor = 1.25
+            research_leader = {
+                area = engineering
+                has_trait = "leader_trait_expertise_materials"
+            }
+        }
+    }
+}
+
+# Otium Mining
+tech_mine_ui_otium = {
+    cost = @tier1cost3
+    area = engineering
+    tier = 1
+    category = { materials }
+    prerequisites = { "tech_mineral_processing_1" }
+    weight = @tier1weight3
+
+    weight_modifier = {
+        factor = 2
+        modifier = {
+            factor = 2
+            research_leader = {
+                area = engineering
+                has_trait = "leader_trait_expertise_materials"
+            }
+        }
+        modifier = {
+            factor = 0
+            NOR = {
+                any_system_within_border = {
+                    is_in_cluster = resource_cluster_0
+                }
+                any_country = {
+                    AND = {
+                        has_communications = ROOT
+                        has_technology = "tech_mine_ui_otium"
+                    }
+                }
+            }
+        }
+    }
+
+    ai_weight = {
+        factor = 5
+        modifier = {
+            factor = 1.25
+            research_leader = {
+                area = engineering
+                has_trait = "leader_trait_expertise_materials"
+            }
+        }
+    }
+}
+
+# Roboro Extraction
+tech_mine_ui_roboro = {
+    cost = @tier2cost1
+    area = physics
+    tier = 2
+    category = { materials }
+    prerequisites = { "tech_sensors_3" }
+    weight = @tier2weight1
+
+    weight_modifier = {
+        factor = 2
+        modifier = {
+            factor = 2
+            research_leader = {
+                area = engineering
+                has_trait = "leader_trait_expertise_materials"
+            }
+        }
+    }
+
+    ai_weight = {
+        factor = 5
+        modifier = {
+            factor = 1.25
+            research_leader = {
+                area = engineering
+                has_trait = "leader_trait_expertise_materials"
+            }
+        }
+    }
+}
+
+# Talpa Mining
+tech_mine_ui_talpa = {
+    cost = @tier1cost3
+    area = engineering
+    tier = 1
+    category = { materials }
+    prerequisites = { "tech_mineral_processing_1" }
+    weight = @tier1weight3
+
+    weight_modifier = {
+        factor = 2
+        modifier = {
+            factor = 2
+            research_leader = {
+                area = engineering
+                has_trait = "leader_trait_expertise_materials"
+            }
+        }
+        modifier = {
+            factor = 0
+            NOR = {
+                any_system_within_border = {
+                    is_in_cluster = resource_cluster_0
+                }
+                any_country = {
+                    AND = {
+                        has_communications = ROOT
+                        has_technology = "tech_mine_ui_talpa"
+                    }
+                }
+            }
+        }
+    }
+
+    ai_weight = {
+        factor = 5
+        modifier = {
+            factor = 1.25
+            research_leader = {
+                area = engineering
+                has_trait = "leader_trait_expertise_materials"
+            }
+        }
+    }
+}
+
+# Munitus Dust Refining
+tech_mine_ui_munitus = {
+    cost = @tier2cost1
+    area = physics
+    tier = 2
+    category = { materials }
+    prerequisites = { "tech_sensors_2" }
+    weight = @tier2weight1
+
+    weight_modifier = {
+        factor = 2
+        modifier = {
+            factor = 2
+            research_leader = {
+                area = engineering
+                has_trait = "leader_trait_expertise_materials"
+            }
+        }
+    }
+
+    ai_weight = {
+        factor = 5
+        modifier = {
+            factor = 1.25
+            research_leader = {
+                area = engineering
+                has_trait = "leader_trait_expertise_materials"
+            }
+        }
+    }
+}
+
+# Balus Dust Refining
+tech_mine_ui_balus = {
+    cost = @tier2cost1
+    area = physics
+    tier = 2
+    category = { materials }
+    prerequisites = { "tech_sensors_3" }
+    weight = @tier2weight1
+
+    weight_modifier = {
+        factor = 2
+        modifier = {
+            factor = 2
+            research_leader = {
+                area = engineering
+                has_trait = "leader_trait_expertise_materials"
+            }
+        }
+    }
+
+    ai_weight = {
+        factor = 5
+        modifier = {
+            factor = 1.25
+            research_leader = {
+                area = engineering
+                has_trait = "leader_trait_expertise_materials"
+            }
+        }
+    }
+}
+
+# Stiriacus Gel Extraction
+tech_mine_ui_stiriacus = {
+    cost = @tier2cost1
+    area = physics
+    tier = 2
+    category = { materials }
+    prerequisites = { "tech_sensors_3" }
+    weight = @tier2weight1
+
+    weight_modifier = {
+        factor = 2
+        modifier = {
+            factor = 2
+            research_leader = {
+                area = engineering
+                has_trait = "leader_trait_expertise_materials"
+            }
+        }
+    }
+
+    ai_weight = {
+        factor = 5
+        modifier = {
+            factor = 1.25
+            research_leader = {
+                area = engineering
+                has_trait = "leader_trait_expertise_materials"
+            }
+        }
+    }
+}
+
