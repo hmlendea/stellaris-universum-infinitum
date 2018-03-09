@@ -7,4 +7,4 @@ tags={
     "Graphics"
 }
 picture="ui.jpg"
-supported_version="1.6.*"
+supported_version="2.0.*"
