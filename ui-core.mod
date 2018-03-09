@@ -1,5 +1,5 @@
 name="Universum Infinitum"
-path="mod/universum_infinitum"
+path="mod/ui-core"
 tags={
     "Galaxy Generation"
     "Events"
