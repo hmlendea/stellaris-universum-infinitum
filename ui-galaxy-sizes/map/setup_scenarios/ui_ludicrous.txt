@@ -1,6 +1,6 @@
 setup_scenario = {
     name = "ui_ludicrous"
-    priority = 6
+    priority = 7
     num_stars = 2000
     radius = 500
     num_empires = { min = 1 max = 54 }
