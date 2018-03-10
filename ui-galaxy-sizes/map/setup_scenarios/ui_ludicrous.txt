@@ -1,5 +1,5 @@
 setup_scenario = {
-    name = "ui_colossal"
+    name = "ui_ludicrous"
     priority = 6
     num_stars = 2000
     radius = 500
