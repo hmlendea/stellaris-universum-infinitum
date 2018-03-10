@@ -1,6 +1,8 @@
 ﻿l_english:
  tb_ui_dry_desert:0 "£blocker  Dry Desert"
  tb_ui_dry_desert_desc:0 "This regions consists exclusively of stretches and stretches of sand dunes and extremely hot temperatures."
+ tb_ui_floodplain:0 "£blocker  Floodplain"
+ tb_ui_floodplain_desc:0 "This region is subject to heavy seasonal floodings making it unworkable and extremely inhospitable."
  tb_ui_giant_earthworms:0 "£blocker  Giant Earthworms"
  tb_ui_giant_earthworms_desc:0 "There are giant earthworms lurking in this region."
  tb_ui_lava_lake:0 "£blocker  Lava Lake"
