@@ -26,6 +26,45 @@ tb_ui_dry_desert = {
     prerequisites = { "tech_tb_ui_dry_desert" }
 }
 
+# Lava Lake
+tb_ui_floodplain = {
+    time = 175
+    cost = {
+        energy = 300
+    }
+
+    spawn_chance = {
+        modifier = {
+            add = 40
+            planet = {
+                is_colonizable = yes
+                NOT = { is_planet_class = pc_ocean }
+            }
+        }
+        modifier = {
+            add = 20
+            planet = {
+                is_colonizable = yes
+                NOT = { is_planet_class = pc_continental }
+            }
+        }
+        modifier = {
+            add = 10
+            planet = {
+                is_colonizable = yes
+                is_planet_class = pc_gaia
+            }
+        }
+        modifier = {
+            factor = 0.25
+            planet = {
+                planet_size < 15
+            }
+        }
+    }
+    prerequisites = { "tech_tb_ui_floodplain" }
+}
+
 # Giant Earthworms
 tb_ui_giant_earthworms = {
     time = 100
