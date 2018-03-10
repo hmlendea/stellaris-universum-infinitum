@@ -1,4 +1,6 @@
 ﻿l_english:
+ tech_tb_ui_canyon:0 "Canyon Removal"
+ tech_tb_ui_canyon_desc:1 "Advanced land sculpting machines and soil enhancement designed to tame even the most extreme of canyons.\n\n"
  tech_tb_ui_dry_desert:0 "Dry Deset Removal"
  tech_tb_ui_dry_desert_desc:1 "Deep automated wells and weather control devices can quickly turn a dry desert into a habitable area.\n\n"
  tech_tb_ui_floodplains:0 "Floodplains Removal"
