@@ -1,7 +1,9 @@
 ﻿l_english:
- tb_ui_giant_earthworms:0 "£blocker  Giant Earthworms"
- tb_ui_giant_earthworms_desc:0 "There are giant earthworms lurking in this region."
- tb_ui_sea_monsters:0 "£blocker  Sea Monsters"
- tb_ui_sea_monsters_desc:0 "This waters are lurking with dangerous sea monsters."
  tb_ui_dry_desert:0 "£blocker  Dry Desert"
  tb_ui_dry_desert_desc:0 "This regions consists exclusively of stretches and stretches of sand dunes and extremely hot temperatures."
+ tb_ui_giant_earthworms:0 "£blocker  Giant Earthworms"
+ tb_ui_giant_earthworms_desc:0 "There are giant earthworms lurking in this region."
+ tb_ui_mutant_infestation:0 "£blocker  Mutant Infestation"
+ tb_ui_mutant_infestation_desc:0 "This region is infested with feral mutated beings, twisted versions of a once proud civilisation."
+ tb_ui_sea_monsters:0 "£blocker  Sea Monsters"
+ tb_ui_sea_monsters_desc:0 "This waters are lurking with dangerous sea monsters."

@@ -12,6 +12,76 @@
 @tier3weight3 = 40
 @tier3weight4 = 35
 
+tech_tb_ui_dry_desert = {
+    cost = @tier1cost2
+    area = society
+    tier = 1
+    category = { new_worlds }
+    prerequisites = { "tech_colonization_1" }
+    weight = @tier1weight2
+
+    weight_groups = {
+        tile_blockers
+    }
+    mod_weight_if_group_picked = {
+        tile_blockers = 0.5
+    }
+
+    weight_modifier = {
+        modifier = {
+            factor = 2
+        }
+        modifier = {
+            factor = 0
+            NOT = {
+                any_owned_planet =  {
+                    any_tile = {
+                        has_blocker = "tb_ui_dry_desert"
+                    }
+                }
+            }
+        }
+        modifier = {
+            factor = 1.25
+            research_leader = {
+                area = society
+                has_trait = "leader_trait_expertise_new_worlds"
+            }
+        }
+        modifier = {
+            factor = 0
+            num_owned_planets < 2
+        }
+    }
+
+    ai_weight = {
+        modifier = {
+            factor = 3
+        }
+        modifier = {
+            factor = 0
+            NOT = {
+                any_owned_planet =  {
+                    any_tile = {
+                        has_blocker = "tb_ui_dry_desert"
+                    }
+                }
+            }
+        }
+        modifier = {
+            factor = 1.25
+            research_leader = {
+                area = society
+                has_trait = "leader_trait_expertise_new_worlds"
+            }
+        }
+        modifier = {
+            factor = 0
+            num_owned_planets < 2
+        }
+    }
+}
+
 tech_tb_ui_giant_earthworms = {
     cost = @tier1cost2
     area = society
@@ -83,6 +153,77 @@ tech_tb_ui_giant_earthworms = {
     }
 }
 
+tech_tb_ui_mutant_infestation = {
+    cost = @tier1cost2
+    area = society
+    tier = 1
+    category = { new_worlds }
+    prerequisites = { "tech_colonization_1" }
+    weight = @tier1weight2
+
+    weight_groups = {
+        tile_blockers
+    }
+
+    mod_weight_if_group_picked = {
+        tile_blockers = 0.5
+    }
+
+    weight_modifier = {
+        modifier = {
+            factor = 2
+        }
+        modifier = {
+            factor = 0
+            NOT = {
+                any_owned_planet =  {
+                    any_tile = {
+                        has_blocker = "tb_ui_mutant_infestation"
+                    }
+                }
+            }
+        }
+        modifier = {
+            factor = 1.25
+            research_leader = {
+                area = society
+                has_trait = "leader_trait_expertise_new_worlds"
+            }
+        }
+        modifier = {
+            factor = 0
+            num_owned_planets < 2
+        }
+    }
+
+    ai_weight = {
+        modifier = {
+            factor = 3
+        }
+        modifier = {
+            factor = 0
+            NOT = {
+                any_owned_planet =  {
+                    any_tile = {
+                        has_blocker = "tb_ui_mutant_infestation"
+                    }
+                }
+            }
+        }
+        modifier = {
+            factor = 1.25
+            research_leader = {
+                area = society
+                has_trait = "leader_trait_expertise_new_worlds"
+            }
+        }
+        modifier = {
+            factor = 0
+            num_owned_planets < 2
+        }
+    }
+}
+
 tech_tb_ui_sea_monsters = {
     cost = @tier1cost2
     area = society
@@ -136,76 +277,6 @@ tech_tb_ui_sea_monsters = {
                 any_owned_planet =  {
                     any_tile = {
                         has_blocker = "tb_ui_sea_monsters"
-                    }
-                }
-            }
-        }
-        modifier = {
-            factor = 1.25
-            research_leader = {
-                area = society
-                has_trait = "leader_trait_expertise_new_worlds"
-            }
-        }
-        modifier = {
-            factor = 0
-            num_owned_planets < 2
-        }
-    }
-}
-
-tech_tb_ui_dry_desert = {
-    cost = @tier1cost2
-    area = society
-    tier = 1
-    category = { new_worlds }
-    prerequisites = { "tech_colonization_1" }
-    weight = @tier1weight2
-
-    weight_groups = {
-        tile_blockers
-    }
-    mod_weight_if_group_picked = {
-        tile_blockers = 0.5
-    }
-
-    weight_modifier = {
-        modifier = {
-            factor = 2
-        }
-        modifier = {
-            factor = 0
-            NOT = {
-                any_owned_planet =  {
-                    any_tile = {
-                        has_blocker = "tb_ui_dry_desert"
-                    }
-                }
-            }
-        }
-        modifier = {
-            factor = 1.25
-            research_leader = {
-                area = society
-                has_trait = "leader_trait_expertise_new_worlds"
-            }
-        }
-        modifier = {
-            factor = 0
-            num_owned_planets < 2
-        }
-    }
-
-    ai_weight = {
-        modifier = {
-            factor = 3
-        }
-        modifier = {
-            factor = 0
-            NOT = {
-                any_owned_planet =  {
-                    any_tile = {
-                        has_blocker = "tb_ui_dry_desert"
                     }
                 }
             }
