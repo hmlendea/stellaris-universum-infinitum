@@ -15,6 +15,13 @@ tb_ui_canyon = {
             }
         }
         modifier = {
+            add = 12
+            planet = {
+                is_colonizable = yes
+                is_planet_class = pc_arid
+            }
+        }
+        modifier = {
             add = 6
             planet = {
                 is_colonizable = yes
@@ -63,21 +70,21 @@ tb_ui_floodplain = {
 
     spawn_chance = {
         modifier = {
-            add = 40
+            add = 36
             planet = {
                 is_colonizable = yes
-                NOT = { is_planet_class = pc_ocean }
+                is_planet_class = pc_ocean
             }
         }
         modifier = {
-            add = 20
+            add = 12
             planet = {
                 is_colonizable = yes
-                NOT = { is_planet_class = pc_continental }
+                is_planet_class = pc_continental
             }
         }
         modifier = {
-            add = 10
+            add = 6
             planet = {
                 is_colonizable = yes
                 is_planet_class = pc_gaia
@@ -145,17 +152,25 @@ tb_ui_lava_lake = {
 
     spawn_chance = {
         modifier = {
-            add = 20
-            planet = {
-                is_colonizable = yes
-                NOT = { is_planet_class = pc_alpine }
-            }
-        }
-        modifier = {
-            add = 10
+            add = 24
             planet = {
                 is_colonizable = yes
                 is_planet_class = pc_alpine
+            }
+        }
+        modifier = {
+            add = 12
+            planet = {
+                is_colonizable = yes
+                OR = {
+                    is_planet_class = pc_arid
+                    is_planet_class = pc_savannah
+                }
+            }
+            add = 3
+            planet = {
+                is_colonizable = yes
+                is_planet_class = pc_continental
             }
         }
         modifier = {
@@ -178,7 +193,7 @@ tb_ui_mutant_infestation = {
 
     spawn_chance = {
         modifier = {
-            add = 15
+            add = 12
             planet = {
                 is_colonizable = yes
                 is_planet_class = pc_nuked
