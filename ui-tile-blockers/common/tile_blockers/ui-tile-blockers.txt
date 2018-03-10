@@ -69,6 +69,38 @@ tb_ui_giant_earthworms = {
     prerequisites = { "tech_tb_ui_giant_earthworms" }
 }
 
+# Lava Lake
+tb_ui_lava_lake = {
+    time = 175
+    cost = {
+        energy = 300
+    }
+
+    spawn_chance = {
+        modifier = {
+            add = 20
+            planet = {
+                is_colonizable = yes
+                NOT = { is_planet_class = pc_alpine }
+            }
+        }
+        modifier = {
+            add = 10
+            planet = {
+                is_colonizable = yes
+                is_planet_class = pc_alpine
+            }
+        }
+        modifier = {
+            factor = 0.25
+            planet = {
+                planet_size < 15
+            }
+        }
+    }
+    prerequisites = { "tech_tb_ui_lava_lake" }
+}
+
 # Mutant Infestation
 tb_ui_mutant_infestation = {
     time = 100
