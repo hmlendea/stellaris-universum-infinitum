@@ -1,18 +1,18 @@
 setup_scenario = {
-    name = "gigantic"
-    priority = 5
-    num_stars = 1500
-    radius = 475
-    num_empires = { min = 1 max = 49 }
-    num_empire_default = 31
+    name = "ui_colossal"
+    priority = 6
+    num_stars = 2000
+    radius = 500
+    num_empires = { min = 1 max = 54 }
+    num_empire_default = 41
     fallen_empire_default = 4
     fallen_empire_max = 4
-    marauder_empire_default = 3
+    marauder_empire_default = 4
     marauder_empire_max = 4
-    advanced_empire_default = 9
+    advanced_empire_default = 12
     colonizable_planet_odds = 1.0
     primitive_odds = 1.0
-    crisis_strength = 1.625
+    crisis_strength = 1.75
     
     cluster_count = {
         method = one_every_x_empire
@@ -20,10 +20,10 @@ setup_scenario = {
         value = 1
         max = 6
     }
-    cluster_radius = 160
+    cluster_radius = 170
     cluster_distance_from_core = 300
     
-    num_nebulas    = 15
+    num_nebulas    = 20
     nebula_size = 60
     nebula_min_dist = 200
     
