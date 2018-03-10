@@ -3,6 +3,8 @@
  tech_tb_ui_dry_desert_desc:1 "Deep automated wells and weather control devices can quickly turn a dry desert into a habitable area.\n\n"
  tech_tb_ui_giant_earthworms:0 "Giant Earthworms Removal"
  tech_tb_ui_giant_earthworms_desc:1 "Selective soil poisoning combined with heavy firepower can quickly eliminate the giant eartoworms in a region.\n\n"
+ tech_tb_ui_lava_lake:0 "Lava Lake Removal"
+ tech_tb_ui_lava_lake_desc:1 "Underground tunnels and mechanisms designed to drain the lava lake, virtually relocating it underground and over a much larger area, safely.\n\n"
  tech_tb_ui_mutant_infestation:0 "Mutant Infestation Removal"
  tech_tb_ui_mutant_infestation_desc:1 "Advanced techniques and tools developed for the purpose of safely and completely purging a defined area of any mutant infestation.\n\n"
  tech_tb_ui_sea_monsters:0 "Sea Monsters Removal"

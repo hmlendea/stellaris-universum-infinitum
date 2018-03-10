@@ -153,6 +153,85 @@ tech_tb_ui_giant_earthworms = {
     }
 }
 
+tech_tb_ui_lava_lake = {
+    cost = @tier2cost2
+    area = society
+    tier = 2
+    category = { new_worlds }
+    prerequisites = { "tech_colonization_1" }
+    weight = @tier2weight2
+
+    weight_groups = {
+        tile_blockers
+    }
+
+    mod_weight_if_group_picked = {
+        tile_blockers = 0.5
+    }
+
+    weight_modifier = {
+        modifier = {
+            factor = 2
+        }
+        modifier = {
+            factor = 1.25
+            has_tradition = tr_expansion_adopt
+        }
+        modifier = {
+            factor = 4
+            has_ascension_perk = ap_mastery_of_nature
+        }
+        modifier = {
+            factor = 0
+            NOT = {
+                any_owned_planet =  {
+                    any_tile = {
+                        has_blocker = "tb_active_volcano"
+                    }
+                }
+            }
+        }
+        modifier = {
+            factor = 1.25
+            research_leader = {
+                area = society
+                has_trait = "leader_trait_expertise_new_worlds"
+            }
+        }
+        modifier = {
+            factor = 0
+            num_owned_planets < 2
+        }
+    }
+
+    ai_weight = {
+        modifier = {
+            factor = 3
+        }
+        modifier = {
+            factor = 0
+            NOT = {
+                any_owned_planet =  {
+                    any_tile = {
+                        has_blocker = "tb_ui_lava_lake"
+                    }
+                }
+            }
+        }
+        modifier = {
+            factor = 1.25
+            research_leader = {
+                area = society
+                has_trait = "leader_trait_expertise_new_worlds"
+            }
+        }
+        modifier = {
+            factor = 0
+            num_owned_planets < 2
+        }
+    }
+}
+
 tech_tb_ui_mutant_infestation = {
     cost = @tier1cost2
     area = society
