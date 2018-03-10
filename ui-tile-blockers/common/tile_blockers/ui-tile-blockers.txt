@@ -1,3 +1,105 @@
+# Canyons
+tb_ui_canyon = {
+    time = 300
+    cost = {
+        energy = 200
+        minerals = 300
+    }
+
+    spawn_chance = {
+        modifier = {
+            add = 36
+            planet = {
+                is_colonizable = yes
+                is_planet_class = pc_alpine
+            }
+        }
+        modifier = {
+            add = 12
+            planet = {
+                is_colonizable = yes
+                is_planet_class = pc_arid
+            }
+        }
+        modifier = {
+            add = 6
+            planet = {
+                is_colonizable = yes
+                is_planet_class = pc_continental
+            }
+        }
+    }
+
+    prerequisites = { "tech_tb_ui_canyon" }
+}
+
+# Dry Desert
+tb_ui_dry_desert = {
+    time = 100
+    cost = {
+        energy = 100
+        minerals = 100
+    }
+
+    spawn_chance = {
+        modifier = {
+            add = 36
+            planet = {
+                is_colonizable = yes
+                is_planet_class = pc_desert
+            }
+        }
+        modifier = {
+            add = 6
+            planet = {
+                is_colonizable = yes
+                is_planet_class = pc_arid
+            }
+        }
+    }
+
+    prerequisites = { "tech_tb_ui_dry_desert" }
+}
+
+# Floodplain
+tb_ui_floodplain = {
+    time = 175
+    cost = {
+        energy = 300
+    }
+
+    spawn_chance = {
+        modifier = {
+            add = 36
+            planet = {
+                is_colonizable = yes
+                is_planet_class = pc_ocean
+            }
+        }
+        modifier = {
+            add = 12
+            planet = {
+                is_colonizable = yes
+                is_planet_class = pc_continental
+            }
+        }
+        modifier = {
+            add = 6
+            planet = {
+                is_colonizable = yes
+                is_planet_class = pc_gaia
+            }
+        }
+        modifier = {
+            factor = 0.25
+            planet = {
+                planet_size < 15
+            }
+        }
+    }
+    prerequisites = { "tech_tb_ui_floodplain" }
+}
+
 # Giant Earthworms
 tb_ui_giant_earthworms = {
     time = 100
@@ -41,6 +143,67 @@ tb_ui_giant_earthworms = {
     prerequisites = { "tech_tb_ui_giant_earthworms" }
 }
 
+# Lava Lake
+tb_ui_lava_lake = {
+    time = 175
+    cost = {
+        energy = 300
+    }
+
+    spawn_chance = {
+        modifier = {
+            add = 24
+            planet = {
+                is_colonizable = yes
+                is_planet_class = pc_alpine
+            }
+        }
+        modifier = {
+            add = 12
+            planet = {
+                is_colonizable = yes
+                OR = {
+                    is_planet_class = pc_arid
+                    is_planet_class = pc_savannah
+                }
+            }
+            add = 3
+            planet = {
+                is_colonizable = yes
+                is_planet_class = pc_continental
+            }
+        }
+        modifier = {
+            factor = 0.25
+            planet = {
+                planet_size < 15
+            }
+        }
+    }
+    prerequisites = { "tech_tb_ui_lava_lake" }
+}
+
+# Mutant Infestation
+tb_ui_mutant_infestation = {
+    time = 100
+    cost = {
+        energy = 100
+        minerals = 100
+    }
+
+    spawn_chance = {
+        modifier = {
+            add = 12
+            planet = {
+                is_colonizable = yes
+                is_planet_class = pc_nuked
+            }
+        }
+    }
+
+    prerequisites = { "tech_tb_ui_mutant_infestation" }
+}
+
 # Sea Monsters
 tb_ui_sea_monsters = {
     time = 100
@@ -72,33 +235,5 @@ tb_ui_sea_monsters = {
     }
 
     prerequisites = { "tech_tb_ui_sea_monsters" }
-}
-
-# Dry Desert
-tb_ui_dry_desert = {
-    time = 100
-    cost = {
-        energy = 100
-        minerals = 100
-    }
-
-    spawn_chance = {
-        modifier = {
-            add = 36
-            planet = {
-                is_colonizable = yes
-                is_planet_class = pc_desert
-            }
-        }
-        modifier = {
-            add = 6
-            planet = {
-                is_colonizable = yes
-                is_planet_class = pc_arid
-            }
-        }
-    }
-
-    prerequisites = { "tech_tb_ui_dry_desert" }
 }
 
