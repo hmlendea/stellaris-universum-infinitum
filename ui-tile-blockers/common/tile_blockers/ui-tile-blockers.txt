@@ -1,3 +1,31 @@
+# Canyons
+tb_ui_canyon = {
+    time = 300
+    cost = {
+        energy = 200
+        minerals = 300
+    }
+
+    spawn_chance = {
+        modifier = {
+            add = 36
+            planet = {
+                is_colonizable = yes
+                is_planet_class = pc_alpine
+            }
+        }
+        modifier = {
+            add = 6
+            planet = {
+                is_colonizable = yes
+                is_planet_class = pc_continental
+            }
+        }
+    }
+
+    prerequisites = { "tech_tb_ui_canyon" }
+}
+
 # Dry Desert
 tb_ui_dry_desert = {
     time = 100
@@ -26,7 +54,7 @@ tb_ui_dry_desert = {
     prerequisites = { "tech_tb_ui_dry_desert" }
 }
 
-# Lava Lake
+# Floodplain
 tb_ui_floodplain = {
     time = 175
     cost = {
