@@ -54,9 +54,11 @@
  ui_trait_governor_environmentalist:0 "Environmentalist"
  ui_trait_governor_environmentalist_desc:0 "This character is a strong supporter of a green sustainable economy and the mass recycling of goods.§!\n"
  
-# Governor traits
+# Ruler traits
  ui_trait_ruler_backroom_backstabber:0 "Backroom Backstabber"
  ui_trait_ruler_backroom_backstabber_desc:0 "This politician is very skilled in the arts of manipulation, and would stop at nothing to achieve its goals.§!\n"
  ui_trait_ruler_smoothtalking_charmer:0 "Smooth-Talking Charmer"
  ui_trait_ruler_smoothtalking_charmer_desc:0 "This character is a very skilled diplomat, and is very sucessful at forming and maintaining foreign relations.§!\n"
+ ui_trait_ruler_antique_collector:0 "Antique Collector"
+ ui_trait_ruler_antique_collector_desc:0 "This character is very passionate about collecting all sorts of exotic and antique trinkets found through the galaxy.§!\n"
  
