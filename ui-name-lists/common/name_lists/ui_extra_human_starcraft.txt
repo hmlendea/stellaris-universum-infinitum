@@ -1,8 +1,8 @@
 ﻿### Universum Infinitum
 ### Starcraft
-### Terran (Koprulu)
+### Human (StarCraft)
 
-UISCTERRAN1 = {
+ui_extra_human_starcraft = {
     randomized = no
 
     ship_names = {
