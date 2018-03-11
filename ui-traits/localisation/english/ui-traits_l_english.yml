@@ -39,6 +39,8 @@
  ui_trait_sluggish_desc:0 "§LMembers of this have slow reflexes, resulting if very long response times in battle.§!\n"
  ui_trait_cannibalistic:0 "Cannibalistic"
  ui_trait_cannibalistic_desc:0 "§LMembers of this species often practice cannibalism, thus having an easily accesible food source, but at the cost of lower populaton growth.§!\n"
+ ui_trait_nonresilient:0 "Non-resilient"
+ ui_trait_nonresilient_desc:0 "§LMembers of this species are generally helplessly poor at defending themselves, making them easy to oppress.§!\n"
 
 # Governor traits
  ui_trait_governor_familist:0 "Familist"
