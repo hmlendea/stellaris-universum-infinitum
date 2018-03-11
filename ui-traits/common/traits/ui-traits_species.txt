@@ -18,7 +18,7 @@ ui_trait_subterranean = {
     modifier = {
         pop_environment_tolerance = 0.05
         army_defense_damage_mult = 0.15
-        planet_building_build_speed_mult = -0.15
+        planet_building_build_speed_mult = -0.20
     }
 }
 
@@ -207,11 +207,11 @@ ui_trait_agile = {
     
     allowed_archetypes = { BIOLOGICAL }
   
-  modifier = {
-    weapon_type_kinetic_weapon_fire_rate_mult = 0.05
-    weapon_type_energy_weapon_fire_rate_mult = 0.05
-    weapon_type_explosive_weapon_fire_rate_mult = 0.05
-  }
+    modifier = {
+        weapon_type_kinetic_weapon_fire_rate_mult = 0.05
+        weapon_type_energy_weapon_fire_rate_mult = 0.05
+        weapon_type_explosive_weapon_fire_rate_mult = 0.05
+    }
 }
 
 ui_trait_sluggish = {
@@ -220,11 +220,11 @@ ui_trait_sluggish = {
     
     allowed_archetypes = { BIOLOGICAL }
   
-  modifier = {
-    weapon_type_kinetic_weapon_fire_rate_mult = -0.05
-    weapon_type_energy_weapon_fire_rate_mult = -0.05
-    weapon_type_explosive_weapon_fire_rate_mult = -0.05
-  }
+    modifier = {
+        weapon_type_kinetic_weapon_fire_rate_mult = -0.05
+        weapon_type_energy_weapon_fire_rate_mult = -0.05
+        weapon_type_explosive_weapon_fire_rate_mult = -0.05
+    }
 }
 
 ui_trait_cannibalistic = {
