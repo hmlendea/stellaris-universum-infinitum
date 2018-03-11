@@ -43,6 +43,12 @@
  ui_trait_nonresilient_desc:0 "§LMembers of this species are generally helplessly poor at defending themselves, making them easy to oppress.§!\n"
 
 # Governor traits
+ ui_trait_governor_engineer:0 "Engineer"
+ ui_trait_governor_engineer_desc:0 "This character was a renowned enginner researcher before pursuing a political career with the goal of further promoting and developing his field of science.§!\n"
+ ui_trait_governor_physicist:0 "Physicist"
+ ui_trait_governor_physicist_desc:0 "This character was a renowned pyhsics researcher before pursuing a political career with the goal of further promoting and developing his field of science.§!\n"
+ ui_trait_governor_sociologist:0 "Sociologist"
+ ui_trait_governor_sociologist_desc:0 "This character was a renowned sociology researcher before pursuing a political career with the goal of further promoting and developing his field of science.§!\n"
  ui_trait_governor_familist:0 "Familist"
  ui_trait_governor_familist_desc:0 "This character is a strong supporter of family rights and social support.§!\n"
  ui_trait_governor_corporatist:0 "Corporatist"
