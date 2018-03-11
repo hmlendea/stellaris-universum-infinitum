@@ -252,4 +252,26 @@ ui_trait_cannibalistic = {
     }
 }
 
+ui_trait_light_eaters = {
+  cost = 1
+    opposites = { "ui_trait_gluttonous" }
+    
+    allowed_archetypes = { BIOLOGICAL }
+  
+    modifier = {
+        pop_food_req_mult = -0.10
+    }
+}
+
+ui_trait_gluttonous = {
+  cost = -1
+    opposites = { "ui_trait_light_eaters" }
+    
+    allowed_archetypes = { BIOLOGICAL }
+  
+    modifier = {
+        pop_food_req_mult = 0.10
+    }
+}
+
 
