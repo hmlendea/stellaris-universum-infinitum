@@ -1,3 +1,72 @@
+ui_trait_governor_engineer = {
+    cost = 1
+    modification = no
+    icon = "gfx/interface/icons/traits/trait_natural_engineers.dds"
+    modifier = {
+        tile_resource_engineering_research_mult = 0.30
+    }
+    leader_trait = yes
+    leader_class = { governor }
+    leader_potential_add = {
+        NOT = {
+            from = {
+                OR = {
+                    has_ethic = "leader_trait_intellectual"
+                    has_ethic = "auth_machine_intelligence"
+                    has_ethic = "ui_trait_governor_physicist"
+                    has_ethic = "ui_trait_governor_sociologist"
+                }
+            }
+        }
+    }
+}
+
+ui_trait_governor_physicist = {
+    cost = 1
+    modification = no
+    icon = "gfx/interface/icons/traits/trait_natural_physicists.dds"
+    modifier = {
+        tile_resource_physics_research_mult = 0.30
+    }
+    leader_trait = yes
+    leader_class = { governor }
+    leader_potential_add = {
+        NOT = {
+            from = {
+                OR = {
+                    has_ethic = "leader_trait_intellectual"
+                    has_ethic = "auth_machine_intelligence"
+                    has_ethic = "ui_trait_governor_engineer"
+                    has_ethic = "ui_trait_governor_sociologist"
+                }
+            }
+        }
+    }
+}
+
+ui_trait_governor_sociologist = {
+    cost = 1
+    modification = no
+    icon = "gfx/interface/icons/traits/trait_natural_sociologists.dds"
+    modifier = {
+        tile_resource_society_research_mult = 0.30
+    }
+    leader_trait = yes
+    leader_class = { governor }
+    leader_potential_add = {
+        NOT = {
+            from = {
+                OR = {
+                    has_ethic = "leader_trait_intellectual"
+                    has_ethic = "auth_machine_intelligence"
+                    has_ethic = "ui_trait_governor_engineer"
+                    has_ethic = "ui_trait_governor_physicist"
+                }
+            }
+        }
+    }
+}
+
 ui_trait_governor_familist = {
     cost = 1
     modification = no
