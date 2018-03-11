@@ -17,7 +17,7 @@ ui_trait_subterranean = {
 	
 	modifier = {
 		pop_environment_tolerance = 0.05
-        pop_fortification_defense = 0.15
+		army_defense_damage_mult = 0.15
         planet_building_build_speed_mult = -0.15
 	}
 }
@@ -96,6 +96,15 @@ ui_trait_very_adaptive = {
 	
 	modifier = {
 		pop_environment_tolerance = 0.15
+	}
+}
+
+ui_trait_nonresilient = {
+	cost = -1
+	opposites = { "trait_resilient"}
+	allowed_archetypes = { BIOLOGICAL }
+	modifier = {
+		army_defense_damage_mult = -0.5
 	}
 }
 
