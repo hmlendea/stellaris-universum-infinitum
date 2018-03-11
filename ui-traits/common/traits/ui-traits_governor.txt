@@ -1,33 +1,56 @@
 ui_trait_governor_familist = {
-	cost = 1
-	modification = no
-	modifier = {
-		pop_growth_speed = 0.15
-	}
-	leader_trait = yes
-	leader_class = { governor }
-	leader_potential_add = {
-		NOT = { from = { has_ethic = "ethic_hive_mind" } }
-	}
+    cost = 1
+    modification = no
+    modifier = {
+        pop_growth_speed = 0.15
+    }
+    leader_trait = yes
+    leader_class = { governor }
+    leader_potential_add = {
+        NOT = { from = { has_ethic = "ethic_hive_mind" } }
+    }
 }
 
 ui_trait_governor_corporatist = {
-	cost = 1
-	modification = no
-	modifier = {
-		tile_resource_energy_mult = 0.15
-	}
-	leader_trait = yes
-	leader_class = { governor }
+    cost = 1
+    modification = no
+    modifier = {
+        tile_resource_energy_mult = 0.15
+    }
+    leader_trait = yes
+    leader_class = { governor }
+    opposites = { "ui_trait_environmentalist" }
 }
 
 ui_trait_governor_miner = {
-	cost = 1
-	modification = no
-	modifier = {
-		tile_resource_minerals_mult = 0.15
-	}
-	leader_trait = yes
-	leader_class = { governor }
+    cost = 1
+    modification = no
+    modifier = {
+        tile_resource_minerals_mult = 0.15
+    }
+    leader_trait = yes
+    leader_class = { governor }
+    opposites = { "ui_trait_environmentalist" }
+}
+
+ui_trait_populist = {
+    cost = 1
+    modification = no
+    modifier = {
+        tile_resource_unity_mult = 0.15
+    }
+    leader_trait = yes
+    leader_class = { governor }
+}
+
+ui_trait_environmentalist = {
+    cost = 1
+    modification = no
+    modifier = {
+        pop_consumer_goods_mult = 0.15
+    }
+    leader_trait = yes
+    leader_class = { governor }
+    opposites = { "ui_trait_governor_corporatist" "ui_trait_governor_miner" }
 }
 
