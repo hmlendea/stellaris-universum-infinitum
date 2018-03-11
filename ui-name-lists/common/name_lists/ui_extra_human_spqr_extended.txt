@@ -1,8 +1,8 @@
 ﻿### Universum Infinitum
 ### Extras
-### Human - Roman
+### Human (SPQR) (Extended)
 
-ui_extra_human_roman = {
+ui_extra_human_spqr_extended = {
     randomized = no
 
     ship_names = {
