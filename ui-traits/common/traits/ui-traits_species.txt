@@ -129,16 +129,12 @@ ui_trait_violent = {
 	allowed_ethics = {
 	    ethic_authoritarian
 		ethic_fanatic_authoritarian
-		ethic_egalitarian
-		ethic_fanatic_egalitarian
 		ethic_materialist
 		ethic_fanatic_materialist
 		ethic_militarist
 		ethic_fanatic_militarist
 		ethic_spiritualist
 		ethic_fanatic_spiritualist
-		ethic_xenophile
-		ethic_fanatic_xenophile
 		ethic_xenophobe
 		ethic_fanatic_xenophobe
 	}
@@ -148,7 +144,7 @@ ui_trait_violent = {
 	
     modifier = {
         army_damage_mult = 0.1
-        pop_growth_speed = -0.1
+        pop_growth_speed = -0.15
     }
 }
 
@@ -226,11 +222,25 @@ ui_trait_cannibalistic = {
     cost = 0
 	
 	allowed_archetypes = { BIOLOGICAL }
+	allowed_ethics = {
+	    ethic_authoritarian
+		ethic_fanatic_authoritarian
+		ethic_materialist
+		ethic_fanatic_materialist
+		ethic_militarist
+		ethic_fanatic_militarist
+		ethic_spiritualist
+		ethic_fanatic_spiritualist
+		ethic_xenophobe
+		ethic_fanatic_xenophobe
+	}
     
     modifier = {
-        pop_food_req_mult = -0.1
-        pop_growth_speed = -0.15
-        pop_other_species_happiness = -0.05
+        pop_food_req_mult = -0.10
+        pop_growth_speed = -0.10
+        pop_happiness = -0.10
+        pop_other_species_happiness = -0.10
     }
 }
+
 
