@@ -1,24 +1,11 @@
 ui_trait_urban = {
     cost = -2
-    opposites = { "trait_agrarian" "ui_trait_subterranean" }
+    opposites = { "trait_agrarian" }
     
     allowed_archetypes = { BIOLOGICAL }
     
     modifier = {
         tile_resource_food_mult = -0.15
-    }
-}
-
-ui_trait_subterranean = {
-    cost = 0
-    opposites = { "trait_agrarian" "ui_trait_urban" }
-    
-    allowed_archetypes = { BIOLOGICAL }
-    
-    modifier = {
-        pop_environment_tolerance = 0.05
-        army_defense_damage_mult = 0.15
-        planet_building_build_speed_mult = -0.20
     }
 }
 
@@ -122,38 +109,13 @@ ui_trait_brave = {
 
 ui_trait_craven = {
     cost = -2
-    opposites = { "ui_trait_brave" "ui_trait_violent" }
+    opposites = { "ui_trait_brave" }
     
     allowed_archetypes = { BIOLOGICAL }
     
     modifier = {
         army_morale = -0.15
         army_damage_mult = -0.15
-    }
-}
-
-ui_trait_violent = {
-    cost = 0
-    valid_for_all_ethics = no
-    allowed_ethics = {
-        ethic_authoritarian
-        ethic_fanatic_authoritarian
-        ethic_materialist
-        ethic_fanatic_materialist
-        ethic_militarist
-        ethic_fanatic_militarist
-        ethic_spiritualist
-        ethic_fanatic_spiritualist
-        ethic_xenophobe
-        ethic_fanatic_xenophobe
-    }
-    opposites = { "ui_trait_craven" }
-    
-    allowed_archetypes = { BIOLOGICAL }
-    
-    modifier = {
-        army_damage_mult = 0.1
-        pop_growth_speed = -0.15
     }
 }
 
@@ -224,31 +186,6 @@ ui_trait_sluggish = {
         weapon_type_kinetic_weapon_fire_rate_mult = -0.05
         weapon_type_energy_weapon_fire_rate_mult = -0.05
         weapon_type_explosive_weapon_fire_rate_mult = -0.05
-    }
-}
-
-ui_trait_cannibalistic = {
-    cost = 0
-    
-    allowed_archetypes = { BIOLOGICAL }
-    allowed_ethics = {
-        ethic_authoritarian
-        ethic_fanatic_authoritarian
-        ethic_materialist
-        ethic_fanatic_materialist
-        ethic_militarist
-        ethic_fanatic_militarist
-        ethic_spiritualist
-        ethic_fanatic_spiritualist
-        ethic_xenophobe
-        ethic_fanatic_xenophobe
-    }
-    
-    modifier = {
-        pop_food_req_mult = -0.10
-        pop_growth_speed = -0.10
-        pop_happiness = -0.10
-        pop_other_species_happiness = -0.10
     }
 }
 

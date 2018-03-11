@@ -5,8 +5,6 @@
  ui_trait_agile_desc:0 "§LMembers of this have quick reflexes, resulting if very short response times in battle.§!\n"
  ui_trait_brave:0 "Brave"
  ui_trait_brave_desc:0 "§LMembers of this species never shy away from danger, soldiering on in situations where others would flee.§!\n"
- ui_trait_cannibalistic:0 "Cannibalistic"
- ui_trait_cannibalistic_desc:0 "§LMembers of this species often practice cannibalism, thus having an easily accesible food source, but at the cost of lower populaton growth.§!\n"
  ui_trait_craven:0 "Craven"
  ui_trait_craven_desc:0 "§LMembers of this species are known cowards, fleeing as soon as the situation becomes a little risky.§!\n"
  ui_trait_deceitful:0 "Deceitful"
@@ -33,8 +31,6 @@
  ui_trait_poor_sociologists_desc:0 "§LMembers of this species have an inherent repulsion towards sociology and biological studies.§!\n"
  ui_trait_sluggish:0 "Sluggish"
  ui_trait_sluggish_desc:0 "§LMembers of this have slow reflexes, resulting if very long response times in battle.§!\n"
- ui_trait_subterranean:0 "Subterranean"
- ui_trait_subterranean_desc:0 "§LThis species has a deep connection with the underground, and make good miners while also being protected from the elements.§!\n"
  ui_trait_trusting:0 "Trusting"
  ui_trait_trusting_desc:0 "§LMembers of this species are known naives, always being manipulated by others.§!\n"
  ui_trait_uneconomical:0 "Uneconomical"
@@ -43,8 +39,6 @@
  ui_trait_urban_desc:0 "§LThis species has a deep connection with the cosmopolitan areas, and make poor farmers and gardeners.§!\n"
  ui_trait_very_adaptive:0 "Very Adaptive"
  ui_trait_very_adaptive_desc:0 "§LThis species if very adaptive to most foreign environments.§!\n"
- ui_trait_violent:0 "Violent"
- ui_trait_violent_desc:0 "§LMembers of this species very violent in nature, resulting in very experienced soldiers, but at the cost of their people's lives.§!\n"
 
 # Governor traits
  ui_trait_governor_corporatist:0 "Corporatist"
