@@ -1,9 +1,9 @@
 ﻿l_english:
- ui_twilight:0 "Perpetual Twilight"
- ui_twilight_desc:0 "This planet is fixed in a state of perpetual twilight, and there is no clear difference between day and night."
  ui_extreme_temperatures:0 "Extreme Temperatures"
  ui_extreme_temperatures_desc:0 "This planet experiences sub-zero temperatures at night, and blazing hot temperatures during the day."
  ui_no_magnetic_field:0 "No Magnetic Field"
  ui_no_magnetic_field_desc:0 "This world has no magnetic field, leaving it completely vulnerable against cosmic radiation."
  ui_salty:0 "Salty"
  ui_salty_desc:0 "This world has extremely salty soils and waters, making it very hard for anything to grow on it."
+ ui_twilight:0 "Perpetual Twilight"
+ ui_twilight_desc:0 "This planet is fixed in a state of perpetual twilight, and there is no clear difference between day and night."
