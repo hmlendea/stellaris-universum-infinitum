@@ -1,8 +1,8 @@
 ﻿l_english:
- TECH_UNLOCK_TERRAFORMING_UI_BARREN_CHANGE_TITLE:0 "§HUnlocks Feature:§! Barren World Terraformation"
  TECH_UNLOCK_TERRAFORMING_UI_BARREN_CHANGE_DESC:1 "§HBarren World Terraformation§!\nAllows us to terraform lifeless barren worlds."
- TECH_UNLOCK_TERRAFORMING_UI_RINGWORLD_DAMAGED_CHANGE_TITLE:0 "§HUnlocks Feature:§! Damaged Ringworld Restoration"
+ TECH_UNLOCK_TERRAFORMING_UI_BARREN_CHANGE_TITLE:0 "§HUnlocks Feature:§! Barren World Terraformation"
  TECH_UNLOCK_TERRAFORMING_UI_RINGWORLD_DAMAGED_CHANGE_DESC:1 "§HDamaged Ringworld Restoration§!\nAllows us to restore damaged sections of the ancient ringworlds."
+ TECH_UNLOCK_TERRAFORMING_UI_RINGWORLD_DAMAGED_CHANGE_TITLE:0 "§HUnlocks Feature:§! Damaged Ringworld Restoration"
 
  tech_ui_barren_terraforming:0 "Barren World Terraformation"
  tech_ui_barren_terraforming_desc:1 "Allows us to create a whole new, livable world, out of a lifeless space rock.\n\n"
