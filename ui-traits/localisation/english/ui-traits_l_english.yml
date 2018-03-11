@@ -61,6 +61,8 @@
  ui_trait_governor_physicist_desc:0 "This character was a renowned pyhsics researcher before pursuing a political career with the goal of further promoting and developing his field of science.§!\n"
  ui_trait_governor_populist:0 "Populist"
  ui_trait_governor_populist_desc:0 "This character really knows how to efficiently touch sensitive popular subjects, fuelling national-scale movements and uniting the people with a common goal.§!\n"
+ ui_trait_governor_robotics_magnate:0 "Robotics Magnate"
+ ui_trait_governor_robotics_magnate_desc:0 "This character is a magnate in the robotics industry, and can provide exclusive and very profitable contracts.§!\n"
  ui_trait_governor_securist:0 "Securist"
  ui_trait_governor_securist_desc:0 "This character is has strong ties with the police and security agencies, and is an advocate of a strong security force and preventive surveillance.§!\n"
  ui_trait_governor_sociologist:0 "Sociologist"
