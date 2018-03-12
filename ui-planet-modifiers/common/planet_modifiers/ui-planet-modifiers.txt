@@ -203,4 +203,18 @@ pm_ui_sea_monsters = {
     modifier = "ui_sea_monsters"
 }
 
+pm_ui_swampy = {
+    spawn_chance = {
+        modifier = {
+            add = 3
+            is_planet_class = "pc_ocean"
+        }
+        modifier = {
+            add = 6
+            is_planet_class = "pc_tropical"
+        }
+    }
+
+    modifier = "ui_swampy"
+}
 
