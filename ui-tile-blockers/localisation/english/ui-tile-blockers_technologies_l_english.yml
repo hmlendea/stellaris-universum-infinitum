@@ -13,4 +13,6 @@
  tech_tb_ui_mutant_infestation_desc:1 "Advanced techniques and tools developed for the purpose of safely and completely purging a defined area of any mutant infestation.\n\n"
  tech_tb_ui_sea_monsters:0 "Sea Monsters Removal"
  tech_tb_ui_sea_monsters_desc:1 "Swarms of automated underwater drones that hunt and kill sea monsters.\n\n"
+ tech_tb_ui_swamp:0 "Swamp Removal"
+ tech_tb_ui_swamp_desc:1 "Automated drones and new artificial soil enhancing techniques can turn even the deepest swamps into idillyc plains.\n\n"
 

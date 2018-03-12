@@ -237,3 +237,36 @@ tb_ui_sea_monsters = {
     prerequisites = { "tech_tb_ui_sea_monsters" }
 }
 
+# Swamp
+tb_ui_swamp = {
+    time = 100
+    cost = {
+        energy = 400
+    }
+
+    spawn_chance = {
+        modifier = {
+            add = 12
+            planet = {
+                is_colonizable = yes
+                is_planet_class = pc_tropical
+            }
+        }
+        modifier = {
+            add = 6
+            planet = {
+                is_colonizable = yes
+                is_planet_class = pc_ocean
+            }
+        }
+        modifier = {
+                factor = 1
+                planet = {
+                    has_modifier = "ui_swampy"
+                }
+        }
+    }
+
+    prerequisites = { "tech_tb_ui_swamp" }
+}
+
