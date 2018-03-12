@@ -36,18 +36,74 @@ ui_extra_human_spqr_extended = {
             Dacicus Salamina
         }
         
-        corvette = { }
-        destroyer = { }
-        cruiser = { }
-        battleship = { }
+        corvette = {
+            # Vanilla HUMAN3 (SPQR)
+			Lartius Flavus Aulus Postumius Albus Regillensis Manius Valerius Volusus Maximus Gaius Aemilius Mamercus Lucius Quinctius Cincinnatus Quintus Servilius
+			Priscus Structus Fidenas Tubertus Publius Cornelius Rutilus Cossus Marcus Furius Camillus Capitolinus Manlius Appius Pennus Crispinus Ahala Sulpicius
+			Peticus Marcius Imperiosus Torquatus Julius Iulus Ambustus Poplicola Corvus Crassus Philo Privernas Rufinus Papirius Varus Gnaeus Marcellus Cursor Arvina
+			Lentulus Rullianus Poetilius Visolus Longus Junius Bubulcus Brutus Hortensius Caecus Barbula Calvinus Domitius Fulvius Centumalus Ogulnius Glicia Atilius
+			Calatinus Coruncanius Duilius Caecilius Metullus Verrucosus Veturius Pera Fabius Buteo Centho Flaccus Livius Scaeva Salinator Geminus Drusus Spurius
+			Cassius Viscellinus Aebutius Elva Sempronius Atratinus Mamercinus Scapula Natta Servius Maluginensis Plautius Proculus Scipio Denter Hortator Potitus
+			Antonius Albinus Paetus Foslius Flaccinator Cerretanus Decius Titinius Paullus Philippus Laetorius Plancianus Cotta Numerius Flaminius Minucius Pomponius
+			Gracchus Metellus Pulex Velox Acutus Ensatus Erosus Excelsus Ingratus Lancea Magnus Nitidus Ophis Sanctus Verrucosus Virosus Ferox Merus Pulcher Currus
+			Malleus Spina Accipiter Anguis Apis Aquila Corvus Leo Lupus Papilio Passer Strix Ursus Vespa Viverra Vulpes Sagittarii Scutum Parma Cetra Dolabra
+			Tribulus
+		}
+        destroyer = {
+            # Vanilla SPQR
+            Abundantia "Acca Larentia" Acis Aerecura Aequitas Aesculapius Aeternitas Aeon "Aius Locutius" Alernus Angerona Angitia "Anna Perenna" Annona Antevorta
+            "Arkeus Ultor" Arimanius Aura Averruncus "Bona Dea" "Bonus Eventus" Bubona Caca Cacus Caelus Camenae Cardea Carmenta Carna Clementia Cloacina Consus
+            Cupid Cura Cybele "Dea Dia" "Dea Tacita" Decima Devera "Dius Fidius" Disciplina Egeria Empanda Epona Falacer Fama Fascinus Fauna Faunus Faustitas Februus
+            Febris Fecunditas Felicitas Ferentina Feronia Fornax Fufluns Fulgora Furrina Gratiae Hermaphroditus Honos Hora Indiges Intercidona Inuus Invidia Justitia
+            Juturna Juventas Laverna Latona Lemures Levana Letum Libertas Libitina Lua Lucifer Lupercus Lympha "Mana Genita" Manes Mantus "Mater Matuta" Meditrina
+            Mephitis Mellonia Moneta Mors Murcia "Mutunus Tutunus" Naenia Nascio Necessitas Neverita Nona Nox Palatua Pax Picumnus Picus Pilumnus Poena Pomona
+            Porrima Portunes Postverta Priapus Pudicitia Quirtis Robigus Rumina Silvanus Somnus Soranus Sors Spes "Stata Mater" Sterquilinus Suedala Summanus
+            Tiberinus Tibertus Tranquillitas Trivia Ubertas Unxia Vacuna Vediovus Venelia Verminus Vertumnus Viduus Virbius Volturnus Voluptas
+        }
+        cruiser = {
+			# Vanilla SPQR
+			Jupiter Juno Mars Venus Bellona Minerva Janus Vesta Saturn Genius Mercury Apollo Vulcan Neptune Victoria Virtus Tellus Ceres Luna Diana Feronia
+			Novensides Pales Salus Fortuna Fons Fides Opis Flora Vediovis Summanus Larunda Terminus Quirinus Vortumnus Lares Lucina Aurora Bacchus Concordia Hercules
+			Mithras Nemesis Nerio Pietas Pluto Proserpina Providentia Salacia Sancus Securitas Orcus Liber Tempestas "Vica Pota" Victrix Ferrata Fidelis Triumphalis
+			Fulminata Liberatrix Fortis Venator Felix Firma Rapax Constantia Salutis Virtutis Caper Taurus Centaurus Aper Pegasus Ops Dacicus Olivus Asclepius
+			Perseus Satyra Particus Tibur Pollux Salvia Sol Isis Castor Armata Salamina Rhenus Tigris Oceanus Eufrates Danubius Nilus Athenonix
+		}
+        battleship = {
+            # Vanilla SPQR
+            Augustus Tiberius Caligula Claudius Nero Galba Otho Vitellius Vespasian Titus Domitian Nerva Hadrian "Antoninus Pius" "Marcus Aurelius" "Lucius Verus"
+            Commodus Pertinax "Didius Julianus" "Septimus Severus" Caracalla Geta Macrinus Elagabalus "Severus Alexander" Maximinus Gordian Pupienus Balbinus Philip
+            "Trajan Decius" Hostilian "Trebonianus Gallus" Aemilian Valerian Gallienus "Claudius Gothicus" Quintillus Aurelian Tacitus Florian Probus Carus Numerian
+            Carinus Diocletian Maximian Constantius Galerius Severus Constantine Maxentius Licinius Constans Vetranio Julian Jovian Valentinian Valens Gratian
+            Theodosius Sulla "Gaius Marius" Agrippa
+        }
         
-        titan = { }
-        colossus = { }
+        titan = {
+            # Vanilla SPQR
+			"Julius Caesar" "Imperator Augustus" Romulus Remus Trajan
+		}
+        colossus = {
+			# Vanilla SPQR
+			"Pax Romana" "Sol Invictus" "Dis Pater"
+		}
 
-        constructor = { }
-        science = { }
-        colonizer = { }
-        transport = { }
+        constructor = {
+            # Vanilla SPQR
+            Macedonia Mauretania Noricum Numidia Palaestina Parthia Phoenicia Ruthenia Scythia Serica Syria Thracia Hibernia
+        }
+        science = {
+            # Vanilla SPQR
+            Plinius Acoreus Adrastus Hyginus Gallus Pytheas Diodorus Posidonius Anaximander Callippus Hephaestio Ptolemy Alypius Mucianus Isidore Strabo
+            "Pomponius Mela" Marinus Pausanias Agathodaemon Dionysius Agathemerus Marcian "Julius Honorius" "Polemius Silvius"
+        }
+        colonizer = {
+            # Vanilla SPQR
+            Achaea Belgica Germania Africa Aegyptus Anatolia Arabia Ariana Asia Britannia Caledonia Cilicia Gallia Dacia Cyrenaica Cambria Graecia Hispania Illyria
+            Italia Libya Lusitania
+        }
+        transport = {
+            # Vanilla SPQR
+            Legionarius Aeneator Aquilifer Bucinator Cornicen Draconarius Signifer Tablifer Tubicen Vexillarius
+        }
         
         mining_station = { }
         research_station = { }
@@ -69,11 +125,17 @@ ui_extra_human_spqr_extended = {
             sequential_name = "%O% Starbase"
         }
 
-        military_station_small = { }
+        military_station_small = {
+            # Vanilla SPQR
+            Gladius Spiculum Verutum Lancea Pugio Spatha Hasta Plumbata
+        }
         military_station_medium = { }
         military_station_large = { }
 
-        ion_cannon = { }
+        ion_cannon = {
+            # Vanilla SPQR
+            Ballista Scorpio Javelin Pilum
+        }
     }
 
     ship_class_names = {
@@ -122,25 +184,25 @@ ui_extra_human_spqr_extended = {
     }
 
     fleet_names = {
-        sequential_name = "%O% Fleet" # "%0 Classis"
+        sequential_name = "Classis %R%"
     }
 
     army_names = {
-        defense_army = { sequential_name = "%O% Auxilliary" }
-        assault_army = { sequential_name = "%O% Cohort" }
+        defense_army = { sequential_name = "Limitanei %R%" }
+        assault_army = { sequential_name = "Legio %R%" }
 
-        slave_army = { sequential_name = "%O% Gladiators" }
-        clone_army = { sequential_name = "%O% Clone Cohort" }
+        slave_army = { sequential_name = "Auxilia %R%" }
+        clone_army = { sequential_name = "Clonandi %R%" }
 
-        robotic_army = { sequential_name = "%O% Iron Cohort" }
-        robotic_defense_army = { sequential_name = "%O% Iron Cohort" }
+        robotic_army = { sequential_name = "Robotum %R%" }
+        robotic_defense_army = { sequential_name = "Limitanei Robotum %R%" }
 
-        android_army = { sequential_name = "%O% Android Cohort" }
-        android_defense_army = { sequential_name = "%O% SAndroid Cohort" }
+        android_army = { sequential_name = "Robotum Superior %R%" }
+        android_defense_army = { sequential_name = "Limitanei Robotum Superior %R%" }
 
-        psionic_army = { sequential_name = "%O% Special Cohort" }
-        xenomorph_army = { sequential_name = "%O% Xenomorph Swarm" }
-        gene_warrior_army = { sequential_name = "%O% Supersoldier Cohort" }
+        psionic_army = { sequential_name = "Legio Psychica %R%" }
+        xenomorph_army = { sequential_name = "Bestia Auxilia %R%" }
+        gene_warrior_army = { sequential_name = "Legio Praetoriae %R%" }
     }
 
     planet_names = {
@@ -149,9 +211,14 @@ ui_extra_human_spqr_extended = {
         pc_desert = { }
         pc_arid = { }
         pc_tropical = { }
-        pc_continental = { }
+        pc_continental = {
+            # Countries, capitals, cities
+            Londinium Varadinum Napoca Dacia Tracia
+        }
         pc_gaia = { }
-        pc_ocean = { }
+        pc_ocean = {
+            Atlantis Oceania Pacifica Atlantica Euxina Hyrcania Rubrica Erythraea Baltica Aegea Adriatica Tyrrhenia Mediterranea Mare
+		}
         pc_tundra = { }
         pc_arctic = { }
         pc_nuked = { }

@@ -10,12 +10,13 @@ ui_extra_human_starcraft = {
         
         corvette = { }
         destroyer = { }
-        cruiser = { }
+        cruiser = {
+            Victory
+        }
         battleship = {
-            Hyperion Norad Cyrus Bucephalus Scion Hephaestus Palatine Victory Medusa Herakles "White Star" "Emperor's Fury" Hoosier Tahoe "Gray Tiger" Fury
-            Cerberus Helios Ragnorak Metis "Thunder Child" Meleager Amphitrite Phobos Titan Circe "Iron Justice" Merrimack Jackson Eos "Huey Long" Antigone
-            "Iron Fist" Patroclus Aeneas "Theodore G. Bilbo" Bismarck Napoleon "Dark Skies" "Jackson's Revenge" "Valor of Vardona" "Kimeran Juggernaut"
-            Kimera
+            Hyperion Norad Cyrus Bucephalus Scion Hephaestus Palatine Victory Medusa Herakles "White Star" "Emperor's Fury" Hoosier Tahoe "Gray Tiger" Fury Cerberus
+            Helios Ragnorak Metis "Thunder Child" Meleager Amphitrite Phobos Titan Circe "Iron Justice" Merrimack Jackson Eos "Huey Long" Antigone "Iron Fist"
+            Patroclus Aeneas "Theodore G. Bilbo" Bismarck Napoleon "Dark Skies" "Jackson's Revenge" "Valor of Vardona" "Kimeran Juggernaut" Kimera
         }
         
         titan = { }
@@ -135,7 +136,7 @@ ui_extra_human_starcraft = {
                 "Charlie Squad" "Heaven's Devils" "Hellbringers" "Cerberus Squad" "Shock Division" "Blackhammers" "Outback Hunters" "Bulwark Company"
                 "Field Response Theta" "Death Heads" "Prometheus Company" "Night Wolves" "Sky Fury Squadron" "War Pigs"
             }
-            sequential_name = "%O% Ground Assult Division"
+            sequential_name = "%O% Ground Assault Division"
         }
 
         slave_army = { sequential_name = "%O% Indentured Rifles" }
