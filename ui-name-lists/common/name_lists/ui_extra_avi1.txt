@@ -13,24 +13,78 @@ ui_extra_avi1 = {
             Vyrorynerin Nollolyn Sanelearyn Nyriaenavon Laleranyn Norylyn Ocynoraphin Tyryphin Zephyn Bephynin Hyalyn Nynyninorin Nyphynn Lyphian Myniaemorin
             Heshynin Cenethyryn Vysyphyn Vonynereron Ilyphon
         }
+        
+        corvette = { }
+        destroyer = { }
+        cruiser = { }
+        battleship = { }
+        
+        titan = { }
+        colossus = { }
+
+        constructor = { }
+        science = { }
+        colonizer = { }
+        transport = { }
+        
+        mining_station = { }
+        research_station = { }
+        observation_station = { }
+
+        starbase_outpost = {
+            sequential_name = "%O% Starbase"
+        }
+        starbase_starport = {
+            sequential_name = "%O% Starbase"
+        }
+        starbase_starhold = {
+            sequential_name = "%O% Starbase"
+        }
+        starbase_starfortress = {
+            sequential_name = "%O% Starbase"
+        }
+        starbase_citadel = {
+            sequential_name = "%O% Starbase"
+        }
+
+        military_station_small = { }
+        military_station_medium = { }
+        military_station_large = { }
+
+        ion_cannon = { }
+    }
+
+    ship_class_names = {
+        generic = { }
 
         corvette = { }
         destroyer = { }
         cruiser = { }
         battleship = { }
+        
+        titan = { }
+        colossus = { }
+
+        constructor = { }
         science = { }
         colonizer = { }
-        constructor = { }
-
+        transport = { }
+        
         mining_station = { }
         research_station = { }
-        wormhole_station = { }
         observation_station = { }
-        outpost_station = { }
+
+        starbase_outpost = { }
+        starbase_starport = { }
+        starbase_starhold = { }
+        starbase_starfortress = { }
+        starbase_citadel = { }
 
         military_station_small = { }
         military_station_medium = { }
         military_station_large = { }
+
+        ion_cannon = { }
     }
 
     fleet_names = {
@@ -57,14 +111,20 @@ ui_extra_avi1 = {
     }
 
     army_names = {
-        defense_army      = { sequential_name = "%O% Defence Harpies" }
-        assault_army      = { sequential_name = "%O% Invasion Harpies" }
-        slave_army        = { sequential_name = "%O% Chained Army" }
-        clone_army        = { sequential_name = "%O% Replicated Harpies" }
-        robotic_army      = { sequential_name = "%O% Steel Harpies" }
-        android_army      = { sequential_name = "%O% Synthetic Harpies" }
-        psionic_army      = { sequential_name = "%O% Psionic Harpies" }
-        xenomorph_army    = { sequential_name = "%O% Mutant Flock" }
+        defense_army = { sequential_name = "%O% Defence Harpies" }
+        assault_army = { sequential_name = "%O% Invasion Harpies" }
+
+        slave_army = { sequential_name = "%O% Slave Flock" }
+        clone_army = { sequential_name = "%O% Replicated Harpies" }
+
+        robotic_army = { sequential_name = "%O% Steel Harpies" }
+        robotic_defense_army = { sequential_name = "%O% Steel Harpies" }
+
+        android_army = { sequential_name = "%O% Synthetic Harpies" }
+        android_defense_army = { sequential_name = "%O% Synthetic Harpies" }
+
+        psionic_army = { sequential_name = "%O% Psionic Harpies" }
+        xenomorph_army = { sequential_name = "%O% Mutant Flock" }
         gene_warrior_army = { sequential_name = "%O% Enhanced Harpies" }
     }
 
@@ -79,15 +139,23 @@ ui_extra_avi1 = {
                 Gloynona Lysthisea Hynia Hyoda Hyphethia Avylyna Uvynia Urynalia Tyorera Lynoinea Lyphia Dhyphia Hynnoia Nyreara Hynnea Tylellela
             }
         }
-
-        pc_desert = { names = { } }
-        pc_tropical = { names = { } }
-        pc_arid = { names = { } }
-        pc_continental = { names = { } }
-        pc_ocean = { names = { } }
-        pc_tundra = { names = { } }
-        pc_arctic = { names = { } }
+        pc_desert = { }
+        pc_arid = { }
+        pc_tropical = { }
+        pc_continental = { }
+        pc_gaia = { }
+        pc_ocean = { }
+        pc_tundra = { }
+        pc_arctic = { }
+        pc_nuked = { }
+        pc_savannah = { }
+        pc_alpine = { }
+        pc_molten = { }
+        pc_barren = { 
+        pc_asteroid = { }}
     }
+
+    ### CHARACTERS
 
     character_names = {
         default = {
@@ -111,7 +179,6 @@ ui_extra_avi1 = {
                 Gyshis Glelynis Ocyphoys Yellylys Lyres Tyrisinis Lysis Manodynis Myris Gyphis Cyris Lophyles Lynanis Lolys Cyvas Vorys Tynores Tynis
                 Tyles Lyphys Iorys Yenynyvis Tyaroris Marys Thyphonis Ilys Gwyllis Myphis Sylyrynis
             }
-
             regnal_second_names = {
                 Tys Cys Hys Lys Mys Sys Xys Vys Dys Gys Nys
             }

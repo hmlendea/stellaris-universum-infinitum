@@ -3,8 +3,6 @@
 ### Human (SPQR) (Extended)
 
 ui_extra_human_spqr_extended = {
-    randomized = no
-
     ship_names = {
         generic = {
             # By Gods
@@ -37,6 +35,45 @@ ui_extra_human_spqr_extended = {
             # By places
             Dacicus Salamina
         }
+        
+        corvette = { }
+        destroyer = { }
+        cruiser = { }
+        battleship = { }
+        
+        titan = { }
+        colossus = { }
+
+        constructor = { }
+        science = { }
+        colonizer = { }
+        transport = { }
+        
+        mining_station = { }
+        research_station = { }
+        observation_station = { }
+
+        starbase_outpost = {
+            sequential_name = "%O% Starbase"
+        }
+        starbase_starport = {
+            sequential_name = "%O% Starbase"
+        }
+        starbase_starhold = {
+            sequential_name = "%O% Starbase"
+        }
+        starbase_starfortress = {
+            sequential_name = "%O% Starbase"
+        }
+        starbase_citadel = {
+            sequential_name = "%O% Starbase"
+        }
+
+        military_station_small = { }
+        military_station_medium = { }
+        military_station_large = { }
+
+        ion_cannon = { }
     }
 
     ship_class_names = {
@@ -47,22 +84,41 @@ ui_extra_human_spqr_extended = {
         corvette = {
             Lembus Liburna
         }
-
         destroyer = {
             Bireme Trireme Quadrireme Quinquereme
         }
-
         cruiser = {
             Hexareme Sexireme
         }
-
         battleship = {
             Septireme Octeres Enneres Deceres
         }
+        
+        titan = { }
+        colossus = { }
 
+        constructor = { }
+        science = { }
+        colonizer = { }
         transport = {
             Hemiolia
         }
+        
+        mining_station = { }
+        research_station = { }
+        observation_station = { }
+
+        starbase_outpost = { }
+        starbase_starport = { }
+        starbase_starhold = { }
+        starbase_starfortress = { }
+        starbase_citadel = { }
+
+        military_station_small = { }
+        military_station_medium = { }
+        military_station_large = { }
+
+        ion_cannon = { }
     }
 
     fleet_names = {
@@ -70,50 +126,40 @@ ui_extra_human_spqr_extended = {
     }
 
     army_names = {
-        defense_army = {
-            sequential_name = "%O% Auxilliary"
-        }
+        defense_army = { sequential_name = "%O% Auxilliary" }
+        assault_army = { sequential_name = "%O% Cohort" }
 
-        assault_army = {
-            sequential_name = "%O% Cohort"
-        }
+        slave_army = { sequential_name = "%O% Gladiators" }
+        clone_army = { sequential_name = "%O% Clone Cohort" }
 
-        slave_army = {
-            sequential_name = "%O% Gladiators"
-        }
+        robotic_army = { sequential_name = "%O% Iron Cohort" }
+        robotic_defense_army = { sequential_name = "%O% Iron Cohort" }
 
-        clone_army = {
-            sequential_name = "%O% Clone Cohort"
-        }
+        android_army = { sequential_name = "%O% Android Cohort" }
+        android_defense_army = { sequential_name = "%O% SAndroid Cohort" }
 
-        robotic_army = {
-            sequential_name = "%O% Iron Cohort"
-        }
-
-        android_army = {
-            sequential_name = "%O% Android Cohort"
-        }
-
-        psionic_army = {
-            sequential_name = "%O% Special Cohort"
-        }
-
-        xenomorph_army = {
-            sequential_name = "%O% Xenomorph Swarm"
-        }
-
-        gene_warrior_army = {
-            sequential_name = "%O% Supersoldier Cohort"
-        }
+        psionic_army = { sequential_name = "%O% Special Cohort" }
+        xenomorph_army = { sequential_name = "%O% Xenomorph Swarm" }
+        gene_warrior_army = { sequential_name = "%O% Supersoldier Cohort" }
     }
-
-
-    ### PLANETS
 
     planet_names = {
         # Gotta put God names in here
-        generic = {
-        }
+        generic = { }
+        pc_desert = { }
+        pc_arid = { }
+        pc_tropical = { }
+        pc_continental = { }
+        pc_gaia = { }
+        pc_ocean = { }
+        pc_tundra = { }
+        pc_arctic = { }
+        pc_nuked = { }
+        pc_savannah = { }
+        pc_alpine = { }
+        pc_molten = { }
+        pc_barren = { }
+        pc_asteroid = { }
     }
 
     ### CHARACTERS
@@ -124,11 +170,9 @@ ui_extra_human_spqr_extended = {
             first_names_male = {
                 Appius Aulus Decimus Gaius Gnaeus Lucius Manius Marcus Numerius Publius Quintus Servius Sextus Spurius Tiberius Titus Vibius
             }
-
             first_names_female = {
                 Appia Aula Decima Gaia Gnaea Lucia Mania Marca Numeria Publia Quinta Servia Sexta Spuria Tiberia Tita Vibia
             }
-
             second_names = {
                 Aculeo Agricola Agrippa Ahala Ahenobarbus Albinus Albus Ambustus Annalis Aquila Aquilinus Arvina Asellio Asina Atellus Avitus Baestia Balbus Barba
                 Barbatus Bassus Bibaculus Bibulus Blaesus Brocchus Brutus Bubulcus Bucco Bulbus Buteo Caecus Caepio Caesar Calidus Calvinus Calvus Camillus Caninus
@@ -147,11 +191,9 @@ ui_extra_human_spqr_extended = {
             regnal_first_names_male = {
                 Appius Aulus Decimus Gaius Gnaeus Lucius Manius Marcus Numerius Publius Quintus Servius Sextus Spurius Tiberius Titus Vibius
             }
-
             regnal_first_names_female = {
                 Appia Aula Decima Gaia Gnaea Lucia Mania Marca Numeria Publia Quinta Servia Sexta Spuria Tiberia Tita Vibia
             }
-
             regnal_second_names = {
                 Aculeo Agricola Agrippa Ahala Ahenobarbus Albinus Albus Ambustus Annalis Aquila Aquilinus Arvina Asellio Asina Atellus Avitus Baestia Balbus Barba
                 Barbatus Bassus Bibaculus Bibulus Blaesus Brocchus Brutus Bubulcus Bucco Bulbus Buteo Caecus Caepio Caesar Calidus Calvinus Calvus Camillus Caninus

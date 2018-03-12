@@ -13,37 +13,78 @@ ui_extra_fun1 = {
             Astoribeem Urascameen Uliav Muldaraguud Urigav Salav Ythafeem Putrend Cufflabeem Mashbadeem Ythlabb Fleem Nagrineem Iblabb Undageem Lothoreem
             Indagrineem Mantharemt Vabreem Petheem Vvibbava Avabbiva Savabb Yehmadd
         }
+        
+        corvette = { }
+        destroyer = { }
+        cruiser = { }
+        battleship = { }
+        
+        titan = { }
+        colossus = { }
 
-        corvette = {
-        }
-
-        destroyer = {
-        }
-
-        cruiser = {
-        }
-
-        battleship = {
-        }
-
-        science = {
-        }
-
-        colonizer = {
-        }
-
-        constructor = {
-        }
-
+        constructor = { }
+        science = { }
+        colonizer = { }
+        transport = { }
+        
         mining_station = { }
         research_station = { }
-        wormhole_station = { }
         observation_station = { }
-        outpost_station = { }
 
-        military_station_small = {}
-        military_station_medium = {}
-        military_station_large = {}
+        starbase_outpost = {
+            sequential_name = "%O% Starbase"
+        }
+        starbase_starport = {
+            sequential_name = "%O% Starbase"
+        }
+        starbase_starhold = {
+            sequential_name = "%O% Starbase"
+        }
+        starbase_starfortress = {
+            sequential_name = "%O% Starbase"
+        }
+        starbase_citadel = {
+            sequential_name = "%O% Starbase"
+        }
+
+        military_station_small = { }
+        military_station_medium = { }
+        military_station_large = { }
+
+        ion_cannon = { }
+    }
+
+    ship_class_names = {
+        generic = { }
+
+        corvette = { }
+        destroyer = { }
+        cruiser = { }
+        battleship = { }
+        
+        titan = { }
+        colossus = { }
+
+        constructor = { }
+        science = { }
+        colonizer = { }
+        transport = { }
+        
+        mining_station = { }
+        research_station = { }
+        observation_station = { }
+
+        starbase_outpost = { }
+        starbase_starport = { }
+        starbase_starhold = { }
+        starbase_starfortress = { }
+        starbase_citadel = { }
+
+        military_station_small = { }
+        military_station_medium = { }
+        military_station_large = { }
+
+        ion_cannon = { }
     }
 
     fleet_names = {
@@ -70,49 +111,28 @@ ui_extra_fun1 = {
     }
 
     army_names = {
-        defense_army = {
-            sequential_name = "%O% Defence Spores"
-        }
+        defense_army = { sequential_name = "%O% Defence Spores" }
+        assault_army = { sequential_name = "%O% Assault Spores" }
 
-        assault_army = {
-            sequential_name = "%O% Assault Spores"
-        }
+        slave_army = { sequential_name = "%O% Chained Regiment" }
+        clone_army = { sequential_name = "%O% Clone Platoon" }
 
-        slave_army = {
-            sequential_name = "%O% Chained Regiment"
-        }
+        robotic_army = { sequential_name = "%O% Mechanized Spore Host" }
+        robotic_defense_army = { sequential_name = "%O% Mechanized Spore Host" }
 
-        clone_army = {
-            sequential_name = "%O% Clone Platoon"
-        }
+        android_army = { sequential_name = "%O% Cyberfungi" }
+        android_defense_army = { sequential_name = "%O% Cyberfungi" }
 
-        robotic_army = {
-            sequential_name = "%O% Mechanized Spore Host"
-        }
-
-        android_army = {
-            sequential_name = "%O% Cyberfungi"
-        }
-
-        psionic_army = {
-            sequential_name = "%O% Psi Host"
-        }
-
-        xenomorph_army = {
-            sequential_name = "%O% Sporemorphs"
-        }
-
-        gene_warrior_army = {
-            sequential_name = "%O% Storm Caps"
-        }
+        psionic_army = { sequential_name = "%O% Psi Host" }
+        xenomorph_army = { sequential_name = "%O% Sporemorphs" }
+        gene_warrior_army = { sequential_name = "%O% Storm Caps" }
     }
 
     planet_names = {
-
         generic = {
             names = {
-                Arlavafinev Arlavan Batoor Bhanguur Cinfin Civareed Civareen Cufferaakh Cufferaaq Davfinev Efiguur Efiguurem Efinev Falagh Faliidh
-                Falmeed Favillop Fheed Fhengoor Fhenne Filav Filava Flugeerdaga Ghandreelen Ghanguukh Ghirgaamen Ghirgav Habraakh Hugiv Hugivva Iplibbyn
+                Arlavafinev Arlavan Batoor Bhanguur Cinfin Civareed Cufferaakh Davfinev Efiguur Efiguurem Efinev Falagh Faliidh
+                Falmeed Favillop Fheed Fhengoor Fhenne Filav Flugeerdaga Ghandreelen Ghanguukh Ghirgaamen Ghirgav Habraakh Hugiv Hugivva Iplibbyn
                 Jalmareen Jalmeedhun Javib Jhiva Julkoduurem Kaljpherem Kaquur Kaquus Karaluudhal Karand Kenjaam Kharabeed Kharanaag Kharandh Kharndoondh
                 Kharndoorgh Kharombeem Knuum Knuumen Krombeedegh Krombeem Nihisquurem Odalkhaadgh Onadraaq Ondaar Ophaluus Pabdeel Pabdoor Paraaq Parabarand
                 Ponsavan Qlaruum Qraluhaad Qraluhaan Qraluus Qurliigh Sabaraakh Sabaranaagh Sahuug Sahuuligh Sahuus Sanguukh Saphuused Saranava Sarombeem
@@ -120,43 +140,23 @@ ui_extra_fun1 = {
                 Ularuumjal Upaad Vurgivva Wanava Woraal Woraan Xurgivv Yvven
             }
         }
-
-        pc_desert = {
-            names = {
-            }
-        }
-
-        pc_tropical = {
-            names = {
-            }
-        }
-
-        pc_arid = {
-            names = {
-            }
-        }
-
-        pc_continental = {
-            names = {
-            }
-        }
-
-        pc_ocean = {
-            names = {
-            }
-        }
-
-        pc_tundra = {
-            names = {
-            }
-        }
-
-        pc_arctic = {
-            names = {
-            }
-        }
-
+        pc_desert = { }
+        pc_arid = { }
+        pc_tropical = { }
+        pc_continental = { }
+        pc_gaia = { }
+        pc_ocean = { }
+        pc_tundra = { }
+        pc_arctic = { }
+        pc_nuked = { }
+        pc_savannah = { }
+        pc_alpine = { }
+        pc_molten = { }
+        pc_barren = { 
+        pc_asteroid = { }}
     }
+
+    ### CHARACTERS
 
     character_names = {
         default = {
@@ -172,7 +172,6 @@ ui_extra_fun1 = {
 
             first_names = {
             }
-
             second_names = {
             }
 
@@ -180,7 +179,6 @@ ui_extra_fun1 = {
                 Ilmanahek Printotek Mashgreel Elgothuum Mishgirg Igorgh Regalotek Alabaratek Xarxotek Ultimotek Hingoriotek Hingoriim Horiim Dianamotek
                 Xarxotek Gargantek Igoriotek Monarhotek Dagglog Krokotek Furiotek Horiotek Epirotek Vaggatuum Cerberotek Igoriotek Dianamotek
             }
-
             regnal_second_names = {
                 Waqqava Ilmaqa Xarvull
             }

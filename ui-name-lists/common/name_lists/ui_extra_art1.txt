@@ -5,34 +5,88 @@
 ui_extra_art1 = {
     ship_names = {
         generic = {
-            Evudodocuz Cazudivuz Jadudrrnaz Vrrugijiz Ebemphadegaruzz Khenokazz Inelorrarazz Kuaddradrimuz Jagrerinolruz Qebodacoz Wulbreredathuz
-            Nemarlgalaz Nagrnnaaz Zimuserrevez Guzebelnaz Qahirinuz Lirivaaguz Rulolaaz Quckuerrejaz Shutsqiduz Nukrodruz Flomotruraz Ranaduzorogazz
-            Rudavogoz Khimruaboz Kukrukozz Rukebeguz Kammasazz Qebogarikiz Jalridazz Gogrodizz Rodanempozz Qerikahaazz Kaguegoruzz Mubilegrduz Iragevavez
-            Urodikukaz Xiomazraaz Zeaanngaz Jokegebraribozz Qomavavilguz Azradenaz Kamutrnosaz Ezzackkidoz Danolnokavuz Mitckunezz Vakuezrirrudezz
-            Limatcorukaz Dudonumolukoz Joggagizzez Kruejomez Laaromotrodovez Orunatttaz Xemarujaz Evukuzzeruaz Zukkejodovaz Jibadikkaz Mukkagazz
-            Nejedreamamuz Zukkkazcolvovaz Jasuvibaz Gedodrimaaz Zidavamanabroz Vanimudrozz Zudruneduz Tesojomruveruz Vavabudoz Smrattroz Jotcumaaz
-            Quvemagemumazz Vuzzelgaz Xemomododaz Dinutazaz Okoggasonezz Libebanaz Runubujuz Quaginubomorraz Duzzejajikonaz Rukoravekozz Ninazcuzejutaz
-            Jadibigenozz Chuabifuz Silaluarijuvnaz Juvethoginoz Qikanogez Nizrozegejalaz Uriahukuaanuzz Jitsahaazruaz Mijavejizz Seveaduzz Zenisckaz
-            Muzeatthilamezz Uamuavezzuzz Qivejogroruzz Qonuvinaalez Gaahumoraz Khajaarathuz Ralvanunoritruz Janukokulgaz Kazrugingazz
+            Evudodocuz Cazudivuz Jadudrrnaz Vrrugijiz Ebemphadegaruzz Khenokazz Inelorrarazz Kuaddradrimuz Jagrerinolruz Qebodacoz Wulbreredathuz Nemarlgalaz
+            Nagrnnaaz Zimuserrevez Guzebelnaz Qahirinuz Lirivaaguz Rulolaaz Quckuerrejaz Shutsqiduz Nukrodruz Flomotruraz Ranaduzorogazz Rudavogoz Khimruaboz
+            Kukrukozz Rukebeguz Kammasazz Qebogarikiz Jalridazz Gogrodizz Rodanempozz Qerikahaazz Kaguegoruzz Mubilegrduz Iragevavez Urodikukaz Xiomazraaz Zeaanngaz
+            Jokegebraribozz Qomavavilguz Azradenaz Kamutrnosaz Ezzackkidoz Danolnokavuz Mitckunezz Vakuezrirrudezz Limatcorukaz Dudonumolukoz Joggagizzez Kruejomez
+            Laaromotrodovez Orunatttaz Xemarujaz Evukuzzeruaz Zukkejodovaz Jibadikkaz Mukkagazz Nejedreamamuz Zukkkazcolvovaz Jasuvibaz Gedodrimaaz Zidavamanabroz
+            Vanimudrozz Zudruneduz Tesojomruveruz Vavabudoz Smrattroz Jotcumaaz Quvemagemumazz Vuzzelgaz Xemomododaz Dinutazaz Okoggasonezz Libebanaz Runubujuz
+            Quaginubomorraz Duzzejajikonaz Rukoravekozz Ninazcuzejutaz Jadibigenozz Chuabifuz Silaluarijuvnaz Juvethoginoz Qikanogez Nizrozegejalaz Uriahukuaanuzz
+            Jitsahaazruaz Mijavejizz Seveaduzz Zenisckaz Muzeatthilamezz Uamuavezzuzz Qivejogroruzz Qonuvinaalez Gaahumoraz Khajaarathuz Ralvanunoritruz Janukokulgaz
+            Kazrugingazz
         }
+        
+        corvette = { }
+        destroyer = { }
+        cruiser = { }
+        battleship = { }
+        
+        titan = { }
+        colossus = { }
+
+        constructor = { }
+        science = { }
+        colonizer = { }
+        transport = { }
+        
+        mining_station = { }
+        research_station = { }
+        observation_station = { }
+
+        starbase_outpost = {
+            sequential_name = "%O% Starbase"
+        }
+        starbase_starport = {
+            sequential_name = "%O% Starbase"
+        }
+        starbase_starhold = {
+            sequential_name = "%O% Starbase"
+        }
+        starbase_starfortress = {
+            sequential_name = "%O% Starbase"
+        }
+        starbase_citadel = {
+            sequential_name = "%O% Starbase"
+        }
+
+        military_station_small = { }
+        military_station_medium = { }
+        military_station_large = { }
+
+        ion_cannon = { }
+    }
+
+    ship_class_names = {
+        generic = { }
 
         corvette = { }
         destroyer = { }
         cruiser = { }
         battleship = { }
+        
+        titan = { }
+        colossus = { }
+
+        constructor = { }
         science = { }
         colonizer = { }
-        constructor = { }
-
+        transport = { }
+        
         mining_station = { }
         research_station = { }
-        wormhole_station = { }
         observation_station = { }
-        outpost_station = { }
+
+        starbase_outpost = { }
+        starbase_starport = { }
+        starbase_starhold = { }
+        starbase_starfortress = { }
+        starbase_citadel = { }
 
         military_station_small = { }
         military_station_medium = { }
         military_station_large = { }
+
+        ion_cannon = { }
     }
 
     fleet_names = {
@@ -59,38 +113,47 @@ ui_extra_art1 = {
     }
 
     army_names = {
-        defense_army      = { sequential_name = "%O% Colony Guard" }
-        assault_army      = { sequential_name = "%O% Invader Swarm" }
-        slave_army        = { sequential_name = "%O% Thrall Swarm" }
-        clone_army        = { sequential_name = "%O% Clone Swarm" }
-        robotic_army      = { sequential_name = "%O% Iron Swarm" }
-        android_army      = { sequential_name = "%O% Synthetic Swarm" }
-        psionic_army      = { sequential_name = "%O% Psychic Swarm" }
-        xenomorph_army    = { sequential_name = "%O% Mutant Swarm" }
+        defense_army = { sequential_name = "%O% Colony Guard" }
+        assault_army = { sequential_name = "%O% Invader Swarm" }
+        
+        slave_army = { sequential_name = "%O% Thrall Swarm" }
+        clone_army = { sequential_name = "%O% Clone Swarm" }
+        
+        robotic_army = { sequential_name = "%O% Iron Swarm" }
+        robotic_defense_army = { sequential_name = "%O% Iron Swarm" }
+        android_army = { sequential_name = "%O% Synthetic Swarm" }
+        android_defense_army = { sequential_name = "%O% Synthetic Swarm" }
+        
+        psionic_army = { sequential_name = "%O% Psychic Swarm" }
+        xenomorph_army = { sequential_name = "%O% Mutant Swarm" }
         gene_warrior_army = { sequential_name = "%O% Elite Swarm" }
     }
 
     planet_names = {
         generic = {
             names = {
-                Qenaza Qumozra Zazinuga Mikkozra Ezrruvuna Qemuza Szeara Duzrna Quzzira Kuvezrora Kezrudoda Nuanaza Wizodoleva Vuniza Mizorenuda Kiziga
-                Szineka Ezravorea Smerizlra Izravusa Whujiozoda Sikozsqa Oviveza Izzrejoka Crrezzuaga Szohibena Rodaza Smurdodaza Vigeza Izrala Juzrama
-                Gnuzza Gnozalga Kuroza Gonakiza Gezlaa Julroza Radadoizza Jizudaha Izeragecka Ruezsa Smuzeja Xezasa Szeaniga Duruaraza Izsula Gnezeha
-                Gnizaa Saluzea Ebuaza Yozoha Izazezema Cazata Sonoza Oreazra Jegozzsuna Chevizeva Vunitraza Ezlgodrua Dezebra Kirazroda Ezavelua Eazinga
-                Zimuziza Sakazaa Karuegazra Flaziga Haazriza Smphizruba Lazlvua Osqazrimua Szarma Izsoirua Nizeja Qazlumpha Zalgaza Ruezora Szrnna Guzera
-                Izugga Izsckima Szrevima Szozrua Jijeza Kazaaha Muazina Szleza Zanozra Duziziba Izemratcka Izsava Nuzrda Mumizadua Izonea Qimokuza Qusazra
-                Duazra Ruzetha Khiziruda Penuboza
+                Archon Blackrose Gideon Helstrom Lilmoth Soulrest Stormhold Thorn Meirhall Quagmire Pantano Braunfels Sodden Meander Shodfen Morness Baydon
+                Hardscale Tranton Redscale Scalemarsh Windamere Weltan Marmont Giovese Weymoth Marr Belleg Shadout Kelsee Gelfling Skeksis Cairn Garthim
+                Bracken Alten Marken Klosowick Bangor Aberyst Histen Tamrugh Tatting Wyth Carmar
             }
         }
-
-        pc_desert = { names = { } }
-        pc_tropical = { names = { } }
-        pc_arid = { names = { } }
-        pc_continental = { names = { } }
-        pc_ocean = { names = { } }
-        pc_tundra = { names = { } }
-        pc_arctic = { names = { } }
+        pc_desert = { }
+        pc_arid = { }
+        pc_tropical = { }
+        pc_continental = { }
+        pc_gaia = { }
+        pc_ocean = { }
+        pc_tundra = { }
+        pc_arctic = { }
+        pc_nuked = { }
+        pc_savannah = { }
+        pc_alpine = { }
+        pc_molten = { }
+        pc_barren = { }
+        pc_asteroid = { }
     }
+
+    ### CHARACTERS
 
     character_names = {
         default = {
@@ -113,7 +176,6 @@ ui_extra_art1 = {
                 Zezah Vidaz Qazod Nazz Vaaz Zuza Qubuz Nuzoh Kazod Kezah Zozze Izath Gaazz Jazas Azza Izal Izas Quzol Ruzum Xesaz Sinuz Vozrd Jacoz Izubu
                 Kozz Quzah
             }
-
             regnal_second_names = {
                 Kex Gex Tex Dex
             }

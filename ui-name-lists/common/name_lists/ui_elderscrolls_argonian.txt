@@ -1,139 +1,134 @@
 ﻿### Universum Infinitum
-### Extras
-### Reptilian 1
+### Elder Scrolls
+### Argonian
 
 ui_elderscrolls_argonian = {
     ship_names = {
         generic = {
             Argonia "Black Marsh" Agaceph Archein Sarpa Naga Paatru Archon Blackrose Gideon Helstrom Lilmoth Soulrest Stormhold Thorn "Lusty Argonian Maid"
         }
+        
+        corvette = { }
+        destroyer = { }
+        cruiser = { }
+        battleship = { }
+        
+        titan = { }
+        colossus = { }
 
-        corvette = {
-        }
-
-        destroyer = {
-        }
-
-        cruiser = {
-        }
-
-        battleship = {
-        }
-
-        science = {
-        }
-
-        colonizer = {
-        }
-
-        constructor = {
-        }
-
+        constructor = { }
+        science = { }
+        colonizer = { }
+        transport = { }
+        
         mining_station = { }
         research_station = { }
-        wormhole_station = { }
-        #terraform_station = { }
         observation_station = { }
-        outpost_station = {
-            #random_names = { }
-            #sequential_name = "%O% Frontier Outpost"
+
+        starbase_outpost = {
+            sequential_name = "%O% Starbase"
+        }
+        starbase_starport = {
+            sequential_name = "%O% Starbase"
+        }
+        starbase_starhold = {
+            sequential_name = "%O% Starbase"
+        }
+        starbase_starfortress = {
+            sequential_name = "%O% Starbase"
+        }
+        starbase_citadel = {
+            sequential_name = "%O% Starbase"
         }
 
-        military_station_small = {}
-        military_station_medium = {}
-        military_station_large = {}
+        military_station_small = { }
+        military_station_medium = { }
+        military_station_large = { }
+
+        ion_cannon = { }
+    }
+
+    ship_class_names = {
+        generic = { }
+
+        corvette = { }
+        destroyer = { }
+        cruiser = { }
+        battleship = { }
+        
+        titan = { }
+        colossus = { }
+
+        constructor = { }
+        science = { }
+        colonizer = { }
+        transport = { }
+        
+        mining_station = { }
+        research_station = { }
+        observation_station = { }
+
+        starbase_outpost = { }
+        starbase_starport = { }
+        starbase_starhold = { }
+        starbase_starfortress = { }
+        starbase_citadel = { }
+
+        military_station_small = { }
+        military_station_medium = { }
+        military_station_large = { }
+
+        ion_cannon = { }
     }
 
     fleet_names = {
         sequential_name = "%O% Space Tails"
     }
 
-    ### ARMIES
     army_names = {
-        defense_army = {
-            sequential_name = "%O% Defence Scales"
-        }
+        defense_army = { sequential_name = "%O% Defence Scales" }
+        assault_army = { sequential_name = "%O% Invasion Scales" }
 
-        assault_army = {
-            sequential_name = "%O% Invasion Scales"
-        }
+        slave_army = { sequential_name = "%O% Slave Horde" }
+        clone_army = { sequential_name = "%O% Cloned Scales" }
 
-        slave_army = {
-            sequential_name = "%O% Slave Horde"
-        }
+        robotic_army = { sequential_name = "%O% Automated Scales" }
+        robotic_defense_army = { sequential_name = "%O% Automated Scales" }
 
-        clone_army = {
-            sequential_name = "%O% Cloned Scales"
-        }
+        android_army = { sequential_name = "%O% Synthetic Scales" }
+        android_defense_army = { sequential_name = "%O% Synthetic Scales" }
 
-        robotic_army = {
-            sequential_name = "%O% Automated Scales"
-        }
-
-        android_army = {
-            sequential_name = "%O% Synthetic Scales"
-        }
-
-        psionic_army = {
-            sequential_name = "%O% Tele-scales"
-        }
-
-        xenomorph_army = {
-            sequential_name = "%O% Mutant Scalemorphs"
-        }
-
-        gene_warrior_army = {
-            sequential_name = "%O% Augmented Scales"
-        }
+        psionic_army = { sequential_name = "%O% Tele-scales" }
+        xenomorph_army = { sequential_name = "%O% Mutant Scalemorphs" }
+        gene_warrior_army = { sequential_name = "%O% Augmented Scales" }
     }
 
-    ### PLANETS
-
     planet_names = {
-
         generic = {
             names = {
-                Archon Blackrose Gideon Helstrom Lilmoth Soulrest Stormhold Thorn Meirhall Quagmire Pantano Braunfels Sodden Meander Shodfen Morness Baydon
-                Hardscale Tranton Redscale Scalemarsh Windamere Weltan Marmont Giovese Weymoth Marr Belleg Shadout Kelsee Gelfling Skeksis Cairn Garthim
-                Bracken Alten Marken Klosowick Bangor Aberyst Histen Tamrugh Tatting Wyth Carmar
+                Qenaza Qumozra Zazinuga Mikkozra Ezrruvuna Qemuza Szeara Duzrna Quzzira Kuvezrora Kezrudoda Nuanaza Wizodoleva Vuniza Mizorenuda Kiziga
+                Szineka Ezravorea Smerizlra Izravusa Whujiozoda Sikozsqa Oviveza Izzrejoka Crrezzuaga Szohibena Rodaza Smurdodaza Vigeza Izrala Juzrama
+                Gnuzza Gnozalga Kuroza Gonakiza Gezlaa Julroza Radadoizza Jizudaha Izeragecka Ruezsa Smuzeja Xezasa Szeaniga Duruaraza Izsula Gnezeha
+                Gnizaa Saluzea Ebuaza Yozoha Izazezema Cazata Sonoza Oreazra Jegozzsuna Chevizeva Vunitraza Ezlgodrua Dezebra Kirazroda Ezavelua Eazinga
+                Zimuziza Sakazaa Karuegazra Flaziga Haazriza Smphizruba Lazlvua Osqazrimua Szarma Izsoirua Nizeja Qazlumpha Zalgaza Ruezora Szrnna Guzera
+                Izugga Izsckima Szrevima Szozrua Jijeza Kazaaha Muazina Szleza Zanozra Duziziba Izemratcka Izsava Nuzrda Mumizadua Izonea Qimokuza Qusazra
+                Duazra Ruzetha Khiziruda Penuboza
             }
         }
-
-        pc_desert = {
-            names = {
-            }
-        }
-
-        pc_tropical = {
-            names = {
-            }
-        }
-
-        pc_arid = {
-            names = {
-            }
-        }
-
-        pc_continental = {
-            names = {
-            }
-        }
-
-        pc_ocean = {
-            names = {
-            }
-        }
-
-        pc_tundra = {
-            names = {
-            }
-        }
-
-        pc_arctic = {
-            names = {
-            }
-        }
-
+        pc_desert = { }
+        pc_arid = { }
+        pc_tropical = { }
+        pc_continental = { }
+        pc_gaia = { }
+        pc_ocean = { }
+        pc_tundra = { }
+        pc_arctic = { }
+        pc_nuked = { }
+        pc_savannah = { }
+        pc_alpine = { }
+        pc_molten = { }
+        pc_barren = { }
+        pc_asteroid = { }
     }
 
     ### CHARACTERS
@@ -150,7 +145,6 @@ ui_elderscrolls_argonian = {
 			    Meer Milos Neetinei Schiavas Okaw Peeradeeh Rasha Reemukeeus Reesa Seewul Skeetul Tanan Teegla Tul Ukawei Ula Utadeek Weeltul Weer Dreekius
 			    Eihleel Meekus Ulaqth
             }
-
             first_names_female = {
                 Deeja Keerava Shahvee Wujeeta On-Staya Bur-Meema Dar-Ma Hal-Liurz Kud-Ei Mach-Na Seed-Neeus Sheer Meedish Tar-Meena Weedum-Ja Beelei
 			    Beewos Bejeen Deetsan Druja Marz Numeen Ocheeva Pasha Rana Shaleez Skaleel Witseidutsei Ah-Meesei Am-Ra An-Deesei Chanil-Lee Cheesh-Meeus
@@ -158,7 +152,6 @@ ui_elderscrolls_argonian = {
 			    Seen-Rei Ahaht Akish Banalz Beekatan Eutei Gilm Gish Hul Kasa Milah Nakuma Neesha Nuralg Nush Okur Onasha Shatalg Tasha Wusha Ra-An
 			    Ra-Lee Ra-Rei Ra-Ahaht Ra-Beewos Ra-Bejeen An-Mach En-Sha
             }
-
             second_names = {
                 Agaceph Archein Sarpa Naga Paatru
             }
@@ -181,7 +174,6 @@ ui_elderscrolls_argonian = {
 			    Seen-Rei Ahaht Akish Banalz Beekatan Eutei Gilm Gish Hul Kasa Milah Nakuma Neesha Nuralg Nush Okur Onasha Shatalg Tasha Wusha Ra-An
 			    Ra-Lee Ra-Rei Ra-Ahaht Ra-Beewos Ra-Bejeen An-Mach En-Sha
             }
-
             regnal_second_names = {
                 Agaceph Archein Sarpa Naga Paatru
             }
