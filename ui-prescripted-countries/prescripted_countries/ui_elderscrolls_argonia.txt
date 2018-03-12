@@ -1,19 +1,22 @@
 ui_elderscrolls_argonia = {
 	key="Sovereign Argonian Confederation"
-	name_list="ui_elderscrolls_argonian"
 	ship_prefix="ACS"
-	species_name="Argonian"
-	species_plural="Argonians"
-	species_class="REP"
-	species_adjective="Argonian"
-	species_bio=""
-	portrait="rep13"
+	species={
+		class="REP"
+		portrait="rep13"
+		name="Argonian"
+		plural="Argonians"
+		adjective="Argonian"
+		name_list="ui_elderscrolls_argonian"
+		trait="trait_agrarian"
+		trait="trait_solitary"
+		trait="trait_sedentary"
+		trait="ui_trait_brave"
+	}
 	name="Sovereign Argonian Confederation"
 	adjective="Argonian"
 	authority="auth_oligarchic"
 	government="gov_theocratic_oligarchy"
-	ftl=wormhole
-	weapon="tech_lasers_1"
 	planet_name="Helstrom"
 	planet_class="pc_tropical"
 	system_name="Argonia"
@@ -55,9 +58,5 @@ ui_elderscrolls_argonia = {
 		"civic_shadow_council"
 		"civic_environmentalist"
 	}
-	trait="trait_agrarian"
-	trait="trait_solitary"
-	trait="trait_sedentary"
-	trait="ui_trait_brave"
 }
 

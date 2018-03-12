@@ -1,19 +1,22 @@
 ui_starcraft_terran_dominion = {
 	key="Terran Dominion"
-	name_list="ui_extra_human_starcraft"
 	ship_prefix="TDS"
-	species_name="Terran"
-	species_plural="Terrans"
-	species_class="HUM"
-	species_adjective="Terran"
-	species_bio=""
-	portrait="human"
+	species={
+		class="HUM"
+		portrait="human"
+		name="Terran"
+		plural="Terrans"
+		adjective="Terran"
+		name_list="ui_extra_human_starcraft"
+		trait="ui_trait_very_adaptive"
+		trait="trait_nomadic"
+		trait="trait_deviants"
+		trait="trait_wasteful"
+	}
 	name="Terran Dominion"
 	adjective="Terran"
 	authority="auth_imperial"
 	government="gov_star_empire"
-	ftl=warp
-	weapon="tech_missiles_1"
 	planet_name="Korhal"
 	planet_class="pc_continental"
 	system_name="Korhal"
@@ -56,9 +59,5 @@ ui_starcraft_terran_dominion = {
 		"civic_police_state"
 		"civic_nationalistic_zeal"
 	}
-	trait="ui_trait_very_adaptive"
-	trait="trait_nomadic"
-	trait="trait_deviants"
-	trait="trait_wasteful"
 }
 

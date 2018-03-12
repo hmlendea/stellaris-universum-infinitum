@@ -1,19 +1,21 @@
 ui_galciv_torian_confederation = {
 	key="Torian Confederation"
-	name_list="REP2"
 	ship_prefix="TCS"
-	species_name="Torian"
-	species_plural="Torians"
-	species_class="REP"
-	species_adjective="Torian"
-	species_bio="The Torians are a wonderful, kind, gentle people, full of wonder and trust. As a species, the Torians are largely an aquatic race, and are nothing if not resilient. Toria is mostly covered in water and they prefer worlds that have more water on them than not."
-	portrait="rep3"
+	species={
+		class="REP"
+		portrait="rep3"
+		name="Torian"
+		plural="Torians"
+		adjective="Torian"
+		species_bio="The Torians are a wonderful, kind, gentle people, full of wonder and trust. As a species, the Torians are largely an aquatic race, and are nothing if not resilient. Toria is mostly covered in water and they prefer worlds that have more water on them than not."
+		name_list="REP2"
+		trait="trait_rapid_breeders"
+		trait="trait_resilient"
+	}
 	name="Torian Confederation"
 	adjective="Torian"
 	authority="auth_democratic"
 	government="gov_moral_democracy"
-	ftl=warp
-	weapon="tech_mass_drivers_1"
 	planet_name="Toria"
 	planet_class="pc_ocean"
 	system_name="Torus"
@@ -37,24 +39,24 @@ ui_galciv_torian_confederation = {
 		}
 	}
 	ruler={
-		gender=female
+		gender=male
 		name="Tlas Kzientha"
-		portrait="rep3_f"
+		portrait="rep3_m"
 		texture=0
 		hair=0
-		clothes=3
+		clothes=1
+		ruler_title="Chancellor"
 	}
 	spawn_as_fallen=no
-	ignore_portrait_duplication=no
+	ignore_portrait_duplication=yes
 	room="personality_peaceful_traders_room"
 	spawn_enabled=yes
 	ethic="ethic_egalitarian"
 	ethic="ethic_xenophile"
 	ethic="ethic_pacifist"
 	civics={
-		"civic_agrarian_idyll"
+		"civic_beacon_of_liberty"
 		"civic_environmentalist"
 	}
-	trait="trait_rapid_breeders"
-	trait="trait_resilient"
 }
+
