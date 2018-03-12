@@ -8,6 +8,7 @@ ui_extra_human_extended = {
     ship_names = {
 
         corvette = {
+            # Vanilla
             "Crazy Horse" "Dakshin Rai" "Grey Wolf" "Guru Baaje" "Hua Mulan" "Jeanne Hachette" "John Henry" "John Paul Jones"
             "Juan Valdivia" "King Cobra" "King Fish" "Paul Bunyan" "Reuben James" "Rodger Young" "Running Eagle" "Shaka Zulu"
             "Shooting Star" "Sitting Bull" "Tiger Shark" "Tomoe Gozen" "Van Lierde" "William Tell" Aardvark Abhay Accentor Acinaces
@@ -34,6 +35,7 @@ ui_extra_human_extended = {
         }
 
         destroyer = {
+            # Vanilla
             Amsterdam Austin Athens Atlanta Baghdad Baltimore Bangkok Barcelona Beijing Belfast Berlin Bombay Boston Hyderabad Budapest
             "Buenos Aires" Cairo Calcutta "Cape Town" Chicago Copenhagen Damascus "Dar es Salaam" Detroit Dubai Dublin Edinburgh 
             Gibraltar Glasgow Guangzhou Hanoi Havana Helsinki "Hong Kong" Houston Istanbul Jakarta Jerusalem Johannesburg Kiev London 
@@ -72,6 +74,7 @@ ui_extra_human_extended = {
         }
 
         cruiser = {
+            # Vanilla
             Bolivar Brusilov Churchill Clausewitz Garibaldi "Gustavus Adolphus" Hammurabi "Julius Caesar" Justinian Lincoln Patton 
             Rommel "Sun Tzu" Liberator Zhukov "Alexander Nevsky" Pyrrhus "Yi Sun-sin" Heihachiro "Khalid ibn al-Walid" Vasa Hindenburg 
             "De Gaulle" Subutai Nagato Scharnhorst Clemenceau Richelieu "Jean Bart" Sparviero Affondatore Tromp "De Ruyter" Esperanza 
@@ -92,6 +95,7 @@ ui_extra_human_extended = {
         }
 
         battleship = {
+            # Vanilla
             Ulysses Xenophon Xerxes Nelson Hercules Icarus Atlas Apollo Ajax Bellerophon Excalibur Agrippa Alexander Belisarius 
             Hannibal Washington Saladin Bismarck Yamato Actium Agincourt Austerlitz Gettysburg Jutland Trafalgar Tsushima
             "Valley Forge" Verdun Waterloo Granicus Pharsalus Akira Charlemagne "Black Prince" Hood Potemkin Musashi Warspite Victory 
@@ -100,6 +104,9 @@ ui_extra_human_extended = {
             Akagi Kaga Illustrious Intrepid Invincible Enterprise Constellation Constitution Ranger Andromeda Aquila Century Concord 
             Defiant Galaxy Odyssey Orion Providence Reliant Pegasus Freedom Solaris "Sol Invictus" Independence Lionheart Unicorn 
             Napoleon "Royal Sovereign" Marathon Imperieuse
+            
+            # New ones
+            "Pale Blue Dot" "The Trojan" "Disaster Artist"
 
             # From StarCraft
             Hyperion Norad Cyrus Bucephalus Scion Hephaestus Palatine Victory Medusa Herakles "White Star" "Emperor's Fury" Hoosier
@@ -109,25 +116,37 @@ ui_extra_human_extended = {
         }
 
         constructor = {
+            # Vanilla
             Pacific Atlantic Adriatic Amazon Danube India Africa Volga Colorado Ganges Jordan Mekong "Rio Grande" Rubicon Yangtze
             Mississippi Yukon Indus Rhine Tigris Sahara Bengal Merrimack Potomac Susquehanna Orinoco Shenandoah
+            
+            # New
+            China
         }
 
         colonizer = {
+            # Vanilla
             Mayflower Abundance Bountiful Felicity Hope Opportunity Serenity Unity Destiny Britannia Byzantium Caledonia "El Dorado" 
             Knossos Memphis Olympus Persepolis "Sierra de la Plata" Sparta Valhalla "Crystal Palace" Alaska Angola Australia Brazil 
             Canada Congo Guinea India Indonesia Jamaica Macau Mozambique Philippines Somalia "Sri Lanka" Taiwan
 
+            # New
+            Graecus
+            
             # From StarCraft
             Nagglfar Argo
         }
 
         science = {
+            # Vanilla
             Aldrin Armstrong Columbus Copernicus Cortez Drake Hubble Goddard Galileo Einstein Gagarin Tereshkova "Zheng He"
             "Leif Ericson" Magellan "James Cook" "Marco Polo" Newton Tesla "Von Braun" "Walter Raleigh" Asimov Clarke Sagan
             "Ibn Battuta" Kepler Ptolemy Pytheas Azophi Discovery Voyager Tradewind Scout Pioneer Explorer Sojourner "Santa Maria" 
             Hawking Earhart Nobel Kelvin Fahrenheit Equinox Lagrange Tsiolkovsky Darwin Grissom Archimedes
 
+            # New
+            Sputnik Prunariu "Marco Polo"
+            
             # From StarCraft
             Brin Amerigo
         }
@@ -203,7 +222,11 @@ ui_extra_human_extended = {
             Human # This is put here solely as a placeholder
             
             # Real-world aircraft manufacturers
-            Boeing Airbus "Lockheed Martin" Raytheon Safran "Rolls-Royce"
+            Boeing Airbus "Lockheed Martin" Raytheon Safran "Rolls-Royce" Orbital "Thales Alenia" AeroAstro Amsat
+            Ball EnduroSat Fokker Gauss GomSpace "Hawker Disseley" Dhurva Hughes MicroSat Mitsubishi Northrop NanoAvionics
+            Ford Rockwell Energiya SpaceQuest "Spectrum Astro" Surrey Swales Yuzhoye Xovian Ariane Kosmotras SpaceX
+            Makeyev Mashinostroyeniya Starsem Stofiel Antrix Lavochkin Dynetics Rocketstar Busek Rocketdyne SpaceDev
+            Kuznetsov Keldysh Voronezh
             
             # Nations
             American German French Italian Spanish British English Scottish Irish Belgian Dutch Norwegian Swedish Polish Romanian 
@@ -294,7 +317,7 @@ ui_extra_human_extended = {
             "The Hoplite Fleet" "The Phalanx Fleet" "The Centurion Fleet" "The Immortal Fleet" "The Knight Fleet" "The Archer Fleet"
             "The Cavalry Fleet" "The Lancer Fleet" "The Landsknechte Fleet" "The Gendarme Fleet" "The Arquebusier Fleet"
             "The Tercio Fleet" "The Musketeer Fleet" "The Millenial Fleet" "The Solar Sails" "The Dorobant Fleet"
-            "The Praetorian Fleet" "The Falxmen Fleet"
+            "The Praetorian Fleet" "The Falxmen Fleet" "The Blue Stars" "Pale Blue Dots"
         }
         sequential_name = "%O% Fleet"
     }
@@ -312,6 +335,17 @@ ui_extra_human_extended = {
         }
 
         assault_army = {
+            random_names = {
+                "Easy Company"
+                
+                # Others
+                "The Lightbringers"
+                
+                # FantasyNameGenerator
+                "The Silver Lining" "The Saints" "The Hounds" "The Black Sheep" "The Crushing" "The Hell Squad" "The Srumanir"
+                "The Guardians" "The Hell Hosts" "The Undefeated" "The Illustrious" "The Swarm" "The Immortals" "The Pure Platoon"
+                "The Rose Regiment" "The Thunder Troops" "The Last Hope"
+            }
             sequential_name = "%O% Expeditionary Force"
         }
 
@@ -320,6 +354,13 @@ ui_extra_human_extended = {
         }
 
         clone_army = {
+            random_names = {
+                # Star Wars
+                "104th Battalion" "212th Attack Battalion" "327th Star Corps" "41st Elite Corps" "501st Legion" "7th Sky Corps"
+                "91st Reconissance Corps" "ARC Troppers" "ARF Troopers" "Blue Squadron" "Bravo Squad" "Clone Commando Squads"
+                "Doom's Unit" "Ghost Company" "Gold Squadron" "Green Company" "Horn Company" "Jet's Unit" "Lancer Battalion"
+                "Lightning Squadron" "Rancor Battalion" "Slick's Platoon" "Tango Company" "Torrent Company" "Trauma's Unit" "Wolfpack"
+            }
             sequential_name = "%O% Clone Army"
         }
 
@@ -328,7 +369,7 @@ ui_extra_human_extended = {
         }
 
         robotic_defense_army = {
-            sequential_name = "%O% Hunter-Killer Group"
+            sequential_name = "%O% Sentinel Group"
         }
 
         android_army = {
@@ -368,7 +409,7 @@ ui_extra_human_extended = {
                 Delgovicia "Wang Tong" Al-Jissa Al-Mada'in Al-Nuqayrah Al-Karak Al-Matabbah "Las Veredas" "San Lucas" "San Fernando" 
                 "San Cristóbal" "Nueva Sonora" "Puerto González" Nozomi Akatsuki "Nueva Cádiz" "La Isabela" "St. Yegorov" "St. Pomeroy"
                 "Port Karakosov" Destiny Terminus Liber Columbus Camelot Kolob Albatross Solitude
-
+                
                 # Gods
                 Minerva Apollo
 
@@ -388,7 +429,7 @@ ui_extra_human_extended = {
 
         pc_desert = {
             names = {
-                "Nova Arabia" Sahara Gobi Kalahari Mojave Patagonia Syria Chihuahua Sand "Kara Kum" Colorado Sonora "Kyzyl Kum" 
+                "Arabia Nova" Sahara Gobi Kalahari Mojave Patagonia Syria Chihuahua Sand "Kara Kum" Colorado Sonora "Kyzyl Kum" 
                 Taklamakan Thar Gibson Namib Lut Kavir Dune Kali Vulcan Baal Carthage Ordos Khara Lop Maranjab Negev Sinai Atacama 
                 Simpson Nazca "New Mojave"
 
@@ -409,7 +450,7 @@ ui_extra_human_extended = {
 
         pc_tropical = {
             names = {
-                Amazonia Congo Ecuador Rain Storm Monsoon Bengal "New Africa" Kishkindha Zanzibar Kipling Tropico Maya
+                Amazonia Congo Ecuador Rain Storm Monsoon Bengal "New Africa" Kishkindha Zanzibar Kipling Tropico Maya "Transilvania Nova"
 
                 # From Avatar
                 Pandora
@@ -419,7 +460,7 @@ ui_extra_human_extended = {
         pc_continental = {
             names = {
                 Albion Amor Dawn Horizon "Terra Nova" Kongzi Zoroaster "Tian Yi" "Wu Ding" Zheng "Gao Zu" Tokugawa Oda Toyotomi Rama
-                Vishnu Soma Pangea "Transilvania Nova" "Dacia Nova" Thrace
+                Vishnu Soma Pangea "Dacia Nova" Thrace Midgard
 
                 # Countries, capitals, cities
                 "New Bucharest" "New Budapest" "New Berlin" "New Paris" "Roma Nova" "Europa Nova" "New Kiev" Londinium "New Dublin" 
@@ -477,9 +518,9 @@ ui_extra_human_extended = {
             }
         }
 
-        pc_tomb = {
+        pc_nuked = {
             names = {
-                Pripyat Chernobyl Verdun Stalingrad Nagasaki Hiroshima Tombstone
+                Pripyat Chernobyl Verdun Stalingrad Nagasaki Hiroshima Tombstone Gravestone Morticia
 
                 # From literature
                 Valyria
