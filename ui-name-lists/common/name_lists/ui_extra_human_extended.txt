@@ -774,7 +774,7 @@ ui_extra_human_extended = {
         }
         pc_nuked = {
             names = {
-                Pripyat Chernobyl Verdun Stalingrad Nagasaki Hiroshima Tombstone Gravestone Morticia
+                Pripyat Chernobyl Verdun Stalingrad Nagasaki Hiroshima Tombstone Gravestone Morticia Bubonia Bleakfalls
 
                 # StarCraft
                 "Dead Man's Rock" "Van Osten's Moon" "Port Zion"
