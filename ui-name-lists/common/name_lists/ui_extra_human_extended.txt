@@ -308,6 +308,9 @@ ui_extra_human_extended = {
         mining_station = {
             # StarCraft
             Sakrysta Shi Sorona Revelation Avernus "Char Aleph" Erebus Scrap
+            
+            # StarWars
+            Arah "Firebase Alpha" "Nallera's Mining Field" "H-5 70" "CMC-A14" Peragus "Void Anvil"
         }
         research_station = {
             # StarCraft
@@ -315,6 +318,9 @@ ui_extra_human_extended = {
             
             # Fallout
             "Helios One"
+            
+            # StarWars
+            Youst
         }
         observation_station = { }
 
@@ -322,7 +328,7 @@ ui_extra_human_extended = {
             random_names = {
                 "Far Reach" Watchtower Sphered Influential Assertion SPACERAD "Watchful Eye" Sentinel Demarcator "Frontier Finalizer"
                 "Ever Watchful" Divider Bastion "Home Turf" Wide "New Frontier" Solitude Echo "New Horizon" "Far Harbor" Forward Silence
-                Lonely "Lone Wolf" Lighthouse Checkpoint
+                Lonely "Lone Wolf" Lighthouse Checkpoint Torchlight
 
                 # StarCraft
                 Dylar
@@ -333,6 +339,10 @@ ui_extra_human_extended = {
             sequential_name = "%O% Starbase"
         }
         starbase_starport = {
+            random_names = {
+                # Airports
+                "John F. Kennedy" "Charles de Gaulle" Heathrow
+            }
             sequential_name = "%O% Starbase"
         }
         starbase_starhold = {
@@ -412,6 +422,9 @@ ui_extra_human_extended = {
             American German French Italian Spanish British English Scottish Irish Belgian Dutch Norwegian Swedish Polish Romanian 
             Bulgarian Hungarian Moldovan Czech Croatian Serbian Bosnian Slovakian Slovenian Ukrainian Lithuanian Estonian Latvian 
             European African Asian Chinese Japanese Korean Russian Greek Turkish Mexican Canadian Australian Zeelandian Thai 
+            
+            # StarWars
+            Bengel
         }
 
         corvette = {
@@ -737,6 +750,9 @@ ui_extra_human_extended = {
 
                 # Biblic/mythological settlements, places, etc
                 Diluvia Noah "The Ark"
+                
+                # Movies / literature / etc
+                Hydros Thalassa
             }
         }
         pc_tundra = {
@@ -825,7 +841,9 @@ ui_extra_human_extended = {
                 "The Nether" Oblivion Ashpit Deadlands
             }
         }
-        pc_barren = { }
+        pc_barren = {
+            "No Man's Land"
+        }
         pc_asteroid = { }
     }
 
