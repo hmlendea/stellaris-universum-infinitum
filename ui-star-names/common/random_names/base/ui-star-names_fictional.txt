@@ -23,32 +23,66 @@ black_hole_names = {
 }
 
 asteroid_prefix = {
+    ABC-
+    AFR-
+    ASI-
+    BBC-
+    BGL-
     BLZ-
+    BOS-
+    CAS-
     CIV-
     CK-
+    CNY-
+    CRO-
     DAC-
+    DNX-
     DOT-
+    ENG-
     EU-
     EUR-
+    EURO-
     FO-
+    FRA-
     GIMP-
     GNU-
+    GOT-
     GTA-
     HH-
     HM-
     HML-
     HOR-
     HORI-
+    HUN-
+    IBM-
+    IRE-
+    ITA-
+    JAP-
     JAVA-
+    LNX-
     MAC-
     MD-
+    MDL-
     NET-
+    POR-
     RO-
+    ROL-
     ROM-
+    RON-
     ROU-
+    RUS-
+    SEA-
+    SPA-
+    SRB-
     TES-
     TUX-
+    UKR-
+    USA-
+    USD-
     WIN-
+    YUG-
+    WWW-
+    XYZ-
 }
 
 asteroid_postfix = {
@@ -76,6 +110,7 @@ asteroid_postfix = {
     2048
     2077
     2277
+    2281
     4096
     8192
 }
@@ -622,12 +657,34 @@ nebula_names = {
     ### FICTIONAL ###
     "Dacia Nebula"
     "Dracones Nebula"
-    "Getic Clouds"
     "Mlendea Nebula"
     "Teleorman Nebula"
+    "Roseblood Nebula"
     "Sanguine Nebula"
     "Vampire Nebula"
     "Dracula Nebula"
+    "Whitegold Nebula"
+    "Getic Clouds"
+    "Milkfoam Cloud"
+    "Crimson Cloud"
+    "Sanguine Cloud"
+    "Redflame Nebula"
+    "Goldspark Flairs"
+    
+    ### FANTASYNAMEGENERATOR ###
+    "Upsilon Nebula"
+    "Tiara Cloud"
+    "Crescent Cloud"
+    "Cherry Cloud"
+    "Catepillar Nebula"
+    "Tiger Paw Nebula"
+    "Spiderweb Nebula"
+    "Blue Ribbon Nebula"
+    "Spearpoint Nebula"
+    "Sharktooth Nebula"
+    "Ponytail Nebula"
+    "Seashell Nebula"
+    "Firestorm Cloud"
 
     ### DARK PIRATES ###
     "Green Hell"
