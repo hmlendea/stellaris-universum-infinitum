@@ -1,4 +1,6 @@
 ﻿l_english:
+ tb_ui_ashland:0 "£blocker  Ashland"
+ tb_ui_ashland_desc:0 "This whole region is a desolate ash wasteland."
  tb_ui_canyon:0 "£blocker  Canyon"
  tb_ui_canyon_desc:0 "This entire region is a huge canyon range of extreme proportions, making it completely unworkable and uninhabitable."
  tb_ui_dry_desert:0 "£blocker  Dry Desert"

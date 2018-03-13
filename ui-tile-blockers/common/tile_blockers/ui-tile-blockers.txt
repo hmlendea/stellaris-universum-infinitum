@@ -1,4 +1,30 @@
-# Canyons
+# Ashland
+tb_ui_ashland = {
+    time = 300
+    cost = {
+        energy = 400
+    }
+
+    spawn_chance = {
+        modifier = {
+            add = 12
+            any_tile = {
+                has_blocker = "tb_ui_ashland"
+            }
+        }
+        modifier = {
+            add = 6
+            planet = {
+                is_colonizable = yes
+                is_planet_class = pc_nuked
+            }
+        }
+    }
+
+    prerequisites = { "tech_tb_ui_canyon" }
+}
+
+# Canyon
 tb_ui_canyon = {
     time = 300
     cost = {

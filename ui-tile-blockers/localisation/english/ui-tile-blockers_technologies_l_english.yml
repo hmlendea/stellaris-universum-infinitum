@@ -1,4 +1,6 @@
 ﻿l_english:
+ tech_tb_ui_ashland:0 "Ashland Removal"
+ tech_tb_ui_ashland_desc:1 "Special machines dedicated to heavy soil enhancement and atmospheric cleansing to keep the ash away.\n\n"
  tech_tb_ui_canyon:0 "Canyon Removal"
  tech_tb_ui_canyon_desc:1 "Advanced land sculpting machines and soil enhancement designed to tame even the most extreme of canyons.\n\n"
  tech_tb_ui_dry_desert:0 "Dry Deset Removal"
