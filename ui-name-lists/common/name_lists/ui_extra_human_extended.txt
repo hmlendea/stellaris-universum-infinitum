@@ -86,6 +86,9 @@ ui_extra_human_extended = {
 			Gracchus Metellus Pulex Velox Acutus Ensatus Erosus Excelsus Ingratus Lancea Magnus Nitidus Ophis Sanctus Verrucosus Virosus Ferox Merus Pulcher Currus
 			Malleus Spina Accipiter Anguis Apis Aquila Corvus Leo Lupus Papilio Passer Strix Ursus Vespa Viverra Vulpes Sagittarii Scutum Parma Cetra Dolabra
 			Tribulus
+            
+            # StarWars
+            "Millenium Falcon"
         }
         destroyer = {
             # Vanilla HUMAN1
@@ -260,7 +263,7 @@ ui_extra_human_extended = {
             "Pomponius Mela" Marinus Pausanias Agathodaemon Dionysius Agathemerus Marcian "Julius Honorius" "Polemius Silvius"
 
             # New
-            Sputnik Prunariu
+            Sputnik Prunariu Curiosity
             
             # StarCraft
             Brin Amerigo
@@ -448,6 +451,9 @@ ui_extra_human_extended = {
 
             # Latin
             Septireme Octeres Enneres Deceres
+            
+            # New
+            Ironclad
         }
         
         titan = { }
@@ -494,16 +500,21 @@ ui_extra_human_extended = {
         random_names = {
             "The Solar Sails" "Pale Blue Dots" "The Blue Stars"
             
+            "The Eclipse Fleet" "The Red Fleet" "The Yellow Fleet" "The Blue Fleet" "The Cobalt Fleet" "The Sanguine Fleet" "The Crimson Fleet" "The Golden Fleet"
+            "The Silver Fleet" "The Millenial Fleet" "The Vortex Fleet"
+            
             # Soldier types
-            "The Archer Fleet" "The Arquebusier Fleet" "The Cavalry Fleet" "The Centurion Fleet" "The Dorobant Fleet" "The Falxmen Fleet" "The Gendarme Fleet"
-            "The Hoplite Fleet" "The Immortal Fleet" "The Knight Fleet" "The Lancer Fleet" "The Landsknechte Fleet" "The Millenial Fleet" "The Musketeer Fleet"
-            "The Phalanx Fleet" "The Praetorian Fleet" "The Tercio Fleet"
+            "The Archer Fleet" "The Arquebusier Fleet" "The Cataphract Fleet" "The Cavalry Fleet" "The Centurion Fleet" "The Chariot Fleet"
+            "The Conquistador Fleet" "The Cossack Fleet" "The Dorobant Fleet" "The Falxmen Fleet" "The Gendarme Fleet" "The Hoplite Fleet" "The Hussar Fleet"
+            "The Immortal Fleet" "The Ironclad Fleet" "The Janissary Fleet" "The Knight Fleet" "The Lancer Fleet" "The Landsknechte Fleet" "The Minuteman Fleet"
+            "The Musketeer Fleet" "The Panzer Fleet" "The Phalanx Fleet" "The Pikeman Fleet" "The Praetorian Fleet" "The Privateer Fleet" "The Samurai Fleet"
+            "The Sipahi Fleet" "The Tercio Fleet"
             
             # Mythological beasts / Monsters
             "The Basilisk Fleet" "The Behemoth Fleet" "The Centaur Fleet" "The Cerberus Fleet" "The Charybdis Fleet" "The Chimera Fleet" "The Cyclope Fleet"
             "The Dragon Fleet" "The Enfield Fleet" "The Garuda Fleet" "The Gorgon Fleet" "The Griffin Fleet" "The Hippogriff Fleet" "The Hydra Fleet"
-            "The Kraken Fleet" "The Manticore Fleet" "The Medusa Fleet" "The Minotaur Fleet" "The Pegasus Fleet" "The Phoenix Fleet" "The Scylla Fleet"
-            "The Sphinx Fleet" "The Titan Fleet" "The Werewolf Fleet" "The Wyvern Fleet"
+            "The Kraken Fleet" "The Manticore Fleet" "The Medusa Fleet" "The Minotaur Fleet" "The Mohawk Fleet" "The Pegasus Fleet" "The Phoenix Fleet"
+            "The Scylla Fleet" "The Sphinx Fleet" "The Szekler Fleet" "The Titan Fleet" "The Werewolf Fleet" "The Wyvern Fleet"
         }
         sequential_name = "%O% Fleet"
     }
@@ -515,7 +526,7 @@ ui_extra_human_extended = {
                 "Delta Company" "Elite Guard" "Aegis Guard"
                 
                 # New
-                "Praetorian Guard"
+                "Praetorian Guard" "The Minuteman"
             }
             sequential_name = "%O% Planetary Guard"
         }
@@ -529,6 +540,8 @@ ui_extra_human_extended = {
                 # FantasyNameGenerator
                 "The Silver Lining" "The Saints" "The Hounds" "The Black Sheep" "The Crushing" "The Hell Squad" "The Srumanir" "The Guardians" "The Hell Hosts"
                 "The Undefeated" "The Illustrious" "The Swarm" "The Immortals" "The Pure Platoon" "The Rose Regiment" "The Thunder Troops" "The Last Hope"
+                "The Dogs" "The Rose Riders" "The Great Army" "The Maroon Martyrs" "The Fire Battalion" "The Crimson Cloud" "The Eclipse" "The Punishers"
+                "The Hellfire Squad" "The New Order" "The Saints" "The Silver Soldiers" "The Cataclysm Corps"
                 
                 # New
                 "Easy Company" "The Lightbringers"
@@ -721,7 +734,7 @@ ui_extra_human_extended = {
                 Meinhoff Agria
                 
                 # New
-                Fortuna Arcadia Nymphaea Cockaigne Nysa Splendoria Terraria
+                Fortuna Arcadia Nymphaea Cockaigne Nysa Splendoria Terraria Serenity Marvel
                 
                 # Religious or mythological
                 "Holy Grail" "El Dorado"
