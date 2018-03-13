@@ -207,10 +207,22 @@ ui_extra_human_spqr_extended = {
 
     planet_names = {
         # Gotta put God names in here
-        generic = { }
-        pc_desert = { }
-        pc_arid = { }
-        pc_tropical = { }
+        generic = {	}
+        pc_desert = {
+            names = {
+                 "Nova Arabia" "Nova Aegyptus"
+            }
+        }
+        pc_arid = {
+            names = {
+                "Nova Parthia" "Nova Troia"
+            }
+        }
+        pc_tropical = {
+            names = {
+                Amazonia "Nova Africa" Pandora
+            }
+        }
         pc_continental = {
             names = {
                 # Countries, capitals, cities
@@ -224,7 +236,11 @@ ui_extra_human_spqr_extended = {
 		    }
 		}
         pc_tundra = { }
-        pc_arctic = { }
+        pc_arctic = {
+            names = {
+                Arctica Siberia Hyperborea
+            }
+        }
         pc_nuked = { }
         pc_savannah = { }
         pc_alpine = { }
