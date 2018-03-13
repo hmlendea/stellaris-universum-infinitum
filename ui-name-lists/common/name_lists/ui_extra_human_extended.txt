@@ -855,12 +855,13 @@ ui_extra_human_extended = {
             }
         }
         pc_barren = {
-            "No Man's Land"
+            names = {
+                "No Man's Land"
+            }
         }
         pc_asteroid = { }
     }
-
-
+    
     ### CHARACTERS
 
     character_names = {

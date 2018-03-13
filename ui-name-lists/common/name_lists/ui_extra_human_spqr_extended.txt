@@ -212,12 +212,16 @@ ui_extra_human_spqr_extended = {
         pc_arid = { }
         pc_tropical = { }
         pc_continental = {
-            # Countries, capitals, cities
-            Londinium Varadinum Napoca Dacia Tracia
+            names = {
+                # Countries, capitals, cities
+                Londinium Varadinum Napoca Dacia Tracia
+            }
         }
         pc_gaia = { }
         pc_ocean = {
-            Atlantis Oceania Pacifica Atlantica Euxina Hyrcania Rubrica Erythraea Baltica Aegea Adriatica Tyrrhenia Mediterranea Mare
+            names = {
+                Atlantis Oceania Pacifica Atlantica Euxina Hyrcania Rubrica Erythraea Baltica Aegea Adriatica Tyrrhenia Mediterranea Mare
+		    }
 		}
         pc_tundra = { }
         pc_arctic = { }
@@ -228,9 +232,9 @@ ui_extra_human_spqr_extended = {
         pc_barren = { }
         pc_asteroid = { }
     }
-
+    
     ### CHARACTERS
-
+    
     character_names = {
         default = {
             # Always combined with a second name
