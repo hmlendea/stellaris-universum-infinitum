@@ -8,28 +8,52 @@ tb_ui_ashland = {
     spawn_chance = {
         modifier = {
             add = 12
-            any_tile = {
-                has_blocker = "tb_ui_ashland"
+            planet = {
+                is_colonizable = yes
+                AND = {
+                    NOT = { is_planet_class = pc_nuked }
+                    NOT = { is_planet_class = pc_alpine }
+                }
+            }
+        }
+        modifier = {
+            add = 24
+            planet = {
+                is_colonizable = yes
+                s_planet_class = pc_nuked
             }
         }
         modifier = {
             add = 6
             planet = {
                 is_colonizable = yes
-                is_planet_class = pc_nuked
+                is_planet_class = pc_alpine
+            }
+        }
+        modifier = {
+            add = 6
+            planet = {
+                any_tile = {
+                    has_blocker = "tb_active_volcano"
+                }
+            }
+        }
+        modifier = {
+            factor = 0.25
+            planet = {
+                planet_size < 15
             }
         }
     }
 
-    prerequisites = { "tech_tb_ui_canyon" }
+    prerequisites = { "tech_tb_ui_ashland" }
 }
 
 # Canyon
 tb_ui_canyon = {
     time = 300
     cost = {
-        energy = 200
-        minerals = 300
+        energy = 500
     }
 
     spawn_chance = {
@@ -63,8 +87,7 @@ tb_ui_canyon = {
 tb_ui_dry_desert = {
     time = 100
     cost = {
-        energy = 100
-        minerals = 100
+        energy = 250
     }
 
     spawn_chance = {
@@ -130,8 +153,7 @@ tb_ui_floodplain = {
 tb_ui_giant_earthworms = {
     time = 100
     cost = {
-        energy = 100
-        minerals = 100
+        energy = 200
     }
 
     spawn_chance = {
@@ -213,8 +235,7 @@ tb_ui_lava_lake = {
 tb_ui_mutant_infestation = {
     time = 100
     cost = {
-        energy = 100
-        minerals = 100
+        energy = 200
     }
 
     spawn_chance = {
@@ -234,8 +255,7 @@ tb_ui_mutant_infestation = {
 tb_ui_sea_monsters = {
     time = 100
     cost = {
-        energy = 100
-        minerals = 100
+        energy = 200
     }
 
     spawn_chance = {
@@ -267,7 +287,7 @@ tb_ui_sea_monsters = {
 tb_ui_swamp = {
     time = 100
     cost = {
-        energy = 400
+        energy = 350
     }
 
     spawn_chance = {
