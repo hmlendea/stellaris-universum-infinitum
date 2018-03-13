@@ -283,36 +283,39 @@ tb_ui_sea_monsters = {
     prerequisites = { "tech_tb_ui_sea_monsters" }
 }
 
-# Swamp
-tb_ui_swamp = {
+# Tarland
+tb_ui_tarland = {
     time = 100
     cost = {
         energy = 350
+        minerals = 150
     }
 
     spawn_chance = {
         modifier = {
-            add = 12
+            add = 6
             planet = {
-                is_colonizable = yes
-                is_planet_class = pc_tropical
+                any_tile = {
+                    has_blocker = "tb_noxious_swamp"
+                }
             }
         }
         modifier = {
             add = 6
             planet = {
                 is_colonizable = yes
-                is_planet_class = pc_ocean
+                is_planet_class = pc_desert
             }
         }
         modifier = {
-                factor = 1
-                planet = {
-                    has_modifier = "ui_swampy"
-                }
+            add = 3
+            planet = {
+                is_colonizable = yes
+                is_planet_class = pc_arid
+            }
         }
     }
 
-    prerequisites = { "tech_tb_ui_swamp" }
+    prerequisites = { "tech_tb_ui_tarland" }
 }
 

@@ -621,7 +621,7 @@ tech_tb_ui_sea_monsters = {
     }
 }
 
-tech_tb_ui_swamp = {
+tech_tb_ui_tarland = {
     cost = @tier1cost2
     area = society
     tier = 1
@@ -646,7 +646,7 @@ tech_tb_ui_swamp = {
             NOT = {
                 any_owned_planet =  {
                     any_tile = {
-                        has_blocker = "tb_ui_swamp"
+                        has_blocker = "tb_ui_tarland"
                     }
                 }
             }
@@ -673,7 +673,7 @@ tech_tb_ui_swamp = {
             NOT = {
                 any_owned_planet =  {
                     any_tile = {
-                        has_blocker = "tb_ui_swamp"
+                        has_blocker = "tb_ui_tarland"
                     }
                 }
             }
