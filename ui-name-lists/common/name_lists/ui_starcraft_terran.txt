@@ -16,10 +16,13 @@ ui_starcraft_terran = {
         battleship = {
             Hyperion Norad Cyrus Bucephalus Scion Hephaestus Palatine Victory Medusa Herakles "White Star" "Emperor's Fury" Hoosier Tahoe "Gray Tiger" Fury Cerberus
             Helios Ragnorak Metis "Thunder Child" Meleager Amphitrite Phobos Titan Circe "Iron Justice" Merrimack Jackson Eos "Huey Long" Antigone "Iron Fist"
-            Patroclus Aeneas "Theodore G. Bilbo" Bismarck Napoleon "Dark Skies" "Jackson's Revenge" "Valor of Vardona" "Kimeran Juggernaut" Kimera
+            Patroclus Aeneas "Theodore G. Bilbo" Bismarck Napoleon "Dark Skies" "Jackson's Revenge" "Valor of Vardona" "Kimeran Juggernaut" Kimera Aethon
+            "Dominion's Revenge" 
         }
         
-        titan = { }
+        titan = {
+            Loki Aleksander
+        }
         colossus = { }
 
         constructor = { }
@@ -84,7 +87,7 @@ ui_starcraft_terran = {
         destroyer = { }
         cruiser = { }
         battleship = {
-            Leviathan Behemoth Hercules Minotaur Gorgon Starcruiser Loki "Pride of Augustgrad" Hurricane
+            Leviathan Behemoth Hercules Minotaur Gorgon Starcruiser "Pride of Augustgrad" Hurricane Moirai Sovereign
         }
         
         titan = { }
@@ -176,6 +179,7 @@ ui_starcraft_terran = {
                 Thys Pegasus Brontes Gohbus Torus Valhalla Bacchus "Tal Qirat" Asteria Marlowe Gelgaris "Demon's Fair" Jotun Parragos "Pho-Rekh" Tepperus
                 Melkora Cirion "Great Bend" Chiron Ravera Seti Lakius
                 # "Antiga Prime" "Atticus Minor" "Artesia Prime" "Sigmaris Prime" "Sigmaris Prime" "Zanadar Prime"
+                
             }
         }
         pc_desert = {
@@ -193,7 +197,7 @@ ui_starcraft_terran = {
         }
         pc_tropical = {
             names = {
-                Vygoire Garxxax "Brokas Hur" Calus Miranar Candore
+                Vygoire Garxxax "Brokas Hur" Calus Miranar Candore "Chau Sara"
 
                 # Unsure if class is right
                 Aridas
@@ -201,7 +205,8 @@ ui_starcraft_terran = {
         }
         pc_continental = {
             names = {
-                Umoja "Chau Sara" Korhal Tarsonis Haji Halcyon Vardona Bountiful "Urona Sigma" Gystt Roxara Goldilocks Sammy Haven TarKossia Boone Shiloh
+                Umoja Korhal Tarsonis Haji Halcyon Vardona Bountiful "Urona Sigma" Gystt Roxara Goldilocks Sammy Haven TarKossia Boone Shiloh
+                Boone
 
                 # Unsure if class is right
                 "Bhekar Ro" Tashai
@@ -235,7 +240,7 @@ ui_starcraft_terran = {
         pc_savannah = { }
         pc_alpine = {
             names = {
-                "Jarban Minor" Karkulv "Pike's Peak" Ursa
+                "Jarban Minor" Karkulv "Pike's Peak" Ursa Krakulv
                 # "Braxis Alpha"
             }
         }
@@ -249,11 +254,11 @@ ui_starcraft_terran = {
             names = {
                 Nemaka
 
-                # Moon
-                Canis
+                # Moons
+                Canis Brutus
 
                 # Mining worlds. Not completely sure if they are barren or not.
-                Feronis Brutus Vito
+                Feronis Brutus Vito Pyramus Thisby
             }
         }
         pc_asteroid = {
