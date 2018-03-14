@@ -73,7 +73,7 @@ sr_ui_munitus = {
     is_global = yes
 
     modifier = {
-        planet_fortification_strength = 0.15
+        army_defense_health_mult = 0.15
     }
 }
 
