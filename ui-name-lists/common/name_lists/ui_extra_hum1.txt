@@ -1,0 +1,106 @@
+﻿### Universum Infinitum
+### Extras
+### Humanoid 1
+
+ui_extra_mam1 = {
+    ship_names = {
+        generic = {
+            Ustagranor Astanir Rogator Remblenor Ertodil Ribiator Egravor Vargolir Bandomar Evremar Dagrevel
+        }
+
+        corvette = { }
+        destroyer = { }
+        cruiser = { }
+        battleship = { }
+        science = { }
+        colonizer = { }
+        constructor = { }
+
+        mining_station = { }
+        research_station = { }
+        wormhole_station = { }
+        #terraform_station = { }
+        observation_station = { }
+        outpost_station = { }
+
+        military_station_small = { }
+        military_station_medium = { }
+        military_station_large = { }
+    }
+
+    fleet_names = {
+        sequential_name = "%O% Fleet"
+    }
+
+    army_names = {
+        defense_army = {
+            sequential_name = "%O% Planetary Guard"
+        }
+
+        assault_army = {
+            sequential_name = "%O% War Band"
+        }
+
+        slave_army = {
+            sequential_name = "%O% Conscripts"
+        }
+
+        clone_army = {
+            sequential_name = "%O% Clone Troopers"
+        }
+
+        robotic_army = {
+            sequential_name = "%O% Drone Squad"
+        }
+
+        android_army = {
+            sequential_name = "%O% Sentinel Squad"
+        }
+
+        psionic_army = {
+            sequential_name = "%O% Psi Rangers"
+        }
+
+        xenomorph_army = {
+            sequential_name = "%O% Xenomorph Pack"
+        }
+
+        gene_warrior_army = {
+            sequential_name = "%O% Death Squad"
+        }
+    }
+
+    planet_names = {
+        generic = {
+            names = {
+                Scalgur Abranur Ritogol Madrog Turgol Vertil Flopur Ugranur Balteril Cetregol Tolvor Brenor Nurilond Robor Trogol Agrol
+                Fangur Galagur Calanur Elverog Romeril Miscavor Acatobor Adromol Raglenor
+            }
+        }
+
+        pc_desert = { names = { } }
+        pc_tropical = { names = { } }
+        pc_arid = { names = { } }
+        pc_continental = { names = { } }
+        pc_ocean = { names = { } }
+        pc_tundra = { names = { } }
+        pc_arctic = { names = { } }
+    }
+
+    character_names = {
+        default = {
+            first_names_male = {
+                Elviron Vestor Alcor Torbon Bosgor Hagranor Ugrobor Buralog Cobol Gerebog Goldomar Trebin Branor Galvac Staldir Stelevon
+                Agradon Robilor Gropatur Fegaton Norilond Barlond Scutnum Racnum Gursol
+            }
+            first_names_female = {
+                Usna Asny Scutny Racny Olby Masvy Blonvy Catny Gutny Perny Aleny Salovy Vorny
+            }
+            second_names = {
+                "pro Scalgur" "pro Abranur" "pro Ritogol" "pro Madrog" "pro Turgol" "pro Vertil" "pro Flopur" "pro Ugranur" "pro Balteril"
+                "pro Cetregol" "pro Tolvor" "pro Brenor" "pro Nurilond" "pro Robor"
+            }
+        }
+    }
+}
+

@@ -1,0 +1,138 @@
+HUM = {
+    ### Extra Humanoids 1 ###
+
+    # 1 - Galomar
+    galomar = {
+        name = Galomar
+        plural = Galomars
+        home_planet = Galinor
+        home_system = Gal
+        name_list = "ui_extra_hum1"
+    }
+
+    # 2 - Oloron
+    oloron = {
+        name = Oloron
+        plural = Olorons
+        home_planet = Oloremar
+        home_system = Olor
+        name_list = "ui_extra_hum1"
+    }
+
+    # 3 - Scalnur
+    scalnur = {
+        name = Scalnur
+        plural = Scalnurs
+        home_planet = Scalinor
+        home_system = Scal
+        name_list = "ui_extra_hum1"
+    }
+
+    # 4 - Astiron
+    astiron = {
+        name = Astiron
+        plural = Astirons
+        home_planet = Astinor
+        home_system = Asty
+        name_list = "ui_extra_hum1"
+    }
+
+    # 5 - Vegranir
+    vegranir = {
+        name = Vegranir
+        plural = Vegrans
+        home_planet = Vegranor
+        home_system = Vegry
+        name_list = "ui_extra_hum1"
+    }
+
+    # 6 - Maltir
+    maltir = {
+        name = Maltir
+        plural = Maltirs
+        home_planet = Maltiron
+        home_system = Malty
+        name_list = "ui_extra_hum1"
+    }
+
+    # 7 - Closgor
+    closgor = {
+        name = Closgor
+        plural = Closgors
+        home_planet = Closgor
+        home_system = Closy
+        name_list = "ui_extra_hum1"
+    }
+
+    # 8 - Plasigor
+    plasigor = {
+        name = Plasigor
+        plural = Plasigors
+        home_planet = Plasigoron
+        home_system = Plasy
+        name_list = "ui_extra_hum1"
+    }
+
+    # 9 - Usnotar
+    usnotar = {
+        name = Usnotar
+        plural = Usnotars
+        home_planet = Usniron
+        home_system = Usny
+        name_list = "ui_extra_hum1"
+    }
+
+    # 10 - Votrag
+    votrag = {
+        name = Votrag
+        plural = Votrag
+        home_planet = Votrag
+        home_system = Votrag
+        name_list = "ui_extra_hum1"
+    }
+
+    # 11 - Velmor
+    velmor = {
+        name = Velmor
+        plural = Velmori
+        home_planet = Velmoron
+        home_system = Velmy
+        name_list = "ui_extra_hum1"
+    }
+
+    # 12 - Felron
+    felron = {
+        name = Felron
+        plural = Felrons
+        home_planet = Felron
+        home_system = Felron
+        name_list = "ui_extra_hum1"
+    }
+
+    # 13 - Boldir
+    boldir = {
+        name = Boldir
+        plural = Boldir
+        home_planet = Boldirag
+        home_system = Boldy
+        name_list = "ui_extra_hum1"
+    }
+
+    # 14 - Stentor
+    stentor = {
+        name = Stentor
+        plural = Stentors
+        home_planet = Stentor
+        home_system = Stentor
+        name_list = "ui_extra_hum1"
+    }
+
+    # 15 - Sicrag
+    sicrag = {
+        name = Sicrag
+        plural = Sicrags
+        home_planet = Sicrag
+        home_system = Sicry
+        name_list = "ui_extra_hum1"
+    }
+}
