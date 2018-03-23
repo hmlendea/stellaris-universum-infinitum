@@ -89,6 +89,9 @@ ui_extra_human_extended = {
             
             # StarWars
             "Millenium Falcon"
+            
+            # New
+            Shishkebab
         }
         destroyer = {
             # Vanilla HUMAN1
@@ -342,6 +345,9 @@ ui_extra_human_extended = {
                 
                 # other games
                 "No Man's Sky"
+                
+                # FantasyNameGenerator
+                "Razor Watch" "Dire Post" "Starwatch Outpost" "Storm Haven" "Direstar Point" "Gloom Station" "Starbreeze Outpost"
             }
             sequential_name = "%O% Starbase"
         }
