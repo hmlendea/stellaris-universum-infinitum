@@ -135,4 +135,141 @@ HUM = {
         home_system = Sicry
         name_list = "ui_extra_hum1"
     }
+    
+    ### Elder Scrolls - Orc ###
+
+    # 1 - Ghorzul
+    ghorzul = {
+        name = Ghorzul
+        plural = Ghorzuls
+        home_planet = Ghorzul
+        home_system = Ghor
+        name_list = "ui_elderscrolls_orc"
+    }
+
+    # 2 - Gograk
+    gograk = {
+        name = Gograk
+        plural = Gograki
+        home_planet = Gograk
+        home_system = Gogra
+        name_list = "ui_elderscrolls_orc"
+    }
+
+    # 3 - Yamkul
+    yamkul = {
+        name = Yamkul
+        plural = Yamkuli
+        home_planet = Yamkul
+        home_system = Yam
+        name_list = "ui_elderscrolls_orc"
+    }
+
+    # 4 - Bargog
+    bargog = {
+        name = Bargog
+        plural = Bargogs
+        home_planet = Bargog
+        home_system = Barg
+        name_list = "ui_elderscrolls_orc"
+    }
+
+    # 5 - Brokmul
+    brokmul = {
+        name = Brokmul
+        plural = Brokmuli
+        home_planet = Brokmul
+        home_system = Brok
+        name_list = "ui_elderscrolls_orc"
+    }
+
+    # 6 - Ogoll
+    ogoll = {
+        name = Ogoll
+        plural = Ogolls
+        home_planet = Ogoll
+        home_system = Ogo
+        name_list = "ui_elderscrolls_orc"
+    }
+
+    # 7 - Mukla
+    mukla = {
+        name = Mukla
+        plural = Mukli
+        home_planet = Mukla
+        home_system = Muk
+        name_list = "ui_elderscrolls_orc"
+    }
+
+    # 8 - Cobok
+    cobok = {
+        name = Cobok
+        plural = Coboks
+        home_planet = Cobok
+        home_system = Cobo
+        name_list = "ui_elderscrolls_orc"
+    }
+
+    # 9 - Gluuk
+    gluuk = {
+        name = Gluuk
+        plural = Gluuki
+        home_planet = Gluuk
+        home_system = Gluuk
+        name_list = "ui_elderscrolls_orc"
+    }
+
+    # 10 - Shursh
+    shursh = {
+        name = Shursh
+        plural = Shurshi
+        home_planet = Shursh
+        home_system = Shur
+        name_list = "ui_elderscrolls_orc"
+    }
+
+    # 11 - Mogguk
+    mogguk = {
+        name = Mogguk
+        plural = Mogguki
+        home_planet = Mogguk
+        home_system = Mogg
+        name_list = "ui_elderscrolls_orc"
+    }
+
+    # 12 - Kurdnak
+    kurdnak = {
+        name = Kurdnak
+        plural = Kurdnaki
+        home_planet = Kurdnak
+        home_system = Kurd
+        name_list = "ui_elderscrolls_orc"
+    }
+
+    # 13 - Dusgak
+    dusgak = {
+        name = Dusgak
+        plural = Dusgaki
+        home_planet = Dusgak
+        home_system = Dusga
+        name_list = "ui_elderscrolls_orc"
+    }
+
+    # 14 - Malkrum
+    malkrum = {
+        name = Malkrum
+        plural = Malkrums
+        home_planet = Malkrum
+        home_system = Malk
+        name_list = "ui_elderscrolls_orc"
+    }
+
+    # 15 - Mazoc
+    mazoc = {
+        name = Mazoc
+        plural = Mazocs
+        home_planet = Mazoc
+        home_system = Maz
+        name_list = "ui_elderscrolls_orc"
+    }
 }
