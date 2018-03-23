@@ -40,6 +40,48 @@ terraform_link = {
     }
 }
 
+### Barren to Tropical
+terraform_link = {
+    from = "pc_barren"
+    to = "pc_tropical"
+
+    energy = 22500
+    duration = 10800
+
+    condition = {
+        has_technology = "tech_ui_advanced_barren_terraforming"
+		from = { NOT = { has_modifier = terraforming_candidate } }
+    }
+}
+
+### Barren to Continental
+terraform_link = {
+    from = "pc_barren"
+    to = "pc_continental"
+
+    energy = 22500
+    duration = 10800
+
+    condition = {
+        has_technology = "tech_ui_advanced_barren_terraforming"
+		from = { NOT = { has_modifier = terraforming_candidate } }
+    }
+}
+
+### Barren to Ocean
+terraform_link = {
+    from = "pc_barren"
+    to = "pc_ocean"
+
+    energy = 22500
+    duration = 10800
+
+    condition = {
+        has_technology = "tech_ui_advanced_barren_terraforming"
+		from = { NOT = { has_modifier = terraforming_candidate } }
+    }
+}
+
 ### Barren (Cold) to Arctic
 terraform_link = {
     from = "pc_barren_cold"
@@ -78,6 +120,48 @@ terraform_link = {
 
     condition = {
         has_technology = "tech_ui_barren_terraforming"
+		from = { NOT = { has_modifier = terraforming_candidate } }
+    }
+}
+
+### Barren (Cold) to Tropical
+terraform_link = {
+    from = "pc_barren_cold"
+    to = "pc_tropical"
+
+    energy = 22500
+    duration = 10800
+
+    condition = {
+        has_technology = "tech_ui_advanced_barren_terraforming"
+		from = { NOT = { has_modifier = terraforming_candidate } }
+    }
+}
+
+### Barren (Cold) to Continental
+terraform_link = {
+    from = "pc_barren_cold"
+    to = "pc_continental"
+
+    energy = 22500
+    duration = 10800
+
+    condition = {
+        has_technology = "tech_ui_advanced_barren_terraforming"
+		from = { NOT = { has_modifier = terraforming_candidate } }
+    }
+}
+
+### Barren (Cold) to Ocean
+terraform_link = {
+    from = "pc_barren_cold"
+    to = "pc_ocean"
+
+    energy = 22500
+    duration = 10800
+
+    condition = {
+        has_technology = "tech_ui_advanced_barren_terraforming"
 		from = { NOT = { has_modifier = terraforming_candidate } }
     }
 }
