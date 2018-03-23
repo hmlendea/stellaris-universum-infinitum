@@ -282,5 +282,150 @@ MAM = {
         home_system = Yufu
         name_list = "ui_extra_mam2"
     }
-}
 
+    ### TES - Khajiit ###
+
+    # 1 - Ja'sma
+    jasma = {
+        name = Ja'sma
+        plural = Ja'smi
+        home_planet = Ja'smar
+        home_system = Ja'smar
+        name_list = "ui_elderscrolls_khajiit"
+    }
+
+    # 2 - Ak'dara
+    akdara = {
+        name = Ak'dara
+        plural = Ak'dari
+        home_planet = Ak'dar
+        home_system = Ak'dar
+        name_list = "ui_elderscrolls_khajiit"
+    }
+
+    # 3 - Ak'dul
+    akdul = {
+        name = Ak'dul
+        plural = Ak'duls
+        home_planet = Ak'dul
+        home_system = Ak'dul
+        name_list = "ui_elderscrolls_khajiit"
+    }
+
+    # 4 - Do'jirr
+    dojirr = {
+        name = Do'jirr
+        plural = Do'jirri
+        home_planet = Do'ji
+        home_system = Do'ji
+        name_list = "ui_elderscrolls_khajiit"
+    }
+
+    # 5 - Za'iq
+    zaiq = {
+        name = Za'iq
+        plural = Za'iqi
+        home_planet = Za'iq
+        home_system = Za'iq
+        name_list = "ui_elderscrolls_khajiit"
+    }
+
+    # 6 - Ra'tasarr
+    ratasarr = {
+        name = Ra'tasarr
+        plural = Ra'tasarri
+        home_planet = Ra'tas
+        home_system = Ra'tas
+        name_list = "ui_elderscrolls_khajiit"
+    }
+
+    # 6 - Ma'pi
+    mapi = {
+        name = Ma'pi
+        plural = Ma'pi
+        home_planet = Ma'pi
+        home_system = Ma'pi
+        name_list = "ui_elderscrolls_khajiit"
+    }
+
+    # 7 - Ri'mada
+    rimada = {
+        name = Ri'mada
+        plural = Ri'madi
+        home_planet = Ri'ma
+        home_system = Ri'ma
+        name_list = "ui_elderscrolls_khajiit"
+    }
+
+    # 8 - Qa'srin
+    qasrin = {
+        name = Qa'srin
+        plural = Qa'srin
+        home_planet = Qa'srin
+        home_system = Qa'srin
+        name_list = "ui_elderscrolls_khajiit"
+    }
+
+    # 9 - Zan'tarr
+    zantarr = {
+        name = Zan'tarr
+        plural = Zan'tarri
+        home_planet = Zan'tarr
+        home_system = Zan
+        name_list = "ui_elderscrolls_khajiit"
+    }
+
+    # 10 - Mojbassa
+    mojbassa = {
+        name = Mojbassa
+        plural = Mojbassi
+        home_planet = Mojba
+        home_system = Moj
+        name_list = "ui_elderscrolls_khajiit"
+    }
+
+    # 11 - Khaargo
+    khaargo = {
+        name = Khaargo
+        plural = Khaargos
+        home_planet = Khaar
+        home_system = Khaar
+        name_list = "ui_elderscrolls_khajiit"
+    }
+
+    # 12 - Jodato
+    jodato = {
+        name = Jodato
+        plural = Jodati
+        home_planet = Jodato
+        home_system = Joda
+        name_list = "ui_elderscrolls_khajiit"
+    }
+
+    # 13 - Sholkir
+    sholkir = {
+        name = Sholkir
+        plural = Sholkiri
+        home_planet = Sholk
+        home_system = Shol
+        name_list = "ui_elderscrolls_khajiit"
+    }
+
+    # 14 - Zodash
+    zodash = {
+        name = Zodash
+        plural = Zodashi
+        home_planet = Zodash
+        home_system = Zodash
+        name_list = "ui_elderscrolls_khajiit"
+    }
+
+    # 15 - Omtabe
+    omtabe = {
+        name = Omtabe
+        plural = Omtabi
+        home_planet = Omtabu
+        home_system = Omtabu
+        name_list = "ui_elderscrolls_khajiit"
+    }
+}
