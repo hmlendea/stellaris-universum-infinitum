@@ -237,6 +237,9 @@ ui_extra_human_extended = {
 			
 			# Vanilla SPQR
 			"Pax Romana" "Sol Invictus" "Dis Pater"
+			
+			# New
+			Syringe
 		}
 
         constructor = {
@@ -253,7 +256,7 @@ ui_extra_human_extended = {
             Macedonia Mauretania Noricum Numidia Palaestina Parthia Phoenicia Ruthenia Scythia Serica Syria Thracia Hibernia
             
             # New
-            China
+            China Bob
         }
         science = {
             # Vanilla HUMAN1
@@ -615,7 +618,7 @@ ui_extra_human_extended = {
 				
                 # New
                 "SARC-K 'Purgers'" "SARC-L 'Lawnmowers'" "SARC-M 'Steamrollers'" "SARC-N 'Dark Knights'" "SARC-O 'Templars'"
-                "Experimental Unit 'Azojal'"
+                "Experimental Unit 'Azojal'" "Experimental Unit 'Hesoyam'"
             }
             sequential_name = "%O% Bio-Engineered Squadron"
         }
@@ -647,19 +650,19 @@ ui_extra_human_extended = {
                 Melkora Cirion "Great Bend" Chiron Ravera Seti Lakius
                 
                 # Mythology / religion / folklore / legend
-                Minerva Apollo Camelot
-
-                # Countries, capitals and cities
-                "Nuevo Madrid" "Novi Belgrad" "New Helsinki" "New Vilnius" "New Coventry" Athena
+                Minerva
 
                 # GTA
-                "Las Venturas" "San Fierro" "Los Santos" Liberty Vice
+                Liberty Vice
+                
+                # StarWars
+                Pamarthe Chalacta
 
                 # Other films and literature
                 Annares Solaris
 				
 				# New
-                Destiny Terminus Liber Columbus Kolob Albatross Solitude Clausewitz
+                Destiny Terminus Liber Kolob Solitude Clausewitz Praetoria Lusitania Hypatia Persephone 
             }
         }
         pc_desert = {
@@ -672,14 +675,14 @@ ui_extra_human_extended = {
 				# Vanilla Commonwealth
 				"Frampton Sands" Sunrise "Nova Alexandria" Inferno
 				
-				#New 
-				Nazca "New Mojave"
+                # Countries, capitals and cities
+				Nazca "New Mojave" Persia
 
                 # StarCraft
                 Altara "New Sydney" Sonyan Choss Sirocco Phaeton Gurdlac Moria
 
                 # Star Wars
-                Tatooine
+                Tatooine Mandalore
             }
         }
         pc_arid = {
@@ -695,7 +698,10 @@ ui_extra_human_extended = {
                 "Mar Sara" "Gamma Dorian"
 				
 				# Countries, cities, regions, etc
-                "New Vegas" "New Jerusalem" "New Troy"
+                "New Vegas" "New Jerusalem" "New Troy" "Nuevo Madrid" Nevada Cyrene
+                
+                # Other games
+                "Las Venturas"
             }
         }
         pc_tropical = {
@@ -708,6 +714,9 @@ ui_extra_human_extended = {
 
                 # StarCraft
                 Vygoire Garxxax "Brokas Hur" Calus Miranar Candore "Chau Sara" Aridas
+                
+                # StarWars
+                Onderon
                 
                 # New
                 Tropico Maya
@@ -730,14 +739,23 @@ ui_extra_human_extended = {
                 Boone
                 
 				# Countries, cities, regions, etc
-                "New Bucharest" "New Budapest" "New Berlin" "New Paris" "Roma Nova" "Europa Nova" "New Kiev" Londinium "New Dublin" 
-                "New Warsaw" "New Sophia" Varadinum Napoca "Dacia Nova" Thrace Byzantium "Transilvania Nova"
-            
+                "New Bucharest" "New Budapest" "New Berlin" "New Paris" "Roma Nova" "Europa Nova" "New Kiev" Londinium "New Dublin" "New Warsaw" "New Sophia"
+                Varadinum Napoca "Dacia Nova" Thrace Byzantium "Transilvania Nova" Pannonia "Novi Belgrad" "New Vilnius" "New Coventry" Athena
+                
                 # Mythology / religion / folklore / legend
-                Midgard
+                Midgard Camelot
 
                 # The Elder Scrolls
                 Cyrodiil Akavir Tamriel Nirn Mundus
+                
+                # StarWars
+                Coruscant Alderaan Naboo Corellia Chandrila Lothal
+                
+                # Other games
+                "San Fierro" "Los Santos"
+                
+                # New
+                Columbus
             }
         }
         pc_gaia = {
@@ -752,7 +770,7 @@ ui_extra_human_extended = {
                 Meinhoff Agria
                 
                 # New
-                Fortuna Arcadia Nymphaea Cockaigne Nysa Splendoria Terraria Serenity Marvel
+                Fortuna Arcadia Nymphaea Cockaigne Nysa Splendoria Terraria Serenity Marvel Angelis
                 
                 # Religious or mythological
                 "Holy Grail" "El Dorado"
@@ -775,9 +793,12 @@ ui_extra_human_extended = {
                 
                 # StarCraft
                 Pridewater Hydrax
+                
+				# Countries, cities, regions, etc
+                Caspia Danubia Lochness Azovi Histria Mangalia "Venetia" Marmara Beringia Java
 				
                 # New
-                Caspia Hydra Danubia Coralia Aquarius Lochness Oceanus Azovia
+                Hydra Coralia Aquarius Oceanus Nemo Albatross
 
                 # Biblic/mythological settlements, places, etc
                 Diluvia Noah "The Ark"
@@ -796,6 +817,12 @@ ui_extra_human_extended = {
                 
                 # StarCraft
                 Borea
+                
+                # Countries, cities, regions, etc
+                Novosibirsk Scandinavia "New Helsinki"
+                
+                # Literature
+                Rohan
                 
                 # New
                 Borealia
@@ -817,20 +844,26 @@ ui_extra_human_extended = {
 
                 # The Elder Scrolls (settlements, places)
                 Solstheim Atmora Sovengarde
+                
+                # StarWars
+                Carlac
             }
         }
         pc_nuked = {
             names = {
-                Pripyat Chernobyl Verdun Stalingrad Nagasaki Hiroshima Tombstone Gravestone Morticia Bubonia Bleakfalls
+                Pripyat Chernobyl Verdun Stalingrad Nagasaki Hiroshima Tombstone Gravestone Morticia Bubonia Bleakfalls Fukushima Armageddon Nemesis Necroterra
 
                 # StarCraft
                 "Dead Man's Rock" "Van Osten's Moon" "Port Zion"
 
-                # literature
-                Valyria
+                # Literature
+                Valyria Mordor
 
                 # Fallout (settlements)
                 Megaton
+                
+                # The Elder Scrolls
+                Coldharbour
             }
         }
         pc_savannah = {
@@ -840,26 +873,29 @@ ui_extra_human_extended = {
         }
         pc_alpine = {
             names = {
-                "The Rock" Rockrest Boulder
+                "The Rock" Rockrest
+
+                # Mythology
+                Apollo
 
                 # Places from Earth / adaptations of them
-                Alpina Carpathia "New Himalaya" Everest Olympus "Raven Rock" Uralia Rockrest Muntenia
+                Alpina Carpathia "New Himalaya" Everest Olympus "Raven Rock" Uralia Rockrest Muntenia Apusenia Balkania
 
                 # StarCraft
-                "Jarban Minor" Karkulv "Pike's Peak" Ursa Krakulv
+                "Jarban Minor" Karkulv "Pike's Peak" Ursa
 
                 # Fallout
-                Grayditch
+                Grayditch Boulder
 
                 # The Elder Scrolls
-                "High Rock"
+                "High Rock" Jerall Anthor Wrothgar
             }
         }
         pc_molten = {
             names = {
-                Inferna Vulkan "Tierra del Fuego" Pandemonium Demonia
+                Inferna Vulkan "Tierra del Fuego" Pandemonium Demonia Nemesis Obsidian Dragonia
 
-                # literature
+                # Literature
                 Mordor
 
                 # Biblic/mythological settlements, places, etc
@@ -867,6 +903,9 @@ ui_extra_human_extended = {
 
                 # StarCraft
                 Abaddon "New Folsom" "New Trinidad" Ashrigo "Old Faithful" Scoria Ignus Char
+                
+                # StarWars
+                Mustafar
 
                 # other games
                 "The Nether" Oblivion Ashpit Deadlands
