@@ -237,7 +237,7 @@ ui_extra_human_extended = {
 			
 			# Vanilla SPQR
 			"Pax Romana" "Sol Invictus" "Dis Pater"
-			
+            
 			# New
 			Syringe
 		}
@@ -644,6 +644,9 @@ ui_extra_human_extended = {
 				Hesperides Hyperborea Ithaca Lyrnessus Telepylos Lyrcea Hades Olympia Aquilo Favonius Auster Eurus Caledonia Scythia Argyre Silpium Thrinacia
 				Tritonis Phlegra Acherusia "Colonia Aurora" "Colonia Augusta" "Colonia Pacifica" "Colonia Traiana" "Colonia Emerita" Eboracum Ascrivium Brigantium
 				Rhegium Spalatum Patavium Antiochia
+                
+                # Puzzle Pirates (Island names)
+                Boyle Byrne Chaparral Cnossos Osterum Ansel Arakoua Blackthrope Bowditch Cromwell Scrimshaw Wensleydale
 
                 # StarCraft
                 Thys Pegasus Brontes Gohbus Torus Valhalla Bacchus "Tal Qirat" Asteria Marlowe Gelgaris "Demon's Fair" Jotun Parragos "Pho-Rekh" Tepperus
@@ -662,7 +665,7 @@ ui_extra_human_extended = {
                 Annares Solaris
 				
 				# New
-                Destiny Terminus Liber Kolob Solitude Clausewitz Praetoria Lusitania Hypatia Persephone 
+                Destiny Terminus Liber Kolob Solitude Clausewitz Praetoria Lusitania Hypatia Persephone
             }
         }
         pc_desert = {
@@ -675,11 +678,14 @@ ui_extra_human_extended = {
 				# Vanilla Commonwealth
 				"Frampton Sands" Sunrise "Nova Alexandria" Inferno
 				
-                # Countries, capitals and cities
+				# Countries, capitals, cities
 				Nazca "New Mojave" Persia
 
                 # StarCraft
                 Altara "New Sydney" Sonyan Choss Sirocco Phaeton Gurdlac Moria
+                
+                # RuneScape
+                "Al Kharid"
 
                 # Star Wars
                 Tatooine Mandalore
@@ -700,8 +706,11 @@ ui_extra_human_extended = {
 				# Countries, cities, regions, etc
                 "New Vegas" "New Jerusalem" "New Troy" "Nuevo Madrid" Nevada Cyrene
                 
-                # Other games
+                # GTA
                 "Las Venturas"
+                
+                # Puzzle Pirates (Island names)
+                Caravenserai
             }
         }
         pc_tropical = {
@@ -714,6 +723,9 @@ ui_extra_human_extended = {
 
                 # StarCraft
                 Vygoire Garxxax "Brokas Hur" Calus Miranar Candore "Chau Sara" Aridas
+                
+                # RuneScape
+                Brimhaven
                 
                 # StarWars
                 Onderon
@@ -742,6 +754,9 @@ ui_extra_human_extended = {
                 "New Bucharest" "New Budapest" "New Berlin" "New Paris" "Roma Nova" "Europa Nova" "New Kiev" Londinium "New Dublin" "New Warsaw" "New Sophia"
                 Varadinum Napoca "Dacia Nova" Thrace Byzantium "Transilvania Nova" Pannonia "Novi Belgrad" "New Vilnius" "New Coventry" Athena
                 
+                # RuneScape
+                Ardougne Falador Varrock Lumbridge "Port Sarim" Yanille
+            
                 # Mythology / religion / folklore / legend
                 Midgard Camelot
 
@@ -751,7 +766,7 @@ ui_extra_human_extended = {
                 # StarWars
                 Coruscant Alderaan Naboo Corellia Chandrila Lothal
                 
-                # Other games
+                # GTA
                 "San Fierro" "Los Santos"
                 
                 # New
@@ -768,6 +783,9 @@ ui_extra_human_extended = {
 
                 # StarCraft
                 Meinhoff Agria
+                
+                # Puzzle Pirates (Island names)
+                "Cleopatra's Pearl" Midsummer "Port Venture"
                 
                 # New
                 Fortuna Arcadia Nymphaea Cockaigne Nysa Splendoria Terraria Serenity Marvel Angelis
@@ -791,11 +809,17 @@ ui_extra_human_extended = {
                 # Vanilla Commonwealth
                 Hyderia "Meredith Bay" Neritum "Port Bixby" "Port Snedden"
                 
+                # Puzzle Pirates (Island names)
+                Angelfish Dugong Cormorant Starfish Barracuda
+                
                 # StarCraft
                 Pridewater Hydrax
                 
-				# Countries, cities, regions, etc
-                Caspia Danubia Lochness Azovi Histria Mangalia "Venetia" Marmara Beringia Java
+                # RuneScape
+                Catherby
+                
+                # Countries, cities, regions, etc
+                Caspia Danubia Lochness Azovia Histria Mangalia Venetia Marmara Beringia Java
 				
                 # New
                 Hydra Coralia Aquarius Oceanus Nemo Albatross
@@ -814,6 +838,9 @@ ui_extra_human_extended = {
                 
                 # Vanilla Commonwealth
                 Stonehead "Nova Samarkand" Evonium
+                
+                # Puzzle Pirates (Island names)
+                Jorvik Norse
                 
                 # StarCraft
                 Borea
@@ -851,10 +878,16 @@ ui_extra_human_extended = {
         }
         pc_nuked = {
             names = {
-                Pripyat Chernobyl Verdun Stalingrad Nagasaki Hiroshima Tombstone Gravestone Morticia Bubonia Bleakfalls Fukushima Armageddon Nemesis Necroterra
+                Pripyat Chernobyl Verdun Stalingrad Nagasaki Hiroshima Tombstone Gravestone Morticia Bubonia Bleakfalls Fukushima Armageddon Nemesis Necroterra Ashen
 
                 # StarCraft
                 "Dead Man's Rock" "Van Osten's Moon" "Port Zion"
+                
+                # Puzzle Pirates (Island names)
+                Gallows Shatterstone Ebony
+                
+                # RuneScape
+                Draynor Darkmeyer
 
                 # Literature
                 Valyria Mordor
@@ -864,6 +897,9 @@ ui_extra_human_extended = {
                 
                 # The Elder Scrolls
                 Coldharbour
+                
+                # Dark Souls
+                Lothric
             }
         }
         pc_savannah = {
@@ -874,7 +910,7 @@ ui_extra_human_extended = {
         pc_alpine = {
             names = {
                 "The Rock" Rockrest
-
+                
                 # Mythology
                 Apollo
 
@@ -883,9 +919,15 @@ ui_extra_human_extended = {
 
                 # StarCraft
                 "Jarban Minor" Karkulv "Pike's Peak" Ursa
+                
+                # Puzzle Pirates (Island names)
+                Charcoal Yorrick
+                
+                # RuneScape
+                Burthrope Taverley
 
                 # Fallout
-                Grayditch Boulder
+                Grayditch
 
                 # The Elder Scrolls
                 "High Rock" Jerall Anthor Wrothgar
@@ -904,11 +946,14 @@ ui_extra_human_extended = {
                 # StarCraft
                 Abaddon "New Folsom" "New Trinidad" Ashrigo "Old Faithful" Scoria Ignus Char
                 
+                # Puzzle Pirates (Island names)
+                "Hephaestus' Forge" Ember
+                
                 # StarWars
                 Mustafar
 
-                # other games
-                "The Nether" Oblivion Ashpit Deadlands
+                # Other games
+                "The Nether" Oblivion Ashpit Deadlands Diablo
             }
         }
         pc_barren = {
