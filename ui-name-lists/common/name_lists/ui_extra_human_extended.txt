@@ -646,7 +646,7 @@ ui_extra_human_extended = {
                 Rhegium Spalatum Patavium Antiochia
                 
                 # Puzzle Pirates (Island names)
-                Boyle Byrne Chaparral Cnossos Osterum Ansel Arakoua Blackthrope Bowditch Cromwell Scrimshaw Wensleydale
+                Boyle Byrne Chaparral Cnossos Osterum Ansel Arakoua Blackthrope Scrimshaw Wensleydale
 
                 # StarCraft
                 Thys Pegasus Brontes Gohbus Torus Valhalla Bacchus "Tal Qirat" Asteria Marlowe Gelgaris "Demon's Fair" Jotun Parragos "Pho-Rekh" Tepperus
@@ -654,6 +654,9 @@ ui_extra_human_extended = {
                 
                 # Mythology / religion / folklore / legend
                 Minerva
+                
+                # Historical figures, scientists, explorers, etc
+                Bismarck Napoleon Bowditch Cromwell Caesaria Marco Polo Amerigo Tesla Newton Einstein Hawking
 
                 # GTA
                 Liberty Vice
@@ -664,8 +667,11 @@ ui_extra_human_extended = {
                 # Other films and literature
                 Annares Solaris
                 
+                # Galactik Football
+                Hectonia Escaron Oeno Xenon Unadar Obia
+                
                 # New
-                Destiny Terminus Liber Kolob Solitude Clausewitz Praetoria Lusitania Hypatia Persephone
+                Destiny Terminus Liber Kolob Solitude Clausewitz Praetoria Lusitania Hypatia Persephone Esperanza
             }
         }
         pc_desert = {
@@ -689,6 +695,9 @@ ui_extra_human_extended = {
 
                 # Star Wars
                 Tatooine Mandalore
+                
+                # Galactik Football
+                Menor
             }
         }
         pc_arid = {
@@ -735,6 +744,9 @@ ui_extra_human_extended = {
 
                 # Avatar
                 Pandora
+                
+                # Galactik Football
+                Wamba
             }
         }
         pc_continental = {
@@ -827,6 +839,9 @@ ui_extra_human_extended = {
                 # Biblic/mythological settlements, places, etc
                 Diluvia Noah "The Ark"
                 
+                # Age of Mythology
+                Arkantos
+                
                 # Movies / literature / etc
                 Hydros Thalassa
             }
@@ -874,6 +889,9 @@ ui_extra_human_extended = {
                 
                 # StarWars
                 Carlac
+                
+                # Galactik Football
+                Akillian
             }
         }
         pc_nuked = {
