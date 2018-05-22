@@ -35,7 +35,10 @@ ui_extra_human_extended = {
             Pax Fides Victoria Concordia Discordia Disciplina Fortuna Honos Invidia Liberalitas Libertas Securitas
             
             # Latin - By places
-            Dacicus Salamina 
+            Dacicus Salamina
+            
+            # Memes
+            "Pepe the Frog" Kekistan "Captain Alex" Doge "Rick Roll"
         }
         
         corvette = {
@@ -441,6 +444,9 @@ ui_extra_human_extended = {
             
             # StarWars
             Bengel
+            
+            # Memes
+            Nyan Kekistani
         }
 
         corvette = {
