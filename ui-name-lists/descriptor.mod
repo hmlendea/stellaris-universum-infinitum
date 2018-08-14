@@ -4,4 +4,4 @@ tags={
     "Species"
 }
 picture="ui.jpg"
-supported_version="2.0.*"
+supported_version="2.1.*"
