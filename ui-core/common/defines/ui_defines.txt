@@ -10,6 +10,8 @@ NGameplay = {
     NAVAL_CAPACITY_MAX          = 250   # A quarter of the default value (1000)
     NAVAL_CAPACITY_BASE         = 5     # A quarter of the default value (20)
     NAVAL_CAPACITY_POP_MULT     = 0.025 # A quarter of the default value (0.1)
+    
+    STARBASE_CAPACITY_MAX       = 100   # Double the default value (50)
 }
 
 NSpecies = {

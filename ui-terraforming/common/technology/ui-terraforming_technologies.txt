@@ -57,7 +57,7 @@ tech_ui_advanced_barren_terraforming = {
     area = society
     tier = 3
     category = { new_worlds }
-    prerequisites = { "tech_climate_restoration" }
+    prerequisites = { "tech_ui_barren_terraforming" }
     weight = @tier3weight2
 
     # unlocks additional terraforming-options
