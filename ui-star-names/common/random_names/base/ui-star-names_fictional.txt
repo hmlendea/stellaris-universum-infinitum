@@ -28,8 +28,10 @@ black_hole_names = {
 }
 
 asteroid_prefix = {
+    3DX-
     ABC-
     AFR-
+    APK-
     ASI-
     BBC-
     BGL-
@@ -41,18 +43,21 @@ asteroid_prefix = {
     CNY-
     CRO-
     DAC-
+    DEB-
     DNX-
     DOT-
     ENG-
     EU-
     EUR-
     EURO-
+    EXE-
     FO-
     FRA-
     GIMP-
     GNU-
     GOT-
     GTA-
+    H1-
     HH-
     HM-
     HML-
@@ -77,7 +82,14 @@ asteroid_prefix = {
     ROU-
     RUS-
     SEA-
+    SOL-
     SPA-
+    SPQR-
+    SUN-
+    IOI-
+    LOL-
+    NI-
+    MNO-
     SRB-
     TES-
     TUX-
