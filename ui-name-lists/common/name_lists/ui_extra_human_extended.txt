@@ -7,12 +7,12 @@ ui_extra_human_extended = {
 
     ship_names = {
         generic = {
-            # Latin - By Gods
+            # UI SPQR Extended - By Gods
             Mars Iuppiter Iupiter Minerva Isis Iuno Neptunus Venus Bellona Ianus Vesta Quirinus Ceres Liber Libera "Liber Pater" Diana Mercurius Vulcanus Vulcan
             Carmentis Falacer Flora Furrina Palatua Pomona Portunes Volturnus Saturnus Genius Sol Terra Tellus Tellumo Tellurus "Terra Mater" "Tellus Mater"
             Orcus Luna Feronia Novensides Pales Salus Fons Fides Ops Flora Vdeiovis Summanus Larunda Terminus Vortummus Lares Lucina
             
-            # Latin - By other Gods or personifications
+            # UI SPQR Extended - By other Gods or personifications
             Abundantia "Acca Larentia" Acis Aerecura Aequitas Aesculapius Aeternitas Aion "Aius Locutius" Alernus Elernus Helernus Angerona Angitia "Anna Perenna"
             Annona Antevorta Apollo Arimanius Aura Aurora Averruncus Bacchus "Bona Dea" "Bonus Eventus" Bubona Caca Cacus Caelus Camenae Cardea Carmenta Carmentes
             Carna Clementia Cloacina Consus Cupid Cura Cybele "Dea Dia" Decima Devera Deverra "Diana Nemorensis" "Dius Fidius" "Di Inferni" Fontus Fufluns
@@ -25,16 +25,16 @@ ui_extra_human_extended = {
             Trivia Ubertas Unxia Vacuna Vagitanus Vaticanus Vediovus Veiovis Venilia Venelia Venti Veritas Verminus Vertumnus Vortumnus Vertimnus "Vica Pota" Victoria
             "Viduus" "Virbius" "Virtus" "Volturnus" "Voluptas"
                         
-            # Latin - By heroes and mythology
+            # UI SPQR Extended - By heroes and mythology
             Hercules Aeneas Indiges Hermaphroditus
             
-            # Latin - By maritime features
+            # UI SPQR Extended - By maritime features
             Rhenus Oceanus
             
-            # Latin - By concepts
+            # UI SPQR Extended - By concepts
             Pax Fides Victoria Concordia Discordia Disciplina Fortuna Honos Invidia Liberalitas Libertas Securitas
             
-            # Latin - By places
+            # UI SPQR Extended - By places
             Dacicus Salamina
             
             # Memes
@@ -522,8 +522,15 @@ ui_extra_human_extended = {
         random_names = {
             "The Solar Sails" "Pale Blue Dots" "The Blue Stars" "Lightning Stars" "Shooting Stars" "Ethereal Fleet" "Void Stars"
             
-            "The Eclipse Fleet" "The Red Fleet" "The Yellow Fleet" "The Blue Fleet" "The Cobalt Fleet" "The Sanguine Fleet" "The Crimson Fleet" "The Golden Fleet"
-            "The Silver Fleet" "The Millenial Fleet" "The Vortex Fleet" "Blue Ribbon Fleet" "Iron Curtain Fleet"
+            "The Eclipse Fleet"  "The Sanguine Fleet" "The Millenial Fleet" "The Vortex Fleet" "Iron Curtain Fleet"
+
+            # Metals / materials
+            "The Chrome Fleet" "The Cobalt Fleet" "The Golden Fleet" "The Iron Fleet" "The Silver Fleet" "The Steel Fleet"
+
+            # Colours
+            "The Black Fleet" "The Blue Fleet" "The Brown Fleet" "The Burgundy Fleet" "The Crimson Fleet" "The Cyan Fleet" "The Green Fleet" "The Lime Fleet"
+            "The Magenta Fleet" "The Orange Fleet" "The Pink Fleet" "The Purple Fleet" "The Red Fleet" "The Teal Fleet" "The Turqoise Fleet" "The Violet Fleet"
+            "The White Fleet" "The Yellow Fleet"
             
             # Soldier types
             "The Archer Fleet" "The Arquebusier Fleet" "The Cataphract Fleet" "The Cavalry Fleet" "The Centurion Fleet" "The Chariot Fleet"
@@ -624,7 +631,11 @@ ui_extra_human_extended = {
                 
                 # New
                 "SARC-K 'Purgers'" "SARC-L 'Lawnmowers'" "SARC-M 'Steamrollers'" "SARC-N 'Dark Knights'" "SARC-O 'Templars'"
-                "Experimental Unit 'Azojal'" "Experimental Unit 'Hesoyam'"
+                "SARC-P 'Leafblowers'" "SARC-Q 'Knuckles'" "SARC-R 'Bayonettes'" "SARC-S 'Bastards'" "SARC-T 'Vagabonds'"
+                "Experimental Unit 'Azojal'"
+                
+                # New - based on GTA:SA cheat codes
+                "Experimental Unit 'Hesoyam'"  "Experimental Unit 'Asnaeb'" "Experimental Unit 'Baguvix'" "Experimental Unit 'Uzumymw'"
             }
             sequential_name = "%O% Bio-Engineered Squadron"
         }
@@ -652,7 +663,7 @@ ui_extra_human_extended = {
                 Rhegium Spalatum Patavium Antiochia
                 
                 # Puzzle Pirates (Island names)
-                Boyle Byrne Chaparral Cnossos Osterum Ansel Arakoua Blackthrope Scrimshaw Wensleydale
+                Boyle Byrne Chaparral Cnossos Osterum Ansel Arakoua Blackthrope Scrimshaw
 
                 # StarCraft
                 Thys Pegasus Brontes Gohbus Torus Valhalla Bacchus "Tal Qirat" Asteria Marlowe Gelgaris "Demon's Fair" Jotun Parragos "Pho-Rekh" Tepperus
@@ -677,7 +688,13 @@ ui_extra_human_extended = {
                 Hectonia Escaron Oeno Xenon Unadar Obia
                 
                 # New
-                Destiny Terminus Liber Kolob Solitude Clausewitz Praetoria Lusitania Hypatia Persephone Esperanza
+                Destiny Terminus Liber Kolob Solitude Clausewitz Praetoria Lusitania Hypatia Persephone Esperanza Titania Rosetta
+
+                # Mythological places
+                Agartha Alfheim Reynes Saguenay
+
+                # Mount and Blade
+                Geroia Balion Swadia
             }
         }
         pc_desert = {
@@ -689,6 +706,9 @@ ui_extra_human_extended = {
                 
                 # Vanilla Commonwealth
                 "Frampton Sands" Sunrise "Nova Alexandria" Inferno
+
+                # UI SPQR Extended
+                "Nova Arabia" "Aegyptus Novus"
                 
                 # Countries, capitals, cities
                 Nazca "New Mojave" Persia
@@ -700,7 +720,7 @@ ui_extra_human_extended = {
                 "Al Kharid"
 
                 # Star Wars
-                Tatooine Mandalore
+                Tatooine Mandalore Geonosis
                 
                 # Galactik Football
                 Menor
@@ -714,6 +734,9 @@ ui_extra_human_extended = {
                 
                 # Vanilla Commonwealth
                 Tartarus "High Ground" "Nova Antioch"
+
+                # UI SPQR Extended
+                "Nova Parthia" "Nova Troia"
                 
                 # StarCraft
                 "Mar Sara" "Gamma Dorian"
@@ -736,20 +759,20 @@ ui_extra_human_extended = {
                 # Vanilla Commonwealth
                 Khersonia Jangala Broadleaf Shrub
 
+                # UI SPQR Extended
+                Pandora Sylvana Silvestris "Transylvania Nova"
+
                 # StarCraft
                 Vygoire Garxxax "Brokas Hur" Calus Miranar Candore "Chau Sara" Aridas
                 
                 # RuneScape
-                Brimhaven
+                Brimhaven Karamja
                 
                 # StarWars
-                Onderon
+                Daflomia Vestar Valrar Felucia Onderon Akiva
                 
                 # New
                 Tropico Maya
-
-                # Avatar
-                Pandora
                 
                 # Galactik Football
                 Wamba
@@ -764,16 +787,25 @@ ui_extra_human_extended = {
                 # Vanilla Commonwealth
                 Destiny Bastion Citadel Acropolis Delphi Harmony Dawnlight Myndos Thebes Camelot Arcadia Abbassus Ashur
                 
+                # UI SPQR Extended
+                Londinium Varadinum Napoca "Dacia Nova" "Nova Thracia"
+
                 # StarCraft
                 Umoja Korhal Tarsonis Haji Halcyon Vardona Bountiful Gystt Roxara Goldilocks Sammy Haven TarKossia Boone Shiloh "Bhekar Ro" Tashai
-                Boone
                 
                 # Countries, cities, regions, etc
-                "New Bucharest" "New Budapest" "New Berlin" "New Paris" "Roma Nova" "Europa Nova" "New Kiev" Londinium "New Dublin" "New Warsaw" "New Sophia"
-                Varadinum Napoca "Dacia Nova" Thrace Byzantium "Transilvania Nova" Pannonia "Novi Belgrad" "New Vilnius" "New Coventry" Athena
+                "New Bucharest" "New Budapest" "Neu Berlin" "New Paris" "Roma Nova" "Europa Nova" "New Kiev" "New Dublin" "New Warsaw" "New Sophia"
+                Byzantium "Transilvania Nova" Pannonia "Novi Belgrad" "New Vilnius" "New Coventry" Athena "Britannia Nova"
+                "Carthago Nova" Lexington
                 
+                # Puzzle Pirates (Island names)
+                Wensleydale
+
+                # Warhammer
+                Espandor Gudrun
+
                 # RuneScape
-                Ardougne Falador Varrock Lumbridge "Port Sarim" Yanille
+                Ardougne Falador Varrock Lumbridge "Port Sarim" Yanille Kandarin Asgarnia Misthalin Entrana
             
                 # Mythology / religion / folklore / legend
                 Midgard Camelot
@@ -782,6 +814,7 @@ ui_extra_human_extended = {
                 Cyrodiil Akavir Tamriel Nirn Mundus
                 
                 # StarWars
+                Bakura Orinda Champala Brentaal Dantooine Lianna Aradan Carida Bastion Fondor
                 Coruscant Alderaan Naboo Corellia Chandrila Lothal
                 
                 # GTA
@@ -789,6 +822,9 @@ ui_extra_human_extended = {
                 
                 # New
                 Columbus
+
+                # Mount and Blade
+                Calradia
             }
         }
         pc_gaia = {
@@ -801,12 +837,15 @@ ui_extra_human_extended = {
 
                 # StarCraft
                 Meinhoff Agria
+
+                # StarWars
+                Scarif Dathomir Achillea Borleias Agamar
                 
                 # Puzzle Pirates (Island names)
                 "Cleopatra's Pearl" Midsummer "Port Venture"
                 
                 # New
-                Fortuna Arcadia Nymphaea Cockaigne Nysa Splendoria Terraria Serenity Marvel Angelis
+                Fortuna Arcadia Nymphaea Cockaigne Nysa Splendoria Terraria Serenity Marvel Angelis Perla
                 
                 # Religious or mythological
                 "Holy Grail" "El Dorado"
@@ -816,6 +855,9 @@ ui_extra_human_extended = {
 
                 # The Elder Scrolls
                 Summerset
+
+                # Doctor Who
+                Gallifrey
             }
         }
         pc_ocean = {
@@ -826,13 +868,16 @@ ui_extra_human_extended = {
                 
                 # Vanilla Commonwealth
                 Hyderia "Meredith Bay" Neritum "Port Bixby" "Port Snedden"
-                
+
                 # Puzzle Pirates (Island names)
                 Angelfish Dugong Cormorant Starfish Barracuda
                 
                 # StarCraft
                 Pridewater Hydrax
-                
+
+                # StarWars
+                Kamino Selonia Admastor Aguarl Amethia
+                                
                 # RuneScape
                 Catherby
                 
@@ -894,7 +939,7 @@ ui_extra_human_extended = {
                 Solstheim Atmora Sovengarde
                 
                 # StarWars
-                Carlac
+                Carlac Akuria Pelorum
                 
                 # Galactik Football
                 Akillian
@@ -902,16 +947,20 @@ ui_extra_human_extended = {
         }
         pc_nuked = {
             names = {
-                Pripyat Chernobyl Verdun Stalingrad Nagasaki Hiroshima Tombstone Gravestone Morticia Bubonia Bleakfalls Fukushima Armageddon Nemesis Necroterra Ashen
+                Pripyat Chernobyl Verdun Stalingrad Nagasaki Hiroshima Tombstone Gravestone Morticia Bubonia Bleakfalls Fukushima Armageddon Nemesis
+                Necroterra Ashen Requiem
 
                 # StarCraft
                 "Dead Man's Rock" "Van Osten's Moon" "Port Zion"
+
+                # Warhammer
+                Krieg
                 
                 # Puzzle Pirates (Island names)
                 Gallows Shatterstone Ebony
                 
                 # RuneScape
-                Draynor Darkmeyer
+                Draynor Darkmeyer Meiyerditch Crandor
 
                 # Literature
                 Valyria Mordor

@@ -210,7 +210,7 @@ ui_extra_human_spqr_extended = {
         generic = {	}
         pc_desert = {
             names = {
-                 "Nova Arabia" "Nova Aegyptus"
+                "Nova Arabia" "Nova Aegyptus"
             }
         }
         pc_arid = {
@@ -220,13 +220,16 @@ ui_extra_human_spqr_extended = {
         }
         pc_tropical = {
             names = {
-                Amazonia "Nova Africa" Pandora
+                Amazonia "Nova Africa" Pandora Sylvana Silvestris
+
+                # Countries, capitals, cities
+                "Transylvania Nova"
             }
         }
         pc_continental = {
             names = {
                 # Countries, capitals, cities
-                Londinium Varadinum Napoca Dacia Tracia
+                Londinium Varadinum Napoca "Dacia Nova" "Nova Thracia"
             }
         }
         pc_gaia = { }
