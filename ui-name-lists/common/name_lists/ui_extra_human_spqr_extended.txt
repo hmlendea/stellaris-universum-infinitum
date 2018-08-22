@@ -207,7 +207,28 @@ ui_extra_human_spqr_extended = {
 
     planet_names = {
         # Gotta put God names in here
-        generic = {	}
+        generic = {
+            names = {
+                Colonia
+
+                # Generated (Markov)
+                Acenza Aceria Acerraea Adrotalium Antinum Antum Apiolaneum Apiolica Apoca Aquiter
+                Aradinum Ardacater Ascrin Atlanea Aurovigutum Aurovilla Ausellusca Ausenoa Baianonum
+                Balticania Banna Bannata Bevagnia Brutum Brutupiae Caesulis Calcaromago Cameritum
+                Camucium Castelix Chieriton Claterrae Clatum Clotageno Cordia Corine Corium Cornovum
+                Dacae Dacifica Daeda Dubraevagna Durovia Durovilla Ebora Eborea Erythia Euxinae
+                Falactodora Falate Fanonum Forum Forumnovium Garia Garria Gerea Gereatica Herae
+                Hercellusca Herus Hespella Hortonia Hortusca Hortusculum Hyperitum Hyrcanavium
+                Hyrcandate Hyrcangis Hyrceania Hyrcella Hyrcelli Illae Illum Ithacae Lacrivis Londia
+                Lonia Lonna Lonnatania Loria Lorine Lucerraea Lugus Lyrcelli Maroma Mediolae Mediolica
+                Mediterme Misenta Naconda Napollum Ocetum Pacia Pandia Peteleia Petellae Petelseprio
+                Pollentica Pollusculum Pompeda Pompedum Portonia Portus Potentica Praea Regillae Ricum
+                Romagus Rusellum Ruttium Rutum Salium Segontinum Sentempeia Sentica Sentimiglia Seriana
+                Sericinae Seridunum Siberidunum Sibernae Soluna Telli Thrin Thrinae Torium Traneum Trato
+                Traton Tratonia Turine Tuscania Tyrrhegium Varabii Varicum Vectica Vecticangis Ventia
+                Ventinum Ventium Vercea Vercella Verus Vindinium Vindolantum
+            }
+        }
         pc_desert = {
             names = {
                 "Nova Arabia" "Nova Aegyptus"

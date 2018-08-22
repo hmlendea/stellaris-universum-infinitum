@@ -661,14 +661,37 @@ ui_extra_human_extended = {
                 Hesperides Hyperborea Ithaca Lyrnessus Telepylos Lyrcea Hades Olympia Aquilo Favonius Auster Eurus Caledonia Scythia Argyre Silpium Thrinacia
                 Tritonis Phlegra Acherusia "Colonia Aurora" "Colonia Augusta" "Colonia Pacifica" "Colonia Traiana" "Colonia Emerita" Eboracum Ascrivium Brigantium
                 Rhegium Spalatum Patavium Antiochia
+
+                # UI SPQR Extended
+                Colonia
+
+                # UI SPQR Extended - Generated (Markov)
+                Acenza Aceria Acerraea Adrotalium Antinum Antum Apiolaneum Apiolica Apoca Aquiter
+                Aradinum Ardacater Ascrin Atlanea Aurovigutum Aurovilla Ausellusca Ausenoa Baianonum
+                Balticania Banna Bannata Bevagnia Brutum Brutupiae Caesulis Calcaromago Cameritum
+                Camucium Castelix Chieriton Claterrae Clatum Clotageno Cordia Corine Corium Cornovum
+                Dacae Dacifica Daeda Dubraevagna Durovia Durovilla Ebora Eborea Erythia Euxinae
+                Falactodora Falate Fanonum Forum Forumnovium Garia Garria Gerea Gereatica Herae
+                Hercellusca Herus Hespella Hortonia Hortusca Hortusculum Hyperitum Hyrcanavium
+                Hyrcandate Hyrcangis Hyrceania Hyrcella Hyrcelli Illae Illum Ithacae Lacrivis Londia
+                Lonia Lonna Lonnatania Loria Lorine Lucerraea Lugus Lyrcelli Maroma Mediolae Mediolica
+                Mediterme Misenta Naconda Napollum Ocetum Pacia Pandia Peteleia Petellae Petelseprio
+                Pollentica Pollusculum Pompeda Pompedum Portonia Portus Potentica Praea Regillae Ricum
+                Romagus Rusellum Ruttium Rutum Salium Segontinum Sentempeia Sentica Sentimiglia Seriana
+                Sericinae Seridunum Siberidunum Sibernae Soluna Telli Thrin Thrinae Torium Traneum Trato
+                Traton Tratonia Turine Tuscania Tyrrhegium Varabii Varicum Vectica Vecticangis Ventia
+                Ventinum Ventium Vercea Vercella Verus Vindinium Vindolantum
                 
+                # StarCraft
+                Thys Pegasus Brontes Gohbus Torus Valhalla Bacchus "Tal Qirat" Asteria Marlowe Gelgaris "Demon's Fair" Jotun Parragos "Pho-Rekh" Tepperus
+                Melkora Cirion "Great Bend" Chiron Ravera Seti Lakius Adena
+                
+                # StarCraft - Mining worlds. Class unknown
+                Feronis Brutus Vito Pyramus Thisby
+
                 # Puzzle Pirates (Island names)
                 Boyle Byrne Chaparral Cnossos Osterum Ansel Arakoua Blackthrope Scrimshaw
 
-                # StarCraft
-                Thys Pegasus Brontes Gohbus Torus Valhalla Bacchus "Tal Qirat" Asteria Marlowe Gelgaris "Demon's Fair" Jotun Parragos "Pho-Rekh" Tepperus
-                Melkora Cirion "Great Bend" Chiron Ravera Seti Lakius
-                
                 # Mythology / religion / folklore / legend
                 Minerva
                 
@@ -811,7 +834,10 @@ ui_extra_human_extended = {
                 Midgard Camelot
 
                 # The Elder Scrolls
-                Cyrodiil Akavir Tamriel Nirn Mundus
+                Cyrodiil Akavir Tamriel Nirn Mundus Colovia
+
+                # Dark Souls
+                Lothric Astora
                 
                 # StarWars
                 Bakura Orinda Champala Brentaal Dantooine Lianna Aradan Carida Bastion Fondor
@@ -882,7 +908,7 @@ ui_extra_human_extended = {
                 Catherby
                 
                 # Countries, cities, regions, etc
-                Caspia Danubia Lochness Azovia Histria Mangalia Venetia Marmara Beringia Java
+                Caspia Danubia Lochness Azovia Histria Mangalia Venetia Marmara Beringia Java Istros
                 
                 # New
                 Hydra Coralia Aquarius Oceanus Nemo Albatross
@@ -972,7 +998,7 @@ ui_extra_human_extended = {
                 Coldharbour
                 
                 # Dark Souls
-                Lothric
+                Blighttown
             }
         }
         pc_savannah = {

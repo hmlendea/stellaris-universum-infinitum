@@ -177,9 +177,11 @@ ui_starcraft_terran = {
             names = {
                 # Unknown or unsure climate
                 Thys Pegasus Brontes Gohbus Torus Valhalla Bacchus "Tal Qirat" Asteria Marlowe Gelgaris "Demon's Fair" Jotun Parragos "Pho-Rekh" Tepperus
-                Melkora Cirion "Great Bend" Chiron Ravera Seti Lakius
+                Melkora Cirion "Great Bend" Chiron Ravera Seti Lakius Adena
                 # "Antiga Prime" "Atticus Minor" "Artesia Prime" "Sigmaris Prime" "Sigmaris Prime" "Zanadar Prime"
                 
+                # Mining worlds. Class unknown
+                Feronis Brutus Vito Pyramus Thisby
             }
         }
         pc_desert = {
@@ -256,9 +258,6 @@ ui_starcraft_terran = {
 
                 # Moons
                 Canis Brutus
-
-                # Mining worlds. Not completely sure if they are barren or not.
-                Feronis Brutus Vito Pyramus Thisby
             }
         }
         pc_asteroid = {
