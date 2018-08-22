@@ -409,5 +409,23 @@ REP = {
         home_system = Orikutt
         name_list = "ui_extra_rep2"
     }
+    
+    ### D&D - Kobold ###
+
+    hoppa   = { name = Hoppa    plural = Hoppi      home_planet = Hoppadre      home_system = Hoppalba      name_list = "ui_dnd_kobold" }
+    dekki   = { name = Dekki    plural = Dekkis     home_planet = Dekkidre      home_system = Dekkilba      name_list = "ui_dnd_kobold" }
+    varba   = { name = Varba    plural = Varbas     home_planet = Varbadre      home_system = Varbalba      name_list = "ui_dnd_kobold" }
+    snoku   = { name = Snoku    plural = Snokis     home_planet = Snokudre      home_system = Snokulba      name_list = "ui_dnd_kobold" }
+    dik     = { name = Dik      plural = Diks       home_planet = Dikdre        home_system = Dikulba       name_list = "ui_dnd_kobold" }
+    tagi    = { name = Tagi     plural = Tagis      home_planet = Tagidre       home_system = Tagilba       name_list = "ui_dnd_kobold" }
+    gehzi   = { name = Gehzi    plural = Gehzis     home_planet = Gehzidre      home_system = Gehzilba      name_list = "ui_dnd_kobold" }
+    tess    = { name = Tess     plural = Tessis     home_planet = Tessdre       home_system = Tessulba      name_list = "ui_dnd_kobold" }
+    saplu   = { name = Saplu    plural = Sapluri    home_planet = Sapludre      home_system = Saplulba      name_list = "ui_dnd_kobold" }
+    duhsa   = { name = Duhsa    plural = Duhsas     home_planet = Duhsadre      home_system = Duhsalba      name_list = "ui_dnd_kobold" }
+    vek     = { name = Vek      plural = Veks       home_planet = Vekdre        home_system = Vekulba       name_list = "ui_dnd_kobold" }
+    ahsu    = { name = Ahsu     plural = Ahsi       home_planet = Ahsudre       home_system = Ahsulba       name_list = "ui_dnd_kobold" }
+    mokla   = { name = Mokla    plural = Moklans    home_planet = Mokladre      home_system = Moklalba      name_list = "ui_dnd_kobold" }
+    zelba   = { name = Zelba    plural = Zelbari    home_planet = Zelbadre      home_system = Zelbalba      name_list = "ui_dnd_kobold" }
+    snaks   = { name = Snaks    plural = Snaksi     home_planet = Snaksudre     home_system = Snaksulba     name_list = "ui_dnd_kobold" }
 }
 
