@@ -1,8 +1,8 @@
 black_hole_names = {
     "Babylon's Fall"
-    "Belzebuth's Maw"
+    "Belzebuth's Abyss"
     "Byzantium's Fall"
-    "Cthulhu's Maw"
+    "Cthulhu's Void"
     "Dracones Maelstrom"
     "Dracula's Maw"
     "Ender Eye"
@@ -12,12 +12,13 @@ black_hole_names = {
     "Hell's Gate"
     "Hope's End"
     "Horatiu's Singularity"
-    "Lucifer's Maw"
+    "Lucifer's Vortex"
     "Medusa's Eye"
     "Milkdrinker's End"
     "Teleorman Black Hole"
     "Vampire's Fang"
     "Zamolxis Black Hole"
+    "
 
     ### Doctor Who ###
     "Black Hole of Tartarus"
@@ -41,6 +42,7 @@ asteroid_prefix = {
     CIV-
     CK-
     CNY-
+    COL-
     CRO-
     DAC-
     DEB-
@@ -56,7 +58,9 @@ asteroid_prefix = {
     GIMP-
     GNU-
     GOT-
+    GT-
     GTA-
+    GTX-
     H1-
     HH-
     HM-
@@ -65,41 +69,42 @@ asteroid_prefix = {
     HORI-
     HUN-
     IBM-
+    IOI-
     IRE-
     ITA-
     JAP-
     JAVA-
     LNX-
+    LOL-
     MAC-
     MD-
     MDL-
+    MNO-
     NET-
+    NI-
     POR-
     RO-
     ROL-
     ROM-
     RON-
     ROU-
+    RTX-
     RUS-
     SEA-
     SOL-
     SPA-
     SPQR-
-    SUN-
-    IOI-
-    LOL-
-    NI-
-    MNO-
     SRB-
+    SUN-
     TES-
     TUX-
     UKR-
     USA-
     USD-
     WIN-
-    YUG-
     WWW-
     XYZ-
+    YUG-
 }
 
 asteroid_postfix = {
@@ -121,13 +126,17 @@ asteroid_postfix = {
     873
     1024
     1030
+    1300
+    1310
     1080
     1337
     1995
     2048
     2077
+    2080
     2277
     2281
+    3100
     4096
     8192
 }
@@ -672,21 +681,26 @@ star_names = {
 
 nebula_names = {
     ### FICTIONAL ###
+    "Cerulean Shroud"
+    "Crimson Cloud"
+    "Crimson Shades"
     "Dacia Nebula"
     "Dracones Nebula"
-    "Mlendea Nebula"
-    "Teleorman Nebula"
-    "Roseblood Nebula"
-    "Sanguine Nebula"
-    "Vampire Nebula"
     "Dracula Nebula"
-    "Whitegold Nebula"
+    "Dracula's Fangs"
+    "Eye of the Universe"
     "Getic Clouds"
-    "Milkfoam Cloud"
-    "Crimson Cloud"
-    "Sanguine Cloud"
-    "Redflame Nebula"
     "Goldspark Flairs"
+    "Milkfoam Cloud"
+    "Mlendea Nebula"
+    "Redflame Nebula"
+    "Roseblood Nebula"
+    "Sanguine Cloud"
+    "Sanguine Nebula"
+    "Teleorman Nebula"
+    "Vampire Nebula"
+    "Wall of the Precursors"
+    "Whitegold Nebula"
     
     ### FANTASYNAMEGENERATOR ###
     "Blue Ribbon Nebula"

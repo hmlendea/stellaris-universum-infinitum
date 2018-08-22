@@ -5,6 +5,9 @@
 ui_elderscrolls_argonian = {
     ship_names = {
         generic = {
+            # Countries
+            Elsweyr Quin'rawl Pa'alatiin
+
             # Settlements
             Alabaster Corinthe Dune Mistral Orcrest Rawl'kha Rimmen Senchal Torval
         }
@@ -112,25 +115,32 @@ ui_elderscrolls_argonian = {
             
                 # Settlements
                 Alabaster Corinthe Dune Mistral Orcrest Rawl'kha Rimmen Senchal Torval
+
+                # Mythic
+                Llesw'er
             }
         }
         pc_desert = {
-            Anequina Ne'quin'al
+            Ne'quin'al
         }
         pc_arid = {
-            Anequina Ne'quin'al
+            Ne'quin'al
         }
         pc_tropical = {
-            Quin'rawl Tenmar Pelletine
+            Quin'rawl Tenmar Pa'alatiin
         }
-        pc_continental = { }
-        pc_gaia = { }
+        pc_continental = {
+            Pa'alatiin
+        }
+        pc_gaia = {
+            Pa'alatiin Llesw'er
+        }
         pc_ocean = { }
         pc_tundra = { }
         pc_arctic = { }
         pc_nuked = { }
         pc_savannah = {
-            Anequina Ne'quin'al
+            Ne'quin'al
         }
         pc_alpine = { }
         pc_molten = { }
