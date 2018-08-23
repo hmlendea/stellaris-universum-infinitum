@@ -666,21 +666,38 @@ ui_extra_human_extended = {
                 Colonia
 
                 # UI SPQR Extended - Generated (Markov)
-                Acenza Aceria Acerraea Adrotalium Antinum Antum Apiolaneum Apiolica Apoca Aquiter
-                Aradinum Ardacater Ascrin Atlanea Aurovigutum Aurovilla Ausellusca Ausenoa Baianonum
-                Balticania Banna Bannata Bevagnia Brutum Brutupiae Caesulis Calcaromago Cameritum
-                Camucium Castelix Chieriton Claterrae Clatum Clotageno Cordia Corine Corium Cornovum
-                Dacae Dacifica Daeda Dubraevagna Durovia Durovilla Ebora Eborea Erythia Euxinae
-                Falactodora Falate Fanonum Forum Forumnovium Garia Garria Gerea Gereatica Herae
-                Hercellusca Herus Hespella Hortonia Hortusca Hortusculum Hyperitum Hyrcanavium
-                Hyrcandate Hyrcangis Hyrceania Hyrcella Hyrcelli Illae Illum Ithacae Lacrivis Londia
-                Lonia Lonna Lonnatania Loria Lorine Lucerraea Lugus Lyrcelli Maroma Mediolae Mediolica
-                Mediterme Misenta Naconda Napollum Ocetum Pacia Pandia Peteleia Petellae Petelseprio
-                Pollentica Pollusculum Pompeda Pompedum Portonia Portus Potentica Praea Regillae Ricum
-                Romagus Rusellum Ruttium Rutum Salium Segontinum Sentempeia Sentica Sentimiglia Seriana
-                Sericinae Seridunum Siberidunum Sibernae Soluna Telli Thrin Thrinae Torium Traneum Trato
-                Traton Tratonia Turine Tuscania Tyrrhegium Varabii Varicum Vectica Vecticangis Ventia
-                Ventinum Ventium Vercea Vercella Verus Vindinium Vindolantum
+                Agimontia Alaunia Alauniae Alaunian Alava Albitinum Albulacum Aldena Alisinum Altenae Altenai Ambia Ambivaria
+                Ambivarissa Ambraciacum Amestra Ammonia Amstero Anacopiana Anchia Andemanis Andemantium Anhaltiana Anticum Antio Antipon Apologium Apulunia Apuluniae
+                Apulunium Aquilonica Areburgus Arelaterra Argensis Argensium Assaran Aterna Aternacum Augustero Augustoriae Augustorum Aureliacum Aurgium Autessiorum
+                Avarissa Avaritum Aventia Aventis Aventum Avnedonna Bacanda Bacia Baciaca Badia Balaguris Barbalis Barbalisia Barbalissum Barcasum Basiensis Basiensium
+                Bassa Bassana Batavicus Bechesia Bedburgium Belensis Beliacum Belianum Bellodunum Belsona Beneventia Bercellae Berceoria Berceorius Berenicum Berlacum
+                Bersida Besseium Bessenia Biharina Biharinatus Biponte Bironticul Birontis Birthago Blaesulae Bononiana Borbonium Bostratus Bovia Branechey Brassova Breda
+                Bressin Bressinga Brienis Briense Briensis Briga Brigethum Brivae Brucinium Bucarum Bullia Bulliacum Burgum Butellulum Butellum Caesaran Caesarodum Caesena
+                Caesenae Caetobriva Caetonium Calatum Calis Calissus Callini Cameria Cammonia Cammonium Cancella Cancellae Canopolis Caralissum Carca Caria Carnia Carnis
+                Carrhanum Carsinoe Cartha Cassana Castinium Cenaburgum Cepha Characuria Charvisium Chullum Clissonia Clunium Coelernum Colum Columbum Compendi Confolenia
+                Connacum Constana Constanacus Constantium Coria Coriacum Coriae Corinati Coritum Cornovaria Covordium Crotonum Cruciam Crucinium Cuiculum Cunetia Curic
+                Dacoritani Dalia Dantia Dantica Darnia Daveontum Dertonas Derventia Diernacum Diernae Dioscuria Diostiense Dolumbria Doresta Dorestavium Drivae Duracha
+                Durnova Durnovii Durolipon Durolis Eboracuria Egmontuim Elberfelda Elburium Eleuthera Embria Emporia Enchus Epiphana Epiphaneae Eporeda Epterna Epternae
+                Eudaemontis Eudaemonum Europolis Faventum Fidena Figlina Flavobrivae Flessenia Florentum Florinatus Florinium Fontalbani Fontana Franesia Galici Garia
+                Geldorpium Gemellulum Gerolstana Gesocrinium Gontium Gorciaca Grannonum Grannopolis Gratia Gratiana Gratiaria Hadelphia Hadria Hallentia Hammonium Hanova
+                Hanovardia Harlingis Hastadium Hastadum Hatricum Herevordium Hermona Hermontum Hierapeum Hierasa Hildinensia Hispargum Honthis Horstmarias Horstmarium
+                Iassium Iatina Iericio Internacum Internum Juliomagus Junburgium Junburgum Kamouniacum Kellitrae Kotaissus Lacor Lactodurum Landericia Landesium Lantsbergum
+                Laumella Laumellae Legionium Leisnienses Lemantium Lemantum Lemonia Leoburgo Leoburgus Leodica Leuphaneas Leuphania Liburgi Liburgum Licinium Licinum Lierium
+                Lignia Lindisca Lingartis Lissum Londinis Lucilense Lucilensia Lugaricum Manbalotrum Maria Marsium Massium Maximia Mediomagus Mediomatria Meldorum Mesaran
+                Messalia Messaliae Messalonia Metonis Miletum Mindomis Minoris Minorisena Mirobrivae Misena Misnicium Mogonticum Mogontium Molindunum Molini Molinicum Monas
+                Montanacum Montferetum Montium Moris Muccuru Muscino Mutinati Naissum Nassovia Nemetum Neptem Neretra Nienburgum Nisibirum Novarissa Novaritum Noviodurum
+                Nucera Nucerae Nuceriacum Octodorum Olisinum Ossalona Paneae Paraepontum Paralisia Paralissus Parthenes Partia Pautaliae Pellae Peregia Peregrinae Petinatus
+                Peturias Phana Pharia Philadeleno Phoebianae Piniacum Plumbria Pocribate Pomarinum Pomarium Ponte Pontium Populum Potais Potaissum Potaissus Premia Proilavana
+                Prophthasis Puttlinae Pyrrhae Quadria Raceburgo Raceburgum Raetina Ragus Raphana Raphilla Rastellulum Rastellum Ratiana Ratianae Raventia Regisburgo Rinabucis
+                Rixingara Robriga Robriva Robrivae Rotenburgi Rupellae Rupellatum Rusella Rusgunia Rusticaria Saarae Saaraeponte Saenae Salamium Salernopil Salernova
+                Salernovia Salina Salinensis Salinga Salonia Salve Salvernacus Samarata Sancticul Sanctona Sarlatus Satenachium Satenae Saxacastrum Sebenice Segonturum
+                Segovicus Segusium Seniae Sepphorisa Septe Septemtilia Serapolis Sergis Serveste Severia Sigetio Singa Singium Sipon Sipontium Sopia Sopiana Sosatica
+                Sosaticaria Spalati Spalatia Spoletus Stabulae Stenfeldia Stipolis Stipontum Styberraria Surrentia Sutricum Syradinum Tabalatiana Taberna Tabuina Tamias
+                Tarvia Tascia Tasciacum Taunia Taunian Temesieni Temesiensis Tergensis Ternos Tessiodunum Thaena Theologus Thessano Thevestadum Tholeniae Tholentia
+                Thorodunum Tiburgus Ticinium Tiensis Tinga Tingara Tingidunum Tingium Tirolis Tolentiacum Traguris Tremonum Trinova Tulpiana Tungrensium Turenicum Ucetiae
+                Ulpiacensis Ulpianae Uzhorolipon Uzhoroltum Valdemon Valdemonum Vallini Valot Valverna Varvaricum Veldia Veldidentia Veldidentum Venetia Verbenice Verodamum
+                Verodumna Veruciam Verulamias Verulata Vescerae Vestadensis Vetero Veterrae Veterraria Vetonis Vieri Villa Vindelicia Vindonensis Vinova Vinovantes Vinovii
+                Virneburgus Vivaria Vizelianum Volate Volsinium Voredana Vratiaria
                 
                 # StarCraft
                 Thys Pegasus Brontes Gohbus Torus Valhalla Bacchus "Tal Qirat" Asteria Marlowe Gelgaris "Demon's Fair" Jotun Parragos "Pho-Rekh" Tepperus
@@ -711,13 +728,16 @@ ui_extra_human_extended = {
                 Hectonia Escaron Oeno Xenon Unadar Obia
                 
                 # New
-                Destiny Terminus Liber Kolob Solitude Clausewitz Praetoria Lusitania Hypatia Persephone Esperanza Titania Rosetta
+                Destiny Terminus Liber Kolob Solitude Clausewitz Praetoria Lusitania Hypatia Persephone Esperanza Titania Rosetta Dochia
 
                 # Mythological places
                 Agartha Alfheim Reynes Saguenay
 
                 # Mount and Blade
                 Geroia Balion Swadia
+
+                # Others
+                Rabita # Bonds (bond) in Arabic
             }
         }
         pc_desert = {
@@ -822,7 +842,7 @@ ui_extra_human_extended = {
                 "Carthago Nova" Lexington
                 
                 # Puzzle Pirates (Island names)
-                Wensleydale
+                Wensleydale Admiral
 
                 # Warhammer
                 Espandor Gudrun
@@ -842,6 +862,9 @@ ui_extra_human_extended = {
                 # StarWars
                 Bakura Orinda Champala Brentaal Dantooine Lianna Aradan Carida Bastion Fondor
                 Coruscant Alderaan Naboo Corellia Chandrila Lothal
+
+                # WarCraft
+                Lordaeron Andorhal Stratholme Stormwind
                 
                 # GTA
                 "San Fierro" "Los Santos"
@@ -884,6 +907,9 @@ ui_extra_human_extended = {
 
                 # Doctor Who
                 Gallifrey
+
+                # Others
+                Kizuna # Spiritual connection between each other in Japanese
             }
         }
         pc_ocean = {
@@ -921,6 +947,9 @@ ui_extra_human_extended = {
                 
                 # Movies / literature / etc
                 Hydros Thalassa
+
+                # Others
+                Namida # Tear in Japanese
             }
         }
         pc_tundra = {
