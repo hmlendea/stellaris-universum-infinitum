@@ -135,9 +135,9 @@ ui_starcraft_terran = {
         }
         assault_army = {
             random_names = {
-                "Thundering Third" Annihilators "Hammer Strike Force" "Torch Seven" "Iron Jesters" "Lost Wolves" "Brute Squad" "Death's Head Legion"
-                "Charlie Squad" "Heaven's Devils" "Hellbringers" "Cerberus Squad" "Shock Division" "Blackhammers" "Outback Hunters" "Bulwark Company"
-                "Field Response Theta" "Death Heads" "Prometheus Company" "Night Wolves" "Sky Fury Squadron" "War Pigs"
+                "Thundering Third" Annihilators "Hammer Strike Force" "Torch Seven" "Iron Jesters" "Lost Wolves" "Brute Squad" "Death's Head Legion" "Charlie Squad"
+                "Heaven's Devils" "Hellbringers" "Cerberus Squad" "Shock Division" "Blackhammers" "Outback Hunters" "Bulwark Company"  "Field Response Theta"
+                "Death Heads" "Prometheus Company" "Night Wolves" "Sky Fury Squadron" "War Pigs"
             }
             sequential_name = "%O% Ground Assault Division"
         }
