@@ -18,7 +18,6 @@ black_hole_names = {
     "Teleorman Black Hole"
     "Vampire's Fang"
     "Zamolxis Black Hole"
-    "
 
     ### Doctor Who ###
     "Black Hole of Tartarus"
@@ -505,103 +504,176 @@ star_names = {
     Praxillus
 
     ### Star Wars ###
+    "Boz Pity"
+    "Bright Jewel"
+    "Burnin Konn"
+    "Cato Neimoidia"
+    "Christophsis"
+    "Concord Dawn"
+    "Lola Sayu"
+    "Mon Calamari"
+    "Obroa-skai"
+    "Polis Massa"
+    "Reidi Artom"
+    "Sha Qarot"
+    "Tertiary Usaita"
+    Abelard
+    Abrion
+    Agoliba-Tu
     Ahakista
+    Ahlenn
+    Al-ghenis
+    Al'Moab
+    Albarrio
     Alderaan
+    Aldorus
+    Alzoc
+    Annaj
     Anoat
     Anthan
+    Aquilaean
     Arkanis
     Artiod
     Bardotta
     Bastatha
     Belderone
     Bespin
-    "Boz Pity"
-    "Burnin Konn"
+    Betthaine
+    Bith
     Calcoraan
     Carida
     Castell
-    "Cato Neimoidia"
-    "Christophsis"
-    Bith
-    "Concord Dawn"
+    Chommell
     Corellia
-    Ileenium
+    Dagmar
     Dagobah
-    Doran
     Dathomir
     Devaron
+    Doran
+    Drazkel
+    Elektra
     Endor
-    Salient
+    F'tzenr
+    Farfax
     Felucia
+    Fomalhaut
+    Forbidden
     Galidraan
     Garel
     Geonosis
+    Geric
     Gorse
+    Granicus
+    Hartaga
+    Hasmir
+    Herrik
+    Hortolo
     Hosnian
     Hoth
     Hudalla
+    Ileenium
     Ilum
-    Hasmir
     Ione
     Irudiru
     Ison
-    Ottega
     Jakku
+    Jalindi
+    Japrael
+    Jedha
     Kadavo
-    Mandalore
     Kallidah
     Kamino
+    Karlatt
     Kashyyyk
+    Kellis
+    Kellux
     Kessel
+    Kessil
+    Kinrah
     Kuat
+    Kubilai
     Kupoh
     Lasan
+    Lion
     Llanic
-    "Lola Sayu"
+    Lolet
     Lothal
     Malastare
+    Manakron
+    Mandalah
+    Mandalore
     Maridun
+    Marriten
     Mataou
+    Megalox
+    Mengal
+    Metensis
+    Mirial
     Mirrin
-    "Mon Calamari"
+    Mo'leaj
+    Mokivj
     Murkhana
     Mustafar
+    Muugrah
     Mykapo
     Naboo
-    Ubdur
-    Jedha
-    "Obroa-skai"
-    Japrael
-    "Bright Jewel"
+    Nilrebmah
+    Oetchi
+    Ophuchi
+    Ordali
+    Otomok
+    Ottega
     Pantora
+    Patagonia
+    Paucris
     Phindar
-    "Polis Massa"
+    Qalydon
     Quell
+    Radra
+    Rafa
     Raxus
+    Remduba
     Rishi
-    Tyrius
     Ruusan
     Ryloth
     Saleucami
-    Albarrio
+    Salient
     Seelos
+    Serob
     Sesid
-    "Sha Qarot"
+    Sice
+    Silenia
     Stygeon
     Sullust
+    Sunshi
+    Sylenia
+    Tabor
     Tatoo
+    Telaris
     Teth
     Theron
     Thustra
     Toydaria
+    Trebodar
+    Trindello
+    Trinith
+    Tyrius
+    Ubdur
     Umbara
     Utapau
     Uvoss
+    Vagadarr
+    Vandelae
     Vanqor
+    Velusia
     Vessek
+    Vyron
+    Warlentta
+    Winnikk
     Yarma
     Yavin
     Yost
+    Zaddja
 
     ### Stargate ###
     Adara
