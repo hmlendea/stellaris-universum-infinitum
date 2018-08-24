@@ -1,0 +1,347 @@
+### Universum Infinitum
+### Extras
+### Human - Asian (Chinese, Mongolian, Japanese, Korean, Indonesian, Malysian, Vietnamese, etc)
+
+ui_extra_human_extended = {
+    randomized = no
+
+    ship_names = {
+        generic = { }
+
+        corvette = {
+            # Vanilla HUMAN1 (only asian)
+            "Guru Baaje" "Hua Mulan" "Tomoe Gozen" Belawa Bong Cangjie Changdao Chaoyang Chokuto Dao Datong Guangxing Gurkha Haifeng Hailong Iwamoto Jian Jiangkun
+            Klewang Liuyedao Mandau Meihong Miaodao Mongol Niabor Nishizawa Odachi Parang Qiuxing Ronin Sakai Samurai Shikomizue Shinohara Soyokaze Tachi Taiyang
+            Taizhao Tsurugi Uchigatana Urumi Wakizashi Wodao Wulong Yangwei Yanmaodao Yinghao Yinxi Yongcheng Zhanmadao Zhengsheng
+        }
+        destroyer = {
+            # Vanilla HUMAN1 (only asian)
+            Bangkok Beijing Guangzhou Hanoi "Hong Kong" Jakarta Osaka Seoul Shanghai Singapore Tokyo Kyoto Chengdu Hangzhou Shaoxing Yokohama "Kuala Lumpur" 
+            Tapei Shenzhen Suzhou Dongguan Chongqing Changsha Wuhan Tianjin Foshan Zunyi Shantou Xi'an Zhengzhou Xiamen Quanzhou Busan Hefei Pyongyang
+            Zhongshan Wenzhou Kaohsiung Taichung Quito Chittagong
+            Daegu Nagoya Kobe Fukuoka Kawasaki
+        }
+        cruiser = {
+            # Vanilla HUMAN1 (only asian)
+            "Sun Tzu" "Yi Sun-sin" Heihachiro Subutai Nagato "Shi Lang" "Tran Hung Dao" "Khalkhin Gol" "Qin Shi Huang" Tamerlane "Genghis Khan"
+        }
+        battleship = {
+            # Vanilla HUMAN1 (only asian)
+            Yamato Tsushima Akira Musashi Yamamoto Akagi Kaga 
+
+            # Vanilla Commonwealth (only asian)
+            Katana
+        }
+        titan = { }
+        colossus = { }
+
+        constructor = {
+            # Vanilla HUMAN1 (only asian)
+            Mekong Yangtze
+        }
+        science = { }
+        colonizer = {
+            # Vanilla HUMAN1 (only asian)
+            Taiwan
+        }
+        transport = {
+            # Vanilla HUMAN1
+            Tarawa "Iwo Jima" Okinawa Inchon
+        }
+        
+        mining_station = { }
+        research_station = { }
+        observation_station = { }
+
+        starbase_outpost = {
+            sequential_name = "%O% Starbase"
+        }
+        starbase_starport = {
+            sequential_name = "%O% Starbase"
+        }
+        starbase_starhold = {
+            sequential_name = "%O% Starbase"
+        }
+        starbase_starfortress = {
+            sequential_name = "%O% Starbase"
+        }
+        starbase_citadel = {
+            sequential_name = "%O% Starbase"
+        }
+
+        military_station_small = {
+            # Vanilla HUMAN1 (only asian)
+            Tanaka Yonai
+        }
+        military_station_medium = {
+            # Vanilla HUMAN1 (only asian)
+            Tanaka Yonai
+        }
+        military_station_large = {
+            # Vanilla HUMAN1 (only asian)
+            Tanaka Yonai
+        }
+
+        ion_cannon = { }
+    }
+
+    ship_class_names = {
+        generic = {
+            # Real-world aircraft manufacturers
+            Changhe Harbin Hongdu Qingdao Sichuan Fuji GEN Kawasaki Mitsubishi AIDC
+        }
+
+        corvette = { }
+        destroyer = { }
+        cruiser = { }
+        battleship = { }
+        titan = { }
+
+        colossus = { }
+
+        constructor = { }
+        science = { }
+        colonizer = { }
+        transport = { }
+        
+        mining_station = { }
+        research_station = { }
+        observation_station = { }
+
+        starbase_outpost = { }
+        starbase_starport = { }
+        starbase_starhold = { }
+        starbase_starfortress = { }
+        starbase_citadel = { }
+
+        military_station_small = { }
+        military_station_medium = { }
+        military_station_large = { }
+
+        ion_cannon = { }
+    }
+
+    fleet_names = {
+        random_names = {
+            # Soldier types
+            "The Samurai Fleet"
+        }
+        sequential_name = "%O% Fleet"
+    }
+
+    army_names = {
+        defense_army = {
+            sequential_name = "%O% Planetary Guard"
+        }
+        assault_army = {
+            sequential_name = "%O% Expeditionary Force"
+        }
+
+        slave_army = {
+            sequential_name = "%O% Indentured Rifles"
+        }
+        clone_army = {
+            sequential_name = "%O% Clone Army"
+        }
+
+        robotic_army = { sequential_name = "%O% Hunter-Killer Group" }
+        robotic_defense_army = { sequential_name = "%O% Ground Defence Matrix" }
+        android_army = { sequential_name = "%O% Synthetic Rangers" }
+        android_defense_army = { sequential_name = "%O% Synthetic Sentinels" }
+
+        psionic_army = {
+            sequential_name = "%O% Psi Commando"
+        }
+        xenomorph_army = {
+            sequential_name = "%O% Bio-Warfare Division"
+        }
+        gene_warrior_army = {
+            random_names = {
+                # Vanilla Commonwealth (only asian)
+                "Experimental Unit 'Orochi'" "Experimental Unit 'Bakunawa'"
+            }
+            sequential_name = "%O% Bio-Engineered Squadron"
+        }
+    }
+
+    planet_names = {
+        generic = {
+            names = {
+                # Vanilla HUMAN1
+                Xianyang Wenzhou "Wang Tong" Nozomi Akatsuki
+                
+                # Generated (Markov)
+                Altanraat Angol Angye Annouchi Ansengel Ansunai Aridahua Aridaraoi Asaturuun Baatkhit Baatraat Bagacheon Bagakhan Bagaraha Bagasong Bamandal Baoyeong
+                Baruunhaba Baruunhar Baruunnokawa Baruunshui Baruuntooroi Baruunwara Battgon Batthidaka Bayanzawa Bigas Bijing Bikita Birabayan Birabuchi Biratama
+                Birayant Borbulag Borje Bormen Bortari Borxiang Bucheng Bugana Bulanryngol Bulbaek Bulfurano Bulkhorin Bulshaat Buramay Buturuun Buuttari Buutzawa
+                Buyant Chandsu Chandyeong Changhidaka Changkhangai Changsagaan Changyuan Cheomoto Cheotai Cheoyako Choichivlin Choigalant Choikita Choitai Choixing
+                Choiyong Chubetsu Chuluunbaek Chuluuntari Chuluunzawa Chundong Chungnobe Chungong Chungsaki Chunyeong Conggalant Congjinst Congshibetsu Congtoro
+                Danggaljuut Dangmandal Dangon Dangyant Dartoro Deldao Delkh Delshaat Dongkawa Dongsagaan Dulaanchon Dulaansagaan Enchang Enganuur Enhae Enkotan Enpo
+                Enraat Erchang Erturuun Erxiang Fengshu Fengvi Fuchaek Fugalan Fuhama Fujichivlin Fujihoroot Fukhet Funahoma Funatai Furuhaba Furusan Fushu Gakhlant
+                Gangganuur Gangkhangai Gangwara Gangzihua Gimhaba Guanggas Guangjin Guangkhan Guangwei Guigalan Guikonai Guiqihar Guiraoi Guishiri Gurvancheok Gurvanlig
+                Gurvansogt Gurvantsogt Gurvanxiang Guuganuur Guunokawa Gwageup Gwamamoto Gwanggaa Gwanggol Gwangkhit Gwangkonai Gwangping Gwangraha Gwangtont Gwasu
+                Gyeongkanai Gyeongkhan Gyeongmamoto Gyeongping Gyeongraha Haekawa Haemay Haesong Haeyama Hamkhlant Hamran Hangbaek Hangqihar Hanmatsunai Hanshir Hansong
+                Hashigata Hashigon Hashihaba Hashikhet Hayahaba Hayaneung Hengbulag Hengger Hengkumo Hengsagaan Hengtari Hoerfurano Hoershaat Hoerzuishan Honbetsu
+                Honlan Honshui Hontori Horogye Horonuur Horozou Huicheng Hyekotan Hyeqihar Hyezawa Ikchon Ikje Ikliang Iksong Ikturuun Iwagalan Iwahai Iwahoroot Iwaqiu
+                Iwasan Jamicheng Jamikhangai Jamikotan Jamisato Jamitooroi Jandong Janramay Jansagaan Jarga Jarsunai Jarwara Javgawa Javju Javnuur Javtari Javtooroi
+                Jeonchaek Jeondao Jeonmay Jeonsato Jeonseong Jeonzhou Jeraha Jeshina Jewang Jiangbulag Jiangchaek Jiangmani Jiaodene Jiaogol Jiaohae Jiaowang Jinbiro
+                Jincheng Kaebiro Kaeging Kaekita Kaekumo Kaeluut Kaeramay Kaeraoi Kaetai Kaeteeg Kaevi Kaeyako Kamisuhidaka Kamisukhorin Kamisunokawa Kamisusengel
+                Kamisushir Karagalan Karaqihar Kenging Kenneung Khadong Khairchang Khairdene Kharcheok Kharrao Kharyeong Kherchivlin Khergaa Kherjiang Kherkhir
+                Kherlengeup Kherlenmatsunai Kherlenyang Kherrano Khongaa Khonwon Khotzawa Khotzou Khugaa Khugana Khutont Khyalramoto Khyarkhet Kimobiro Kimogaa Kiyoluut
+                Kucheng Kumajinst Kumayuan Kumibuchi Kumichon Kumihidaka Kumitont Kumiyang Kuraha Kurineung Kurisaki Kurisato Kurohama Kuronagawa Kurosan Kuroyang
+                Kuyama Kuzubulag Kuzugor Kuzuhou Kuzukami Kuzumatsunai Kuzushihoro Kuzutori Liaodao Liaogalan Liaolig Liaonouchi Liaonuur Liaoping Malhoma Malpo Malwei
+                Matsugana Matsuraat Matsusato Meigana Meiliun Mianliang Mianramoto Minachang Minagor Minakhangai Minasengel Miyahae Miyakhaan Miyakhangai Miyalan
+                Miyarano Mudanshihoro Mudanteeg Munghua Mungmoto Mungseong Mungshiri Mutsuganuur Mutsugas Mutsumani Mutsuyant Naga Nagaga Nagahoroot Nagajiang Nagakanai
+                Nagasato Nakanai Nakaneung Namgaa Namlin Nanhou Nankonai Nanwon Nanyako Nanzhou Narajin Narakhet Naranhou Narankotan Narantori Naratoro Narawon
+                Nogoonliun Nogoonnan Nogoontori Nomchong Nomsaki Nomshihoro Nomshir Nomyang Nomzihua Nonchon Nonchong Nonmamoto Nonmen Okubetsu Okucheon Okumamoto
+                Okushiri Onhua Onkhon Onkumo Onshaat Onshibetsu Onshiri Orjinst Panlan Panrao Pantsogt Pingging Pingsato Pochun Pyongdong Pyongmandal Pyongnokawa
+                Pyongyuan Qigaa Qigaljuut Qiliang Qinbaek Qingsong Qingsu Qinkh Qinkhir Qinkonai Qinkotan Qinouchi Qinshibetsu Qinturuun Qisengel Qisogt Quangalant
+                Quansaki Quanserleg Quantooroi Qudene Quhidaka Qukhangai Rahae Rahua Ralan Rangas Ransengel Raraoi Razhou Sachon Saiging Saisai Sakhir Salkhet Sallig
+                Salserleg Salsu Samgat Samgong Samjin Samnai Samshiri Samyeong Sanan Sarigas Sarigawa Sarinai Sarixiang Sasu Seochang Shakochivlin Shakogawa Shakomaki
+                Shanbuchi Shangdao Shanhae Shaoqihar Shaosu Shaoyang Shargaljuut Sharkh Sharkhan Sharshiri Sharyncho Sharynguan Shibetsu Shikhangai Shimahou Shimamaki
+                Shimamen Shinan Shinehai Shinelan Shinexiang Shinlan Shinqihar Shinraat Shinshui Shiragol Shiyama Shizuichaek Shizuiwang Shizuiyako Shizuiyong Sintari
+                Sinuisong Sinuisunai Sinuitoro Sokgaa Sokjiang Soksai Soktong Sokxiang Sokzaki Souyako Suhoro Sumay Sunging Sunhung Sunkhan Sunkhorin Sunshibetsu
+                Sunshina Sunyako Sushui Suyant Taidene Taigaa Taigat Takadene Takahoro Tangawa Tangyeong Tanhoro Tannai Tariagata Tariager Tariahoro Tariakhon Tariamen
+                Tariatsukawa Tatechong Tatejiang Tateraoi Tatesaki Tawabuchi Tawarabaek Tawaragaa Tawarahar Tawaranagawa Tawaranobe Tengdong Tengnai Tokrano Tokshan
+                Tongbetsu Touchun Tougong Touhung Toukotan Toulan Tsengana Tsenpo Uicho Uikh Uinobe Uitooroi Uitoro Ulaanhou Ulaankanai Ulaannouchi Ulaanran Ulaansato
+                Ulaanturuun Urabayan Urashina Watabaek Watadene Wataje Wataseong Watawara Wonjinst Wonkhir Wonnagawa Wonshu Xiangga Xianghoroot Xiangkhir Xianglin
+                Xiangsan Xiangsong Xiangtoro Xiangyuan Xiankhangai Xianliun Xiannai Xiannan Xingas Xingye Xinhar Xinmani Xinraha Xinsu Xuanmamoto Xubayan Yahacheok
+                Yahagong Yahakita Yahashibetsu Yahashina Yahashiri Yajiang Yakubayan Yakubetsu Yakugor Yakuhoro Yakukhlant Yakukita Yakushihoro Yakutong Yaliun Yamayama
+                Yangbulag Yangsai Yangtont Yeochun Yeodong Yeofurano Yeogaljuut Yeotsukawa Yeowon Yokohou Yokokh Yokolig Yokotooroi Yuanchong Yuanging Yuankawa
+                Yuankonai Yuanmen Yuecheng Yuedong Yuegawa Yuekami Yuesunai Yuewang Yugagalan Yugahaba Yugahoroot Yugakhaan Yuganan Zhaotori Zhaowara Zhenbuchi
+                Zhenneung Zhenraha Zhongchaek Zhonggaa Zhonghai Zhongmaki Zhongtsukawa Zhougol Zhourano Zhouyuan Zoabetsu Zoakami Zoapo Zoaqiu Zoazaki Zuunchong
+                Zuunchun Zuunkhorin Zuunmoto Zuunturuun
+            }
+        }
+        pc_desert = {
+            names = {
+                # Regions of Earth
+                Gobi
+            }
+        }
+        pc_arid = { }
+        pc_tropical = { }
+        pc_continental = {
+            names = {
+                # Vanilla HUMAN1 (only asian)
+                Kongzi "Tian Yi" "Wu Ding" Zheng "Gao Zu" Tokugawa Oda Toyotomi
+                
+                # The Elder Scrolls
+                Akavir Tsaesci
+            }
+        }
+        pc_gaia = {
+            names = {
+                # Vanilla HUMAN1 (only asian)
+                Shambhala Xanadu Shangri-La
+                
+                # Others
+                Kizuna # Spiritual connection between each other in Japanese
+            }
+        }
+        pc_ocean = {
+            names = {
+                # Vanilla HUMAN1
+                Ningbo
+                
+                # Others
+                Namida # Tear in Japanese
+            }
+        }
+        pc_tundra = {
+            names = {
+                # Vanilla HUMAN1 (only asian)
+                Taiyuan
+            }
+        }
+        pc_arctic = { }
+        pc_nuked = {
+            names = {
+                # Devastated places on Earth
+                Nagasaki Hiroshima Fukushima
+            }
+        }
+        pc_savannah = { }
+        pc_alpine = {
+            names = {
+                # Places from Earth
+                Himalaya Sagarmatha Chomolungma
+            }
+        }
+        pc_molten = {
+            names = {
+                # Biblic/mythological settlements, places, etc
+                Diyu Yomi
+            }
+        }
+        pc_barren = { }
+        pc_asteroid = { }
+    }
+    
+    ### CHARACTERS
+
+    character_names = {
+
+        # Languages should have a weight equal to the rounded down percentage of its native speakers out of all the implemented ones
+        # Statistics should be taken from Wikipedia. Weight should not be lower than 1.
+
+        ###############################
+        # CHINESE
+        ###############################
+        names1 = {
+            weight = 88
+
+            first_names_male = {
+                An Bao Bo Cai Cheng De Dong Feng Gang Guo Hu Hui Jian Jie Kang Li Liang Long Meng Ning Peng Qiang Shi Song Tao Tian Wei
+                You Yong Yi Xiong Wu
+            }
+            first_names_female = {
+                Ai Bi Cui Chan Dai Dan Fang Hong Hua Huan Jiao Ju Juan Lan Lian Lin Mei Na Ni Qian Qiao Qing Shan Shu Ting Wen Xia Xian
+                Xiang Xiu Xue Yan Ying Yu Yuan Yun Zhen Zhi Zhu Zi
+            }
+            second_names = {
+                Liang Luo Kuang Lu Zheng Lin Xu Xie Wang Zhu Yang Mao Shen Hu Tan He Deng Wu Cheng Gao Wan Kong Pan Sima Zhuge Ouyang
+                Situ Huang Zhao Zhang
+            }
+            regnal_first_names_male = {
+                You Yong Yi Xiong Wu Feng Gang Guo Hu Hui
+            }
+            regnal_first_names_female = {
+                Ai Bi Lian Lin Mei Na Ni Xiu Xue Yan Ying Yu Yuan
+            }
+            regnal_second_names = {
+                Wang Zhu Yang
+            }
+        }
+
+        ###############################
+        # JAPANESE
+        ###############################
+        names2 = {
+            weight = 12
+
+            first_names_male = {
+                Hiroto Hikaru Takumi Tsubasa Ren Minato Shota Yuuto Sota Yuma Takeru Rikuto Tatsuki Ryuto Haru Yushin Kosei Yoshinobu
+                Jiro Hiroshi Yoshida Mitsue Keisuke Saburo Junichi Yoshi Koshiro Kentaro Koichiro
+            }
+            first_names_female = {
+                Haruna Sakura Misaki Aoi Mihane Miyu Rin Nanami Yui Hina Honoka Riko Yuna Koharu Hinata Mei Saki Ichika Hiyori Yusuki
+                Shiori Natsuki Ayane Kaho Hana Momoka Himari Yume Aomame Noriko Kazumi Kimiko
+            }
+            second_names = {
+                Sato Suzuki Takahashi Tanaka Watanabe Ito Nakamura Kobayashi Yamamoto Kato Yoshida Yamada Sasaki Yamaguchi Matsumoto
+                Inoue Kimura Shimizu Hayashi Saito Yamazaki Nakajima Mori Abe Ikeda Hashimoto Ishikawa Yamashita Ogawa Ishii Hasegawa
+                Goto Okada Fujita Sakamoto Murakami Nishimura Nakagawa Harada Okamoto Miura Takaya Amano Higuchi Ota
+            }
+            regnal_first_names_male = {
+                Teruhito Nekuhiko Mimatsuhiko Anaho Hironari Norinaga
+            }
+            regnal_first_names_female = {
+                Nukatabe Toyomike Takara Niinomi Hidaka Takama Okiko Toshiko
+            }
+            regnal_second_names = {
+                "no Mikoto" Sumeramikoto Otomo Suijin Mononobe Yamato
+            }
+        }
+    }
+}
