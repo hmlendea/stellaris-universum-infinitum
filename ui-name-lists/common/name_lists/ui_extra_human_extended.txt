@@ -574,7 +574,7 @@ ui_extra_human_extended = {
                 "Delta Company" "Elite Guard" "Aegis Guard"
                 
                 # New
-                "Praetorian Guard" "The Minuteman"
+                "Praetorian Guard" "The Minutemen"
             }
             sequential_name = "%O% Planetary Guard"
         }
@@ -591,8 +591,11 @@ ui_extra_human_extended = {
                 "The Dogs" "The Rose Riders" "The Great Army" "The Maroon Martyrs" "The Fire Battalion" "The Crimson Cloud" "The Eclipse" "The Punishers"
                 "The Hellfire Squad" "The New Order" "The Saints" "The Silver Soldiers" "The Cataclysm Corps" "Crimson Corps" "Vanquisher Corps"
                 
+                # From media
+                "The Expendables"
+                
                 # New
-                "Easy Company" "The Lightbringers"
+                "Easy Company" "The Lightbringers" "The Battle Royales"
             }
             sequential_name = "%O% Expeditionary Force"
         }
@@ -847,6 +850,9 @@ ui_extra_human_extended = {
                 # Countries, cities, regions, etc
                 "New Vegas" "New Jerusalem" "New Troy" "Nuevo Madrid" Nevada Cyrene
                 
+                # A Song of Ice and Fire
+                Dorne Sunspear
+                
                 # GTA
                 "Las Venturas"
                 
@@ -1008,6 +1014,9 @@ ui_extra_human_extended = {
                 # Biblic/mythological settlements, places, etc
                 Diluvia Noah "The Ark"
                 
+                # A Song of Ice and Fire
+                Blazewater
+                
                 # Age of Mythology
                 Arkantos
                 
@@ -1051,13 +1060,18 @@ ui_extra_human_extended = {
                 Braxis "Onuru Sigma" Anselm "Planet Christmas" Saluset Zenn
 
                 # New
-                Anchorage Glacia Whitehaven Snowball Whiterose
+                Anchorage Glacia Whitehaven Snowball Whiterose "North Star" Aurora Borealis
                 
                 # The Elder Scrolls (settlements, places)
                 Solstheim Atmora Sovengarde
                 
+                # Frostpunk
+                Frostpunk Winterhome Frostfire
+                
                 # StarWars
                 Carlac Akuria Pelorum
+                # A Song of Ice and Fire
+                Frostfang
                 
                 # Galactik Football
                 Akillian
@@ -1123,6 +1137,9 @@ ui_extra_human_extended = {
                 # Puzzle Pirates (Island names)
                 Charcoal Yorrick
                 
+                # A Song of Ice and Fire
+                Skyreach Runestone
+                
                 # RuneScape
                 Burthrope Taverley
 
@@ -1130,7 +1147,7 @@ ui_extra_human_extended = {
                 Grayditch
 
                 # The Elder Scrolls
-                "High Rock" Jerall Anthor Wrothgar
+                Anthor "High Hrothgar" "High Rock" Jerall Wrothgar
             }
         }
         pc_molten = {
