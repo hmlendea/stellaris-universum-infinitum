@@ -5,7 +5,7 @@ ui_trait_urban = {
     allowed_archetypes = { BIOLOGICAL }
     
     modifier = {
-        tile_resource_food_mult = -0.15
+        planet_jobs_food_produces_mult = -0.15
     }
 }
 
@@ -14,7 +14,7 @@ ui_trait_uneconomical = {
     opposites = { "trait_thrifty" }
     
     modifier = {
-        tile_resource_energy_mult = -0.15
+        planet_jobs_energy_produces_mult = -0.15
     }
 }
 
@@ -25,7 +25,7 @@ ui_trait_lazy = {
     allowed_archetypes = { BIOLOGICAL }
     
     modifier = {
-        tile_resource_minerals_mult = -0.15
+        planet_jobs_minerals_produces_mult = -0.15
     }
 }
 
@@ -36,9 +36,9 @@ ui_trait_dumb = {
     allowed_archetypes = { BIOLOGICAL }
     
     modifier = {
-        tile_resource_engineering_research_mult = -0.1
-        tile_resource_physics_research_mult = -0.1
-        tile_resource_society_research_mult = -0.1
+        planet_jobs_engineering_research_produces_mult = -0.1
+        planet_jobs_physics_research_produces_mult = -0.1
+        planet_jobs_society_research_produces_mult = -0.1
     }
 }
 
@@ -49,7 +49,7 @@ ui_trait_poor_engineers = {
     allowed_archetypes = { BIOLOGICAL }
     
     modifier = {
-        tile_resource_engineering_research_mult = -0.15
+        planet_jobs_engineering_research_produces_mult = -0.15
     }
 }
 
@@ -60,7 +60,7 @@ ui_trait_poor_physicists = {
     allowed_archetypes = { BIOLOGICAL }
     
     modifier = {
-        tile_resource_physics_research_mult = -0.15
+        planet_jobs_physics_research_produces_mult = -0.15
     }
 }
 
@@ -71,7 +71,7 @@ ui_trait_poor_sociologists = {
     allowed_archetypes = { BIOLOGICAL }
     
     modifier = {
-        tile_resource_society_research_mult = -0.15
+        planet_jobs_society_research_produces_mult = -0.15
     }
 }
 
@@ -126,7 +126,7 @@ ui_trait_deceitful = {
     allowed_archetypes = { BIOLOGICAL }
     
     modifier = {
-        country_resource_influence_add = 1
+        country_influence_produces_mult = 0.1
     }
 }
 
@@ -137,7 +137,7 @@ ui_trait_trusting = {
     allowed_archetypes = { BIOLOGICAL }
     
     modifier = {
-        country_resource_influence_add = -1
+        country_influence_produces_mult = -0.1
     }
 }
 
@@ -196,7 +196,7 @@ ui_trait_light_eaters = {
     allowed_archetypes = { BIOLOGICAL }
   
     modifier = {
-        pop_food_req_mult = -0.10
+        planet_pops_organics_food_upkeep_mult = -0.10
     }
 }
 
@@ -207,7 +207,7 @@ ui_trait_gluttonous = {
     allowed_archetypes = { BIOLOGICAL }
   
     modifier = {
-        pop_food_req_mult = 0.10
+        planet_pops_organics_food_upkeep_mult = 0.10
     }
 }
 

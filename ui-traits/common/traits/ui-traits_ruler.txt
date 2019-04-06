@@ -5,7 +5,7 @@ ui_trait_ruler_backroom_backstabber = {
         NOT = { from = { has_ethic = "ethic_hive_mind" } }
     }
     modifier = {
-        country_resource_influence_add = 1.25
+        country_influence_produces_mult = 0.25
         pop_government_ethic_attraction = 0.05
     }
     leader_trait = yes
