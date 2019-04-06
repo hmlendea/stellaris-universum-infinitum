@@ -37,17 +37,16 @@ ui_extra_human_spqr_extended = {
         }
         
         corvette = {
-            # Vanilla HUMAN3 (SPQR)
-			Lartius Flavus Aulus Postumius Albus Regillensis Manius Valerius Volusus Maximus Gaius Aemilius Mamercus Lucius Quinctius Cincinnatus Quintus Servilius
-			Priscus Structus Fidenas Tubertus Publius Cornelius Rutilus Cossus Marcus Furius Camillus Capitolinus Manlius Appius Pennus Crispinus Ahala Sulpicius
-			Peticus Marcius Imperiosus Torquatus Julius Iulus Ambustus Poplicola Corvus Crassus Philo Privernas Rufinus Papirius Varus Gnaeus Marcellus Cursor Arvina
-			Lentulus Rullianus Poetilius Visolus Longus Junius Bubulcus Brutus Hortensius Caecus Barbula Calvinus Domitius Fulvius Centumalus Ogulnius Glicia Atilius
-			Calatinus Coruncanius Duilius Caecilius Metullus Verrucosus Veturius Pera Fabius Buteo Centho Flaccus Livius Scaeva Salinator Geminus Drusus Spurius
-			Cassius Viscellinus Aebutius Elva Sempronius Atratinus Mamercinus Scapula Natta Servius Maluginensis Plautius Proculus Scipio Denter Hortator Potitus
-			Antonius Albinus Paetus Foslius Flaccinator Cerretanus Decius Titinius Paullus Philippus Laetorius Plancianus Cotta Numerius Flaminius Minucius Pomponius
-			Gracchus Metellus Pulex Velox Acutus Ensatus Erosus Excelsus Ingratus Lancea Magnus Nitidus Ophis Sanctus Verrucosus Virosus Ferox Merus Pulcher Currus
-			Malleus Spina Accipiter Anguis Apis Aquila Corvus Leo Lupus Papilio Passer Strix Ursus Vespa Viverra Vulpes Sagittarii Scutum Parma Cetra Dolabra
-			Tribulus
+            # >>> From: Vanilla HUMAN3 (SPQR)
+            Accipiter Acutus Aebutius Aemilius Ahala Albinus Albus Ambustus Anguis Antonius Apis Appius Aquila Arvina Atilius Atratinus Aulus Barbula Brutus Bubulcus
+            Buteo Caecilius Caecus Calatinus Calvinus Camillus Capitalinus Cassius Centho Centumalus Cerretanus Cetra Cincinnatus Cornelius Coruncanius Corvus
+            Cossus Cotta Crassus Crispinus Currus Cursor Decius Denter Dolabra Domitius Drusus Duilius Elva Ensatus Erosus Excelsus Fabius Ferox Fidenas Flaccinator
+            Flaccus Flaminius Flavus Foslius Fulvius Furius Gaius Geminus Glicia Gnaeus Gracchus Hortator Hortensius Imperiosus Ingratus Iulus Julius Junius Laetorius
+            Lancea Lartius Lentulus Leo Livius Longus Lucius Lupus Magnus Malleus Maluginensis Mamercinus Mamercus Manius Manlius Marcellus Marcius Marcus Maximus Merus
+            Metellus Metullus Minucius Natta Nitidus Numerius Ogulnius Ophis Paetus Papilio Papirius Parma Passer Paullus Pennus Pera Peticus Philippus Philo Plancianus
+            Plautius Poetilius Pomponius Poplicola Postumius Potitus Priscus Privernas Proculus Publius Pulcher Pulex Quinctius Quintus Regillensis Rufinus Rullianus
+            Rutilus Sagittarii Salinator Sanctus Scaeva Scapula Scipio Scutum Sempronius Servilius Servius Spina Spurius Strix Structus Sulpicius Titinius Torquatus
+            Tribulus Tubertus Ursus Valerius Varus Velox Verrucosus Vespa Veturius Virosus Viscellinus Visolus Viverra Volusus Vulpes
 		}
         destroyer = {
             # Vanilla SPQR

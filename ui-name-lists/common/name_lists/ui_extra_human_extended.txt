@@ -43,52 +43,50 @@ ui_extra_human_extended = {
         
         corvette = {
             # >>> From: Vanilla Human
-            "Crazy Horse" "Dakshin Rai" "Grey Wolf" "Guru Baaje" "Hua Mulan" "Jeanne Hachette" "John Henry" "John Paul Jones"
-            "Juan Valdivia" "King Cobra" "King Fish" "Paul Bunyan" "Reuben James" "Rodger Young" "Running Eagle" "Shaka Zulu"
-            "Shooting Star" "Sitting Bull" "Tiger Shark" "Tomoe Gozen" "Van Lierde" "William Tell" Aardvark Abhay Accentor Acinaces
-            Acorn Adder Adler Agustina Akshay Akula Albatross Alligator Anaconda Andraste Antelope Apache Armadillo Arrowhead Asp
-            Atalanta Avocet Aztec Badb Badger Balao Baracca Bass Beagle Bearcat Belawa Bishop Blackhawk Bloodhound Bong Boudica 
-            Boyington Brumowski Brunhild Buffalo Bulldog Buzzard Caldwell Camel Cangjie Cantacuzino Cardinal Cataphract Chameleon 
-            Changdao Chaoyang Cheetah Chokuto Clorinda Clostermann Cobra Condor Coppens Cordelia Cormorant Cossack Costaguana Cougar 
-            Coyote Dao Datong Dervish Dingo Doblestnyi Dolphin Doolittle Dragonfly Dromedary Druid Eagle Elephant Esfandiar Ethelfleda 
-            Falcata Falcon Ferret Firangi Firecrest Firefly Flyssa Fonck Fox Fulmar Gari Garuda Gato Gazelle Glowworm Gordafarid 
-            Goshawk Greyhound Grizzly Guangxing Gurkha Gwendolen Gwenllian Haddock Haifeng Hailong Harrier Hartmann Hawk Hellcat 
-            Hiawatha Highlander Hippolyta Hoplite Iguana Iwamoto Jackal Jackdaw Jaguar Janissary Jian Jiangkun Juutilainen Kampilan 
-            Kangaroo Kaskara Kastane Kazakov Kestrel Khanda Khopesh Kilij Kingfisher Klewang Kodiak Kopis Kozhedub Krabi Ladybird 
-            Lafayette Leopard Lion Litvyak Liuyedao Lizard Lynx Macana Macha MacLachlan Macuahuitl Madoc Makhaira Malalai Mandau 
-            Mannock Matador McAuliffe McCampbell Meihong Miaodao Minx Mitralexis Mohawk Mongol Mongoose Morrigan Mosquito Muirisc 
-            Musketeer Mölders Narwhal Niabor Nicator Nighthawk Nightingale Nimcha Nishizawa Nostromo Novikov O'Hare Ocelot Odachi Orca
-            Orff Osprey Panabas Panther Papillon Parang Parthian Pata Patrician Peacock Pelican Penguin Penthesilea Petrel Pharaoh 
-            Piranha Platypus Polecat Porcupine Puma Python Qiuxing Rajput Rana Ranvir Rattlesnake Raven Redeemer Rhomphaia Ribiera 
-            Richthofen Rickenbacker Ronin Rostam Sakai Salamander Samurai Saracen Sardine Scathach Scorpion Seahorse Sealion Semiramis
-            Shamshir Shark Shashka Shestakov Shikomizue Shinohara Shotel Shrike Sica Skalski Skua Skylark Smilodon Soobrazitelny 
-            Soyokaze Soyuz Sparrow Sparrowhawk Sphinx Spider Starfish Steregushchiy Stingray Stork Sturgeon Sulaco Sultan Surik 
-            Swordfish Tachi Taiyang Taizhao Takoba Talwar Tancred Tapir Teuta Thachn Tiger Tomahawk Tomcat Toreador Tsurugi Uchigatana
-            Uhlan Urumi Vandal Viking Vulture Wakizashi Walrus Whippet Wildcat Wodao Wolverine Wulong Yangwei Yanmaodao Yatagan Yeager
-            Yennenga Yinghao Yinxi Yongcheng Yuenü Zhanmadao Zhengsheng Zulu
+            "Crazy Horse" "Dakshin Rai" "Grey Wolf" "Guru Baaje" "Hua Mulan" "Jeanne Hachette" "John Henry" "John Paul Jones" "Juan Valdivia" "King Cobra"
+            "King Fish" "Paul Bunyan" "Reuben James" "Rodger Young" "Running Eagle" "Shaka Zulu" "Shooting Star" "Sitting Bull" "Tiger Shark" "Tomoe Gozen"
+            "Van Lierde" "William Tell" Aardvark Abhay Accentor Acinaces Acorn Adder Adler Agustina Akshay Akula Albatross Alligator Anaconda Andraste Antelope
+            Apache Armadillo Arrowhead Asp Atalanta Avocet Aztec Badb Badger Balao Baracca Barracuda Bass Beagle Bearcat Belawa Bishop Blackhawk Bloodhound Bong
+            Boudica Boyington Brumowski Brunhild Buffalo Bulldog Buzzard Caldwell Camel Cangjie Cantacuzino Cardinal Cataphract Chameleon Changdao Chaoyang
+            Cheetah Chokuto Clorinda Clostermann Cobra Condor Coppens Cordelia Cormorant Cossack Costaguana Cougar Coyote Dao Datong Dervish Dingo Doblestnyi
+            Dolphin Doolittle Dragonfly Dristigheten Dromedary Druid Eagle Elephant Esfandiar Ethelfleda Falcata Falcon Ferret Firangi Firecrest Firefly Flyssa
+            Fonck Fox Fulmar Gari Garuda Gato Gazelle Glowworm Gordafarid Goshawk Greyhound Grizzly Guangxing Gurkha Gwendolen Gwenllian Haddock Haifeng Hailong
+            Harrier Hartmann Hawk Hellcat Hiawatha Highlander Hippolyta Hoplite Iguana Iwamoto Jackal Jackdaw Jaguar Janissary Jian Jiangkun Juutilainen Kampilan
+            Kangaroo Kaskara Kastane Kazakov Kearsarge Kestrel Khanda Khopesh Kilij Kingfisher Klewang Kodiak Kopis Kozhedub Krabi Ladybird Lafayette Leopard
+            Lion Litvyak Liuyedao Lizard Lynx MacLachlan Macana Macha Macuahuitl Madoc Makhaira Malalai Mandau Mannock Matador McAuliffe McCampbell Meihong
+            Miaodao Mitralexis Mohawk Mongol Mongoose Morrigan Mosquito Muirisc Musketeer Mölders Narwhal Niabor Nicator Nighthawk Nightingale Nimcha Nishizawa
+            Nostromo Novikov O'Hare Ocelot Odachi Olds Orca Orff Osprey Panabas Panther Papillon Parang Parthian Pata Patrician Peacock Pelican Penguin
+            Penthesilea Petrel Pharaoh Piranha Platypus Polecat Porcupine Puma Python Qiuxing Rajput Rana Ranvir Rattlesnake Raven Redeemer Rhomphaia Ribiera
+            Richthofen Rickenbacker Ronin Rostam Sakai Salamander Samurai Saracen Sardine Scathach Scorpion Seahorse Sealion Semiramis Shamshir Shark Shashka
+            Shestakov Shikomizue Shinohara Shotel Shrike Sica Skalski Skua Skylark Smilodon Soobrazitelny Soyokaze Soyuz Sparrow Sparrowhawk Sphinx Spider
+            Starfish Steregushchiy Stingray Stork Sturgeon Sulaco Sultan Surik Swordfish Tachi Taiyang Taizhao Takoba Talwar Tancred Tapir Teuta Thach Tiger
+            Tomahawk Tomcat Toreador Tsurugi Uchigatana Uhlan Urumi Vandal Viking Vulture Wakizashi Walrus Whippet Wildcat Wodao Wolverine Wulong Yangwei
+            Yanmaodao Yatagan Yeager Yennenga Yinghao Yinxi Yongcheng Yuenü Zhanmadao Zhengsheng Zulu
+
+            # >>> From: Vanilla Human (Removed ones)
+            Minx
             
             # >>> From: Vanilla Human Commonwealth
-            Agile Archer Arrow Bruiser Cherub Chimera Claymore Broadsword Battleaxe Cutlass Deterrent Errant Faithful Fierce Gladius Grappler Hammer Vampire Velox
-            Venator Vendetta Venerable Venomous Taciturn Supreme Success Shredder Seraph Serpent Spitfire Stalker Stratagem Scimitar Scorcher Scourge Scythe Revenant
-            Redoubtable Raptor Reaver Prodigal Rapier Prudent Persistent Peerless Myrmidon Indignant Javelin Knight Starwolf Bonaventure Adventure Boxer Buccaneer
-            Cavalier Celestial Chariot Comet Crucible Cyclone Decisive Dexterous Diadem Earnest Eclipse Forger Fortune Gauntlet Griffin Horizon Hotspur Hurricane
-            Hussar Jubilant Lancer Lightning Magic Mediator Mermaid Meteor Minstrel Miranda Mustang Sharpshooter Mystic Naiad Nautilus Nebula Nimble "North Star"
-            Nymph Obdurate Ocean Onward Oracle Paradox Paragon Pearl Peregrine Perseverance Marksman Rifleman Sniper Maelstrom Lucidity Berserker Brigand Celerity
-            Cudgel Cuirass Growler Incubus Prowler Fury Fireball Dart Falchion Spadroon Longsword Bolo Spatha Xiphos Mirage Snapper Firebrand Ambuscade "Ad Astra"
-            Attack Buckler Conquest Domino Gemini Glaive Halberd Harpy Kite Petard Regal Reprise Skirmisher Sprite Succubus Tisiphone Alecto Megaera Troubadour
-            Balladeer Bard Cannonball Horatius Rampart Serenader Dirk Epee Glimmer Cockatrice
+            "Ad Astra" "North Star" Adventure Agile Alecto Ambuscade Archer Arrow Attack Balladeer Bard Battleaxe Berserker Bolo Bonaventure Boxer Brigand
+            Broadsword Bruiser Buccaneer Buckler Cannonball Cavalier Celerity Celestial Chariot Cherub Chimera Claymore Cockatrice Comet Conquest Crucible
+            Cudgel Cuirass Cutlass Cyclone Dart Decisive Deterrent Dexterous Diadem Dirk Domino Earnest Eclipse Epee Errant Faithful Falchion Fierce Fireball
+            Firebrand Forger Fortune Fury Gauntlet Gemini Gladius Glaive Glimmer Grappler Griffin Growler Halberd Hammer Harpy Horatius Horizon Hotspur
+            Hurricane Hussar Incubus Indignant Javelin Jubilant Kite Knight Lancer Lightning Longsword Lucidity Maelstrom Magic Marksman Mediator Megaera
+            Mermaid Meteor Minstrel Mirage Miranda Mustang Myrmidon Mystic Naiad Nautilus Nebula Nimble Nymph Obdurate Ocean Onward Oracle Paradox Paragon
+            Pearl Peerless Peregrine Perseverance Persistent Petard Prodigal Prowler Prudent Rampart Rapier Raptor Reaver Redoubtable Regal Reprise Revenant
+            Rifleman Scimitar Scorcher Scourge Scythe Seraph Serenader Serpent Sharpshooter Shredder Skirmisher Snapper Sniper Spadroon Spatha Spitfire Sprite
+            Stalker Starwolf Stratagem Success Succubus Supreme Taciturn Tisiphone Troubadour Vampire Velox Venator Vendetta Venerable Venomous Xiphos
             
             # >>> From: Vanilla HUMAN3 (SPQR)
-            Lartius Flavus Aulus Postumius Albus Regillensis Manius Valerius Volusus Maximus Gaius Aemilius Mamercus Lucius Quinctius Cincinnatus Quintus Servilius
-            Priscus Structus Fidenas Tubertus Publius Cornelius Rutilus Cossus Marcus Furius Camillus Capitolinus Manlius Appius Pennus Crispinus Ahala Sulpicius
-            Peticus Marcius Imperiosus Torquatus Julius Iulus Ambustus Poplicola Corvus Crassus Philo Privernas Rufinus Papirius Varus Gnaeus Marcellus Cursor Arvina
-            Lentulus Rullianus Poetilius Visolus Longus Junius Bubulcus Brutus Hortensius Caecus Barbula Calvinus Domitius Fulvius Centumalus Ogulnius Glicia Atilius
-            Calatinus Coruncanius Duilius Caecilius Metullus Verrucosus Veturius Pera Fabius Buteo Centho Flaccus Livius Scaeva Salinator Geminus Drusus Spurius
-            Cassius Viscellinus Aebutius Elva Sempronius Atratinus Mamercinus Scapula Natta Servius Maluginensis Plautius Proculus Scipio Denter Hortator Potitus
-            Antonius Albinus Paetus Foslius Flaccinator Cerretanus Decius Titinius Paullus Philippus Laetorius Plancianus Cotta Numerius Flaminius Minucius Pomponius
-            Gracchus Metellus Pulex Velox Acutus Ensatus Erosus Excelsus Ingratus Lancea Magnus Nitidus Ophis Sanctus Verrucosus Virosus Ferox Merus Pulcher Currus
-            Malleus Spina Accipiter Anguis Apis Aquila Corvus Leo Lupus Papilio Passer Strix Ursus Vespa Viverra Vulpes Sagittarii Scutum Parma Cetra Dolabra
-            Tribulus
+            Accipiter Acutus Aebutius Aemilius Ahala Albinus Albus Ambustus Anguis Antonius Apis Appius Aquila Arvina Atilius Atratinus Aulus Barbula Brutus Bubulcus
+            Buteo Caecilius Caecus Calatinus Calvinus Camillus Capitalinus Cassius Centho Centumalus Cerretanus Cetra Cincinnatus Cornelius Coruncanius Corvus
+            Cossus Cotta Crassus Crispinus Currus Cursor Decius Denter Dolabra Domitius Drusus Duilius Elva Ensatus Erosus Excelsus Fabius Ferox Fidenas Flaccinator
+            Flaccus Flaminius Flavus Foslius Fulvius Furius Gaius Geminus Glicia Gnaeus Gracchus Hortator Hortensius Imperiosus Ingratus Iulus Julius Junius Laetorius
+            Lancea Lartius Lentulus Leo Livius Longus Lucius Lupus Magnus Malleus Maluginensis Mamercinus Mamercus Manius Manlius Marcellus Marcius Marcus Maximus Merus
+            Metellus Metullus Minucius Natta Nitidus Numerius Ogulnius Ophis Paetus Papilio Papirius Parma Passer Paullus Pennus Pera Peticus Philippus Philo Plancianus
+            Plautius Poetilius Pomponius Poplicola Postumius Potitus Priscus Privernas Proculus Publius Pulcher Pulex Quinctius Quintus Regillensis Rufinus Rullianus
+            Rutilus Sagittarii Salinator Sanctus Scaeva Scapula Scipio Scutum Sempronius Servilius Servius Spina Spurius Strix Structus Sulpicius Titinius Torquatus
+            Tribulus Tubertus Ursus Valerius Varus Velox Verrucosus Vespa Veturius Virosus Viscellinus Visolus Viverra Volusus Vulpes
             
             # StarWars
             "Millenium Falcon"
