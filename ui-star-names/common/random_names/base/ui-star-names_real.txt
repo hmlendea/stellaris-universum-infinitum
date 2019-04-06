@@ -15,4 +15,3 @@ star_names = {
 nebula_names = {
     "Lagoon Nebula"
 }
-

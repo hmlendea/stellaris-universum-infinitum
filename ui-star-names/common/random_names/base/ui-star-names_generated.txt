@@ -1000,4 +1000,3 @@ star_names = {
     Zerutur
     Zorampos
 }
-
