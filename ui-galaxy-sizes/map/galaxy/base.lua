@@ -8,10 +8,7 @@ countries = {
 }
 
 fallen_empires = {
-    num = 5,
-    ideal_sq_dist_between = 30625,
-    min_sq_dist_between = 15625,
-    max_military_fleet_count = 5,
-    ships_per_fleet = 3,
+    ideal_sq_dist_between = 15625,
+    min_sq_dist_between = 5625
 }
 
