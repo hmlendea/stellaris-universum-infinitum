@@ -1,21 +1,18 @@
 NGameplay = {
-    ANOMALY_SPAWN_CHANCE        = 0.035 # 140% of the default value (0.025)
+    ANOMALY_SPAWN_CHANCE        = 0.075 # 150% of the default value (0.050)
 
     MATURE_GALAXY_NAVY_SIZE     = 0.50  # Half of the default value (1.0)
     ADVANCED_GALAXY_NAVY_SIZE   = 0.25  # A quarter of the default value (1.0)
     
-    COMMAND_LIMIT_MAX           = 75    # A third+ of the default value (200)
+    COMMAND_LIMIT_MAX           = 165   # A third of the default value (500)
     COMMAND_LIMIT_BASE          = 5     # A third of the default value (20)
     
-    NAVAL_CAPACITY_MAX          = 250   # A quarter of the default value (1000)
+    NAVAL_CAPACITY_MAX          = 300   # default value (9999)
     NAVAL_CAPACITY_BASE         = 5     # A quarter of the default value (20)
-    NAVAL_CAPACITY_POP_MULT     = 0.025 # A quarter of the default value (0.1)
-    
-    STARBASE_CAPACITY_MAX       = 100   # Double the default value (50)
 }
 
 NSpecies = {
-    ENERGY_MAINTENANCE_MUL  = 0.01  # Double the default value (0.005)
-    MINERAL_MAINTENANCE_MUL = 0.02  # Double the default value (0.010)
+    ENERGY_MAINTENANCE_MUL  = 0.010  # Double the default value (0.005)
+    MINERAL_MAINTENANCE_MUL = 0.020  # Double the default value (0.010)
 }
 
