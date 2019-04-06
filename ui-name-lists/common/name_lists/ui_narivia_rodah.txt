@@ -27,6 +27,7 @@ ui_narivia_rodah = {
         constructor = { }
         science = { }
         colonizer = { }
+        sponsored_colonizer = { }
         transport = { }
         
         mining_station = { }
@@ -94,21 +95,49 @@ ui_narivia_rodah = {
     }
 
     army_names = {
-        assault_army = { sequential_name = "%O% Usurpers" }
-        defense_army = { sequential_name = "%O% Watchers" }
+        assault_army = {
+            sequential_name = "%O% Usurpers"
+        }
+        defense_army = {
+            sequential_name = "%O% Watchers"
+        }
+        occupation_army = {
+            sequential_name = "%0% Garrison Force"
+        }
 
-        slave_army = { sequential_name = "%O% Slave Horde" }
-        clone_army = { sequential_name = "%O% Replicated Warriors" }
+        slave_army = {
+            sequential_name = "%O% Slave Horde"
+        }
+        clone_army = {
+            sequential_name = "%O% Replicated Warriors"
+        }
 
-        robotic_army = { sequential_name = "%O% Destroyers" }
-        robotic_defense_army = { sequential_name = "%O% Turrets" }
+        robotic_army = {
+            sequential_name = "%O% Destroyers"
+        }
+        robotic_defense_army = {
+            sequential_name = "%O% Turrets"
+        }
+        robotic_occupation_army = {
+            sequential_name = "%0% Iron Garrison"
+        }
 
-        android_army = { sequential_name = "%O% Synth Usurpers" }
-        android_defense_army = { sequential_name = "%O% Synth Watchers" }
+        android_army = {
+            sequential_name = "%O% Synth Usurpers"
+        }
+        android_defense_army = {
+            sequential_name = "%O% Synth Watchers"
+        }
 
-        psionic_army = { sequential_name = "%O% Blessed Ones" }
-        xenomorph_army = { sequential_name = "%O% Abomination Pack" }
-        gene_warrior_army = { sequential_name = "%O% Alpha Warriors" }
+        psionic_army = {
+            sequential_name = "%O% Blessed Ones"
+        }
+        xenomorph_army = {
+            sequential_name = "%O% Abomination Pack"
+        }
+        gene_warrior_army = {
+            sequential_name = "%O% Alpha Warriors"
+        }
     }
 
     planet_names = {

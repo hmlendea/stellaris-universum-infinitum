@@ -99,6 +99,9 @@ ui_extra_human_spqr_extended = {
             Achaea Belgica Germania Africa Aegyptus Anatolia Arabia Ariana Asia Britannia Caledonia Cilicia Gallia Dacia Cyrenaica Cambria Graecia Hispania Illyria
             Italia Libya Lusitania
         }
+        sponsored_colonizer = {
+            
+        }
         transport = {
             # Vanilla SPQR
             Legionarius Aeneator Aquilifer Bucinator Cornicen Draconarius Signifer Tablifer Tubicen Vexillarius
@@ -187,21 +190,42 @@ ui_extra_human_spqr_extended = {
     }
 
     army_names = {
-        defense_army = { sequential_name = "Limitanei %R%" }
-        assault_army = { sequential_name = "Legio %R%" }
+        defense_army = {
+            sequential_name = "Limitanei %R%"
+        }
+        assault_army = {
+            sequential_name = "Legio %R%"
+        }
+        occupation_army = {
+            sequential_name = "Cohort Vigilum %R%"
+        }
 
-        slave_army = { sequential_name = "Auxilia %R%" }
-        clone_army = { sequential_name = "Clonandi %R%" }
+        slave_army = {
+            sequential_name = "Auxilia %R%"
+        }
+        clone_army = {
+            sequential_name = "Clonandi %R%"
+        }
 
-        robotic_army = { sequential_name = "Robotum %R%" }
-        robotic_defense_army = { sequential_name = "Limitanei Robotum %R%" }
+        robotic_army = {
+            sequential_name = "Robotum %R%"
+        }
+        robotic_defense_army = {
+            sequential_name = "Limitanei Robotum %R%"
+        }
+        robotic_occupation_army = {
+            sequential_name = "Robotum Vigilum %R%"
+        }
 
-        android_army = { sequential_name = "Robotum Superior %R%" }
-        android_defense_army = { sequential_name = "Limitanei Robotum Superior %R%" }
-
-        psionic_army = { sequential_name = "Legio Psychica %R%" }
-        xenomorph_army = { sequential_name = "Bestia Auxilia %R%" }
-        gene_warrior_army = { sequential_name = "Legio Praetoriae %R%" }
+        psionic_army = {
+            sequential_name = "Legio Psychica %R%"
+        }
+        xenomorph_army = {
+            sequential_name = "Bestia Auxilia %R%"
+        }
+        gene_warrior_army = {
+            sequential_name = "Legio Praetoriae %R%"
+        }
     }
 
     planet_names = {

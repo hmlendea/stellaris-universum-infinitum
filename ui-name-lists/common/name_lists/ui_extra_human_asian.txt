@@ -44,6 +44,10 @@ ui_extra_human_asian = {
             # Vanilla HUMAN1 (only asian)
             Taiwan
         }
+        sponsored_colonizer = {
+            # Vanilla HUMAN1 (only asian)
+            Taiwan
+        }
         transport = {
             # Vanilla HUMAN1
             Tarawa "Iwo Jima" Okinawa Inchon
@@ -126,6 +130,9 @@ ui_extra_human_asian = {
         assault_army = {
             sequential_name = "%O% Expeditionary Force"
         }
+        occupation_army = {
+            sequential_name = "%0% Garrison Force"
+        }
 
         slave_army = {
             sequential_name = "%O% Indentured Rifles"
@@ -134,10 +141,15 @@ ui_extra_human_asian = {
             sequential_name = "%O% Clone Army"
         }
 
-        robotic_army = { sequential_name = "%O% Hunter-Killer Group" }
-        robotic_defense_army = { sequential_name = "%O% Ground Defence Matrix" }
-        android_army = { sequential_name = "%O% Synthetic Rangers" }
-        android_defense_army = { sequential_name = "%O% Synthetic Sentinels" }
+        robotic_army = {
+            sequential_name = "%O% Hunter-Killer Group"
+        }
+        robotic_defense_army = {
+            sequential_name = "%O% Ground Defence Matrix"
+        }
+        robotic_occupation_army = {
+            sequential_name = "%0% Mechanised Garrison"
+        }
 
         psionic_army = {
             sequential_name = "%O% Psi Commando"

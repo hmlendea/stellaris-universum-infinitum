@@ -34,6 +34,7 @@ ui_dnd_kobold = {
         constructor = { }
         science = { }
         colonizer = { }
+        sponsored_colonizer = { }
         transport = { }
         
         mining_station = { }
@@ -107,21 +108,42 @@ ui_dnd_kobold = {
     }
 
     army_names = {
-        assault_army = { sequential_name = "%O% Assault Warband" }
-        defense_army = { sequential_name = "%O% Guardian Sentinels" }
+        assault_army = {
+            sequential_name = "%O% Assault Warband"
+        }
+        defense_army = {
+            sequential_name = "%O% Guardian Sentinels"
+        }
+        occupation_army = {
+            sequential_name = "%0% Garrison Force"
+        }
 
-        slave_army = { sequential_name = "%O% Slave Warband" }
-        clone_army = { sequential_name = "%O% Clone Warband" }
+        slave_army = {
+            sequential_name = "%O% Slave Warband"
+        }
+        clone_army = {
+            sequential_name = "%O% Clone Warband"
+        }
 
-        robotic_army = { sequential_name = "%O% Robotic Warband" }
-        robotic_defense_army = { sequential_name = "%O% Robotic Sentinels" }
+        robotic_army = {
+            sequential_name = "%O% Robotic Warband"
+        }
+        robotic_defense_army = {
+            sequential_name = "%O% Robotic Sentinels"
+        }
+        robotic_occupation_army = {
+            sequential_name = "%0% Robotic Garrison"
+        }
 
-        android_army = { sequential_name = "%O% Droid Warband" }
-        android_defense_army = { sequential_name = "%O% Droid Warband" }
-
-        psionic_army = { sequential_name = "%O% Sorcerer Warband" }
-        xenomorph_army = { sequential_name = "%O% Beast Warband" }
-        gene_warrior_army = { sequential_name = "%O% Gene-Enhanced Warband" }
+        psionic_army = {
+            sequential_name = "%O% Sorcerer Warband"
+        }
+        xenomorph_army = {
+            sequential_name = "%O% Beast Warband"
+        }
+        gene_warrior_army = {
+            sequential_name = "%O% Gene-Enhanced Warband"
+        }
     }
 
     planet_names = {

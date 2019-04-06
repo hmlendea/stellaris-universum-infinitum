@@ -25,6 +25,7 @@ ui_extra_fun1 = {
         constructor = { }
         science = { }
         colonizer = { }
+        sponsored_colonizer = { }
         transport = { }
         
         mining_station = { }
@@ -111,21 +112,42 @@ ui_extra_fun1 = {
     }
 
     army_names = {
-        defense_army = { sequential_name = "%O% Defence Spores" }
-        assault_army = { sequential_name = "%O% Assault Spores" }
+        defense_army = {
+            sequential_name = "%O% Defence Spores"
+        }
+        assault_army = {
+            sequential_name = "%O% Assault Spores"
+        }
+        occupation_army = {
+            sequential_name = "%0% Garrison Spores"
+        }
 
-        slave_army = { sequential_name = "%O% Chained Regiment" }
-        clone_army = { sequential_name = "%O% Clone Platoon" }
+        slave_army = {
+            sequential_name = "%O% Chained Regiment"
+        }
+        clone_army = {
+            sequential_name = "%O% Clone Platoon"
+        }
 
-        robotic_army = { sequential_name = "%O% Mechanized Spore Host" }
-        robotic_defense_army = { sequential_name = "%O% Mechanized Spore Host" }
+        robotic_army = {
+            sequential_name = "%O% Mechanized Spore Host"
+        }
+        robotic_defense_army = {
+            sequential_name = "%O% Mechanized Spore Host"
+        }
+        robotic_occupation_army = {
+            sequential_name = "%0% Mechanized Garrison"
+        }
 
-        android_army = { sequential_name = "%O% Cyberfungi" }
-        android_defense_army = { sequential_name = "%O% Cyberfungi" }
-
-        psionic_army = { sequential_name = "%O% Psi Host" }
-        xenomorph_army = { sequential_name = "%O% Sporemorphs" }
-        gene_warrior_army = { sequential_name = "%O% Storm Caps" }
+        psionic_army = {
+            sequential_name = "%O% Psi Host"
+        }
+        xenomorph_army = {
+            sequential_name = "%O% Sporemorphs"
+        }
+        gene_warrior_army = {
+            sequential_name = "%O% Storm Caps"
+        }
     }
 
     planet_names = {

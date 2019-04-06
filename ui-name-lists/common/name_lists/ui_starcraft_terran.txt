@@ -32,6 +32,9 @@ ui_starcraft_terran = {
         colonizer = {
             Nagglfar Argo
         }
+        sponsored_colonizer = {
+            Nagglfar Argo
+        }
         transport = {
             Daisy Hydrus Cormorant
         }
@@ -141,15 +144,26 @@ ui_starcraft_terran = {
             }
             sequential_name = "%O% Ground Assault Division"
         }
+        occupation_army = {
+            sequential_name = "%0% Garrison Force"
+        }
 
-        slave_army = { sequential_name = "%O% Indentured Rifles" }
-        clone_army = { sequential_name = "%O% Clone Division" }
+        slave_army = {
+            sequential_name = "%O% Indentured Rifles"
+        }
+        clone_army = {
+            sequential_name = "%O% Clone Division"
+        }
 
-        robotic_army = { sequential_name = "%O% Hunter-Killer Group" }
-        robotic_defense_army = { sequential_name = "%O% Hunter-Killer Group" }
-
-        android_army = { sequential_name = "%O% Synthetic Rangers" }
-        android_defense_army = { sequential_name = "%O% Synthetic Rangers" }
+        robotic_army = {
+            sequential_name = "%O% Hunter-Killer Group"
+        }
+        robotic_defense_army = {
+            sequential_name = "%O% Hunter-Killer Group"
+        }
+        robotic_occupation_army = {
+            sequential_name = "%0% Hunter-Killer Garrison"
+        }
 
         psionic_army = {
             random_names = {

@@ -40,6 +40,7 @@ ui_extra_pla1 = {
 
         colonizer = {
         }
+        sponsored_colonizer = { }
 
         constructor = {
         }
@@ -74,15 +75,16 @@ ui_extra_pla1 = {
         defense_army = {
             sequential_name = "%O% Defence Roots"
         }
-
         assault_army = {
             sequential_name = "%O% Assault Spines"
+        }
+        occupation_army = {
+            sequential_name = "%0% Garrison Force"
         }
 
         slave_army = {
             sequential_name = "%O% Chained Weeds"
         }
-
         clone_army = {
             sequential_name = "%O% Cloned Seeds"
         }
@@ -90,19 +92,19 @@ ui_extra_pla1 = {
         robotic_army = {
             sequential_name = "%O% Iron Roses"
         }
-
-        android_army = {
-            sequential_name = "%O% Synthetic Roses"
+        occupation_defense_army = {
+            sequential_name = "%0% Iron Shield"
+        }
+        occupation_occupation_army = {
+            sequential_name = "%0% Iron Garrison"
         }
 
         psionic_army = {
             sequential_name = "%O% Psychic Roses"
         }
-
         xenomorph_army = {
             sequential_name = "%O% Weedmorphs Swarm"
         }
-
         gene_warrior_army = {
             sequential_name = "%O% Augmented Roses"
         }

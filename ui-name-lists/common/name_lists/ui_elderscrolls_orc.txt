@@ -27,6 +27,7 @@ ui_extra_art1 = {
         constructor = { }
         science = { }
         colonizer = { }
+        sponsored_colonizer = { }
         transport = { }
         
         mining_station = { }
@@ -101,20 +102,42 @@ ui_extra_art1 = {
     }
 
     army_names = {
-        defense_army = { sequential_name = "%O% Colony Shields" }
-        assault_army = { sequential_name = "%O% Warrior Clan" }
+        defense_army = {
+            sequential_name = "%O% Colony Shields"
+        }
+        assault_army = {
+            sequential_name = "%O% Warrior Clan"
+        }
+        occupation_army = {
+            sequential_name = "%0% Garrison Clan"
+        }
         
-        slave_army = { sequential_name = "%O% Thrall Cohort" }
-        clone_army = { sequential_name = "%O% Clone Cohort" }
+        slave_army = {
+            sequential_name = "%O% Thrall Cohort"
+        }
+        clone_army = {
+            sequential_name = "%O% Clone Cohort"
+        }
         
-        robotic_army = { sequential_name = "%O% Iron Fists" }
-        robotic_defense_army = { sequential_name = "%O% Automated Shields" }
-        android_army = { sequential_name = "%O% Synthetic Fists" }
-        android_defense_army = { sequential_name = "%O% Synthetic Shields" }
+        robotic_army = {
+            sequential_name = "%O% Iron Fists"
+        }
+        robotic_defense_army = {
+            sequential_name = "%O% Automated Shields"
+        }
+        robotic_occupation_army = {
+            sequential_name = "%0% Automated Garrison"
+        }
         
-        psionic_army = { sequential_name = "%O% Psi Squad" }
-        xenomorph_army = { sequential_name = "%O% Glowing Ones" }
-        gene_warrior_army = { sequential_name = "%O% Enhanced Warriors" }
+        psionic_army = {
+            sequential_name = "%O% Psi Squad"
+        }
+        xenomorph_army = {
+            sequential_name = "%O% Glowing Ones"
+        }
+        gene_warrior_army = {
+            sequential_name = "%O% Enhanced Warriors"
+        }
     }
 
     planet_names = {

@@ -23,6 +23,7 @@ ui_elderscrolls_argonian = {
         constructor = { }
         science = { }
         colonizer = { }
+        sponsored_colonizer = { }
         transport = { }
         
         mining_station = { }
@@ -90,21 +91,42 @@ ui_elderscrolls_argonian = {
     }
 
     army_names = {
-        defense_army = { sequential_name = "%O% Homeland Security" }
-        assault_army = { sequential_name = "%O% Battlecats" }
+        defense_army = { 
+            sequential_name = "%O% Homeland Security"
+        }
+        assault_army = {
+            sequential_name = "%O% Battlecats"
+        }
+        occupation_army = {
+            sequential_name = "%0% Garrison Force"
+        }
 
-        slave_army = { sequential_name = "%O% Enslaved Conscripts" }
-        clone_army = { sequential_name = "%O% Clone Batch" }
+        slave_army = {
+            sequential_name = "%O% Enslaved Conscripts"
+        }
+        clone_army = {
+            sequential_name = "%O% Clone Batch"
+        }
 
-        robotic_army = { sequential_name = "%O% Automatic Warriors" }
-        robotic_defense_army = { sequential_name = "%O% Automatic Defenders" }
+        robotic_army = {
+            sequential_name = "%O% Automatic Warriors"
+        }
+        robotic_defense_army = {
+            sequential_name = "%O% Automatic Defenders"
+        }
+        robotic_occupation_army = {
+            sequential_name = "%0% Automatic Garrison"
+        }
 
-        android_army = { sequential_name = "%O% Synthetic Warriors" }
-        android_defense_army = { sequential_name = "%O% Synthetic Defenders" }
-
-        psionic_army = { sequential_name = "%O% Telepathic Ops" }
-        xenomorph_army = { sequential_name = "%O% Hybrid Pack" }
-        gene_warrior_army = { sequential_name = "%O% Augmented Warriors" }
+        psionic_army = {
+            sequential_name = "%O% Telepathic Ops"
+        }
+        xenomorph_army = {
+            sequential_name = "%O% Hybrid Pack"
+        }
+        gene_warrior_army = {
+            sequential_name = "%O% Augmented Warriors"
+        }
     }
 
     planet_names = {

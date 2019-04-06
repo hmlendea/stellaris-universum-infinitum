@@ -35,6 +35,7 @@ ui_extra_mam1 = {
         battleship = { }
         science = { }
         colonizer = { }
+        sponsored_colonizer = { }
         constructor = { }
 
         mining_station = { }
@@ -57,15 +58,16 @@ ui_extra_mam1 = {
         defense_army = {
             sequential_name = "%O% Defence Force"
         }
-
         assault_army = {
             sequential_name = "%O% Mobile Troops"
+        }
+        occupation_army = {
+            sequential_name = "%0% Garrison Squadron"
         }
 
         slave_army = {
             sequential_name = "%O% Conscripts"
         }
-
         clone_army = {
             sequential_name = "%O% Clone Troops"
         }
@@ -73,19 +75,19 @@ ui_extra_mam1 = {
         robotic_army = {
             sequential_name = "%O% Droid Legion"
         }
-
-        android_army = {
-            sequential_name = "%O% Synth Troops"
+        robotic_defense_army = {
+            sequential_name = "%0% Droid Shields"
+        }
+        robotic_occupation_army = {
+            sequential_name = "%0% Droid Garrison"
         }
 
         psionic_army = {
             sequential_name = "%O% Psionic Troops"
         }
-
         xenomorph_army = {
             sequential_name = "%O% Xenomorph Brood"
         }
-
         gene_warrior_army = {
             sequential_name = "%O% Augmented Troops"
         }

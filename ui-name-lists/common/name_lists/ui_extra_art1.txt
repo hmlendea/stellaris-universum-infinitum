@@ -27,6 +27,7 @@ ui_extra_art1 = {
         constructor = { }
         science = { }
         colonizer = { }
+        sponsored_colonizer = { }
         transport = { }
         
         mining_station = { }
@@ -113,20 +114,42 @@ ui_extra_art1 = {
     }
 
     army_names = {
-        defense_army = { sequential_name = "%O% Colony Guard" }
-        assault_army = { sequential_name = "%O% Invader Swarm" }
+        defense_army = {
+            sequential_name = "%O% Colony Guard"
+        }
+        assault_army = {
+            sequential_name = "%O% Invader Swarm"
+        }
+        occupation_army = {
+            sequential_name = "%0% Invasion Nest"
+        }
         
-        slave_army = { sequential_name = "%O% Thrall Swarm" }
-        clone_army = { sequential_name = "%O% Clone Swarm" }
+        slave_army = {
+            sequential_name = "%O% Thrall Swarm"
+        }
+        clone_army = {
+            sequential_name = "%O% Clone Swarm"
+        }
         
-        robotic_army = { sequential_name = "%O% Iron Swarm" }
-        robotic_defense_army = { sequential_name = "%O% Iron Swarm" }
-        android_army = { sequential_name = "%O% Synthetic Swarm" }
-        android_defense_army = { sequential_name = "%O% Synthetic Swarm" }
+        robotic_army = {
+            sequential_name = "%O% Iron Swarm"
+        }
+        robotic_defense_army = {
+            sequential_name = "%O% Iron Swarm"
+        }
+        robotic_occupation_army = {
+            sequential_name = "%0% Iron Nest"
+        }
         
-        psionic_army = { sequential_name = "%O% Psychic Swarm" }
-        xenomorph_army = { sequential_name = "%O% Mutant Swarm" }
-        gene_warrior_army = { sequential_name = "%O% Elite Swarm" }
+        psionic_army = {
+            sequential_name = "%O% Psychic Swarm"
+        }
+        xenomorph_army = {
+            sequential_name = "%O% Mutant Swarm"
+        }
+        gene_warrior_army = {
+            sequential_name = "%O% Elite Swarm"
+        }
     }
 
     planet_names = {

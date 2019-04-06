@@ -34,6 +34,7 @@ ui_extra_rep3 = {
         battleship = { }
         science = { }
         colonizer = { }
+        sponsored_colonizer = { }
         constructor = { }
 
         mining_station = { }
@@ -85,15 +86,42 @@ ui_extra_rep3 = {
 
     ### ARMIES
     army_names = {
-        defense_army        = { sequential_name = "%O% Lair Guard" }
-        assault_army        = { sequential_name = "%O% Predator Host" }
-        slave_army          = { sequential_name = "%O% Enslaved Horde" }
-        clone_army          = { sequential_name = "%O% Clone Cohort" }
-        robotic_army        = { sequential_name = "%O% Iron Legion" }
-        android_army        = { sequential_name = "%O% AI Legion" }
-        psionic_army        = { sequential_name = "%O% Psi Commando" }
-        xenomorph_army      = { sequential_name = "%O% Xenomorph Band" }
-        gene_warrior_army   = { sequential_name = "%O% Elite Commando" }
+        defense_army        = {
+            sequential_name = "%O% Lair Guard"
+        }
+        assault_army        = {
+            sequential_name = "%O% Predator Host"
+        }
+        occupation_army = {
+            sequential_name = "%0% Garrison Host"
+        }
+
+        slave_army          = {
+            sequential_name = "%O% Enslaved Horde"
+        }
+        clone_army          = {
+            sequential_name = "%O% Clone Cohort"
+        }
+
+        robotic_army        = {
+            sequential_name = "%O% Iron Legion"
+        }
+        robotic_defense_army = {
+            sequential_name = "%0% Iron Guard"
+        }
+        robotic_occupation_army = {
+            sequential_name = "%0% Iron Garrison"
+        }
+
+        psionic_army        = {
+            sequential_name = "%O% Psi Commando"
+        }
+        xenomorph_army      = {
+            sequential_name = "%O% Xenomorph Band"
+        }
+        gene_warrior_army   = {
+            sequential_name = "%O% Elite Commando"
+        }
     }
 
     ### PLANETS
