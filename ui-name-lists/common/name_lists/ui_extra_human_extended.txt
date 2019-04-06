@@ -88,7 +88,7 @@ ui_extra_human_extended = {
             Rutilus Sagittarii Salinator Sanctus Scaeva Scapula Scipio Scutum Sempronius Servilius Servius Spina Spurius Strix Structus Sulpicius Titinius Torquatus
             Tribulus Tubertus Ursus Valerius Varus Velox Verrucosus Vespa Veturius Virosus Viscellinus Visolus Viverra Volusus Vulpes
             
-            # StarWars
+            # >>> From: UI - StarWars - Human
             "Millenium Falcon"
             
             # New
@@ -178,7 +178,7 @@ ui_extra_human_extended = {
             Fulminata Liberatrix Fortis Venator Felix Firma Rapax Constantia Salutis Virtutis Caper Taurus Centaurus Aper Pegasus Ops Dacicus Olivus Asclepius
             Perseus Satyra Particus Tibur Pollux Salvia Sol Isis Castor Armata Salamina Rhenus Tigris Oceanus Eufrates Danubius Nilus Athenonix
 
-            # >>> From: UI Human StarCraft
+            # >>> From: UI - StarCraft - Terran
             Victory
         }
         battleship = {
@@ -206,7 +206,7 @@ ui_extra_human_extended = {
             Carinus Diocletian Maximian Constantius Galerius Severus Constantine Maxentius Licinius Constans Vetranio Julian Jovian Valentinian Valens Gratian
             Theodosius Sulla "Gaius Marius" Agrippa
 
-            # >>> From: UI Human StarCraft
+            # >>> From: UI - StarCraft - Terran
             Hyperion Norad Cyrus Bucephalus Scion Hephaestus Palatine Victory Medusa Herakles "White Star" "Emperor's Fury" Hoosier Tahoe "Gray Tiger" Fury Cerberus
             Helios Ragnorak Metis "Thunder Child" Meleager Amphitrite Phobos Titan Circe "Iron Justice" Merrimack Jackson Eos "Huey Long" Antigone "Iron Fist"
             Patroclus Aeneas "Theodore G. Bilbo" Bismarck Napoleon "Dark Skies" "Jackson's Revenge" "Valor of Vardona" "Kimeran Juggernaut" Kimera Aethon
@@ -226,7 +226,7 @@ ui_extra_human_extended = {
             # >>> From: Vanilla Human SPQR
             "Julius Caesar" "Imperator Augustus" Romulus Remus Trajan
             
-            # >>> From: UI Human StarCraft
+            # >>> From: UI - StarCraft - Terran
             Loki Aleksander
         }
         colossus = {
@@ -273,7 +273,7 @@ ui_extra_human_extended = {
             Plinius Acoreus Adrastus Hyginus Gallus Pytheas Diodorus Posidonius Anaximander Callippus Hephaestio Ptolemy Alypius Mucianus Isidore Strabo
             "Pomponius Mela" Marinus Pausanias Agathodaemon Dionysius Agathemerus Marcian "Julius Honorius" "Polemius Silvius"
             
-            # >>> From: UI Human StarCraft
+            # >>> From: UI - StarCraft - Terran
             Brin Amerigo
 
             # New
@@ -293,7 +293,7 @@ ui_extra_human_extended = {
             Achaea Belgica Germania Africa Aegyptus Anatolia Arabia Ariana Asia Britannia Caledonia Cilicia Gallia Dacia Cyrenaica Cambria Graecia Hispania Illyria
             Italia Libya Lusitania
             
-            # >>> From: UI Human StarCraft
+            # >>> From: UI - StarCraft - Terran
             Nagglfar Argo
 
             # Countries, cities, regions, etc
@@ -318,32 +318,32 @@ ui_extra_human_extended = {
             # >>> From: Vanilla Human SPQR
             Legionarius Aeneator Aquilifer Bucinator Cornicen Draconarius Signifer Tablifer Tubicen Vexillarius
 
-            # >>> From: UI Human StarCraft
+            # >>> From: UI - StarCraft - Terran
             Daisy Hydrus Cormorant
         }
         
         mining_station = {
-            # >>> From: UI Human StarCraft
+            # >>> From: UI - StarCraft - Terran
             Sakrysta Shi Sorona Revelation Avernus "Char Aleph" Erebus Scrap
             
-            # StarWars
+            # >>> From: UI - StarCraft - Terran
             Arah "Firebase Alpha" "Nallera's Mining Field" "H-5 70" "CMC-A14" Peragus "Void Anvil"
         }
         research_station = {
-            # >>> From: UI Human StarCraft
+            # >>> From: UI - StarCraft - Terran
             "Skygeirr Platform" "Castanar Installation" Prometheus "Immortal Forge"
+            
+            # >>> From: UI - StarWars - Human
+            Youst
             
             # Fallout
             "Helios One"
-            
-            # StarWars
-            Youst
         }
         observation_station = { }
 
         starbase_outpost = {
             random_names = {
-                # >>> From: UI Human StarCraft
+                # >>> From: UI - StarCraft - Terran
                 Dylar
 
                 "Far Reach" Watchtower Sphered Influential Assertion SPACERAD "Watchful Eye" Sentinel Demarcator "Frontier Finalizer"
@@ -389,7 +389,7 @@ ui_extra_human_extended = {
             # >>> From: Vanilla Human SPQR
             Gladius Spiculum Verutum Lancea Pugio Spatha Hasta Plumbata
         
-            # >>> From: UI Human StarCraft
+            # >>> From: UI - StarCraft - Terran
             "Sky Shield" Gemini Nova "Horley Barton" "Theta Prime" "Catwalk Alley" "Osborne Port" "Waypoint Junction"
         }
         military_station_medium = {
@@ -400,7 +400,7 @@ ui_extra_human_extended = {
             Cunningham Jellicoe Hipper Beatty Potemkin Durham Codrington Milne Laforey Tyler Hawke Yonai Pound King Crutchley Mountbatten Kountouriotis Kuznetsov
             Essen Kornilov Suffren Treville Villeneuve Grasse Byng Lezo
 
-            # >>> From: UI Human StarCraft
+            # >>> From: UI - StarCraft - Terran
             "New Gettysburg" Crusader "Sigma Centari" "Paladino Terminal" Proxima Nimbus Gutterhulk
         }
         military_station_large = {
@@ -411,7 +411,7 @@ ui_extra_human_extended = {
             Cunningham Jellicoe Hipper Beatty Potemkin Durham Codrington Milne Laforey Tyler Hawke Yonai Pound King Crutchley Mountbatten Kountouriotis Kuznetsov
             Essen Kornilov Suffren Treville Villeneuve Grasse Byng Lezo
 
-            # >>> From: UI Human StarCraft
+            # >>> From: UI - StarCraft - Terran
             Gehanna "The Keep"
         }
 
@@ -433,6 +433,9 @@ ui_extra_human_extended = {
             
             # >>> From: UI Human Extra Asian - Real-world aircraft manufacturers
             Changhe Harbin Hongdu Qingdao Sichuan Fuji GEN Kawasaki Mitsubishi AIDC
+            
+            # >>> From: UI - StarWars - Human
+            Bengel
 
             # Real-world aircraft manufacturers
             Boeing Airbus "Lockheed Martin" Raytheon Safran "Rolls-Royce" Orbital "Thales Alenia" AeroAstro Amsat
@@ -444,10 +447,7 @@ ui_extra_human_extended = {
             # Nations
             American German French Italian Spanish British English Scottish Irish Belgian Dutch Norwegian Swedish Polish Romanian 
             Bulgarian Hungarian Moldovan Czech Croatian Serbian Bosnian Slovakian Slovenian Ukrainian Lithuanian Estonian Latvian 
-            European African Asian Chinese Japanese Korean Russian Greek Turkish Mexican Canadian Australian Zeelandian Thai 
-            
-            # StarWars
-            Bengel
+            European African Asian Chinese Japanese Korean Russian Greek Turkish Mexican Canadian Australian Zeelandian Thai
             
             # Memes
             Nyan Kekistani
@@ -457,10 +457,10 @@ ui_extra_human_extended = {
             # >>> From: UI Human SPQR
             Lembus Liburna
 
-            # >>> From: UI Human StarCraft
+            # >>> From: UI - StarCraft - Terran
             Avenger Wraith Viking Valkyrie Banshee
             
-            # StarWars
+            # >>> From: UI - StarWars - Human
             TIE
         }
         destroyer = {
@@ -475,7 +475,7 @@ ui_extra_human_extended = {
             # >>> From: UI Human SPQR
             Septireme Octeres Enneres Deceres
 
-            # >>> From: UI Human StarCraft
+            # >>> From: UI - StarCraft - Terran
             Leviathan Behemoth Hercules Minotaur Gorgon Starcruiser "Pride of Augustgrad" Hurricane Moirai Sovereign
 
             # New
@@ -487,7 +487,7 @@ ui_extra_human_extended = {
 
         constructor = { }
         science = {
-            # >>> From: UI Human StarCraft
+            # >>> From: UI - StarCraft - Terran
             Kurzweil Explorer
         }
         colonizer = {
@@ -498,7 +498,7 @@ ui_extra_human_extended = {
             # >>> From: UI Human SPQR
             Hemiolia
 
-            # >>> From: UI Human StarCraft
+            # >>> From: UI - StarCraft - Terran
             Mammoth Cyrus Gladiator Hydrus
 
             # Real-world aircraft manufacturers
@@ -524,7 +524,7 @@ ui_extra_human_extended = {
 
     fleet_names = {
         random_names = {
-            # >>> From: UI Human StarCraft
+            # >>> From: UI - StarCraft - Terran
             "Alpha Squadron" "Gamma Squadron" "Delta Squadron" "Epsilon Squadron" "Rho Squadron" "Zeta Squadron" "Omega Squadron"
 
             "The Solar Sails" "Pale Blue Dots" "The Blue Stars" "Lightning Stars" "Shooting Stars" "Ethereal Fleet" "Void Stars"
@@ -571,7 +571,7 @@ ui_extra_human_extended = {
     army_names = {
         defense_army = {
             random_names = {
-                # >>> From: UI Human StarCraft
+                # >>> From: UI - StarCraft - Terran
                 "Delta Company" "Elite Guard" "Aegis Guard"
                 
                 # New
@@ -581,7 +581,7 @@ ui_extra_human_extended = {
         }
         assault_army = {
             random_names = {
-                # >>> From: UI Human StarCraft
+                # >>> From: UI - StarCraft - Terran
                 "Thundering Third" Annihilators "Hammer Strike Force" "Torch Seven" "Iron Jesters" "Lost Wolves" "Brute Squad" "Death's Head Legion" "Charlie Squad"
                 "Heaven's Devils" "Hellbringers" "Cerberus Squad" "Shock Division" "Blackhammers" "Outback Hunters" "Bulwark Company"  "Field Response Theta"
                 "Death Heads" "Prometheus Company" "Night Wolves" "Sky Fury Squadron" "War Pigs"
@@ -641,7 +641,7 @@ ui_extra_human_extended = {
                 "Shadow Legion" "Ghost Legion" "Wraith Legion" "Specter Legion" "Phantom Legion" "Widowmaker Legion" "Skull Legion" "Banshee Legion" "Warlock Legion"
                 "Reaper Legion"
                 
-                # >>> From: UI Human StarCraft
+                # >>> From: UI - StarCraft - Terran
                 "Nova Squadron"
             
                 # New
@@ -775,12 +775,15 @@ ui_extra_human_extended = {
                 Zhenneung Zhenraha Zhongchaek Zhonggaa Zhonghai Zhongmaki Zhongtsukawa Zhougol Zhourano Zhouyuan Zoabetsu Zoakami Zoapo Zoaqiu Zoazaki Zuunchong
                 Zuunchun Zuunkhorin Zuunmoto Zuunturuun
 
-                # >>> From: UI Human StarCraft
+                # >>> From: UI - StarCraft - Terran
                 Thys Pegasus Brontes Gohbus Torus Valhalla Bacchus "Tal Qirat" Asteria Marlowe Gelgaris "Demon's Fair" Jotun Parragos "Pho-Rekh" Tepperus
                 Melkora Cirion "Great Bend" Chiron Ravera Seti Lakius Adena
                 
-                # >>> From: UI Human StarCraft - Mining worlds. Class unknown
+                # >>> From: UI - StarCraft - Terran - Mining worlds. Class unknown
                 Feronis Brutus Vito Pyramus Thisby
+                
+                # >>> From: UI - StarWars - Human
+                Pamarthe Chalacta
 
                 # Puzzle Pirates (Island names)
                 Boyle Byrne Chaparral Cnossos Osterum Ansel Arakoua Blackthrope Scrimshaw
@@ -793,9 +796,6 @@ ui_extra_human_extended = {
 
                 # GTA
                 Liberty Vice
-                
-                # StarWars
-                Pamarthe Chalacta
 
                 # Other films and literature
                 Annares Solaris
@@ -832,7 +832,7 @@ ui_extra_human_extended = {
                 # >>> From: UI Human Asian - Regions of Earth
                 Gobi
 
-                # >>> From: UI Human StarCraft
+                # >>> From: UI - StarCraft - Terran
                 Altara "New Sydney" Sonyan Choss Sirocco Phaeton Gurdlac Moria
 
                 # Countries, capitals, cities
@@ -860,7 +860,7 @@ ui_extra_human_extended = {
                 # >>> From: UI Human SPQR
                 "Nova Parthia" "Nova Troia"
                 
-                # >>> From: UI Human StarCraft
+                # >>> From: UI - StarCraft - Terran
                 "Mar Sara" "Gamma Dorian"
                 
                 # Countries, cities, regions, etc
@@ -887,14 +887,14 @@ ui_extra_human_extended = {
                 # >>> From: UI Human SPQR
                 Pandora Sylvana Silvestris "Transylvania Nova"
 
-                # >>> From: UI Human StarCraft
+                # >>> From: UI - StarCraft - Terran
                 Vygoire Garxxax "Brokas Hur" Calus Miranar Candore "Chau Sara" Aridas
+                
+                # >>> From: UI - StarWars - Human
+                Daflomia Vestar Valrar Felucia Onderon Akiva
                 
                 # RuneScape
                 Brimhaven Karamja
-                
-                # StarWars
-                Daflomia Vestar Valrar Felucia Onderon Akiva
                 
                 # New
                 Tropico Maya
@@ -918,8 +918,11 @@ ui_extra_human_extended = {
                 # >>> From: UI Human Asian - The Elder Scrolls
                 Akavir Tsaesci
 
-                # >>> From: UI Human StarCraft
+                # >>> From: UI - StarCraft - Terran
                 Umoja Korhal Tarsonis Haji Halcyon Vardona Bountiful Gystt Roxara Goldilocks Sammy Haven TarKossia Boone Shiloh "Bhekar Ro" Tashai
+                
+                # >>> From: UI - StarWars - Human
+                Bakura Orinda Champala Brentaal Dantooine Lianna Aradan Carida Bastion Fondor Coruscant Alderaan Naboo Corellia Chandrila Lothal
                 
                 # Countries, cities, regions, etc
                 "New Bucharest" "New Budapest" "Neu Berlin" "New Paris" "Roma Nova" "Europa Nova" "New Kiev" "New Dublin" "New Warsaw" "New Sophia"
@@ -943,10 +946,6 @@ ui_extra_human_extended = {
 
                 # Dark Souls
                 Lothric Astora
-                
-                # StarWars
-                Bakura Orinda Champala Brentaal Dantooine Lianna Aradan Carida Bastion Fondor
-                Coruscant Alderaan Naboo Corellia Chandrila Lothal
 
                 # WarCraft
                 Lordaeron Andorhal Stratholme Stormwind
@@ -972,10 +971,10 @@ ui_extra_human_extended = {
                 # >>> From: UI Human Asian - Others
                 Kizuna # Spiritual connection between each other in Japanese
 
-                # >>> From: UI Human StarCraft
+                # >>> From: UI - StarCraft - Terran
                 Meinhoff Agria
 
-                # StarWars
+                # >>> From: UI - StarWars - Human
                 Scarif Dathomir Achillea Borleias Agamar
                 
                 # Puzzle Pirates (Island names)
@@ -1009,14 +1008,14 @@ ui_extra_human_extended = {
                 # >>> From: UI Human Asian
                 Namida
                 
-                # >>> From: UI Human StarCraft
+                # >>> From: UI - StarCraft - Terran
                 Pridewater Hydrax
+
+                # >>> From: UI - StarWars - Human
+                Kamino Selonia Admastor Aguarl Amethia
 
                 # Puzzle Pirates (Island names)
                 Angelfish Dugong Cormorant Starfish Barracuda
-
-                # StarWars
-                Kamino Selonia Admastor Aguarl Amethia
                                 
                 # RuneScape
                 Catherby
@@ -1048,7 +1047,7 @@ ui_extra_human_extended = {
                 # >>> From: Vanilla Human Commonwealth
                 Stonehead "Nova Samarkand" Evonium
                 
-                # >>> From: UI Human StarCraft
+                # >>> From: UI - StarCraft - Terran
                 Borea
                 
                 # Puzzle Pirates (Island names)
@@ -1072,8 +1071,11 @@ ui_extra_human_extended = {
                 # >>> From: Vanilla Human Commonwealth
                 Jotunheim Winter
                 
-                # >>> From: UI Human StarCraft
+                # >>> From: UI - StarCraft - Terran
                 Braxis "Onuru Sigma" Anselm "Planet Christmas" Saluset Zenn
+                
+                # >>> From: UI - StarWars - Human
+                Carlac Akuria Pelorum
 
                 # New
                 Anchorage Glacia Whitehaven Snowball Whiterose "North Star" Aurora Borealis
@@ -1084,8 +1086,6 @@ ui_extra_human_extended = {
                 # Frostpunk
                 Frostpunk Winterhome Frostfire
                 
-                # StarWars
-                Carlac Akuria Pelorum
                 # A Song of Ice and Fire
                 Frostfang
                 
@@ -1139,7 +1139,7 @@ ui_extra_human_extended = {
                 # >>> From: UI Human Asian - Places from Earth
                 Himalaya Sagarmatha Chomolungma
 
-                # >>> From: UI Human StarCraft
+                # >>> From: UI - StarCraft - Terran
                 "Jarban Minor" Karkulv "Pike's Peak" Ursa
                 
                 "The Rock" Rockrest
@@ -1171,8 +1171,11 @@ ui_extra_human_extended = {
                 # >>> From: UI Human Asian - Biblic/mythological settlements, places, etc
                 Diyu Yomi
 
-                # >>> From: UI Human StarCraft
+                # >>> From: UI - StarCraft - Terran
                 Abaddon "New Folsom" "New Trinidad" Ashrigo "Old Faithful" Scoria Ignus Char
+                
+                # >>> From: UI - StarWars - Human
+                Mustafar
                 
                 Inferna Vulkan "Tierra del Fuego" Pandemonium Demonia Nemesis Obsidian Dragonia
 
@@ -1184,9 +1187,6 @@ ui_extra_human_extended = {
 
                 # Puzzle Pirates (Island names)
                 "Hephaestus' Forge" Ember
-                
-                # StarWars
-                Mustafar
 
                 # Other games
                 "The Nether" Oblivion Ashpit Deadlands Diablo
@@ -1194,7 +1194,7 @@ ui_extra_human_extended = {
         }
         pc_barren = {
             names = {
-                # >>> From: UI Human StarCraft
+                # >>> From: UI - StarCraft - Terran
                 Brutus
 
                 "No Man's Land"
