@@ -1,0 +1,10 @@
+species_modification_prefix = {
+    Master-
+}
+
+species_modification_postfix = {
+    Novus
+    Supremus
+    Maximus
+}
+
