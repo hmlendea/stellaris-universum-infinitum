@@ -2,7 +2,7 @@ pm_null = {
     is_null = yes
 
     spawn_chance = {
-        value = 150
+        value = 275
         modifier = {
             factor = 3
             num_modifiers > 2
@@ -34,7 +34,7 @@ pm_ui_hazardous_weather = {
                 has_planet_modifier = "pm_hazardous_weather"
             }
         }
-
+        
         modifier = {
             factor = 0
             num_modifiers > 1
@@ -47,7 +47,7 @@ pm_ui_hazardous_weather = {
 pm_ui_weak_magnetic_field = {
     spawn_chance = {
         modifier = {
-            add = 30
+            add = 15
             OR = {
                 is_planet_class = "pc_barren"
                 is_planet_class = "pc_barren_cold"
@@ -107,7 +107,7 @@ pm_ui_strong_magnetic_field = {
         }
     }
 
-    modifier = "weak_magnetic_field"
+    modifier = "strong_magnetic_field"
 }
 
 pm_ui_unstable_tectonics = {
@@ -120,7 +120,7 @@ pm_ui_unstable_tectonics = {
             }
         }
         modifier = {
-            factor = 4
+            factor = 0
             OR = {
                 has_planet_modifier = "pm_ui_high_gravity"
                 has_planet_modifier = "pm_ui_unstable_tectonics"
@@ -141,7 +141,7 @@ pm_ui_unstable_tectonics = {
 pm_ui_tidal_locked = {
     spawn_chance = {
         modifier = {
-            add = 5
+            add = 1
             OR = {
                 is_planet_class = "pc_barren"
                 is_planet_class = "pc_barren_cold"
@@ -157,10 +157,6 @@ pm_ui_tidal_locked = {
         modifier = {
             factor = 3
             is_moon = yes
-            OR = {
-                is_planet_class = pc_barren
-                is_planet_class = pc_barren_cold
-            }
         }
 
         modifier = {
