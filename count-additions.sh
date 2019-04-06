@@ -15,7 +15,7 @@ PRESCRIPTED_COUNTRIES_DIR="prescripted_countries"
 SPECIES_NAMES_DIR="common/species_names"
 STRATEGIC_RESOURCES_DIR="common/strategic_resources"
 SYSTEM_INITIALISERS_DIR="common/solar_system_initializers"
-TILE_BLOCKERS_DIR="common/tile_blockers"
+DEPOSIT_BLOCKERS_DIR="common/deposit_blockers"
 
 # INITIALISATIONS
 ANOMALIES_COUNT=0
@@ -30,7 +30,7 @@ PRESCRIPTED_COUNTRIES_COUNT=0
 SPECIES_NAMES_COUNT=0
 STRATEGIC_RESOURCES_COUNT=0
 SYSTEM_INITIALISERS_COUNT=0
-TILE_BLOCKERS_COUNT=0
+DEPOSIT_BLOCKERS_COUNT=0
 
 # COUNT ADDITIONS
 for SUBMOD in $SUBMODS; do
@@ -83,5 +83,5 @@ echo "Prescripted countries:" $PRESCRIPTED_COUNTRIES_COUNT
 echo "Species names:" $SPECIES_NAMES_COUNT
 echo "Strategic resources:" $STRATEGIC_RESOURCES_COUNT
 echo "System initialisers:" $SYSTEM_INITIALISERS_COUNT
-echo "Tile blockers:" $TILE_BLOCKERS_COUNT
+echo "Deposit blockers:" $DEPOSIT_BLOCKERS_COUNT
 
