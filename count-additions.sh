@@ -3,7 +3,6 @@
 SUBMODS=$(ls -p | grep "ui-.*/")
 
 # DIRECTORIES
-ANOMALIES_DIR="common/anomalies"
 BUILDINGS_DIR="common/buildings"
 CELESTIAL_BODIES_DIR="common/random_names/base"
 FLAG_DIR="flags"
@@ -18,7 +17,6 @@ SYSTEM_INITIALISERS_DIR="common/solar_system_initializers"
 DEPOSIT_BLOCKERS_DIR="common/deposit_blockers"
 
 # INITIALISATIONS
-ANOMALIES_COUNT=0
 BUILDINGS_COUNT=0
 CELESTIAL_BODIES_COUNT=0
 FLAG_BACKGROUNDS_COUNT=0
@@ -71,7 +69,6 @@ for SUBMOD in $SUBMODS; do
 done
 
 # PRINT RESULTS
-echo "Anomalies:" $ANOMALIES_COUNT
 echo "Buildings:" $BUILDINGS_COUNT
 echo "Celestial bodies:" $CELESTIAL_BODIES_COUNT
 echo "Flag backgrounds:" $FLAG_BACKGROUNDS_COUNT
