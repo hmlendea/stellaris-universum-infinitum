@@ -48,7 +48,7 @@
 @tier5weight2 = 25
 @tier5weight3 = 20
 
-tech_tb_ui_ashland = {
+tech_d_ui_ashland_blocker = {
     cost = @tier1cost2
     area = society
     tier = 1
@@ -57,363 +57,10 @@ tech_tb_ui_ashland = {
     weight = @tier1weight2
 
     weight_groups = {
-        tile_blockers
+        deposit_blockers
     }
     mod_weight_if_group_picked = {
-        tile_blockers = 0.5
-    }
-
-    weight_modifier = {
-        modifier = {
-            factor = 2
-        }
-        modifier = {
-            factor = 0
-            NOT = {
-                any_owned_planet =  {
-                    any_tile = {
-                        has_blocker = "tb_ui_ashland"
-                    }
-                }
-            }
-        }
-        modifier = {
-            factor = 1.25
-            research_leader = {
-                area = society
-                has_trait = "leader_trait_expertise_new_worlds"
-            }
-        }
-        modifier = {
-            factor = 0
-            num_owned_planets < 2
-        }
-    }
-
-    ai_weight = {
-        modifier = {
-            factor = 3
-        }
-        modifier = {
-            factor = 0
-            NOT = {
-                any_owned_planet =  {
-                    any_tile = {
-                        has_blocker = "tb_ui_ashland"
-                    }
-                }
-            }
-        }
-        modifier = {
-            factor = 1.25
-            research_leader = {
-                area = society
-                has_trait = "leader_trait_expertise_new_worlds"
-            }
-        }
-        modifier = {
-            factor = 0
-            num_owned_planets < 2
-        }
-    }
-}
-
-tech_tb_ui_canyon = {
-    cost = @tier1cost2
-    area = society
-    tier = 1
-    category = { new_worlds }
-    prerequisites = { "tech_colonization_1" }
-    weight = @tier1weight2
-
-    weight_groups = {
-        tile_blockers
-    }
-    mod_weight_if_group_picked = {
-        tile_blockers = 0.5
-    }
-
-    weight_modifier = {
-        modifier = {
-            factor = 2
-        }
-        modifier = {
-            factor = 0
-            NOT = {
-                any_owned_planet =  {
-                    any_tile = {
-                        has_blocker = "tb_ui_canyon"
-                    }
-                }
-            }
-        }
-        modifier = {
-            factor = 1.25
-            research_leader = {
-                area = society
-                has_trait = "leader_trait_expertise_new_worlds"
-            }
-        }
-        modifier = {
-            factor = 0
-            num_owned_planets < 2
-        }
-    }
-
-    ai_weight = {
-        modifier = {
-            factor = 3
-        }
-        modifier = {
-            factor = 0
-            NOT = {
-                any_owned_planet =  {
-                    any_tile = {
-                        has_blocker = "tb_ui_canyon"
-                    }
-                }
-            }
-        }
-        modifier = {
-            factor = 1.25
-            research_leader = {
-                area = society
-                has_trait = "leader_trait_expertise_new_worlds"
-            }
-        }
-        modifier = {
-            factor = 0
-            num_owned_planets < 2
-        }
-    }
-}
-
-tech_tb_ui_dry_desert = {
-    cost = @tier1cost2
-    area = society
-    tier = 1
-    category = { new_worlds }
-    prerequisites = { "tech_colonization_1" }
-    weight = @tier1weight2
-
-    weight_groups = {
-        tile_blockers
-    }
-    mod_weight_if_group_picked = {
-        tile_blockers = 0.5
-    }
-
-    weight_modifier = {
-        modifier = {
-            factor = 2
-        }
-        modifier = {
-            factor = 0
-            NOT = {
-                any_owned_planet =  {
-                    any_tile = {
-                        has_blocker = "tb_ui_dry_desert"
-                    }
-                }
-            }
-        }
-        modifier = {
-            factor = 1.25
-            research_leader = {
-                area = society
-                has_trait = "leader_trait_expertise_new_worlds"
-            }
-        }
-        modifier = {
-            factor = 0
-            num_owned_planets < 2
-        }
-    }
-
-    ai_weight = {
-        modifier = {
-            factor = 3
-        }
-        modifier = {
-            factor = 0
-            NOT = {
-                any_owned_planet =  {
-                    any_tile = {
-                        has_blocker = "tb_ui_dry_desert"
-                    }
-                }
-            }
-        }
-        modifier = {
-            factor = 1.25
-            research_leader = {
-                area = society
-                has_trait = "leader_trait_expertise_new_worlds"
-            }
-        }
-        modifier = {
-            factor = 0
-            num_owned_planets < 2
-        }
-    }
-}
-
-tech_tb_ui_floodplain = {
-    cost = @tier1cost2
-    area = society
-    tier = 1
-    category = { new_worlds }
-    prerequisites = { "tech_colonization_1" }
-    weight = @tier1weight2
-
-    weight_groups = {
-        tile_blockers
-    }
-
-    mod_weight_if_group_picked = {
-        tile_blockers = 0.5
-    }
-
-    weight_modifier = {
-        modifier = {
-            factor = 2
-        }
-        modifier = {
-            factor = 0
-            NOT = {
-                any_owned_planet =  {
-                    any_tile = {
-                        has_blocker = "tb_ui_floodplain"
-                    }
-                }
-            }
-        }
-        modifier = {
-            factor = 1.25
-            research_leader = {
-                area = society
-                has_trait = "leader_trait_expertise_new_worlds"
-            }
-        }
-        modifier = {
-            factor = 0
-            num_owned_planets < 2
-        }
-    }
-
-    ai_weight = {
-        modifier = {
-            factor = 3
-        }
-        modifier = {
-            factor = 0
-            NOT = {
-                any_owned_planet =  {
-                    any_tile = {
-                        has_blocker = "tb_ui_floodplain"
-                    }
-                }
-            }
-        }
-        modifier = {
-            factor = 1.25
-            research_leader = {
-                area = society
-                has_trait = "leader_trait_expertise_new_worlds"
-            }
-        }
-        modifier = {
-            factor = 0
-            num_owned_planets < 2
-        }
-    }
-}
-
-tech_tb_ui_giant_earthworms = {
-    cost = @tier1cost2
-    area = society
-    tier = 1
-    category = { new_worlds }
-    prerequisites = { "tech_colonization_1" }
-    weight = @tier1weight2
-
-    weight_groups = {
-        tile_blockers
-    }
-
-    mod_weight_if_group_picked = {
-        tile_blockers = 0.5
-    }
-
-    weight_modifier = {
-        modifier = {
-            factor = 2
-        }
-        modifier = {
-            factor = 0
-            NOT = {
-                any_owned_planet =  {
-                    any_tile = {
-                        has_blocker = "tb_ui_giant_earthworms"
-                    }
-                }
-            }
-        }
-        modifier = {
-            factor = 1.25
-            research_leader = {
-                area = society
-                has_trait = "leader_trait_expertise_new_worlds"
-            }
-        }
-        modifier = {
-            factor = 0
-            num_owned_planets < 2
-        }
-    }
-
-    ai_weight = {
-        modifier = {
-            factor = 3
-        }
-        modifier = {
-            factor = 0
-            NOT = {
-                any_owned_planet =  {
-                    any_tile = {
-                        has_blocker = "tb_ui_giant_earthworms"
-                    }
-                }
-            }
-        }
-        modifier = {
-            factor = 1.25
-            research_leader = {
-                area = society
-                has_trait = "leader_trait_expertise_new_worlds"
-            }
-        }
-        modifier = {
-            factor = 0
-            num_owned_planets < 2
-        }
-    }
-}
-
-tech_tb_ui_lava_lake = {
-    cost = @tier2cost2
-    area = society
-    tier = 2
-    category = { new_worlds }
-    prerequisites = { "tech_colonization_1" }
-    weight = @tier2weight2
-
-    weight_groups = {
-        tile_blockers
-    }
-
-    mod_weight_if_group_picked = {
-        tile_blockers = 0.5
+        deposit_blockers = 0.5
     }
 
     weight_modifier = {
@@ -432,9 +79,7 @@ tech_tb_ui_lava_lake = {
             factor = 0
             NOT = {
                 any_owned_planet =  {
-                    any_tile = {
-                        has_blocker = "tb_ui_lava_lake"
-                    }
+                    has_deposit = "d_ui_ashland_blocker"
                 }
             }
         }
@@ -459,9 +104,7 @@ tech_tb_ui_lava_lake = {
             factor = 0
             NOT = {
                 any_owned_planet =  {
-                    any_tile = {
-                        has_blocker = "tb_ui_lava_lake"
-                    }
+                    has_deposit = "d_ui_ashland_blocker"
                 }
             }
         }
@@ -479,7 +122,7 @@ tech_tb_ui_lava_lake = {
     }
 }
 
-tech_tb_ui_mutant_infestation = {
+tech_d_ui_canyon_blocker = {
     cost = @tier1cost2
     area = society
     tier = 1
@@ -488,11 +131,10 @@ tech_tb_ui_mutant_infestation = {
     weight = @tier1weight2
 
     weight_groups = {
-        tile_blockers
+        deposit_blockers
     }
-
     mod_weight_if_group_picked = {
-        tile_blockers = 0.5
+        deposit_blockers = 0.5
     }
 
     weight_modifier = {
@@ -500,12 +142,18 @@ tech_tb_ui_mutant_infestation = {
             factor = 2
         }
         modifier = {
+            factor = 1.25
+            has_tradition = tr_expansion_adopt
+        }
+        modifier = {
+            factor = 4
+            has_ascension_perk = ap_mastery_of_nature
+        }
+        modifier = {
             factor = 0
             NOT = {
                 any_owned_planet =  {
-                    any_tile = {
-                        has_blocker = "tb_ui_mutant_infestation"
-                    }
+                    has_deposit = "d_ui_canyon_blocker"
                 }
             }
         }
@@ -530,9 +178,7 @@ tech_tb_ui_mutant_infestation = {
             factor = 0
             NOT = {
                 any_owned_planet =  {
-                    any_tile = {
-                        has_blocker = "tb_ui_mutant_infestation"
-                    }
+                    has_deposit = "d_ui_canyon_blocker"
                 }
             }
         }
@@ -550,7 +196,7 @@ tech_tb_ui_mutant_infestation = {
     }
 }
 
-tech_tb_ui_sea_monsters = {
+tech_d_ui_floodplain_blocker = {
     cost = @tier1cost2
     area = society
     tier = 1
@@ -559,11 +205,11 @@ tech_tb_ui_sea_monsters = {
     weight = @tier1weight2
 
     weight_groups = {
-        tile_blockers
+        deposit_blockers
     }
 
     mod_weight_if_group_picked = {
-        tile_blockers = 0.5
+        deposit_blockers = 0.5
     }
 
     weight_modifier = {
@@ -571,12 +217,18 @@ tech_tb_ui_sea_monsters = {
             factor = 2
         }
         modifier = {
+            factor = 1.25
+            has_tradition = tr_expansion_adopt
+        }
+        modifier = {
+            factor = 4
+            has_ascension_perk = ap_mastery_of_nature
+        }
+        modifier = {
             factor = 0
             NOT = {
                 any_owned_planet =  {
-                    any_tile = {
-                        has_blocker = "tb_ui_sea_monsters"
-                    }
+                    has_deposit = "d_ui_floodplain_blocker"
                 }
             }
         }
@@ -601,9 +253,7 @@ tech_tb_ui_sea_monsters = {
             factor = 0
             NOT = {
                 any_owned_planet =  {
-                    any_tile = {
-                        has_blocker = "tb_ui_sea_monsters"
-                    }
+                    has_deposit = "d_ui_floodplain_blocker"
                 }
             }
         }
@@ -621,7 +271,7 @@ tech_tb_ui_sea_monsters = {
     }
 }
 
-tech_tb_ui_tarland = {
+tech_d_ui_giant_earthworms_blocker = {
     cost = @tier1cost2
     area = society
     tier = 1
@@ -630,11 +280,11 @@ tech_tb_ui_tarland = {
     weight = @tier1weight2
 
     weight_groups = {
-        tile_blockers
+        deposit_blockers
     }
 
     mod_weight_if_group_picked = {
-        tile_blockers = 0.5
+        deposit_blockers = 0.5
     }
 
     weight_modifier = {
@@ -642,12 +292,18 @@ tech_tb_ui_tarland = {
             factor = 2
         }
         modifier = {
+            factor = 1.25
+            has_tradition = tr_expansion_adopt
+        }
+        modifier = {
+            factor = 4
+            has_ascension_perk = ap_mastery_of_nature
+        }
+        modifier = {
             factor = 0
             NOT = {
                 any_owned_planet =  {
-                    any_tile = {
-                        has_blocker = "tb_ui_tarland"
-                    }
+                    has_deposit = "d_ui_giant_earthworms_blocker"
                 }
             }
         }
@@ -672,9 +328,7 @@ tech_tb_ui_tarland = {
             factor = 0
             NOT = {
                 any_owned_planet =  {
-                    any_tile = {
-                        has_blocker = "tb_ui_tarland"
-                    }
+                    has_deposit = "d_ui_giant_earthworms_blocker"
                 }
             }
         }
@@ -692,3 +346,227 @@ tech_tb_ui_tarland = {
     }
 }
 
+tech_d_ui_lava_lake_blocker = {
+    cost = @tier2cost2
+    area = society
+    tier = 2
+    category = { new_worlds }
+    prerequisites = { "tech_colonization_1" }
+    weight = @tier2weight2
+
+    weight_groups = {
+        deposit_blockers
+    }
+
+    mod_weight_if_group_picked = {
+        deposit_blockers = 0.5
+    }
+
+    weight_modifier = {
+        modifier = {
+            factor = 2
+        }
+        modifier = {
+            factor = 1.25
+            has_tradition = tr_expansion_adopt
+        }
+        modifier = {
+            factor = 4
+            has_ascension_perk = ap_mastery_of_nature
+        }
+        modifier = {
+            factor = 0
+            NOT = {
+                any_owned_planet =  {
+                    has_deposit = "d_ui_lava_lake_blocker"
+                }
+            }
+        }
+        modifier = {
+            factor = 1.25
+            research_leader = {
+                area = society
+                has_trait = "leader_trait_expertise_new_worlds"
+            }
+        }
+        modifier = {
+            factor = 0
+            num_owned_planets < 2
+        }
+    }
+
+    ai_weight = {
+        modifier = {
+            factor = 3
+        }
+        modifier = {
+            factor = 0
+            NOT = {
+                any_owned_planet =  {
+                    has_deposit = "d_ui_lava_lake_blocker"
+                }
+            }
+        }
+        modifier = {
+            factor = 1.25
+            research_leader = {
+                area = society
+                has_trait = "leader_trait_expertise_new_worlds"
+            }
+        }
+        modifier = {
+            factor = 0
+            num_owned_planets < 2
+        }
+    }
+}
+
+tech_d_ui_sea_monsters_blocker = {
+    cost = @tier1cost2
+    area = society
+    tier = 1
+    category = { new_worlds }
+    prerequisites = { "tech_colonization_1" }
+    weight = @tier1weight2
+
+    weight_groups = {
+        deposit_blockers
+    }
+
+    mod_weight_if_group_picked = {
+        deposit_blockers = 0.5
+    }
+
+    weight_modifier = {
+        modifier = {
+            factor = 2
+        }
+        modifier = {
+            factor = 1.25
+            has_tradition = tr_expansion_adopt
+        }
+        modifier = {
+            factor = 4
+            has_ascension_perk = ap_mastery_of_nature
+        }
+        modifier = {
+            factor = 0
+            NOT = {
+                any_owned_planet =  {
+                    has_deposit = "d_ui_sea_monsters_blocker"
+                }
+            }
+        }
+        modifier = {
+            factor = 1.25
+            research_leader = {
+                area = society
+                has_trait = "leader_trait_expertise_new_worlds"
+            }
+        }
+        modifier = {
+            factor = 0
+            num_owned_planets < 2
+        }
+    }
+
+    ai_weight = {
+        modifier = {
+            factor = 3
+        }
+        modifier = {
+            factor = 0
+            NOT = {
+                any_owned_planet =  {
+                    has_deposit = "d_ui_sea_monsters_blocker"
+                }
+            }
+        }
+        modifier = {
+            factor = 1.25
+            research_leader = {
+                area = society
+                has_trait = "leader_trait_expertise_new_worlds"
+            }
+        }
+        modifier = {
+            factor = 0
+            num_owned_planets < 2
+        }
+    }
+}
+
+tech_d_ui_tarland_blocker = {
+    cost = @tier1cost2
+    area = society
+    tier = 1
+    category = { new_worlds }
+    prerequisites = { "tech_colonization_1" }
+    weight = @tier1weight2
+
+    weight_groups = {
+        deposit_blockers
+    }
+
+    mod_weight_if_group_picked = {
+        deposit_blockers = 0.5
+    }
+
+    weight_modifier = {
+        modifier = {
+            factor = 2
+        }
+        modifier = {
+            factor = 1.25
+            has_tradition = tr_expansion_adopt
+        }
+        modifier = {
+            factor = 4
+            has_ascension_perk = ap_mastery_of_nature
+        }
+        modifier = {
+            factor = 0
+            NOT = {
+                any_owned_planet =  {
+                    has_deposit = "d_ui_tarland_blocker"
+                }
+            }
+        }
+        modifier = {
+            factor = 1.25
+            research_leader = {
+                area = society
+                has_trait = "leader_trait_expertise_new_worlds"
+            }
+        }
+        modifier = {
+            factor = 0
+            num_owned_planets < 2
+        }
+    }
+
+    ai_weight = {
+        modifier = {
+            factor = 3
+        }
+        modifier = {
+            factor = 0
+            NOT = {
+                any_owned_planet =  {
+                    has_deposit = "d_ui_tarland_blocker"
+                }
+            }
+        }
+        modifier = {
+            factor = 1.25
+            research_leader = {
+                area = society
+                has_trait = "leader_trait_expertise_new_worlds"
+            }
+        }
+        modifier = {
+            factor = 0
+            num_owned_planets < 2
+        }
+    }
+}

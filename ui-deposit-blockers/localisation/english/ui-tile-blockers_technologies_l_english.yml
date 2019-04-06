@@ -1,0 +1,16 @@
+﻿l_english:
+tech_d_ui_ashland_blocker:0 "Ashland Removal"
+tech_d_ui_ashland_blocker_desc:1 "Special machines dedicated to heavy soil enhancement and atmospheric cleansing to keep the ash away.\n\n"
+tech_d_ui_canyon_blocker:0 "Canyon Removal"
+tech_d_ui_canyon_blocker_desc:1 "Advanced land sculpting machines and soil enhancement designed to tame even the most extreme of canyons.\n\n"
+tech_d_ui_floodplain_blocker:0 "Floodplains Removal"
+tech_d_ui_floodplain_blocker_desc:1 "Complex soil enhancement plants and weather control centres designed to prevent the humidity and floodings in a defined region.\n\n"
+tech_d_ui_giant_earthworms_blocker:0 "Giant Earthworms Removal"
+tech_d_ui_giant_earthworms_blocker_desc:1 "Selective soil poisoning combined with heavy firepower can quickly eliminate the giant eartoworms in a region.\n\n"
+tech_d_ui_lava_lake_blocker:0 "Lava Lake Removal"
+tech_d_ui_lava_lake_blocker_desc:1 "Underground tunnels and mechanisms designed to drain the lava lake, virtually relocating it underground and over a much larger area, safely.\n\n"
+tech_d_ui_sea_monsters_blocker:0 "Sea Monsters Removal"
+tech_d_ui_sea_monsters_blocker_desc:1 "Swarms of automated underwater drones that hunt and kill sea monsters.\n\n"
+tech_d_ui_tarland_blocker:0 "Tarland Removal"
+tech_d_ui_tarland_blocker_desc:1 "Automated heavy pumps and artificial soil to make tar lands more livable.\n\n"
+
