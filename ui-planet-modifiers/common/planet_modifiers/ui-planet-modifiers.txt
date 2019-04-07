@@ -131,6 +131,39 @@ pm_ui_salty = {
     modifier = "ui_salty"
 }
 
+pm_ui_microorganisms = {
+    spawn_chance = {
+        modifier = {
+            add = 5
+            OR = {
+                is_planet_class = "pc_barren"
+                is_planet_class = "pc_barren_cold"
+            }
+        }
+        modifier = {
+            factor = 0
+            has_planet_modifier = "pm_ui_no_magnetic_field"
+        }
+        modifier = {
+            factor = 0
+            solar_system = {
+                OR = {
+                    is_star_class = sc_black_hole
+                    is_star_class = sc_neutron_star
+                    is_star_class = sc_pulsar
+                }
+            }
+        }
+
+        modifier = {
+            factor = 0
+            num_modifiers > 2
+        }
+    }
+
+    modifier = "ui_microorganisms"
+}
+
 pm_ui_giant_earthworms = {
     spawn_chance = {
         modifier = {
