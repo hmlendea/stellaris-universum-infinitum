@@ -1,0 +1,39 @@
+### Habitable Damaged to Habitable
+terraform_link = {
+    from = "pc_ringworld_habitable_damaged"
+    to = "pc_ringworld_habitable"
+
+    energy = 15000
+    duration = 10000
+
+    condition = {
+        has_technology = "tech_ui_ringworld_restoration"
+    }
+}
+
+### Tech Damaged to Tech
+terraform_link = {
+    from = "pc_ringworld_tech_damaged"
+    to = "pc_ringworld_tech"
+
+    energy = 15000
+    duration = 10000
+
+    condition = {
+        has_technology = "tech_ui_barren_terraforming"
+    }
+}
+
+### Seam Damaged to Seam
+terraform_link = {
+    from = "pc_ringworld_seam_damaged"
+    to = "pc_ringworld_seam"
+
+    energy = 15000
+    duration = 10000
+
+    condition = {
+        has_technology = "tech_ui_barren_terraforming"
+    }
+}
+
