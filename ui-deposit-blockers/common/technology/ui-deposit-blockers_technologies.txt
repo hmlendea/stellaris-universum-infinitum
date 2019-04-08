@@ -5,23 +5,23 @@
 ##################
 
 @tier1cost1 = 500
-@tier1cost2 = 640
-@tier1cost3 = 780
+@tier1cost2 = 750
+@tier1cost3 = 1000
 
-@tier2cost1 = 1000
-@tier2cost2 = 1500
-@tier2cost3 = 2000
+@tier2cost1 = 1500
+@tier2cost2 = 2000
+@tier2cost3 = 2500
 
-@tier3cost1 = 3000
-@tier3cost2 = 4000
-@tier3cost3 = 5000
+@tier3cost1 = 4000
+@tier3cost2 = 5000
+@tier3cost3 = 6000
 
-@tier4cost1 = 6000
-@tier4cost2 = 8000
-@tier4cost3 = 10000
+@tier4cost1 = 8000
+@tier4cost2 = 10000
+@tier4cost3 = 12000
 
-@tier5cost1 = 14000
-@tier5cost2 = 17000
+@tier5cost1 = 15000
+@tier5cost2 = 17500
 @tier5cost3 = 20000
 
 ####################
@@ -272,12 +272,12 @@ tech_d_ui_floodplain_blocker = {
 }
 
 tech_d_ui_giant_earthworms_blocker = {
-    cost = @tier1cost2
+    cost = @tier2cost2
     area = society
-    tier = 1
+    tier = 2
     category = { new_worlds }
     prerequisites = { "tech_colonization_1" }
-    weight = @tier1weight2
+    weight = @tier2weight2
 
     weight_groups = {
         deposit_blockers
@@ -422,12 +422,12 @@ tech_d_ui_lava_lake_blocker = {
 }
 
 tech_d_ui_sea_monsters_blocker = {
-    cost = @tier1cost2
+    cost = @tier2cost2
     area = society
-    tier = 1
+    tier = 2
     category = { new_worlds }
     prerequisites = { "tech_colonization_1" }
-    weight = @tier1weight2
+    weight = @tier2weight2
 
     weight_groups = {
         deposit_blockers

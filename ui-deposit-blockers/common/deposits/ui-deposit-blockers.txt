@@ -50,7 +50,7 @@ d_ui_ashland_blocker = {
         }
     }
 
-    prerequisites = { "tech_d_ui_ashland"_blocker" }
+    prerequisites = { "tech_d_ui_ashland_blocker" }
 }
 
 # Canyon
@@ -98,7 +98,7 @@ d_ui_canyon_blocker = {
         }
     }
 
-    prerequisites = { "tech_d_ui_canyon"_blocker" }
+    prerequisites = { "tech_d_ui_canyon_blocker" }
 }
 
 # Floodplain
@@ -142,7 +142,7 @@ d_ui_floodplain_blocker = {
         }
     }
 
-    prerequisites = { "tech_d_ui_floodplain"_blocker" }
+    prerequisites = { "tech_d_ui_floodplain_blocker" }
 }
 
 # Giant Earthworms
@@ -202,7 +202,7 @@ d_ui_giant_earthworms_blocker = {
         }
     }
 
-    prerequisites = { "tech_d_ui_giant_earthworms"_blocker" }
+    prerequisites = { "tech_d_ui_giant_earthworms_blocker" }
 }
 
 # Lava Lake
@@ -250,7 +250,7 @@ d_ui_lava_lake_blocker = {
         }
     }
 
-    prerequisites = { "tech_d_ui_lava_lake"_blocker" }
+    prerequisites = { "tech_d_ui_lava_lake_blocker" }
 }
 
 # Sea Monsters
@@ -314,7 +314,7 @@ d_ui_sea_monsters_blocker = {
         }
     }
 
-    prerequisites = { "tech_d_ui_sea_monsters"_blocker" }
+    prerequisites = { "tech_d_ui_sea_monsters_blocker" }
 }
 
 # Tarland
@@ -363,5 +363,5 @@ d_ui_tarland_blocker = {
         }
     }
 
-    prerequisites = { "tech_d_ui_tarland"_blocker" }
+    prerequisites = { "tech_d_ui_tarland_blocker" }
 }
