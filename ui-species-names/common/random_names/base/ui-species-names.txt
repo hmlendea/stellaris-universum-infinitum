@@ -1,10 +1,17 @@
 species_modification_prefix = {
+    Alpha_
+    Arch-
+    Altered_
     Master-
+    Prime_
 }
 
 species_modification_postfix = {
+    Magnus
+    Majoris
+    Maximus
+    Mutant
     Novus
     Supremus
-    Maximus
 }
 
