@@ -1,4 +1,4 @@
-ui_galciv_krynn_syndicate = {
+ui_galciv_krynn = {
     key = "Krynn Syndicate"
     ship_prefix = "KSS"
     species = {
