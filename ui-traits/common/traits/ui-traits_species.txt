@@ -201,7 +201,8 @@ ui_trait_light_eaters = {
 }
 
 ui_trait_gluttonous = {
-  cost = -1
+    cost = -1
+    potential_crossbreeding_chance = 1.0
     opposites = { "ui_trait_light_eaters" }
     
     allowed_archetypes = { BIOLOGICAL }
@@ -211,4 +212,33 @@ ui_trait_gluttonous = {
     }
 }
 
+ui_trait_very_rapid_breeders = {
+    cost = 4;
+    potential_crossbreeding_chance = 1.0
+    opposites = { "trait_rapid_breeders" "trait_slow_breeders" "trait_fertile" "ui_trait_very_slow_breeders" }
+
+    allowed_archetypes = { BIOLOGICAL }
+
+    modifier = {
+        pop_growth_speed = 0.20
+    }
+    slave_cost = {
+        energy = 200
+    }
+}
+
+ui_trait_very_slow_breeders = {
+    cost = -4
+    potential_crossbreeding_chance = 1.0
+    opposites = { "trait_rapid_breeders" "trait_slow_breeders" "trait_fertile" "ui_trait_very_rapid_breeders" }
+
+    allowed_archetypes = { BIOLOGICAL }
+
+    modifier = {
+        pop_growth_speed = -0.20
+    }
+    slave_cost = {
+        energy = -200
+    }
+}
 
