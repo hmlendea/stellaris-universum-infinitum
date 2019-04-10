@@ -1,0 +1,77 @@
+ui_trait_admiral_berserker = {
+    cost = 1
+    icon = "gfx/interface/icons/traits/ui_trait_berserker.dds"
+    modifier = {
+        ship_weapon_damage = 0.15
+        ship_disengage_chance_mult = -0.25
+    }
+    leader_trait = { admiral }
+    leader_class = { admiral }
+    opposites = { "leader_trait_nervous" "leader_trait_cautious" "leader_trait_scout" "ui_trait_admiral_guerillero" }
+}
+
+ui_trait_admiral_guerillero = {
+    cost = 1
+    icon = "gfx/interface/icons/traits/ui_trait_guerillero.dds"
+    modifier = {
+        ship_speed_mult = 0.10
+        ship_fire_rate_mult = 0.10
+        ship_weapon_range_mult = -0.10
+        ship_disengage_chance_mult = 0.25
+    }
+    leader_trait = { admiral }
+    leader_class = { admiral }
+    opposites = { "leader_trait_nervous" "leader_trait_cautious" "leader_trait_scout" "ui_trait_admiral_berserker" }
+}
+
+ui_trait_admiral_glass_cannon = {
+    cost = 1
+    icon = "gfx/interface/icons/traits/ui_trait_glass_cannon.dds"
+    modifier = {
+        ship_weapon_damage = 0.20
+        ship_hull_mult = -0.20
+    }
+    leader_trait = { admiral }
+    leader_class = { admiral }
+    opposites = { "leader_trait_cautious" "ui_trait_admiral_testudo" }
+}
+
+ui_trait_admiral_sniper = {
+    cost = 1
+    icon = "gfx/interface/icons/traits/ui_trait_sniper.dds"
+    modifier = {
+        ship_weapon_damage = 0.10
+        ship_weapon_range_mult = 0.10
+        ship_fire_rate_mult = -0.10
+        ship_speed_mult = -0.10
+    }
+    leader_trait = { admiral }
+    leader_class = { admiral }
+    opposites = { "ui_trait_admiral_stormer" }
+}
+
+ui_trait_admiral_stormer = {
+    cost = 1
+    icon = "gfx/interface/icons/traits/ui_trait_stormer.dds"
+    modifier = {
+        ship_weapon_damage = -0.10
+        ship_weapon_range_mult = -0.10
+        ship_fire_rate_mult = 0.10
+        ship_speed_mult = 0.10
+    }
+    leader_trait = { admiral }
+    leader_class = { admiral }
+    opposites = { "ui_trait_admiral_sniper" }
+}
+
+ui_trait_admiral_testudo = {
+    cost = 1
+    icon = "gfx/interface/icons/traits/ui_trait_testudo.dds"
+    modifier = {
+        ship_weapon_damage = -0.20
+        ship_hull_mult = 0.20
+    }
+    leader_trait = { admiral }
+    leader_class = { admiral }
+    opposites = { "ui_trait_admiral_glass_cannon" }
+}

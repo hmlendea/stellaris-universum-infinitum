@@ -44,6 +44,24 @@
  ui_trait_very_slow_breeders_desc:0 "§LThis species reproduces at an incredibly slow rate, lowering population growth significantly.§!\n"
  ui_trait_very_slow_breeders:0 "Very Slow Breeders"
 
+# Leader traits
+ ui_trait_politically_connected_desc:0 "This character climed the ladder using political connections instead of skill, and is thus not likely to improve their ability more than the bare minimum necessary.§!\n"
+ ui_trait_politically_connected:0 "Politically Connected"
+
+# Admiral traits
+ ui_trait_admiral_berserker_desc:0 "This character's fierce nature is proven by meeting the enemy in battle head on, dealing devastating without holding back.§!\n"
+ ui_trait_admiral_berserker:0 "Berserker"
+ ui_trait_admiral_guerillero_desc:0 "This character favours guerilla tactics, dealing a lot of damage very by taking the enemy by surprise, and being always on alert for the best moment to escape.§!\n"
+ ui_trait_admiral_guerillero:0 "Guerillero"
+ ui_trait_admiral_glass_cannon_desc:0 "This character's motto is 'The best defense is a good offense'. And they mean it quite literally.§!\n"
+ ui_trait_admiral_glass_cannon:0 "Glass Cannon"
+ ui_trait_admiral_sniper_desc:0 "This character focuses on the quality of their fleet's blows, dealing slow but heavy and long-range damage. Though, the mobility of the fleet is also negatively impacted in those conditions.§!\n"
+ ui_trait_admiral_sniper:0 "Sniper"
+ ui_trait_admiral_stormer_desc:0 "This character focuses on the quantity of their fleet's blows, dealing fast but light and short-range damage. However, the mobility of the fleet is quite good as a result.§!\n"
+ ui_trait_admiral_stormer:0 "Stormer"
+ ui_trait_admiral_testudo_desc:0 "This character favours the "sheild wall" tactic. The fleet's formation, as well as individual vessel systems and configurations, are all optimised for the best possible defense. However, the damage output suffers significantly as a result.§!\n"
+ ui_trait_admiral_testudo:0 "Testudo"
+
 # Governor traits
  ui_trait_governor_corporatist_desc:0 "This character is a stauch corporatist, with a strong focus on economy and capital gain.§!\n"
  ui_trait_governor_corporatist:0 "Corporatist"
