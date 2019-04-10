@@ -1,0 +1,5 @@
+UI_PROTOSS = {
+    randomized = no
+    graphical_culture = ui_protoss_01
+    move_pop_sound_effect = "moving_pop_confirmation"
+}
