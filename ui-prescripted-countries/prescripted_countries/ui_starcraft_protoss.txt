@@ -31,7 +31,7 @@ ui_starcraft_protoss = {
         }
         background = {
             category = "backgrounds"
-            file = "hexagone.dds"
+            file = "ui_hexagon.dds"
         }
         colors = {
             "turquoise"
