@@ -36,6 +36,10 @@ ui_extra_human_extended = {
             
             # >>> From: UI Human SPQR - By places
             Dacicus Salamina
+
+            # >>> From: UI - RuneScape - Human
+            "Lady Lumbridge" "Lady Zay" "Lady of the Waves" "Adventurous" "Inebriated" "Barbarous" "Gnome's Promise" "Glass" "Hangman" "Jonah" "Reaver" "Saucy Wench"
+            "Seahound" "Albatross" "Edelweiss" "Ghostship" "Butcher"
             
             # Memes
             "Pepe the Frog" Kekistan "Captain Alex" Doge "Rick Roll"
@@ -775,6 +779,9 @@ ui_extra_human_extended = {
                 Zhenneung Zhenraha Zhongchaek Zhonggaa Zhonghai Zhongmaki Zhongtsukawa Zhougol Zhourano Zhouyuan Zoabetsu Zoakami Zoapo Zoaqiu Zoazaki Zuunchong
                 Zuunchun Zuunkhorin Zuunmoto Zuunturuun
 
+                # >>> From: UI - RuneScape - Human - Deities
+                Elidinis Het
+
                 # >>> From: UI - StarCraft - Terran
                 Thys Pegasus Brontes Gohbus Torus Valhalla Bacchus "Tal Qirat" Asteria Marlowe Gelgaris "Demon's Fair" Jotun Parragos "Pho-Rekh" Tepperus
                 Melkora Cirion "Great Bend" Chiron Ravera Seti Lakius Adena
@@ -832,14 +839,14 @@ ui_extra_human_extended = {
                 # >>> From: UI Human Asian - Regions of Earth
                 Gobi
 
+                # >>> From: UI - RuneScape - Human
+                "Ullek" "Uzer" "Menaphos" "Sophanem"
+
                 # >>> From: UI - StarCraft - Terran
                 Altara "New Sydney" Sonyan Choss Sirocco Phaeton Gurdlac Moria
 
                 # Countries, capitals, cities
                 Nazca "New Mojave" Persia
-                
-                # RuneScape
-                "Al Kharid"
 
                 # Star Wars
                 Tatooine Mandalore Geonosis
@@ -887,14 +894,14 @@ ui_extra_human_extended = {
                 # >>> From: UI Human SPQR
                 Pandora Sylvana Silvestris "Transylvania Nova"
 
+                # >>> From: UI - RuneScape - Human
+                "Brimhaven" "Karamja"
+
                 # >>> From: UI - StarCraft - Terran
                 Vygoire Garxxax "Brokas Hur" Calus Miranar Candore "Chau Sara" Aridas
                 
                 # >>> From: UI - StarWars - Human
                 Daflomia Vestar Valrar Felucia Onderon Akiva
-                
-                # RuneScape
-                Brimhaven Karamja
                 
                 # New
                 Tropico Maya
@@ -918,6 +925,10 @@ ui_extra_human_extended = {
                 # >>> From: UI Human Asian - The Elder Scrolls
                 Akavir Tsaesci
 
+                # >>> From: UI - RuneScape - Human
+                "Ardougne" "Falador" "Varrock" "Lumbridge" "Port Sarim" "Yanille" "Kandarin" "Asgarnia" "Misthalin" "Entrana" "Teragard" "Senntisten" "Edgeville"
+                "Avarrocka"
+
                 # >>> From: UI - StarCraft - Terran
                 Umoja Korhal Tarsonis Haji Halcyon Vardona Bountiful Gystt Roxara Goldilocks Sammy Haven TarKossia Boone Shiloh "Bhekar Ro" Tashai
                 
@@ -935,9 +946,6 @@ ui_extra_human_extended = {
                 # Warhammer
                 Espandor Gudrun
 
-                # RuneScape
-                Ardougne Falador Varrock Lumbridge "Port Sarim" Yanille Kandarin Asgarnia Misthalin Entrana
-            
                 # Mythology / religion / folklore / legend
                 Midgard Camelot
 
@@ -1007,6 +1015,12 @@ ui_extra_human_extended = {
 
                 # >>> From: UI Human Asian
                 Namida
+
+                # >>> From: UI - RuneScape - Human - Settlements
+                "Catherby"
+                
+                # >>> From: UI - RuneScape - Human - Rivers
+                "Elid"
                 
                 # >>> From: UI - StarCraft - Terran
                 Pridewater Hydrax
@@ -1017,9 +1031,6 @@ ui_extra_human_extended = {
                 # Puzzle Pirates (Island names)
                 Angelfish Dugong Cormorant Starfish Barracuda
                                 
-                # RuneScape
-                Catherby
-                
                 # Countries, cities, regions, etc
                 Caspia Danubia Lochness Azovia Histria Mangalia Venetia Marmara Beringia Java Istros
                 
@@ -1098,6 +1109,9 @@ ui_extra_human_extended = {
                 # >>> From: UI Human Asian - Devastated places on Earth
                 Nagasaki Hiroshima Fukushima
 
+                # >>> From: UI - RuneScape - Human
+                "Draynor" "Darkmeyer" "Meiyerditch" "Crandor"
+
                 # >>> From: UI StarCraft
                 "Dead Man's Rock" "Van Osten's Moon" "Port Zion"
 
@@ -1113,9 +1127,6 @@ ui_extra_human_extended = {
                 # Puzzle Pirates (Island names)
                 Gallows Shatterstone Ebony
                 
-                # RuneScape
-                Draynor Darkmeyer Meiyerditch Crandor
-
                 # Literature
                 Valyria Mordor
 
@@ -1139,6 +1150,9 @@ ui_extra_human_extended = {
                 # >>> From: UI Human Asian - Places from Earth
                 Himalaya Sagarmatha Chomolungma
 
+                # >>> From: UI - RuneScape - Human
+                "Burthrope" "Taverley"
+
                 # >>> From: UI - StarCraft - Terran
                 "Jarban Minor" Karkulv "Pike's Peak" Ursa
                 
@@ -1156,9 +1170,6 @@ ui_extra_human_extended = {
                 # A Song of Ice and Fire
                 Skyreach Runestone
                 
-                # RuneScape
-                Burthrope Taverley
-
                 # Fallout
                 Grayditch
 
@@ -1194,8 +1205,11 @@ ui_extra_human_extended = {
         }
         pc_barren = {
             names = {
+                # >>> From: UI - RuneScape - Human
+                "Amascut"
+
                 # >>> From: UI - StarCraft - Terran
-                Brutus
+                "Brutus"
 
                 "No Man's Land"
             }
