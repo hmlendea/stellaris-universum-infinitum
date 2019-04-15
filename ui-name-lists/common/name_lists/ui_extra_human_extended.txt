@@ -2,7 +2,7 @@
 ### Extras
 ### Human - Extended
 
-ui_extra_human_extended = {
+ui_extra_humans_extended = {
     randomized = no
 
     ship_names = {

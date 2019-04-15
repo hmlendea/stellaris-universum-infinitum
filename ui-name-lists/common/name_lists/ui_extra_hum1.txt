@@ -2,7 +2,7 @@
 ### Extras
 ### Humanoid 1
 
-ui_extra_mam1 = {
+ui_extra_hum1 = {
     ship_names = {
         generic = {
             Ustagranor Astanir Rogator Remblenor Ertodil Ribiator Egravor Vargolir Bandomar Evremar Dagrevel

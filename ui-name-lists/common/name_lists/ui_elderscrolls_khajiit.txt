@@ -2,7 +2,7 @@
 ### Elder Scrolls
 ### Khajiit
 
-ui_elderscrolls_argonian = {
+ui_elderscrolls_khajiit = {
     ship_names = {
         generic = {
             # Countries

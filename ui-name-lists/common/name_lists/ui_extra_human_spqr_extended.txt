@@ -1,8 +1,8 @@
 ﻿### Universum Infinitum
 ### Extras
-### Human (SPQR) (Extended)
+### Humans (SPQR) (Ext)
 
-ui_extra_human_spqr_extended = {
+ui_extra_humans_spqr_extended = {
     ship_names = {
         generic = {
             # By Gods

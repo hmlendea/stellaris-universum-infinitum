@@ -2,7 +2,7 @@
 ### Elder Scrolls
 ### Spriggan
 
-ui_elderscrolls_argonian = {
+ui_elderscrolls_spriggan = {
     ship_names = {
         generic = {
             # Surnames

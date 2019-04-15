@@ -1,8 +1,8 @@
 ﻿### Universum Infinitum
-### Extras
-### Arthropoid 1
+### Elder Scrolls
+### Orc
 
-ui_extra_art1 = {
+ui_elderscrolls_orc = {
     ship_names = {
         generic = {
             # Person names

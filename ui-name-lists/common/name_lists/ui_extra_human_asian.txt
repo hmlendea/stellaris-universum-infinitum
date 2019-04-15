@@ -1,6 +1,6 @@
 ### Universum Infinitum
 ### Extras
-### Human - Asian (Chinese, Mongolian, Japanese, Korean, Indonesian, Malysian, Vietnamese, etc)
+### Humans - Asian (Chinese, Mongolian, Japanese, Korean, Indonesian, Malysian, Vietnamese, etc)
 
 ui_extra_human_asian = {
     randomized = no

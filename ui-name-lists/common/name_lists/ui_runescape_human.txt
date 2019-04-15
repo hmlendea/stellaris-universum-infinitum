@@ -2,7 +2,7 @@
 ### RuneScape
 ### Human - RuneScape
 
-ui_human_runescape = {
+ui_runescape_human = {
     randomized = no
 
     ship_names = {
