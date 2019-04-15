@@ -1,8 +1,8 @@
 ﻿### Universum Infinitum
 ### Starcraft
-### Terran (StarCraft)
+### Human (StarCraft)
 
-ui_starcraft_terran = {
+ui_starcraft_human = {
     randomized = no
 
     ship_names = {

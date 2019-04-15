@@ -172,9 +172,7 @@ ui_runescape_human = {
             }
         }
         pc_savannah = { }
-        pc_alpine = {
-            }
-        }
+        pc_alpine = { }
         pc_molten = { }
         pc_barren = {
             names = {

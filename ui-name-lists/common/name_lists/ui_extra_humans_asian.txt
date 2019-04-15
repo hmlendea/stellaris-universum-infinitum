@@ -2,7 +2,7 @@
 ### Extras
 ### Humans - Asian (Chinese, Mongolian, Japanese, Korean, Indonesian, Malysian, Vietnamese, etc)
 
-ui_extra_human_asian = {
+ui_extra_humans_asian = {
     randomized = no
 
     ship_names = {
