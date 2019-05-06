@@ -24,7 +24,10 @@ ui_extra_humans_extended = {
             Silvanus "Sol Invictus" Somnus Soranus Sors Spes "Stata Mater" "Sterquilinus" Suadela Summanus "Sulis Minerva" Tempestas Tiberinus Tibertus Tranquilitas
             Trivia Ubertas Unxia Vacuna Vagitanus Vaticanus Vediovus Veiovis Venilia Venelia Venti Veritas Verminus Vertumnus Vortumnus Vertimnus "Vica Pota" Victoria
             "Viduus" "Virbius" "Virtus" "Volturnus" "Voluptas"
-                        
+            
+            # >>> From: UI Human Germanic - People groups
+            "Viking" "Swiss" "German" "Austrian" "Belgian" "Dutch" "Vandal"
+            
             # >>> From: UI Human SPQR - By heroes and mythology
             Hercules Aeneas Indiges Hermaphroditus
             
@@ -49,22 +52,22 @@ ui_extra_humans_extended = {
             # >>> From: Vanilla Human
             "Crazy Horse" "Dakshin Rai" "Grey Wolf" "Guru Baaje" "Hua Mulan" "Jeanne Hachette" "John Henry" "John Paul Jones" "Juan Valdivia" "King Cobra"
             "King Fish" "Paul Bunyan" "Reuben James" "Rodger Young" "Running Eagle" "Shaka Zulu" "Shooting Star" "Sitting Bull" "Tiger Shark" "Tomoe Gozen"
-            "Van Lierde" "William Tell" Aardvark Abhay Accentor Acinaces Acorn Adder Adler Agustina Akshay Akula Albatross Alligator Anaconda Andraste Antelope
+            Aardvark Abhay Accentor Acinaces Acorn Adder Adler Agustina Akshay Akula Albatross Alligator Anaconda Andraste Antelope
             Apache Armadillo Arrowhead Asp Atalanta Avocet Aztec Badb Badger Balao Baracca Barracuda Bass Beagle Bearcat Belawa Bishop Blackhawk Bloodhound Bong
-            Boudica Boyington Brumowski Brunhild Buffalo Bulldog Buzzard Caldwell Camel Cangjie Cantacuzino Cardinal Cataphract Chameleon Changdao Chaoyang
+            Boudica Boyington Brumowski Buffalo Bulldog Buzzard Caldwell Camel Cangjie Cantacuzino Cardinal Cataphract Chameleon Changdao Chaoyang
             Cheetah Chokuto Clorinda Clostermann Cobra Condor Coppens Cordelia Cormorant Cossack Costaguana Cougar Coyote Dao Datong Dervish Dingo Doblestnyi
-            Dolphin Doolittle Dragonfly Dristigheten Dromedary Druid Eagle Elephant Esfandiar Ethelfleda Falcata Falcon Ferret Firangi Firecrest Firefly Flyssa
+            Dolphin Doolittle Dragonfly Dromedary Druid Eagle Elephant Esfandiar Falcata Falcon Ferret Firangi Firecrest Firefly Flyssa
             Fonck Fox Fulmar Gari Garuda Gato Gazelle Glowworm Gordafarid Goshawk Greyhound Grizzly Guangxing Gurkha Gwendolen Gwenllian Haddock Haifeng Hailong
-            Harrier Hartmann Hawk Hellcat Hiawatha Highlander Hippolyta Hoplite Iguana Iwamoto Jackal Jackdaw Jaguar Janissary Jian Jiangkun Juutilainen Kampilan
+            Harrier Hawk Hellcat Hiawatha Highlander Hippolyta Hoplite Iguana Iwamoto Jackal Jackdaw Jaguar Janissary Jian Jiangkun Juutilainen Kampilan
             Kangaroo Kaskara Kastane Kazakov Kearsarge Kestrel Khanda Khopesh Kilij Kingfisher Klewang Kodiak Kopis Kozhedub Krabi Ladybird Lafayette Leopard
             Lion Litvyak Liuyedao Lizard Lynx MacLachlan Macana Macha Macuahuitl Madoc Makhaira Malalai Mandau Mannock Matador McAuliffe McCampbell Meihong
             Miaodao Mitralexis Mohawk Mongol Mongoose Morrigan Mosquito Muirisc Musketeer Mölders Narwhal Niabor Nicator Nighthawk Nightingale Nimcha Nishizawa
-            Nostromo Novikov O'Hare Ocelot Odachi Olds Orca Orff Osprey Panabas Panther Papillon Parang Parthian Pata Patrician Peacock Pelican Penguin
+            Nostromo Novikov O'Hare Ocelot Odachi Olds Orca Osprey Panabas Panther Papillon Parang Parthian Pata Patrician Peacock Pelican Penguin
             Penthesilea Petrel Pharaoh Piranha Platypus Polecat Porcupine Puma Python Qiuxing Rajput Rana Ranvir Rattlesnake Raven Redeemer Rhomphaia Ribiera
-            Richthofen Rickenbacker Ronin Rostam Sakai Salamander Samurai Saracen Sardine Scathach Scorpion Seahorse Sealion Semiramis Shamshir Shark Shashka
+            Ronin Rostam Sakai Salamander Samurai Saracen Sardine Scathach Scorpion Seahorse Sealion Semiramis Shamshir Shark Shashka
             Shestakov Shikomizue Shinohara Shotel Shrike Sica Skalski Skua Skylark Smilodon Soobrazitelny Soyokaze Soyuz Sparrow Sparrowhawk Sphinx Spider
             Starfish Steregushchiy Stingray Stork Sturgeon Sulaco Sultan Surik Swordfish Tachi Taiyang Taizhao Takoba Talwar Tancred Tapir Teuta Thach Tiger
-            Tomahawk Tomcat Toreador Tsurugi Uchigatana Uhlan Urumi Vandal Viking Vulture Wakizashi Walrus Whippet Wildcat Wodao Wolverine Wulong Yangwei
+            Tomahawk Tomcat Toreador Tsurugi Uchigatana Uhlan Urumi Vulture Wakizashi Walrus Whippet Wildcat Wodao Wolverine Wulong Yangwei
             Yanmaodao Yatagan Yeager Yennenga Yinghao Yinxi Yongcheng Yuenü Zhanmadao Zhengsheng Zulu
 
             # >>> From: Vanilla Human (Removed ones)
@@ -92,6 +95,30 @@ ui_extra_humans_extended = {
             Rutilus Sagittarii Salinator Sanctus Scaeva Scapula Scipio Scutum Sempronius Servilius Servius Spina Spurius Strix Structus Sulpicius Titinius Torquatus
             Tribulus Tubertus Ursus Valerius Varus Velox Verrucosus Vespa Veturius Virosus Viscellinus Visolus Viverra Volusus Vulpes
             
+            # >>> From: UI Human Germanic - Ships - Swedish
+            "Dristigheten"
+            
+            # >>> From: UI Human Germanic - Famous people: Politics - Anglo-saxon
+            "Ethelfleda"
+        
+            # >>> From: UI Human Germanic - Famous people: Sport - Belgian
+            "Van Lierde"
+            
+            # >>> From: UI Human Germanic - Famous people: Folklore - Swiss
+            "William Tell" "Wilhelm Teil"
+            
+            # >>> From: UI Human Germanic - Famous people: Folklore - German
+            "Brunhild"
+            
+            # >>> From: UI Human Germanic - Famous people: Military - German
+            "Hartmann" "Richthofen"
+            
+            # >>> From: UI Human Germanic - Famous people: Science - Swiss
+            "Rickenbacker"
+            
+            # >>> From: UI Human Germanic - Famous people: Art - German
+            "Orff"
+            
             # >>> From: UI - StarWars - Human
             "Millenium Falcon"
             
@@ -100,31 +127,31 @@ ui_extra_humans_extended = {
         }
         destroyer = {
             # >>> From: Vanilla Human
-            Amsterdam Austin Athens Atlanta Baghdad Baltimore Bangkok Barcelona Beijing Belfast Berlin Bombay Boston Hyderabad Budapest "Buenos Aires" Cairo Calcutta
-            "Cape Town" Chicago Copenhagen Damascus "Dar es Salaam" Detroit Dubai Dublin Edinburgh Gibraltar Glasgow Guangzhou Hanoi Havana Helsinki "Hong Kong"
-            Houston Istanbul Jakarta Jerusalem Johannesburg Kiev London "Los Angeles" Madrid Manila Minsk Moscow Mumbai "New York" "New Orleans" Novgorod Osaka Oslo
-            Paris Prague "Rio de Janeiro" Rome Rotterdam "San Francisco" "Sao Paulo" Sarajevo Seattle Seoul Sevastopol Shanghai Singapore "St. Louis" Stockholm Tokyo
-            Toronto Vancouver Vienna Vladivostok Warsaw Sydney Brisbane "Mexico City" München Nairobi Smolensk Casablanca Venice Mogadishu Montreal Birmingham
-            Liverpool Manchester Kabul Kyoto Volgograd "St. Petersburg" Frankfurt Belgrade Marseille Brussels Tripoli Tehran Quebec Florence Exeter Dallas Denver
+            Austin Athens Atlanta Baghdad Baltimore Bangkok Barcelona Beijing Belfast Berlin Bombay Boston Hyderabad Budapest "Buenos Aires" Cairo Calcutta
+            "Cape Town" Chicago Damascus "Dar es Salaam" Detroit Dubai Dublin Edinburgh Gibraltar Glasgow Guangzhou Hanoi Havana Helsinki "Hong Kong"
+            Houston Istanbul Jakarta Jerusalem Kiev London "Los Angeles" Madrid Manila Minsk Moscow Mumbai "New York" "New Orleans" Novgorod Osaka
+            Paris Prague "Rio de Janeiro" Rome "San Francisco" "Sao Paulo" Sarajevo Seattle Seoul Sevastopol Shanghai Singapore "St. Louis" Tokyo
+            Toronto Vancouver Vienna Vladivostok Warsaw Sydney Brisbane "Mexico City" Nairobi Smolensk Casablanca Venice Mogadishu Montreal Birmingham
+            Liverpool Manchester Kabul Kyoto Volgograd "St. Petersburg" Belgrade Marseille Tripoli Tehran Quebec Florence Exeter Dallas Denver
             Lagos Melbourne Calgary Ottawa Algiers Brazzaville Santiago Montevideo Bogota Chengdu Hangzhou Shaoxing Yokohama Pittsburgh Philadelphia Miami Lisbon
-            Hamburg Bremen Phoenix Indianapolis Minneapolis Milan Surabaya "Kuala Lumpur" "Abu Dhabi" Ankara Beirut Kathmandu Tapei Islamabad Karachi Zürich Delhi
-            Bangalore Düsseldorf "Tel Aviv" Lima Luxembourg Bucharest Geneva Gothenburg Lyon Bratislava Tunis Riyadh Riga Valencia Krakow Vilnius Tallinn Edmonton
-            Tijuana Trondheim Dhaka Shenzhen Suzhou Kinshasa Lahore Dongguan Chongqing Chennai Changsha Wuhan Tianjin Faisalabad Foshan Zunyi Ahmedabad Shantou
+            Phoenix Indianapolis Minneapolis Milan Surabaya "Kuala Lumpur" "Abu Dhabi" Ankara Beirut Kathmandu Tapei Islamabad Karachi Delhi
+            Bangalore "Tel Aviv" Lima Luxembourg Bucharest Geneva Gothenburg Lyon Bratislava Tunis Riyadh Riga Valencia Krakow Vilnius Tallinn Edmonton
+            Tijuana Dhaka Shenzhen Suzhou Kinshasa Lahore Dongguan Chongqing Chennai Changsha Wuhan Tianjin Faisalabad Foshan Zunyi Ahmedabad Shantou
             Rangoon Abidjan Alexandria Xi'an Surat Harbin Giza Izmir Zhengzhou Xiamen Quanzhou Busan Rawalpindi Guayaquil Jeddah Durban Hefei Pyongyang Peshawar
             Ekurhuleni Zhongshan Multan Pune "Addis Ababa" Jaipur Lucknow Wenzhou "Quezon City" Salvador Luanda Kaohsiung Taichung Gujranwala Quito Chittagong
             Bandung Brasilia Daegu Nagpur Nagoya "Phnom Penh" Kochi Medan Perth Sapporo "Davao City" Caloocan Kobe Guadalajara Auckland Fukuoka Kawasaki Adelaide
-            Ulsan Tbilisi Fez Yerevan Köln "San Antonio" "San Diego" "San Jose" Jacksonville "Fort Worth" "Charlotte" "El Paso" Nashville Portland "Oklahoma City"
+            Ulsan Tbilisi Fez Yerevan "San Antonio" "San Diego" "San Jose" Jacksonville "Fort Worth" "Charlotte" "El Paso" Nashville Portland "Oklahoma City"
             "Las Vegas" Louisville Milwaukee Albuquerque Tucson Fresno Sacramento "Kansas City" Omaha Oakland Tulsa Wichita Arlington Cleveland Tampa Bakersfield
             Honolulu Anchorage Cincinnati Orlando Irvine Reno Richmond Spokane "Salt Lake City" Tallahassee Huntsville Knoxville Springfield Savannah Hartford Fargo
             Winnipeg Hamilton Mississauga Halifax Bristol Sheffield Leeds Leicester Bradford Cardiff Coventry Nottingham Newcastle Wolverhampton Southampton
-            Portsmouth Brighton Aberdeen Bolton Norwich Swansea Oxford York Blackpool Cambridge Ipswich Stuttgart Dortmund Essen Dresden Hannover Nürnberg Duisburg
-            Bonn Münster Karlsruhe Mannheim Augsburg Freiburg Aachen Lübeck Mainz Rostock Potsdam Toulouse Nice Nantes Strasbourg Montpellier Bordeaux Lille Rennes
+            Portsmouth Brighton Aberdeen Bolton Norwich Swansea Oxford York Blackpool Cambridge Ipswich
+            Toulouse Nice Nantes Strasbourg Montpellier Bordeaux Lille Rennes
             Reims "Le Havre" Toulon Grenoble Dijon Brest Metz Novosibirsk Yekaterinburg Samara Omsk Kazan Chelyabinsk Rostov Ufa Perm Krasnoyarsk Voronezh Saratov
             Krasnodar Izhevsk Ulyanovsk Yaroslavl Irkutsk Khabarovsk Orenburg Ryazan Astrakhan Lipetsk Tula Kirov Bryansk Ivanovo Stavropol Tver Arkhangelsk Vladimir
-            Murmansk Grozny Petrozavodsk Pskov Antwerp Utrecht "The Hague" Turin Palermo Genoa Seville Granada Aleppo "Kuwait City" Amman Mashhad Isfahan Gaza Sana'a
+            Murmansk Grozny Petrozavodsk Pskov Turin Palermo Genoa Seville Granada Aleppo "Kuwait City" Amman Mashhad Isfahan Gaza Sana'a
             Mosul Khartoum Accra Kano Ibadan Dakar Pretoria Benghazi Rabat Freetown Djibouti Monrovia "Port Elizabeth" N'Djamena Lodz Canberra Baku Sofia Zagreb
             Astana Nouakchott "Ulan Bator" Abuja "Port Moresby" "Banja Luka" Douala Nicosia "San Salvador" Thessaloniki Guatemala Port-au-Prince Georgetown Reykjavík
-            Basra Cork Kingston Mombasa Ecatepec Windhoek Wellington Hebron "Panama City" Porto Ljubljana Malmö Bern Donetsk Harare Aarhus Liege
+            Basra Cork Kingston Mombasa Ecatepec Windhoek Wellington Hebron "Panama City" Porto Ljubljana Donetsk Harare Liege
             
             # >>> From: Vanilla Human Commonwealth
             Cyclops Centaur Adversary Assassin Dagger Daring Duty Havoc Hero Hunter Justice Impeccable Interceptor Infernal Loyal Matchless Mauler Mayhem Malice
@@ -146,31 +173,56 @@ ui_extra_humans_extended = {
             Mephitis Mellonia Moneta Mors Murcia "Mutunus Tutunus" Naenia Nascio Necessitas Neverita Nona Nox Palatua Pax Picumnus Picus Pilumnus Poena Pomona
             Porrima Portunes Postverta Priapus Pudicitia Quirtis Robigus Rumina Silvanus Somnus Soranus Sors Spes "Stata Mater" Sterquilinus Suedala Summanus
             Tiberinus Tibertus Tranquillitas Trivia Ubertas Unxia Vacuna Vediovus Venelia Verminus Vertumnus Viduus Virbius Volturnus Voluptas
+            
+            # >>> From: UI Human Germanic - Cities - Belgium
+            "Antwerp" "Brussels"
+            
+            # >>> From: UI Human Germanic - Cities - Denmark
+            "Aarhus" "Copenhagen"
+            
+            # >>> From: UI Human Germanic - Cities - Germany
+            "Aachen" "Augsburg" "Bonn" "Bremen" "Dortmund" "Dresden" "Duisburg" "Düsseldorf" "Essen" "Frankfurt" "Freiburg" "Hamburg" "Hannover" "Karlsruhe" "Köln"
+            "Leipzig" "Lübeck" "Mainz" "Mannheim" "München" "Münster" "Nürnberg" "Potsdam" "Rostock" "Stuttgart"
+            
+            # >>> From: UI Human Germanic - Cities - Netherlands
+            "Amsterdam" "Arnhem" "Rotterdam" "The Hague" "Utrecht"
+            
+            # >>> From: UI Human Germanic - Cities - Norway
+            "Oslo" "Trondheim"
+            
+            # >>> From: UI Human Germanic - Cities - Sweden
+            "Lund" "Malmö" "Stockholm"
+            
+            # >>> From: UI Human Germanic - Cities - Switzerland
+            "Bern" "Zürich"
+            
+            # >>> From: UI Human Germanic - Cities - Others
+            "Johannesburg" "Luxembourg"
         }
         cruiser = {
             # >>> From: Vanilla Human
-            Bolivar Brusilov Churchill Clausewitz Garibaldi "Gustavus Adolphus" Hammurabi "Julius Caesar" Justinian Lincoln Patton Rommel "Sun Tzu" Liberator Zhukov
-            "Alexander Nevsky" Pyrrhus "Yi Sun-sin" Heihachiro "Khalid ibn al-Walid" Vasa Hindenburg "De Gaulle" Subutai Nagato Scharnhorst Clemenceau Richelieu
-            "Jean Bart" Sparviero Affondatore Tromp "De Ruyter" Esperanza Pelayo Velasco Juneau Sherwood Alamo Bannockburn Borodino Breitenfeld Cannae "El Alamein"
-            Gaugamela Kadesh Kursk Masada Normandy Salamis Sedan Tannenberg Ticonderoga Thermopylae Marengo Leipzig Shiloh Königgrätz Ypres Somme Suomussalmi Kharkov
+            Bolivar Brusilov Churchill Clausewitz Garibaldi Hammurabi "Julius Caesar" Justinian Lincoln Patton "Sun Tzu" Liberator Zhukov
+            "Alexander Nevsky" Pyrrhus "Yi Sun-sin" Heihachiro "Khalid ibn al-Walid" Vasa "De Gaulle" Subutai Nagato Clemenceau Richelieu
+            "Jean Bart" Sparviero Affondatore Tromp "De Ruyter" Esperanza Pelayo Velasco Juneau Sherwood Alamo Bannockburn Borodino Cannae "El Alamein"
+            Gaugamela Kadesh Kursk Masada Normandy Salamis Sedan Ticonderoga Thermopylae Marengo Shiloh Ypres Somme Suomussalmi Kharkov
             Guadalcanal "Leyte Gulf" "Dien Bien Phu" Thymbra Manassas Blenheim Adelphi Angel Borealis Bounty Emancipator "Morning Star" "Shi Lang" Vikramaditya
-            Viraat Vikrant Vishal Kongo Oriskany "Bunker Hill" Farragut "Kitty Hawk" "Royal Oak" Thunderbolt Nimitz Eisenhower Roland "Tran Hung Dao" Themistocles
-            Cunaxa Uhuru Ramses Vauban Harpagos Anzio Caen Carentan Bastogne Arnhem Temeraire Vesuvius Etna "St. Helens" "Olympus Mons" Alcibiades Patrocles
+            Viraat Vikrant Vishal Kongo Oriskany "Bunker Hill" Farragut "Kitty Hawk" "Royal Oak" Thunderbolt Nimitz Eisenhower "Tran Hung Dao" Themistocles
+            Cunaxa Uhuru Ramses Vauban Harpagos Anzio Caen Carentan Bastogne Temeraire Vesuvius Etna "St. Helens" "Olympus Mons" Alcibiades Patrocles
             Santander Vega Rigel Sirius Canopus Arcturus Capella Procyon Altair Betelgeuse Antares Achernar Aldebaran Pollux Deneb Regulus Proxima "Rigil Kentaurus"
             Spica Polaris Bellatrix Capricorn Syracuse Metaurus Chalons Tours Hastings Orléans Valmy Mukden Narvik Narva Poltava "Lake Peipus" Malta Antietam
-            "Baton Rouge" Beauport Abukir Lund Issus Changping "Teutoburg Forest" "Watling Street" Yarmouk Salamanca Berezina Fredericksburg Chickamauga Caporetto
-            "Khalkhin Gol" Gazala "Monte Cassino" Saipan Breslau Plataea Hydaspes Sentinum Heraclea Kalinga Magnesia Adrianople Ravenna Lützen Cambrai Marne
+            "Baton Rouge" Beauport Abukir Issus Changping "Watling Street" Yarmouk Salamanca Berezina Fredericksburg Chickamauga Caporetto
+            "Khalkhin Gol" Gazala "Monte Cassino" Saipan Plataea Hydaspes Sentinum Heraclea Kalinga Magnesia Adrianople Ravenna Cambrai Marne
             Chancellorsville "Philippine Sea" "Savo Island" "Cape Esperance" Taranto "Cape Matapan" "Java Sea" Gallipoli "De Valette" Suleiman MacArthur Roosevelt
-            Victoria Nebuchadnezzar Pachacuti "Catherine the Great" "Frederick the Great" Ashoka "Qin Shi Huang" Tamerlane Marshall "Joan of Arc" "Genghis Khan"
+            Victoria Nebuchadnezzar Pachacuti "Catherine the Great" Ashoka "Qin Shi Huang" Tamerlane Marshall "Joan of Arc" "Genghis Khan"
             Atatürk "William the Conqueror" "Bonhomme Richard"
             
             # >>> From: Vanilla Human Commonwealth
             Acheron Achilles Agamemnon Amphion Aquilon Argonaut Argus Ariel Aurora Avernus Bacchus Bucephalus Calliope Calypso Castor Charybdis Circe Cleopatra
-            Constantine Cordelia Cyrus Damocles Daedalus Darius Diomede Dryad Electra Endymion Erebus Fenris Freya Gilgamesh Gorgon Halcyon Hecate Hector Hesperus
+            Constantine Cordelia Cyrus Damocles Daedalus Darius Diomede Dryad Electra Endymion Erebus Gilgamesh Gorgon Halcyon Hecate Hector Hesperus
             Janus Jason Juno Jupiter Lancelot Lazarus Leander Leonidas Lysander Maenad Mars Medea Medusa Menestheus Mercury Merlin Minerva Minos Neptune Nessus
             Nestor Nimrod Niobe Oberon Odin Ophelia Orestes Orpheus Osiris Pandora Penelope Persephone Perseus Phoebe Pluto Poseidon Proteus Pylades Serapis Stygian
             Tantalus Telemachus Theseus Thor Trajan Triton Venus Adamant Ardent Assail Austere Adroit Aegis Anchor Corsair Banshee Enchantress Aggressor Assault
-            Excellence Senator Tornado Usurper Utmost Whirlwind Athena Loki Anubis Uziel Cephalus Deimos Ares Mjolnir Fafnir Galahad Shiva Aeolus Ganymede Zephyrus
+            Excellence Senator Tornado Usurper Utmost Whirlwind Athena Anubis Uziel Cephalus Deimos Ares Galahad Shiva Aeolus Ganymede Zephyrus
             Pharos Alastor Horus Anhur Amun Sekhmet Sobek Aeshma Toutatis Seraphim Idomeneus Ravana Abaddon Tiamat Taranis Hedetet Agni Arethusa Atropos Atum Chiron
             Gawain "King Arthur" Percival Tristan Ishtar Ivanhoe Marduk Menelaus Midas Ozymandias Parnassus Priam Thetis Xanthus Narayana Eris Boreas Thalassa Atreus
             Bellona Raijin Tyr Bastet Andromache Avalon Durendal Unswerving
@@ -184,11 +236,29 @@ ui_extra_humans_extended = {
 
             # >>> From: UI - StarCraft - Terran
             Victory
+            
+            # >>> From: UI Human Germanic - Ships - German
+            "Scharnhorst"
+            
+            # >>> From: UI Human Germanic - Battles / Battlefields
+            "Arnhem" "Breitenfeld" "Tannenberg" "Königgrätz" "Leipzig" "Lund" "Teutoburg Forest" "Breslau" "Lützen"
+            
+            # >>> From: UI Human Germanic - Famous people - Military
+            Roland "Frederick the Great"
+            
+            # >>> From: UI Human Germanic - Famous people - Military - German
+            "Hindenburg" "Rommel"
+            
+            # >>> From: UI Human Germanic - Famous people - Political - Swedish
+            "Gustavus Adolphus"
+            
+            # >>> From: UI Human Germanic - Mythology - Norse
+            "Fenris" "Freya" "Mjolnir" "Fafnir" "Loki"
         }
         battleship = {
             # >>> From: Vanilla Human
-            Ulysses Xenophon Xerxes Nelson Icarus Atlas Apollo Ajax Bellerophon Agrippa Alexander Belisarius Hannibal Washington Saladin Bismarck Yamato Actium
-            Agincourt Austerlitz Gettysburg Jutland Trafalgar Tsushima "Valley Forge" Verdun Waterloo Granicus Pharsalus Akira Charlemagne "Black Prince" Hood
+            Ulysses Xenophon Xerxes Nelson Icarus Atlas Apollo Ajax Bellerophon Agrippa Alexander Belisarius Hannibal Washington Saladin Yamato Actium
+            Agincourt Gettysburg Trafalgar Tsushima "Valley Forge" Verdun Waterloo Granicus Pharsalus Akira Charlemagne "Black Prince" Hood
             Potemkin Musashi Warspite Victory Courage Dauntless Endeavor Excelsior Indefatigable Chivalrous Valiant Monitor Bulwark Defender Endurance Vigilant
             Resolute Fortitude Yamamoto Lexington Midway Saratoga Yorktown "Coral Sea" Hermes Wasp Hornet "Ark Royal" Essex Akagi Kaga Illustrious Intrepid
             Constellation Constitution Ranger Andromeda Aquila Century Concord Defiant Galaxy Odyssey Orion Providence Reliant Freedom Solaris Independence
@@ -197,7 +267,7 @@ ui_extra_humans_extended = {
             # >>> From: Vanilla Human Commonwealth
             Vengeance Triumphant Nemesis Avenger Champion Conqueror Crusader Judicator Vanguard Renown Demolisher Dragon Furious Gladiator Magnificent Onslaught
             Revenge Vanquisher Vehement Basilisk Tempest Warrior Nike Paladin Sovereign Repulse Majestic Centurion Citadel Dreadnought Leviathan Katana Cerberus
-            Valkyrie Hyperion Galatea Ambush Vindicator Indomitable Sentinel Brilliant Blazer Audacity Gallant Nova Shadow Allegiance Challenger Fearless Protector
+            Hyperion Galatea Ambush Vindicator Indomitable Sentinel Brilliant Blazer Audacity Gallant Nova Shadow Allegiance Challenger Fearless Protector
             Victorious Courageous Defiance Valorous Azrael Thanatos Cronus Helios Crius Hades Epimetheus Prospero Untiring Zenith Meridian Conquistador Scylla
             Tormentor Warlord Devastator Artemis Vigilance Decimator Legion Reprisal Unrivalled Warhammer Retribution Infinity Eviscerator Eminence Relentless Archon
             Typhon Pinnacle Bastion Incomparable Invictus Requiem Dominance Armageddon Preponderous Consummate Perfection Incorruptible Impregnable Insurmountable
@@ -215,6 +285,15 @@ ui_extra_humans_extended = {
             Helios Ragnorak Metis "Thunder Child" Meleager Amphitrite Phobos Titan Circe "Iron Justice" Merrimack Jackson Eos "Huey Long" Antigone "Iron Fist"
             Patroclus Aeneas "Theodore G. Bilbo" Bismarck Napoleon "Dark Skies" "Jackson's Revenge" "Valor of Vardona" "Kimeran Juggernaut" Kimera Aethon
             "Dominion's Revenge"
+            
+            # >>> From: UI Human Germanic - Battles / Battlefields
+            "Austerlitz" "Jutland"
+            
+            # >>> From: UI Human Germanic - Famous people - Military
+            "Bismarck"
+            
+            # >>> From: UI Human Germanic - Mythology
+            "Valkyrie"
             
             # New
             "Pale Blue Dot" "The Trojan" "Disaster Artist"
@@ -265,9 +344,9 @@ ui_extra_humans_extended = {
         }
         science = {
             # >>> From: Vanilla Human
-            Aldrin Armstrong Columbus Copernicus Cortez Drake Hubble Goddard Galileo Einstein Gagarin Tereshkova "Zheng He" "Leif Ericson" Magellan "James Cook"
-            "Marco Polo" Newton Tesla "Von Braun" "Walter Raleigh" Asimov Clarke Sagan "Ibn Battuta" Kepler Ptolemy Pytheas Azophi Discovery Voyager Tradewind Scout
-            Pioneer Explorer Sojourner "Santa Maria" Hawking Earhart Nobel Kelvin Fahrenheit Equinox Lagrange Tsiolkovsky Darwin Grissom Archimedes
+            Aldrin Armstrong Columbus Copernicus Cortez Drake Hubble Goddard Galileo Gagarin Tereshkova "Zheng He" Magellan "James Cook"
+            "Marco Polo" Newton Tesla "Walter Raleigh" Asimov Clarke Sagan "Ibn Battuta" Ptolemy Pytheas Azophi Discovery Voyager Tradewind Scout
+            Pioneer Explorer Sojourner "Santa Maria" Hawking Earhart Kelvin Equinox Lagrange Tsiolkovsky Darwin Grissom Archimedes
 
             # >>> From: Vanilla Human Commonwealth
             Crescent Diligent Zephyr Enigma Arbiter Asperity Astute Alacrity Torch Remembrance Pilgrim Trailblazer Vagabond Wayfarer Ambassador Emissary Nomad
@@ -276,6 +355,18 @@ ui_extra_humans_extended = {
             # >>> From: Vanilla Human SPQR
             Plinius Acoreus Adrastus Hyginus Gallus Pytheas Diodorus Posidonius Anaximander Callippus Hephaestio Ptolemy Alypius Mucianus Isidore Strabo
             "Pomponius Mela" Marinus Pausanias Agathodaemon Dionysius Agathemerus Marcian "Julius Honorius" "Polemius Silvius"
+            
+            # >>> From: UI Human Germanic - Famous People - Science - Dutch
+            "Fahrenheit"
+            
+            # >>> From: UI Human Germanic - Famous People - Science - German
+            "Einstein" "Kepler" "Von Braun"
+            
+            # >>> From: UI Human Germanic - Famous People - Science - Swedish
+            "Nobel"
+            
+            # >>> From: UI Human Germanic - Famous People - Exploration - Norse
+            "Leif Ericson"
             
             # >>> From: UI - StarCraft - Terran
             Brin Amerigo
@@ -286,7 +377,7 @@ ui_extra_humans_extended = {
         colonizer = {
             # >>> From: Vanilla Human
             Mayflower Abundance Bountiful Felicity Hope Opportunity Serenity Unity Destiny Britannia Byzantium Caledonia "El Dorado" Knossos Memphis Olympus
-            Persepolis "Sierra de la Plata" Sparta Valhalla "Crystal Palace" Alaska Angola Australia Brazil Canada Congo Guinea India Indonesia Jamaica Macau
+            Persepolis "Sierra de la Plata" Sparta "Crystal Palace" Alaska Angola Australia Brazil Canada Congo Guinea India Indonesia Jamaica Macau
             Mozambique Philippines Somalia "Sri Lanka" Taiwan
 
             # >>> From: Vanilla Human Commonwealth
@@ -297,17 +388,48 @@ ui_extra_humans_extended = {
             Achaea Belgica Germania Africa Aegyptus Anatolia Arabia Ariana Asia Britannia Caledonia Cilicia Gallia Dacia Cyrenaica Cambria Graecia Hispania Illyria
             Italia Libya Lusitania
             
+            # >> From: UI Human Germanic - Mythology
+            "Valhalla"
+            
+            # >> From: UI Human Germanic - Countries
+            "Austria" "Belgium" "Denmark" "Germany" "Iceland" "Netherlands" "Norway" "Sweden" "Switzerland"
+            
+            # >>> From: UI Human Germanic - Cities - Belgium
+            "Antwerp" "Brussels"
+            
+            # >>> From: UI Human Germanic - Cities - Denmark
+            "Aarhus" "Copenhagen"
+            
+            # >>> From: UI Human Germanic - Cities - Germany
+            "Aachen" "Augsburg" "Bonn" "Bremen" "Dortmund" "Dresden" "Duisburg" "Düsseldorf" "Essen" "Frankfurt" "Freiburg" "Hamburg" "Hannover" "Karlsruhe" "Köln"
+            "Leipzig" "Lübeck" "Mainz" "Mannheim" "München" "Münster" "Nürnberg" "Potsdam" "Rostock" "Stuttgart"
+            
+            # >>> From: UI Human Germanic - Cities - Netherlands
+            "Amsterdam" "Arnhem" "Rotterdam" "The Hague" "Utrecht"
+            
+            # >>> From: UI Human Germanic - Cities - Norway
+            "Oslo" "Trondheim"
+            
+            # >>> From: UI Human Germanic - Cities - Sweden
+            "Lund" "Malmö" "Stockholm"
+            
+            # >>> From: UI Human Germanic - Cities - Switzerland
+            "Bern" "Zürich"
+            
+            # >>> From: UI Human Germanic - Cities - Others
+            "Johannesburg" "Luxembourg"
+            
             # >>> From: UI - StarCraft - Terran
             Nagglfar Argo
 
             # Countries, cities, regions, etc
             Bucharest Romania Hungary Italy Scotland Ireland England Wales Spain Portugal Catalonia France Aquitania Occitania Sicily Lombardy Croatia Dalmatia
-            Serbia Yugoslavia Bulgaria Greece Macedonia Germany Bavaria Poland Bohemia Switzerland Albania Israel Egypt Tunisia Nigeria Algeria Morocco Malta
+            Serbia Yugoslavia Bulgaria Greece Macedonia Bavaria Poland Bohemia Switzerland Albania Israel Egypt Tunisia Nigeria Algeria Morocco Malta
             Scandinavia Finland Lithuania Russia Estonia Latvia Raj China Japan America Mexico Colombia Essex Wessex Bosnia Herzegovina Transylvania Muntenia Oltenia
             Moldova Bucovina Dobrogea Bessarabia Liguria Courland Galicia Extremadura Iberia Balkania Provence Normandy Florida California Corsica Sardinia Iasi
-            Thrace Byzantium Berlin Rome Budapest Madrid Lisbon Paris Washington Alexandria Memphis Ottawa Helsinki Sweden Denmark Norway Iceland Copenhagen
-            Hamburg Bern Warsaw Vilnius Bratislava Belgrade Sophia Zagreb Oradea Constanta Venice London Dublin Sudan Uganda Zimbabwe Düsseldorf "Tel Aviv" Milan
-            Luxembourg Stuttgart Amsterdam Houston Toronto "Cape Town"
+            Thrace Byzantium Berlin Rome Budapest Madrid Lisbon Paris Washington Alexandria Memphis Ottawa Helsinki Denmark Copenhagen
+            Warsaw Vilnius Bratislava Belgrade Sophia Zagreb Oradea Constanta Venice London Dublin Sudan Uganda Zimbabwe "Tel Aviv" Milan
+            Houston Toronto "Cape Town"
         }
         sponsored_colonizer = {
             
@@ -317,10 +439,13 @@ ui_extra_humans_extended = {
             Cowpens "Belleau Wood" Bataan Monterey Veracruz Tarawa "Iwo Jima" Okinawa Inchon "Goose Green" Peleliu Guam Bougainville
 
             # >>> From: Vanilla Human Commonwealth
-            Falx Katzbalger Cinquedea Estoc Foil Flamberge Poignard Sword
+            Falx Cinquedea Estoc Foil Poignard Sword
 
             # >>> From: Vanilla Human SPQR
             Legionarius Aeneator Aquilifer Bucinator Cornicen Draconarius Signifer Tablifer Tubicen Vexillarius
+            
+            # >>> From: UI Human Germanic - Weapons
+            Katzbalger Flamberge
 
             # >>> From: UI - StarCraft - Terran
             Daisy Hydrus Cormorant
@@ -383,15 +508,21 @@ ui_extra_humans_extended = {
             # >>> From: Vanilla Human
             Citadel Albacore Gateway Vincent Babylon Caernavon Acre Pembroke Acheron Spithead Halifax Victoria Chatham Anchorage "Scapa Flow" "Hampton Roads"
             Brooklyn Norfolk Newport Guam Pensacola Vesuvius McKinley Everest Kilimanjaro Aconcagua Elbrus "St. Helens" Fuji Olympus Sinai Ambrose Bermuda Farpoint
-            "Blue Star" "Olympus Mons" Tharsis Syrtis Blackham Fletcher Perry Butakov Morris Moorsom Hart Hargood Spruance Tanaka Halsey Turner Doria Tirpitz
+            "Blue Star" "Olympus Mons" Tharsis Syrtis Blackham Fletcher Perry Butakov Morris Moorsom Hart Hargood Spruance Tanaka Halsey Turner Doria
             Cunningham Jellicoe Hipper Beatty Potemkin Durham Codrington Milne Laforey Tyler Hawke Yonai Pound King Crutchley Mountbatten Kountouriotis Kuznetsov
-            Essen Kornilov Suffren Treville Villeneuve Grasse Byng Lezo
+            Kornilov Suffren Treville Villeneuve Grasse Byng Lezo
 
             # >>> From: Vanilla Human Commonwealth
             Dignity Distinction Discipline Recompense Paramount Constancy Tenacity Sedulity Diligence Pertinacity Exemplary Rectitude Integrity Prudence
 
             # >>> From: Vanilla Human SPQR
             Gladius Spiculum Verutum Lancea Pugio Spatha Hasta Plumbata
+            
+            # >>> From: UI Human Germanic - Ships - German
+            "Tirpitz"
+            
+            # >>> From: UI Human Germanic - Battles / Battlefields
+            "Essen"
         
             # >>> From: UI - StarCraft - Terran
             "Sky Shield" Gemini Nova "Horley Barton" "Theta Prime" "Catwalk Alley" "Osborne Port" "Waypoint Junction"
@@ -400,9 +531,15 @@ ui_extra_humans_extended = {
             # >>> From: Vanilla Human
             Citadel Albacore Gateway Vincent Babylon Caernavon Acre Pembroke Acheron Spithead Halifax Victoria Chatham Anchorage "Scapa Flow" "Hampton Roads"
             Brooklyn Norfolk Newport Guam Pensacola Vesuvius McKinley Everest Kilimanjaro Aconcagua Elbrus "St. Helens" Fuji Olympus Sinai Ambrose Bermuda Farpoint
-            "Blue Star" "Olympus Mons" Tharsis Syrtis Blackham Fletcher Perry Butakov Morris Moorsom Hart Hargood Spruance Tanaka Halsey Turner Doria Tirpitz
+            "Blue Star" "Olympus Mons" Tharsis Syrtis Blackham Fletcher Perry Butakov Morris Moorsom Hart Hargood Spruance Tanaka Halsey Turner Doria
             Cunningham Jellicoe Hipper Beatty Potemkin Durham Codrington Milne Laforey Tyler Hawke Yonai Pound King Crutchley Mountbatten Kountouriotis Kuznetsov
-            Essen Kornilov Suffren Treville Villeneuve Grasse Byng Lezo
+            Kornilov Suffren Treville Villeneuve Grasse Byng Lezo
+            
+            # >>> From: UI Human Germanic - Ships - German
+            "Tirpitz"
+            
+            # >>> From: UI Human Germanic - Battles / Battlefields
+            "Essen"
 
             # >>> From: UI - StarCraft - Terran
             "New Gettysburg" Crusader "Sigma Centari" "Paladino Terminal" Proxima Nimbus Gutterhulk
@@ -411,32 +548,32 @@ ui_extra_humans_extended = {
             # >>> From: Vanilla Human
             Citadel Albacore Gateway Vincent Babylon Caernavon Acre Pembroke Acheron Spithead Halifax Victoria Chatham Anchorage "Scapa Flow" "Hampton Roads"
             Brooklyn Norfolk Newport Guam Pensacola Vesuvius McKinley Everest Kilimanjaro Aconcagua Elbrus "St. Helens" Fuji Olympus Sinai Ambrose Bermuda Farpoint
-            "Blue Star" "Olympus Mons" Tharsis Syrtis Blackham Fletcher Perry Butakov Morris Moorsom Hart Hargood Spruance Tanaka Halsey Turner Doria Tirpitz
+            "Blue Star" "Olympus Mons" Tharsis Syrtis Blackham Fletcher Perry Butakov Morris Moorsom Hart Hargood Spruance Tanaka Halsey Turner Doria
             Cunningham Jellicoe Hipper Beatty Potemkin Durham Codrington Milne Laforey Tyler Hawke Yonai Pound King Crutchley Mountbatten Kountouriotis Kuznetsov
-            Essen Kornilov Suffren Treville Villeneuve Grasse Byng Lezo
+            Kornilov Suffren Treville Villeneuve Grasse Byng Lezo
+            
+            # >>> From: UI Human Germanic - Ships - German
+            "Tirpitz"
+            
+            # >>> From: UI Human Germanic - Battles / Battlefields
+            "Essen"
 
             # >>> From: UI - StarCraft - Terran
             Gehanna "The Keep"
         }
 
-        ion_cannon = {
-            # >>> From: Vanilla Human
-            Bombard Ballista Catapult Harpoon Polybolos Culverin
-            
-            # >>> From: Vanilla Human Commonwealth
-            Longbow Crossbow Arbalest Gargoyle Hellfire
-            
-            # >>> From: Vanilla Human SPQR
-            Ballista Scorpio Javelin Pilum
-        }
+        ion_cannon = { }
     }
 
     ship_class_names = {
         generic = {
             Human # This is put here solely as a placeholder
             
-            # >>> From: UI Human Extra Asian - Real-world aircraft manufacturers
+            # >>> From: UI Human Asian - Real-world aircraft manufacturers
             Changhe Harbin Hongdu Qingdao Sichuan Fuji GEN Kawasaki Mitsubishi AIDC
+            
+            # >>> From: UI Human Germanic - Nationalities
+            "Austrian" "Belgian" "Dannish" "German" "Icelandic" "Dutch" "Norwegian" "Swedish" "Swiss"
             
             # >>> From: UI - StarWars - Human
             Bengel
@@ -449,9 +586,8 @@ ui_extra_humans_extended = {
             Kuznetsov Keldysh Voronezh
             
             # Nations
-            American German French Italian Spanish British English Scottish Irish Belgian Dutch Norwegian Swedish Polish Romanian 
-            Bulgarian Hungarian Moldovan Czech Croatian Serbian Bosnian Slovakian Slovenian Ukrainian Lithuanian Estonian Latvian 
-            European African Asian Chinese Japanese Korean Russian Greek Turkish Mexican Canadian Australian Zeelandian Thai
+            American French Italian Spanish British English Scottish Irish Polish Romanian European African Asian Chinese Japanese Korean Russian Greek Turkish
+            Mexican Canadian Australian Zeelandian Thai
             
             # Memes
             Nyan Kekistani
@@ -528,6 +664,12 @@ ui_extra_humans_extended = {
 
     fleet_names = {
         random_names = {
+            # >>> From: UI Human Germanic - Soldier Types
+            "The Berserker Fleet" "The Landsknechte Fleet" "The Panzer Fleet" "The Templar Fleet"
+            
+            # >>> From: UI Human Germanic - Weapons
+            "The Katzbalger Fleet" "The Flamberge Fleet"
+            
             # >>> From: UI - StarCraft - Terran
             "Alpha Squadron" "Gamma Squadron" "Delta Squadron" "Epsilon Squadron" "Rho Squadron" "Zeta Squadron" "Omega Squadron"
 
@@ -545,16 +687,16 @@ ui_extra_humans_extended = {
             # Soldier types
             "The Archer Fleet" "The Arquebusier Fleet" "The Cataphract Fleet" "The Cavalry Fleet" "The Centurion Fleet" "The Chariot Fleet"
             "The Conquistador Fleet" "The Cossack Fleet" "The Dorobant Fleet" "The Falxmen Fleet" "The Gendarme Fleet" "The Hoplite Fleet" "The Hussar Fleet"
-            "The Immortal Fleet" "The Ironclad Fleet" "The Janissary Fleet" "The Knight Fleet" "The Lancer Fleet" "The Landsknechte Fleet" "The Minuteman Fleet"
-            "The Musketeer Fleet" "The Panzer Fleet" "The Phalanx Fleet" "The Pikeman Fleet" "The Praetorian Fleet" "The Privateer Fleet" "The Samurai Fleet"
-            "The Sipahi Fleet" "The Tercio Fleet" "The Gurkha Fleet" "The Ronin Fleet" "The Buccaneer Fleet" "The Cavalier Fleet" "The Berserker Fleet"
-            "The Skirmisher Fleet" "The Assassin Fleet" "The Templar Fleet" "The Clubmen Fleet" "The Paladin Fleet"
+            "The Immortal Fleet" "The Ironclad Fleet" "The Janissary Fleet" "The Knight Fleet" "The Lancer Fleet" "The Minuteman Fleet"
+            "The Musketeer Fleet" "The Phalanx Fleet" "The Pikeman Fleet" "The Praetorian Fleet" "The Privateer Fleet" "The Samurai Fleet"
+            "The Sipahi Fleet" "The Tercio Fleet" "The Gurkha Fleet" "The Ronin Fleet" "The Buccaneer Fleet" "The Cavalier Fleet"
+            "The Skirmisher Fleet" "The Szekler Fleet" "The Assassin Fleet" "The Clubmen Fleet" "The Paladin Fleet"
             
             # Mythological beasts / Monsters
             "The Basilisk Fleet" "The Behemoth Fleet" "The Centaur Fleet" "The Cerberus Fleet" "The Charybdis Fleet" "The Chimera Fleet" "The Cyclope Fleet"
             "The Dragon Fleet" "The Enfield Fleet" "The Garuda Fleet" "The Gorgon Fleet" "The Griffin Fleet" "The Hippogriff Fleet" "The Hydra Fleet"
             "The Kraken Fleet" "The Manticore Fleet" "The Medusa Fleet" "The Minotaur Fleet" "The Mohawk Fleet" "The Pegasus Fleet" "The Phoenix Fleet"
-            "The Scylla Fleet" "The Sphinx Fleet" "The Szekler Fleet" "The Titan Fleet" "The Werewolf Fleet" "The Wyvern Fleet" "The Spectre Fleet"
+            "The Scylla Fleet" "The Sphinx Fleet" "The Titan Fleet" "The Werewolf Fleet" "The Wyvern Fleet" "The Spectre Fleet"
             "The Phoenix Fleet" "The Mermaid Fleet" "The Nymph Fleet" "The Succubus Fleet" "The Incubus Fleet" "The Harpy Fleet" "The Wolfhound Fleet"
             "The Golbin Fleet" "The Warlock Fleet" "The Banshee Fleet" "The Scylla Fleet" "The Ogre Fleet" "The Gargoyle Fleet" "The Mummy Fleet"
             "The Wraith Fleet" "The Leviathan Fleet"
@@ -562,8 +704,8 @@ ui_extra_humans_extended = {
             # Weapons
             "The Falchion Fleet" "The Rapier Fleet" "The Cutlass Fleet" "The Falx Fleet" "The Sica Fleet" "The Scimitar Fleet" "The Pike Fleet" "The Spear Fleet"
             "The Halberd Fleet" "The Battleaxe Fleet" "The Warhammer Fleet" "The Longsword Fleet" "The Katana Fleet" "The Uchigatana Fleet" "The Glaive Fleet"
-            "The Dirk Fleet" "The Cleaver Fleet" "The Dagger Fleet" "The Katzbalger Fleet" "The Cinquedea Fleet" "The Estoc Fleet" "The Foil Fleet"
-            "The Flamberge Fleet" "The Poignard Fleet" "The Sword Fleet" "The Club Fleet" "The Ballista Fleet" "The Shortbow Fleet" "The Longbow Fleet"
+            "The Dirk Fleet" "The Cleaver Fleet" "The Dagger Fleet" "The Cinquedea Fleet" "The Estoc Fleet" "The Foil Fleet"
+            "The Poignard Fleet" "The Sword Fleet" "The Club Fleet" "The Ballista Fleet" "The Shortbow Fleet" "The Longbow Fleet"
             "The Crossbow Fleet" "The Arbalest Fleet" "The Scorpion Fleet" "The Javelin Fleet" "The Catapult Fleet" "The Harpoon Fleet" "The Trebuchet Fleet"
             
             # FantasyNameGenerator
@@ -699,6 +841,9 @@ ui_extra_humans_extended = {
                 Hesperides Hyperborea Ithaca Lyrnessus Telepylos Lyrcea Hades Olympia Aquilo Favonius Auster Eurus Caledonia Scythia Argyre Silpium Thrinacia
                 Tritonis Phlegra Acherusia "Colonia Aurora" "Colonia Augusta" "Colonia Pacifica" "Colonia Traiana" "Colonia Emerita" Eboracum Ascrivium Brigantium
                 Rhegium Spalatum Patavium Antiochia
+                
+                # >>> From: UI Human Germanic - Mythology - Places
+                "Alfheim"
 
                 # >>> From: UI Human SPQR
                 Colonia
@@ -813,8 +958,8 @@ ui_extra_humans_extended = {
                 # New
                 Destiny Terminus Liber Kolob Solitude Clausewitz Praetoria Lusitania Hypatia Persephone Esperanza Titania Rosetta Dochia
 
-                # Mythological places
-                Agartha Alfheim Reynes Saguenay
+                # Mythology - Places
+                Agartha Reynes Saguenay
 
                 # Mount and Blade
                 Geroia Balion Swadia
@@ -832,6 +977,9 @@ ui_extra_humans_extended = {
                 
                 # >>> From: Vanilla Human Commonwealth
                 "Frampton Sands" Sunrise "Nova Alexandria" Inferno
+                
+                # >>> From: UI Human Germanic - Mythology - Places
+                "Muspelheim"
 
                 # >>> From: UI Human SPQR
                 "Nova Arabia" "Aegyptus Novus"
@@ -912,8 +1060,14 @@ ui_extra_humans_extended = {
         }
         pc_continental = {
             names = {
+                # >>> From: UI Human Germanic - Mythology - Places
+                "Asgard"
+                
+                # >>> From: UI Human Germanic - Cities - Germany
+                "Neu Berlin"
+                
                 # >>> From: Vanilla Human
-                Albion Amor Dawn Horizon Asgard "Terra Nova" Kongzi Zoroaster "Tian Yi" 
+                Albion Amor Dawn Horizon "Terra Nova" Kongzi Zoroaster "Tian Yi" 
                 "Wu Ding" Zheng "Gao Zu" Tokugawa Oda Toyotomi Rama Vishnu Soma Pangea
                 
                 # >>> From: Vanilla Human Commonwealth
@@ -936,7 +1090,7 @@ ui_extra_humans_extended = {
                 Bakura Orinda Champala Brentaal Dantooine Lianna Aradan Carida Bastion Fondor Coruscant Alderaan Naboo Corellia Chandrila Lothal
                 
                 # Countries, cities, regions, etc
-                "New Bucharest" "New Budapest" "Neu Berlin" "New Paris" "Roma Nova" "Europa Nova" "New Kiev" "New Dublin" "New Warsaw" "New Sophia"
+                "New Bucharest" "New Budapest" "New Paris" "Roma Nova" "Europa Nova" "New Kiev" "New Dublin" "New Warsaw" "New Sophia"
                 Byzantium "Transilvania Nova" Pannonia "Novi Belgrad" "New Vilnius" "New Coventry" Athena "Britannia Nova"
                 "Carthago Nova" Lexington
                 
@@ -1012,6 +1166,9 @@ ui_extra_humans_extended = {
                 
                 # >>> From: Vanilla Human Commonwealth
                 Hyderia "Meredith Bay" Neritum "Port Bixby" "Port Snedden"
+                
+                # >>> From: UI Human Germanic - Based on rivers
+                "Danubia" "Elba" "Rheinland"
 
                 # >>> From: UI Human Asian
                 Namida
@@ -1058,6 +1215,12 @@ ui_extra_humans_extended = {
                 # >>> From: Vanilla Human Commonwealth
                 Stonehead "Nova Samarkand" Evonium
                 
+                # >>> From: UI Human Germanic - Countries
+                "Iceland"
+                
+                # >>> From: UI Human Germanic - Mythology
+                "Utgard"
+                
                 # >>> From: UI - StarCraft - Terran
                 Borea
                 
@@ -1081,6 +1244,12 @@ ui_extra_humans_extended = {
                 
                 # >>> From: Vanilla Human Commonwealth
                 Jotunheim Winter
+                
+                # >>> From: UI Human Germanic - Countries
+                "Greenland"
+                
+                # >>> From: UI Human Germanic - Mythology - Places
+                "Jotunheim" "Niflheim"
                 
                 # >>> From: UI - StarCraft - Terran
                 Braxis "Onuru Sigma" Anselm "Planet Christmas" Saluset Zenn
@@ -1106,6 +1275,9 @@ ui_extra_humans_extended = {
         }
         pc_nuked = {
             names = {
+                # >>> From: UI Human Germanic
+                "Krieg"
+                
                 # >>> From: UI Human Asian - Devastated places on Earth
                 Nagasaki Hiroshima Fukushima
 
@@ -1147,6 +1319,9 @@ ui_extra_humans_extended = {
         }
         pc_alpine = {
             names = {
+                # >>> From: UI Human Germanic - Mythology - Places
+                "Muspelheim"
+                
                 # >>> From: UI Human Asian - Places from Earth
                 Himalaya Sagarmatha Chomolungma
 

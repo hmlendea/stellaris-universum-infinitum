@@ -17,6 +17,8 @@
  name_list_ui_extra_fun1:0 "Fungoid Extra 1"
  name_list_ui_extra_hum1_desc:0 "§YLeaders:§! Elviron, Vestor\n§YShips:§! Ustagranor, Astanir\n§YFleets:§! 1st Fleet\n§YColonies:§! Scalgur Abranur"
  name_list_ui_extra_hum1:0 "Humanoids Extra 1"
+ name_list_ui_extra_human_germanic_desc:0 "§YLeaders:§! Otto Schäfer, Eva Klein\n§YShips:§! Mjolnir, Dristigheten\n§YFleets:§! The Landsknechte Fleet, The Panzer Fleet\n§YColonies:§! Neu Berlin, Asgard"
+ name_list_ui_extra_human_germanic:0 "Human (Germanic)"
  name_list_ui_extra_humans_asian_desc:0 "§YLeaders:§! Jian Xiu, Yoshida Nishimura\n§YShips:§! Klewang, Yamato\n§YFleets:§! 1st Fleet, The Samurai Fleet\n§YColonies:§! Xianyang, Kuzutori"
  name_list_ui_extra_humans_asian:0 "Humans (Asian)"
  name_list_ui_extra_humans_extended_desc:0 "§YLeaders:§! Harrison Goodman, Elvira Deleanu\n§YShips:§! Thessaloniki, Accentor\n§YFleets:§! The Musketeer Fleet, The Lancer Fleet\n§YColonies:§! New Jerusalem, Atlantis"
