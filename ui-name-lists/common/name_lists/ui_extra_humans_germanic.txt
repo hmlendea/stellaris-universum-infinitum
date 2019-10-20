@@ -38,17 +38,17 @@ ui_extra_humans_extended = {
         }
         destroyer = {
             # >>> Cities - Belgium
-            "Antwerp" "Brussels"
+            "Antwerpen" "Brussel"
             
             # >>> Cities - Denmark
-            "Aarhus" "Copenhagen"
+            "Aarhus" "København"
             
             # >>> Cities - Germany
             "Aachen" "Augsburg" "Bonn" "Bremen" "Dortmund" "Dresden" "Duisburg" "Düsseldorf" "Essen" "Frankfurt" "Freiburg" "Hamburg" "Hannover" "Karlsruhe" "Köln"
             "Leipzig" "Lübeck" "Mainz" "Mannheim" "München" "Münster" "Nürnberg" "Potsdam" "Rostock" "Stuttgart"
             
             # >>> Cities - Netherlands
-            "Amsterdam" "Arnhem" "Rotterdam" "The Hague" "Utrecht"
+            "Amsterdam" "Arnhem" "Rotterdam" "Den Haag" "Utrecht"
             
             # >>> Cities - Norway
             "Trondheim"
@@ -60,7 +60,7 @@ ui_extra_humans_extended = {
             "Bern" "Zürich"
             
             # >>> Cities - Others
-            "Johannesburg" "Luxembourg"
+            "Johannesburg" "Luxemburg" "Lëtzebuerg"
         }
         cruiser = {
             # >>> Ships - German
@@ -114,20 +114,20 @@ ui_extra_humans_extended = {
             "Valhalla"
             
             # >>> Countries
-            "Austria" "Belgium" "Denmark" "Germany" "Iceland" "Netherlands" "Norway" "Sweden" "Switzerland"
+            "Osterreich" "Belgie" "Danmark" "Deutschland" "Ísland" "Nederland" "Norge" "Sverige" "Schweiz" "Grønland"
             
             # >>> Cities - Belgium
-            "Antwerp" "Brussels"
+            "Antwerpen" "Brussel"
             
             # >>> Cities - Denmark
-            "Aarhus" "Copenhagen"
+            "Aarhus" "København"
             
             # >>> Cities - Germany
             "Aachen" "Augsburg" "Bonn" "Bremen" "Dortmund" "Dresden" "Duisburg" "Düsseldorf" "Essen" "Frankfurt" "Freiburg" "Hamburg" "Hannover" "Karlsruhe" "Köln"
             "Leipzig" "Lübeck" "Mainz" "Mannheim" "München" "Münster" "Nürnberg" "Potsdam" "Rostock" "Stuttgart"
             
             # >>> Cities - Netherlands
-            "Amsterdam" "Arnhem" "Rotterdam" "The Hague" "Utrecht"
+            "Amsterdam" "Arnhem" "Rotterdam" "Den Haag" "Utrecht"
             
             # >>> Cities - Norway
             "Oslo" "Trondheim"
@@ -139,7 +139,7 @@ ui_extra_humans_extended = {
             "Bern" "Zürich"
             
             # >>> Cities - Others
-            "Johannesburg" "Luxembourg"
+            "Johannesburg" "Luxemburg" "Lëtzebuerg"
         }
         sponsored_colonizer = { }
         transport = {
@@ -290,6 +290,9 @@ ui_extra_humans_extended = {
     planet_names = {
         generic = {
             names = {
+                # >>> Media
+                Friedland
+
                 # >>> Mythology - Places
                 "Alfheim"
             }
@@ -321,7 +324,7 @@ ui_extra_humans_extended = {
         pc_tundra = {
             names = {
                 # >>> Countries
-                "Iceland"
+                "Ísland"
                 
                 # >>> Mythology
                 "Utgard"
@@ -330,7 +333,7 @@ ui_extra_humans_extended = {
         pc_arctic = {
             names = {
                 # >>> Countries
-                "Greenland"
+                "Grønland"
                 
                 # >>> Mythology - Places
                 "Jotunheim" "Niflheim"
@@ -338,7 +341,7 @@ ui_extra_humans_extended = {
         }
         pc_nuked = {
             names = {
-                "Krieg"
+                "Krieg" "Auschwitz"
             }
         }
         pc_savannah = { }
@@ -366,21 +369,31 @@ ui_extra_humans_extended = {
         names8 = {
             weight = 100
             first_names_male = {
-                Karl Wilhelm Otto Heinrich Friedrich Paul Hans Gustav Max Ernst Hermann Walter Werner Günther Wolfgang Helmuth Kurt 
-                Rolf Peter Klaus Gerhard Heinz Horst Manfred Uwe Jürgen Dieter Andreas Thomas Stefan Lukas Felix Martin Fritz Johann 
-                Erich Arnold Bruno Franz Rudolf Erhard Jörg Axel Emil Gerhardt Gottfried Holger Joachim Konrad Lothar Ludwig Matthias
-                Moritz Reinhard Sigismund Ulrich Udo Hravn Adolf Hans Conrad Albert
+                Adolf Albert Andreas Arnold Artur August Axel Bruno Conrad Dieter Eggert Emil Erhard Erich Ernst Erwin Felix Franz Friedrich
+                Fritz Gerhard Gerhardt Gottfried Gottlob Günther Gustav Hans Heinrich Heinz Helmuth Herbert Hermann Holger Horst Hravn Jakob
+                Joachim Johann Jörg Josef Jürgen Karl Klaus Konrad Konstantin Kurt Lothar Ludolf Ludwig Lukas Manfred Martin Matthias Max
+                Moritz Oswald Otto Paul Peter Reinhard Rolf Rudolf Sepp Sigismund Stefan Theodor Thomas Udo Ulrich Uwe Walter Werner Wilhelm
+                Wolfgang Xaver 
             }
             first_names_female = {
-                Anna Elsa Emma Helga Ursula Gisela Ingrid Ilse Jessika Sandra Stefanie Andrea Anja Katrin Birgit Martina Heike Sabine
-                Erika Edith Lena Lisa Katharina Claudia Silvia Tina Annike Renate Bettina Wibke Sara Lina Julia Marith Heidi Angelika 
-                Christel Gretchen Hilde Hildegard Gertrude Wilhelmina Lisbeth Kerstin Johanna Anita Eva Petra Margaret
+                Adelaide Andrea Angelika Anita Anja Anna Annike Bettina Birgit Christel Claudia Edith Elsa Emma Erika Eva Gertrude Gisela
+                Gretchen Heidi Heike Helga Hermine Hilde Hildegard Ilse Ingrid Jessika Johanna Julia Katharina Katrin Kerstin Lena Lina
+                Lisa Lisbeth Margaret Maria Marith Martina Petra Renate Sabine Sabrina Sandra Sara Silvia Stefanie Tina Ursula Wibke
+                Wilhelmina
             }
             second_names = {
-                Müller Schmidt Schneider Fischer Weber Meyer Wagner Schulz Becker Hoffmann Bauer Brinkmann Brill Dietrich Erhard 
-                Grasser "von Gebser" "von Fritsch" "von Wrangel" "von Halkett" "von Boyen" "von Falkenstein" Dreyer Wolf Klein Richter
-                Schäfer Neumann Braun Schwarz Krüger Stein Keller Schubert Baumann Ziegler Brandt Sauer Kreutz Bergmeister Andbert 
-                Braun Strasse Schwarzenegger "von Hotzendorf" Weiss
+                Alpers Amann Andbert Bach Backe Bauer Baumann Baur Becker Berchtold Berger Bergmeister Best Bittrich Bohle Bomhard Bouhler
+                Braemer Brandt Braun Breithaupt Brenner Brill Brinkmann Buch Bürckel Daluege Demelhubeer Dietrich Dreyer Eberstein Eggeling
+                Eicke Erhard Fegelein Fiehler Fischer Fitzthum Forster Frank Freyberg Friedrichs Gebhardt Genzken Gille Glücks Gottberg
+                Grasser Grawitz Greifelt Greiser Hanke Harster Hausser Heiden Heissmeyer HeissmeyerHenlein Heydrich Hilderbrandt Himmler
+                Hinkel Hoffmann Höfle Hofmann Jeckeln Jüttner Kaltenbrunner Kammler Katzmann Keller Keppler Klein Kleinheisterkamp Klopfer
+                Koppe Kreutz Krüger Kube Lammers Lauterbacher Loeper Lorenz Lörner Meyer Moder Müller Mülverstadt Naumann Nebe Neumann Oberg
+                Ohlendorf Ostendorff Pancke Pfeffer Phelps Pohl Prieß Prützmann Querner Rattenhuber Rauter Rediess Reeder Reinefarth
+                Ribbentrop Richter Rösener Saubeerzweig Sauckel Sauer Schäfer Scharfe Schaub Scheid Schimana Schmidt Schneider Scholz
+                Schreck Schubert Schulz Schwarz Schwarzenegger Sporrenberg Stein Steiner Strasse Streckenbach Stroop Stuckart
+                "von Alvensleben" "von Boyen" "von Falkenstein" "von Fritsch" "von Gebser" "von Halkett" "von Helldorf" "von Herff"
+                "von Hotzendorf" "von Neurath" "von Woyrsch" "von Wrangel" Wächter Wächtler Wagner Weber Weiss Weitzel Wendler Wildenbruch
+                Wolf Wolff Wünnenberg Ziegler 
             }
             regnal_first_names_male = {
                 Wilhelm Leopold Rudolf Freidrich Karl Ferdinand Franz Otto Johann
