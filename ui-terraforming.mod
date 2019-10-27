@@ -4,5 +4,5 @@ tags={
     "Technologies"
 }
 picture="ui.jpg"
-supported_version="2.5*"
+supported_version="2.5.*"
 
