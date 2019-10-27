@@ -15,4 +15,3 @@ NSpecies = {
     ENERGY_MAINTENANCE_MUL  = 0.010  # Double the default value (0.005)
     MINERAL_MAINTENANCE_MUL = 0.020  # Double the default value (0.010)
 }
-
