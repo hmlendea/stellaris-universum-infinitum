@@ -213,6 +213,10 @@ ui_extra_humans_asian = {
                 Yuankonai Yuanmen Yuecheng Yuedong Yuegawa Yuekami Yuesunai Yuewang Yugagalan Yugahaba Yugahoroot Yugakhaan Yuganan Zhaotori Zhaowara Zhenbuchi
                 Zhenneung Zhenraha Zhongchaek Zhonggaa Zhonghai Zhongmaki Zhongtsukawa Zhougol Zhourano Zhouyuan Zoabetsu Zoakami Zoapo Zoaqiu Zoazaki Zuunchong
                 Zuunchun Zuunkhorin Zuunmoto Zuunturuun
+
+                # >>> Civilisation Beyond Earth - Pan-Asian Cooperative
+                "Tiangong" "Quyen" "Nhiet Tinh" "Ganzorig" "Huanle" "Gong Ren" "Thanh" "Kuijia" "Huihuang" "Sinjeon" "Renxing" "Qi Chui" "Gaosi" "Adislal"
+                "Xindalu" "Troi" "Phao Dai" "Tenger Bambai" "Hyugeso"
             }
         }
         pc_desert = {

@@ -1,289 +1,365 @@
-### Universum Infinitum
-### Extras
-### Human - Germanic (German, Swiss, Austrian, Belgian, Dutch, etc)
+### UI - Humans - Germanic
 
 ui_extra_humans_germanic = {
-    randomized = no
-
     ship_names = {
         generic = {
-            # >>> People groups
-            "Viking" "Swiss" "German" "Austrian" "Belgian" "Dutch" "Vandal" "Gothic"
+            # >>> Nationalities - English Names
+            "Austrian" "Belgian" "Dutch" "German" "Gothic" "Swiss" "Vandal" "Viking"
         }
-        
+
         corvette = {
             # >>> Ships - Swedish
             "Dristigheten"
-            
-            # >>> Famous people: Politics - Anglo-saxon
+
+            # >>> Persons - Politics - Anglo-saxon
             "Ethelfleda"
-        
-            # >>> Famous people: Sport - Belgian
+
+            # >>> Persons - Sport - Belgian
             "Van Lierde"
-            
-            # >>> Famous people: Folklore - Swiss
-            "William Tell" "Wilhelm Teil"
-            
-            # >>> Famous people: Folklore - German
+
+            # >>> Persons - Folklore - Swiss
+            "Wilhelm Teil" "William Tell"
+
+            # >>> Persons - Folklore - German
             "Brunhild"
-            
-            # >>> Famous people: Military - German
+
+            # >>> Persons - Military - German
             "Hartmann" "Richthofen"
-            
-            # >>> Famous people: Science - Swiss
+
+            # >>> Persons - Science - Swiss
             "Rickenbacker"
-            
-            # >>> Famous people: Art - German
+
+            # >>> Persons - Art - German
             "Orff"
         }
         destroyer = {
+            # >>> Regions - Others
+            "Scandinavia"
+
             # >>> Cities - Belgium
             "Antwerpen" "Brussel"
-            
+
             # >>> Cities - Denmark
             "Aarhus" "København"
-            
+
             # >>> Cities - Germany
-            "Aachen" "Augsburg" "Bonn" "Bremen" "Dortmund" "Dresden" "Duisburg" "Düsseldorf" "Essen" "Frankfurt" "Freiburg" "Hamburg" "Hannover" "Karlsruhe" "Köln"
-            "Leipzig" "Lübeck" "Mainz" "Mannheim" "München" "Münster" "Nürnberg" "Potsdam" "Rostock" "Stuttgart"
-            
+            "Aachen" "Augsburg" "Bonn" "Bremen" "Dortmund" "Dresden" "Duisburg" "Düsseldorf" "Essen" "Frankfurt" "Freiburg" "Hamburg" "Hannover" "Karlsruhe"
+            "Köln" "Leipzig" "Lübeck" "Mainz" "Mannheim" "München" "Münster" "Nürnberg" "Potsdam" "Rostock" "Stuttgart"
+
             # >>> Cities - Netherlands
-            "Amsterdam" "Arnhem" "Rotterdam" "Den Haag" "Utrecht"
-            
+            "Amsterdam" "Arnhem" "Den Haag" "Rotterdam" "Utrecht"
+
             # >>> Cities - Norway
             "Trondheim"
-            
+
             # >>> Cities - Sweden
             "Lund" "Malmö" "Stockholm"
-            
+
             # >>> Cities - Switzerland
             "Bern" "Zürich"
-            
+
             # >>> Cities - Others
-            "Johannesburg" "Luxemburg" "Lëtzebuerg" "Scandinavia"
+            "Johannesburg" "Lëtzebuerg" "Luxemburg"
         }
         cruiser = {
             # >>> Ships - German
             "Scharnhorst"
-            
+
             # >>> Battles / Battlefields
-            "Arnhem" "Breitenfeld" "Tannenberg" "Königgrätz" "Leipzig" "Lund" "Teutoburg Forest" "Breslau" "Lützen"
-            
-            # >>> Famous people - Military
-            Roland "Frederick the Great"
-            
-            # >>> Famous people - Military - German
+            "Arnhem" "Breitenfeld" "Breslau" "Königgrätz" "Leipzig" "Lund" "Lützen" "Tannenberg" "Teutoburg Forest"
+
+            # >>> Persons - Military - Others
+            "Frederick the Great" "Roland"
+
+            # >>> Persons - Military - German
             "Hindenburg" "Rommel"
-            
-            # >>> Famous people - Political - Swedish
+
+            # >>> Persons - Leaders - Swedish
             "Gustavus Adolphus"
-            
+
             # >>> Mythology - Norse
-            "Fenris" "Freya" "Mjolnir" "Fafnir" "Loki"
+            "Fafnir" "Fenris" "Freya" "Loki" "Mjolnir"
         }
         battleship = {
-            # Battles / Battlefields
+            # >>> Battles / Battlefields
             "Austerlitz" "Jutland"
-            
-            # >>> Famous people - Military
+
+            # >>> Persons - Military
             "Bismarck"
-            
-            # >>> Mythology
+
+            # >>> Mythology - Norse
             "Valkyrie"
         }
-        
-        titan = { }
-        colossus = { }
 
-        constructor = { }
+        titan = {
+        }
+        colossus = {
+        }
+
+        constructor = {
+        }
         science = {
-            # Famous People - Science - Dutch
+            # >>> Persons - Science - Dutch
             "Fahrenheit"
-            
-            # Famous People - Science - German
+
+            # >>> Persons - Science - German
             "Einstein" "Kepler" "Von Braun"
-            
-            # Famous People - Science - Swedish
+
+            # >>> Persons - Science - Swedish
             "Nobel"
-            
-            # Famous People - Exploration - Norse
+
+            # >>> Persons - Exploration - Norse
             "Leif Ericson"
         }
-        colonizer = {
+        coloniser = {
             # >>> Mythology
             "Valhalla"
-            
-            # >>> Countries
-            "Osterreich" "Belgie" "Danmark" "Deutschland" "Ísland" "Nederland" "Norge" "Sverige" "Schweiz" "Grønland"
-            
+
+            # >>> Regions - Others
+            "Scandinavia"
+
+            # >>> Countries - Native names
+            "Belgie" "Danmark" "Deutschland" "Grønland" "Ísland" "Nederland" "Norge" "Osterreich" "Schweiz" "Sverige"
+
+            # >>> Countries - English names
+            "Austria" "Belgium" "Denmark" "Germany" "Greenland" "Iceland" "Netherlands" "Norway" "Sweden" "Switzerland"
+
             # >>> Cities - Belgium
             "Antwerpen" "Brussel"
-            
+
             # >>> Cities - Denmark
             "Aarhus" "København"
-            
+
             # >>> Cities - Germany
-            "Aachen" "Augsburg" "Bonn" "Bremen" "Dortmund" "Dresden" "Duisburg" "Düsseldorf" "Essen" "Frankfurt" "Freiburg" "Hamburg" "Hannover" "Karlsruhe" "Köln"
-            "Leipzig" "Lübeck" "Mainz" "Mannheim" "München" "Münster" "Nürnberg" "Potsdam" "Rostock" "Stuttgart"
-            
+            "Aachen" "Augsburg" "Bonn" "Bremen" "Dortmund" "Dresden" "Duisburg" "Düsseldorf" "Essen" "Frankfurt" "Freiburg" "Hamburg" "Hannover" "Karlsruhe"
+            "Köln" "Leipzig" "Lübeck" "Mainz" "Mannheim" "München" "Münster" "Nürnberg" "Potsdam" "Rostock" "Stuttgart"
+
             # >>> Cities - Netherlands
-            "Amsterdam" "Arnhem" "Rotterdam" "Den Haag" "Utrecht"
-            
+            "Amsterdam" "Arnhem" "Den Haag" "Rotterdam" "Utrecht"
+
             # >>> Cities - Norway
-            "Oslo" "Trondheim"
-            
+            "Trondheim"
+
             # >>> Cities - Sweden
             "Lund" "Malmö" "Stockholm"
-            
+
             # >>> Cities - Switzerland
             "Bern" "Zürich"
-            
+
             # >>> Cities - Others
-            "Johannesburg" "Luxemburg" "Lëtzebuerg" "Scandinavia"
+            "Johannesburg" "Lëtzebuerg" "Luxemburg"
         }
-        sponsored_colonizer = { }
+        sponsored_coloniser = {
+            # >>> Mythology
+            "Valhalla"
+
+            # >>> Regions - Others
+            "Scandinavia"
+
+            # >>> Countries - Native names
+            "Belgie" "Danmark" "Deutschland" "Grønland" "Ísland" "Nederland" "Norge" "Osterreich" "Schweiz" "Sverige"
+
+            # >>> Countries - English names
+            "Austria" "Belgium" "Denmark" "Germany" "Greenland" "Iceland" "Netherlands" "Norway" "Sweden" "Switzerland"
+
+            # >>> Cities - Belgium
+            "Antwerpen" "Brussel"
+
+            # >>> Cities - Denmark
+            "Aarhus" "København"
+
+            # >>> Cities - Germany
+            "Aachen" "Augsburg" "Bonn" "Bremen" "Dortmund" "Dresden" "Duisburg" "Düsseldorf" "Essen" "Frankfurt" "Freiburg" "Hamburg" "Hannover" "Karlsruhe"
+            "Köln" "Leipzig" "Lübeck" "Mainz" "Mannheim" "München" "Münster" "Nürnberg" "Potsdam" "Rostock" "Stuttgart"
+
+            # >>> Cities - Netherlands
+            "Amsterdam" "Arnhem" "Den Haag" "Rotterdam" "Utrecht"
+
+            # >>> Cities - Norway
+            "Trondheim"
+
+            # >>> Cities - Sweden
+            "Lund" "Malmö" "Stockholm"
+
+            # >>> Cities - Switzerland
+            "Bern" "Zürich"
+
+            # >>> Cities - Others
+            "Johannesburg" "Lëtzebuerg" "Luxemburg"
+        }
         transport = {
             # >>> Weapons
-            Katzbalger Flamberge
+            "Flamberge" "Katzbalger"
         }
-        
-        mining_station = { }
-        research_station = { }
-        observation_station = { }
+
+        mining_station = {
+        }
+        research_station = {
+        }
+        observation_station = {
+        }
 
         starbase_outpost = {
-            sequential_name = "%O% Starbase"
+            sequential_name = "%0% Starbase"
         }
         starbase_starport = {
-            sequential_name = "%O% Starbase"
+            sequential_name = "%0% Starbase"
         }
         starbase_starhold = {
-            sequential_name = "%O% Starbase"
+            sequential_name = "%0% Starbase"
         }
         starbase_starfortress = {
-            sequential_name = "%O% Starbase"
+            sequential_name = "%0% Starbase"
         }
         starbase_citadel = {
-            sequential_name = "%O% Starbase"
+            sequential_name = "%0% Starbase"
         }
 
         military_station_small = {
             # >>> Ships - German
             "Tirpitz"
-            
+
             # >>> Battles / Battlefields
             "Essen"
         }
         military_station_medium = {
             # >>> Ships - German
             "Tirpitz"
-            
+
             # >>> Battles / Battlefields
             "Essen"
         }
         military_station_large = {
             # >>> Ships - German
             "Tirpitz"
-            
+
             # >>> Battles / Battlefields
             "Essen"
         }
 
-        ion_cannon = { }
+        ion_cannon = {
+        }
     }
 
     ship_class_names = {
         generic = {
-            Human # This is put here solely as a placeholder
-            
-            # Nationalities
-            "Austrian" "Belgian" "Dannish" "German" "Icelandic" "Dutch" "Norwegian" "Swedish" "Swiss"
+            # >>> Nationalities - English Names
+            "Austrian" "Belgian" "Dutch" "German" "Gothic" "Swiss" "Vandal" "Viking"
         }
 
-        corvette = { }
-        destroyer = { }
-        cruiser = { }
-        battleship = { }
-        
-        titan = { }
-        colossus = { }
+        corvette = {
+        }
+        destroyer = {
+        }
+        cruiser = {
+        }
+        battleship = {
+        }
 
-        constructor = { }
-        science = { }
-        colonizer = { }
-        transport = { }
-        
-        mining_station = { }
-        research_station = { }
-        observation_station = { }
+        titan = {
+        }
+        colossus = {
+        }
 
-        starbase_outpost = { }
-        starbase_starport = { }
-        starbase_starhold = { }
-        starbase_starfortress = { }
-        starbase_citadel = { }
+        constructor = {
+        }
+        science = {
+        }
+        coloniser = {
+        }
+        sponsored_coloniser = {
+        }
+        transport = {
+        }
 
-        military_station_small = { }
-        military_station_medium = { }
-        military_station_large = { }
+        mining_station = {
+        }
+        research_station = {
+        }
+        observation_station = {
+        }
 
-        ion_cannon = { }
+        starbase_outpost = {
+            sequential_name = "%0% Starbase"
+        }
+        starbase_starport = {
+            sequential_name = "%0% Starbase"
+        }
+        starbase_starhold = {
+            sequential_name = "%0% Starbase"
+        }
+        starbase_starfortress = {
+            sequential_name = "%0% Starbase"
+        }
+        starbase_citadel = {
+            sequential_name = "%0% Starbase"
+        }
+
+        military_station_small = {
+        }
+        military_station_medium = {
+        }
+        military_station_large = {
+        }
+
+        ion_cannon = {
+        }
     }
 
     fleet_names = {
         random_names = {
             # >>> Soldier Types
             "The Berserker Fleet" "The Landsknechte Fleet" "The Panzer Fleet" "The Templar Fleet"
-            
+
             # >>> Weapons
-            "The Katzbalger Fleet" "The Flamberge Fleet"
+            "The Flamberge Fleet" "The Katzbalger Fleet"
         }
-        sequential_name = "%O% Fleet"
+        sequential_name = "%0% Fleet"
     }
 
     army_names = {
         defense_army = {
-            sequential_name = "%O% Planetary Guard"
+            sequential_name = "%0% Defence Army"
         }
         assault_army = {
-            sequential_name = "%O% Expeditionary Force"
+            sequential_name = "%0% Assault Army"
         }
         occupation_army = {
-            sequential_name = "%0% Garrison Force"
+            sequential_name = "%0% Occupation Army"
         }
 
         slave_army = {
-            sequential_name = "%O% Indentured Rifles"
+            sequential_name = "%0% Slave Army"
         }
         clone_army = {
-            sequential_name = "%O% Clone Army"
+            sequential_name = "%0% Clone Army"
         }
 
-        robotic_army = {
-            sequential_name = "%O% Hunter-Killer Group"
-        }
         robotic_defense_army = {
-            sequential_name = "%O% Ground Defence Matrix"
+            sequential_name = "%0% Robotic Defence Army"
+        }
+        robotic_army = {
+            sequential_name = "%0% Robotic Assault Army"
         }
         robotic_occupation_army = {
-            sequential_name = "%0% Mechanised Garrison"
+            sequential_name = "%0% Robotic Occupation Army"
         }
 
-        android_army = {
-            sequential_name = "%O% Synthetic Rangers"
-        }
         android_defense_army = {
-            sequential_name = "%O% Synthetic Sentinels"
+            sequential_name = "%0% Android Defence Army"
+        }
+        android_army = {
+            sequential_name = "%0% Android Assault Army"
         }
 
         psionic_army = {
-            sequential_name = "%O% Psi Commando"
+            sequential_name = "%0% Psionic Army"
         }
         xenomorph_army = {
-            sequential_name = "%O% Bio-Warfare Division"
+            sequential_name = "%0% Xenomorph Army"
         }
         gene_warrior_army = {
-            sequential_name = "%O% Bio-Engineered Squadron"
+            sequential_name = "%0% Super Soldier Army"
         }
     }
 
@@ -291,7 +367,7 @@ ui_extra_humans_germanic = {
         generic = {
             names = {
                 # >>> Media
-                Friedland
+                "Friedland"
 
                 # >>> Mythology - Places
                 "Alfheim"
@@ -303,58 +379,77 @@ ui_extra_humans_germanic = {
                 "Muspelheim"
             }
         }
-        pc_arid = { }
-        pc_tropical = { }
+        pc_arid = {
+            names = {
+            }
+        }
+        pc_tropical = {
+            names = {
+            }
+        }
         pc_continental = {
             names = {
                 # >>> Mythology - Places
                 "Asgard"
-                
+
                 # >>> Cities - Germany
                 "Neu Berlin"
             }
         }
-        pc_gaia = { }
+        pc_gaia = {
+            names = {
+            }
+        }
         pc_ocean = {
             names = {
-                # Based on rivers
+                # >>> Based on rivers
                 "Danubia" "Elba" "Rheinland"
             }
         }
         pc_tundra = {
             names = {
-                # >>> Countries
+                # >>> Countries - Native names
                 "Ísland"
-                
-                # >>> Regions of Earth
-                Scandinavia
-                
+
+                # >>> Countries - English names
+                "Ísland"
+
                 # >>> Mythology
                 "Utgard"
-                
-                # >>> Puzzle Pirates - Island names
-                Jorvik Norse
+
+                # >>> Puzzle Pirates - Islands
+                "Jorvik" "Norse"
             }
         }
         pc_arctic = {
             names = {
-                # >>> Countries
+                # >>> Countries - Native names
                 "Grønland"
-                
+
+                # >>> Countries - English names
+                "Greenland"
+
                 # >>> Mythology - Places
                 "Jotunheim" "Niflheim"
             }
         }
         pc_nuked = {
             names = {
-                "Krieg" "Auschwitz"
+                # >>> Words
+                "Krieg"
+
+                # >>> Places
+                "Auschwitz"
             }
         }
-        pc_savannah = { }
+        pc_savannah = {
+            names = {
+            }
+        }
         pc_alpine = {
             names = {
                 # >>> The Elder Scrolls - Mountains
-                Anthor "High Hrothgar" Jerall Wrothgar
+                "Anthor" "High Hrothgar" "Jerall" "Wrothgar"
             }
         }
         pc_molten = {
@@ -363,11 +458,15 @@ ui_extra_humans_germanic = {
                 "Muspelheim"
             }
         }
-        pc_barren = { }
-        pc_asteroid = { }
+        pc_barren = {
+            names = {
+            }
+        }
+        pc_asteroid = {
+            names = {
+            }
+        }
     }
-    
-    ### CHARACTERS
 
     character_names = {
 

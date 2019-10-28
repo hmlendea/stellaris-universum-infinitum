@@ -1,0 +1,488 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NameList>
+    <Id>ui_extra_humans_germanic</Id>
+    <Name>UI - Humans - Germanic</Name>
+    <Nationalities>
+      <NameGroup>
+        <Name>Nationalities - English Names</Name>
+        <Values>
+          <string>Austrian</string>
+          <string>Belgian</string>
+          <string>Dutch</string>
+          <string>German</string>
+          <string>Gothic</string>
+          <string>Swiss</string>
+          <string>Vandal</string>
+          <string>Viking</string>
+        </Values>
+      </NameGroup>
+    </Nationalities>
+    <Weapons>
+      <NameGroup>
+        <Name>Weapons</Name>
+        <Values>
+          <string>Katzbalger</string>
+          <string>Flamberge</string>
+        </Values>
+      </NameGroup>
+    </Weapons>
+    <Places>
+      <Countries>
+        <NameGroup>
+          <Name>Countries - Native names</Name>
+          <Values>
+            <string>Belgie</string>
+            <string>Danmark</string>
+            <string>Deutschland</string>
+            <string>Grønland</string>
+            <string>Ísland</string>
+            <string>Nederland</string>
+            <string>Norge</string>
+            <string>Osterreich</string>
+            <string>Schweiz</string>
+            <string>Sverige</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Countries - English names</Name>
+          <Values>
+            <string>Austria</string>
+            <string>Belgium</string>
+            <string>Denmark</string>
+            <string>Germany</string>
+            <string>Greenland</string>
+            <string>Iceland</string>
+            <string>Netherlands</string>
+            <string>Norway</string>
+            <string>Sweden</string>
+            <string>Switzerland</string>
+          </Values>
+        </NameGroup>
+      </Countries>
+      <Cities>
+        <NameGroup>
+          <Name>Cities - Belgium</Name>
+          <Values>
+            <string>Antwerpen</string>
+            <string>Brussel</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Cities - Denmark</Name>
+          <Values>
+            <string>Aarhus</string>
+            <string>København</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Cities - Germany</Name>
+          <Values>
+            <string>Aachen</string>
+            <string>Augsburg</string>
+            <string>Bonn</string>
+            <string>Bremen</string>
+            <string>Dortmund</string>
+            <string>Dresden</string>
+            <string>Duisburg</string>
+            <string>Düsseldorf</string>
+            <string>Essen</string>
+            <string>Frankfurt</string>
+            <string>Freiburg</string>
+            <string>Hamburg</string>
+            <string>Hannover</string>
+            <string>Karlsruhe</string>
+            <string>Köln</string>
+            <string>Leipzig</string>
+            <string>Lübeck</string>
+            <string>Mainz</string>
+            <string>Mannheim</string>
+            <string>München</string>
+            <string>Münster</string>
+            <string>Nürnberg</string>
+            <string>Potsdam</string>
+            <string>Rostock</string>
+            <string>Stuttgart</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Cities - Netherlands</Name>
+          <Values>
+            <string>Amsterdam</string>
+            <string>Arnhem</string>
+            <string>Den Haag</string>
+            <string>Rotterdam</string>
+            <string>Utrecht</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Cities - Norway</Name>
+          <Values>
+            <string>Trondheim</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Cities - Sweden</Name>
+          <Values>
+            <string>Lund</string>
+            <string>Malmö</string>
+            <string>Stockholm</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Cities - Switzerland</Name>
+          <Values>
+            <string>Bern</string>
+            <string>Zürich</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Cities - Others</Name>
+          <Values>
+            <string>Johannesburg</string>
+            <string>Lëtzebuerg</string>
+            <string>Luxemburg</string>
+          </Values>
+        </NameGroup>
+      </Cities>
+    </Places>
+    <Ships>
+      <Generic />
+      <Corvette>
+        <NameGroup>
+          <Name>Ships - Swedish</Name>
+          <Values>
+            <string>Dristigheten</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Persons - Politics - Anglo-saxon</Name>
+          <Values>
+            <string>Ethelfleda</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Persons - Sport - Belgian</Name>
+          <Values>
+            <string>Van Lierde</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Persons - Folklore - Swiss</Name>
+          <Values>
+            <string>William Tell</string>
+            <string>Wilhelm Teil</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Persons - Folklore - German</Name>
+          <Values>
+            <string>Brunhild</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Persons - Military - German</Name>
+          <Values>
+            <string>Hartmann</string>
+            <string>Richthofen</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Persons - Science - Swiss</Name>
+          <Values>
+            <string>Rickenbacker</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Persons - Art - German</Name>
+          <Values>
+            <string>Orff</string>
+          </Values>
+        </NameGroup>
+      </Corvette>
+      <Destroyer>
+        <NameGroup>
+          <Name>Regions - Others</Name>
+          <Values>
+            <string>Scandinavia</string>
+          </Values>
+        </NameGroup>
+      </Destroyer>
+      <Cruiser>
+        <NameGroup>
+          <Name>Ships - German</Name>
+          <Values>
+            <string>Scharnhorst</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Battles / Battlefields</Name>
+          <Values>
+            <string>Arnhem</string>
+            <string>Breitenfeld</string>
+            <string>Breslau</string>
+            <string>Königgrätz</string>
+            <string>Leipzig</string>
+            <string>Lund</string>
+            <string>Lützen</string>
+            <string>Tannenberg</string>
+            <string>Teutoburg Forest</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Persons - Military - Others</Name>
+          <Values>
+            <string>Roland</string>
+            <string>Frederick the Great</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Persons - Military - German</Name>
+          <Values>
+            <string>Hindenburg</string>
+            <string>Rommel</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Persons - Leaders - Swedish</Name>
+          <Values>
+            <string>Gustavus Adolphus</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Mythology - Norse</Name>
+          <Values>
+            <string>Fafnir</string>
+            <string>Fenris</string>
+            <string>Freya</string>
+            <string>Loki</string>
+            <string>Mjolnir</string>
+          </Values>
+        </NameGroup>
+      </Cruiser>
+      <Battleship>
+        <NameGroup>
+          <Name>Battles / Battlefields</Name>
+          <Values>
+            <string>Austerlitz</string>
+            <string>Jutland</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Persons - Military</Name>
+          <Values>
+            <string>Bismarck</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Mythology - Norse</Name>
+          <Values>
+            <string>Valkyrie</string>
+          </Values>
+        </NameGroup>
+      </Battleship>
+      <Science>
+        <NameGroup>
+          <Name>Persons - Science - Dutch</Name>
+          <Values>
+            <string>Fahrenheit</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Persons - Science - German</Name>
+          <Values>
+            <string>Einstein</string>
+            <string>Kepler</string>
+            <string>Von Braun</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Persons - Science - Swedish</Name>
+          <Values>
+            <string>Nobel</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Persons - Exploration - Norse</Name>
+          <Values>
+            <string>Leif Ericson</string>
+          </Values>
+        </NameGroup>
+      </Science>
+      <Coloniser>
+        <NameGroup>
+          <Name>Mythology</Name>
+          <Values>
+            <string>Valhalla</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Regions - Others</Name>
+          <Values>
+            <string>Scandinavia</string>
+          </Values>
+        </NameGroup>
+      </Coloniser>
+    </Ships>
+    <Stations>
+        <MilitaryStations>
+        <Generic>
+            <NameGroup>
+            <Name>Ships - German</Name>
+            <Values>
+                <string>Tirpitz</string>
+            </Values>
+            </NameGroup>
+            <NameGroup>
+            <Name>Battles / Battlefields</Name>
+            <Values>
+                <string>Essen</string>
+            </Values>
+            </NameGroup>
+        </Generic>
+        </MilitaryStations>
+    </Stations>
+    <Armies>
+      <Fleet>
+        <NameGroup>
+          <Name>Soldier Types</Name>
+          <Values>
+            <string>The Berserker Fleet</string>
+            <string>The Landsknechte Fleet</string>
+            <string>The Panzer Fleet</string>
+            <string>The Templar Fleet</string>
+          </Values>
+        </NameGroup>
+      </Fleet>
+    </Armies>
+    <Planets>
+      <Generic>
+        <NameGroup>
+          <Name>Media</Name>
+          <Values>
+            <string>Friedland</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Mythology - Places</Name>
+          <Values>
+            <string>Alfheim</string>
+          </Values>
+        </NameGroup>
+      </Generic>
+      <Desert>
+        <NameGroup>
+          <Name>Mythology - Places</Name>
+          <Values>
+            <string>Muspelheim</string>
+          </Values>
+        </NameGroup>
+      </Desert>
+      <Continental>
+        <NameGroup>
+          <Name>Mythology - Places</Name>
+          <Values>
+            <string>Asgard</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Cities - Germany</Name>
+          <Values>
+            <string>Neu Berlin</string>
+          </Values>
+        </NameGroup>
+      </Continental>
+      <Ocean>
+        <NameGroup>
+          <Name>Based on rivers</Name>
+          <Values>
+            <string>Danubia</string>
+            <string>Elba</string>
+            <string>Rheinland</string>
+          </Values>
+        </NameGroup>
+      </Ocean>
+      <Tundra>
+        <NameGroup>
+          <Name>Countries - Native names</Name>
+          <Values>
+            <string>Ísland</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Countries - English names</Name>
+          <Values>
+            <string>Ísland</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Mythology</Name>
+          <Values>
+            <string>Utgard</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Puzzle Pirates - Islands</Name>
+          <Values>
+            <string>Jorvik</string>
+            <string>Norse</string>
+          </Values>
+        </NameGroup>
+      </Tundra>
+      <Arctic>
+        <NameGroup>
+          <Name>Countries - Native names</Name>
+          <Values>
+            <string>Grønland</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Countries - English names</Name>
+          <Values>
+            <string>Greenland</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Mythology - Places</Name>
+          <Values>
+            <string>Jotunheim</string>
+            <string>Niflheim</string>
+          </Values>
+        </NameGroup>
+      </Arctic>
+      <Tomb>
+        <NameGroup>
+          <Name>Words</Name>
+          <Values>
+            <string>Krieg</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Places</Name>
+          <Values>
+            <string>Auschwitz</string>
+          </Values>
+        </NameGroup>
+      </Tomb>
+      <Alpine>
+        <NameGroup>
+          <Name>The Elder Scrolls - Mountains</Name>
+          <Values>
+            <string>Anthor</string>
+            <string>High Hrothgar</string>
+            <string>Jerall</string>
+            <string>Wrothgar</string>
+          </Values>
+        </NameGroup>
+      </Alpine>
+      <Molten>
+        <NameGroup>
+          <Name>Mythology - Places</Name>
+          <Values>
+            <string>Muspelheim</string>
+          </Values>
+        </NameGroup>
+      </Molten>
+    </Planets>
+  </NameList>
+</ArrayOfNameList>

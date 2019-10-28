@@ -1,0 +1,294 @@
+<NameLists>
+    <NameList>
+        <Id>slaic</Id>
+        <ShipNames>
+            <Generic>
+                <Group>
+                    <Name>People groups</Name>
+                    <Values>
+                        <string>Belarusian</string>
+                        <string>Bosniak</string>
+                        <string>Bulgarian</string>
+                        <string>Croat</string>
+                        <string>Czech</string>
+                        <string>Kashubian</string>
+                        <string>Montenegrin</string>
+                        <string>Moravian</string>
+                        <string>Polish</string>
+                        <string>Russian</string>
+                        <string>Serb</string>
+                        <string>Silesian</string>
+                        <string>Slavic</string>
+                        <string>Slovak</string>
+                        <string>Slovene</string>
+                        <string>Sorbian</string>
+                        <string>Ukrainian</string>
+                        <string>Yugoslav</string>
+                    </Values>
+                </Group>
+            </Generic>
+            <Corvette>
+                <Group>
+                    <Name>Ships - Swedish</Name>
+                    <Values>
+                        <string>Dristigheten</string>
+                    </Values>
+                </Group>
+                <Group>
+                    <Name>Animals - Russian</Name>
+                    <Values>
+                        <string>Akula</string>
+                        <string>Kodiak</string>
+                    </Values>
+                </Group>
+                <Group>
+                    <Name>Persons - Military - Polish</Name>
+                    <Values>
+                        <string>Brumowski</string>
+                    </Values>
+                </Group>
+                <Group>
+                    <Name>Persons - Military - Russian</Name>
+                    <Values>
+                        <string>Kozhedub</string>
+                        <string>Litvyak</string>
+                    </Values>
+                </Group>
+                <Group>
+                    <Name>Military Unit Types - Russian</Name>
+                    <Values>
+                        <string>Cossack</string>
+                        <string>Kazakov</string>
+                    </Values>
+                </Group>
+                <Group>
+                    <Name>Ships - Destroyers - Russian</Name>
+                    <Values>
+                        <string>Doblestnyi</string>
+                    </Values>
+                </Group>
+            </Corvette>
+            <Destroyer>
+                <Group>
+                    <Name>Cities - Belarus</Name>
+                    <Values>
+                        <string>Minsk</string>
+                    </Values>
+                </Group>
+                <Group>
+                    <Name>Cities - Bosnia</Name>
+                    <Values>
+                        <string>Sarajevo</string>
+                    </Values>
+                </Group>
+                <Group>
+                    <Name>Cities - Czechia</Name>
+                    <Values>
+                        <string>Prague</string>
+                    </Values>
+                </Group>
+                <Group>
+                    <Name>Cities - Poland</Name>
+                    <Values>
+                        <string>Krakow</string>
+                        <string>Warsaw</string>
+                    </Values>
+                </Group>
+                <Group>
+                    <Name>Cities - Russia</Name>
+                    <Values>
+                        <string>Chelyabinsk</string>
+                        <string>Moscow</string>
+                        <string>Novgorod</string>
+                        <string>Novosibirsk</string>
+                        <string>Omsk</string>
+                        <string>Perm</string>
+                        <string>Rostov</string>
+                        <string>Smolensk</string>
+                        <string>St. Petersburg</string>
+                        <string>Ufa</string>
+                        <string>Vladivostok</string>
+                        <string>Volgograd</string>
+                        <string>Yekaterinburg</string>
+                        <string>Krasnoyarsk</string>
+                        <string>Voronezh</string>
+                        <string>Saratov</string>
+                        <string>Krasnodar</string>
+                        <string>Saratov</string>
+                        <string>Izhevsk</string>
+                        <string>Ulyanovsk</string>
+                        <string>Yaroslavl</string>
+                        <string>Irkutsk</string>
+                        <string>Khabarovsk</string>
+                        <string>Orenburg</string>
+                        <string>Ryazan</string>
+                        <string>Astrakhan</string>
+                        <string>Lipetsk</string>
+                        <string>Tula</string>
+                        <string>Kirov</string>
+                        <string>Bryansk</string>
+                        <string>Ivanovo</string>
+                        <string>Stavropol</string>
+                        <string>Tver</string>
+                        <string>Arkhangelsk</string>
+                        <string>Vladimir</string>
+                        <string>Murmansk</string>
+                        <string>Grozny</string>
+                        <string>Petrozavodsk</string>
+                        <string>Pskov</string>
+                    </Values>
+                </Group>
+                <Group>
+                    <Name>Cities - Serbia</Name>
+                    <Values>
+                        <string>Belgrade</string>
+                    </Values>
+                </Group>
+                <Group>
+                    <Name>Cities - Slovakia</Name>
+                    <Values>
+                        <string>Bratislava</string>
+                    </Values>
+                </Group>
+                <Group>
+                    <Name>Cities - Slovenia</Name>
+                    <Values>
+                        <string>Ljubljana</string>
+                    </Values>
+                </Group>
+                <Group>
+                    <Name>Cities - Ukraine</Name>
+                    <Values>
+                        <string>Donetsk</string>
+                        <string>Kiev</string>
+                        <string>Sevastopol</string>
+                    </Values>
+                </Group>
+            </Destroyer>
+            <Cruiser>
+                <Group>
+                    <Name>Persons - Leaders - Russian</Name>
+                    <Values>
+                        <string>Alexander Nevsky</string>
+                        <string>Catherine the Great</string>
+                    </Values>
+                </Group>
+                <Group>
+                    <Name>Persons - Military - Russian</Name>
+                    <Values>
+                        <string>Brusilov</string>
+                        <string>Zhukov</string>
+                    </Values>
+                </Group>
+                <Group>
+                    <Name>Ships - Submarine - Russian</Name>
+                    <Values>
+                        <string>Kursk</string>
+                    </Values>
+                </Group>
+                <Group>
+                    <Name>Battles / Battlefields - Ukraine</Name>
+                    <Values>
+                        <string>Kharkov</string>
+                        <string>Poltava</string>
+                    </Values>
+                </Group>
+            </Cruiser>
+            <Battleship>
+                <Group>
+                    <Name>Persons - Leaders - Russian</Name>
+                    <Values>
+                        <string>Potemkin</string>
+                    </Values>
+                </Group>
+            </Battleship>
+            <Constructor>
+                <Group>
+                    <Name>Regions - Russia</Name>
+                    <Values>
+                        <string>Volga</string>
+                    </Values>
+                </Group>
+            </Constructor>
+            <Science>
+                <Group>
+                    <Name>People - Scientists - Russian</Name>
+                    <Values>
+                        <string>Tsiolkovsky</string>
+                    </Values>
+                </Group>
+                <Group>
+                    <Name>People - Scientists - Serbian</Name>
+                    <Values>
+                        <string>Tesla</string>
+                    </Values>
+                </Group>
+                <Group>
+                    <Name>People - Cosmonauts - Russian</Name>
+                    <Values>
+                        <string>Tereshkova</string>
+                    </Values>
+                </Group>
+                <Group>
+                    <Name>People - Writers - Russian</Name>
+                    <Values>
+                        <string>Asmiov</string>
+                    </Values>
+                </Group>
+                <Group>
+                    <Name>Ships - Satellite - Russian</Name>
+                    <Values>
+                        <string>Sputnik</string>
+                    </Values>
+                </Group>
+            </Science>
+            <Coloniser>
+                <Group>
+                    <Name>Countries</Name>
+                    <Values>
+                        <string>Belarus</string>
+                        <string>Bosnia</string>
+                        <string>Bulgaria</string>
+                        <string>Croatia</string>
+                        <string>Czechia</string>
+                        <string>Montenegro</string>
+                        <string>Poland</string>
+                        <string>Russia</string>
+                        <string>Serbia</string>
+                        <string>Slovakia</string>
+                        <string>Slovenia</string>
+                        <string>Ukraine</string>
+                        <string>Yugoslavia</string>
+                    </Values>
+                </Group>
+            </Coloniser>
+        </ShipNames>
+        <ShipClasses>
+            <Generic>
+                <Group>
+                    <Name>People groups</Name>
+                    <Values>
+                        <string>Belarusian</string>
+                        <string>Bosniak</string>
+                        <string>Bulgarian</string>
+                        <string>Croat</string>
+                        <string>Czech</string>
+                        <string>Kashubian</string>
+                        <string>Montenegrin</string>
+                        <string>Moravian</string>
+                        <string>Polish</string>
+                        <string>Russian</string>
+                        <string>Serb</string>
+                        <string>Silesian</string>
+                        <string>Slavic</string>
+                        <string>Slovak</string>
+                        <string>Slovene</string>
+                        <string>Sorbian</string>
+                        <string>Ukrainian</string>
+                        <string>Yugoslav</string>
+                    </Values>
+                </Group>
+            </Generic>
+        </ShipClasses>
+    </NameList>
+</NameLists>

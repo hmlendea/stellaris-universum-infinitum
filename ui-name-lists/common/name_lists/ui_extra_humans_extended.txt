@@ -924,6 +924,10 @@ ui_extra_humans_extended = {
                 Zhenneung Zhenraha Zhongchaek Zhonggaa Zhonghai Zhongmaki Zhongtsukawa Zhougol Zhourano Zhouyuan Zoabetsu Zoakami Zoapo Zoaqiu Zoazaki Zuunchong
                 Zuunchun Zuunkhorin Zuunmoto Zuunturuun
 
+                # >>> From: UI Human Asian - Civilisation Beyond Earth - Pan-Asian Cooperative
+                "Tiangong" "Quyen" "Nhiet Tinh" "Ganzorig" "Huanle" "Gong Ren" "Thanh" "Kuijia" "Huihuang" "Sinjeon" "Renxing" "Qi Chui" "Gaosi" "Adislal"
+                "Xindalu" "Troi" "Phao Dai" "Tenger Bambai" "Hyugeso"
+
                 # >>> From: UI - RuneScape - Human - Deities
                 Elidinis Het
 
@@ -936,6 +940,14 @@ ui_extra_humans_extended = {
                 
                 # >>> From: UI - StarWars - Human
                 Pamarthe Chalacta
+
+                # >>> Civilisation Beyond Earth - American Reclamation Corporation
+                "Central" "Axiom" "Vanguard" "Liberty" "Fortune" "Amity" "Prospect" "Grand City" "Praxis" "Sentinel" "Reliance" "Endaevour" "Ascension"
+                "Stalwart" "Heritage" "Star City" "Bradbury" "Empire" "Venture" "Enterprise"
+
+                # >>> Civilisation Beyond Earth - African Union
+                "Ayaan" "Thabo" "Jenali" "Bongani" "Xirsi" "Zuberi" "Masego" "Sizwe" "Ladan" "Jabulile" "Warsame" "Thula" "Qasri" "Chengetai" "Fadziso"
+                "Mzoxolo" "Hoodo" "Libaan" "Roonaan"
 
                 # Puzzle Pirates (Island names)
                 Boyle Byrne Chaparral Cnossos Osterum Ansel Arakoua Blackthrope Scrimshaw
