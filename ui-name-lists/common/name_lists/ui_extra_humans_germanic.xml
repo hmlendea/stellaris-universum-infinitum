@@ -62,6 +62,12 @@
       </Countries>
       <Cities>
         <NameGroup>
+          <Name>Cities - Austria</Name>
+          <Values>
+            <string>Vienna</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
           <Name>Cities - Belgium</Name>
           <Values>
             <string>Antwerpen</string>
@@ -72,6 +78,7 @@
           <Name>Cities - Denmark</Name>
           <Values>
             <string>Aarhus</string>
+            <string>Copenhagen</string>
             <string>København</string>
           </Values>
         </NameGroup>
@@ -80,6 +87,7 @@
           <Values>
             <string>Aachen</string>
             <string>Augsburg</string>
+            <string>Berlin</string>
             <string>Bonn</string>
             <string>Bremen</string>
             <string>Dortmund</string>
@@ -137,11 +145,17 @@
           </Values>
         </NameGroup>
         <NameGroup>
+          <Name>Cities - Luxembourg</Name>
+          <Values>
+            <string>Lëtzebuerg</string>
+            <string>Luxembourg</string>
+            <string>Luxemburg</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
           <Name>Cities - Others</Name>
           <Values>
             <string>Johannesburg</string>
-            <string>Lëtzebuerg</string>
-            <string>Luxemburg</string>
           </Values>
         </NameGroup>
       </Cities>
