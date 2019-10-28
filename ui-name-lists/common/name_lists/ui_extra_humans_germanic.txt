@@ -43,8 +43,9 @@ ui_extra_humans_germanic = {
             "Aarhus" "København"
 
             # >>> Cities - Germany
-            "Aachen" "Augsburg" "Bonn" "Bremen" "Dortmund" "Dresden" "Duisburg" "Düsseldorf" "Essen" "Frankfurt" "Freiburg" "Hamburg" "Hannover" "Karlsruhe"
-            "Köln" "Leipzig" "Lübeck" "Mainz" "Mannheim" "München" "Münster" "Nürnberg" "Potsdam" "Rostock" "Stuttgart"
+            "Aachen" "Augsburg" "Bonn" "Bremen" "Dortmund" "Dresden" "Duisburg" "Düsseldorf" "Essen" "Frankfurt" "Freiburg" "Hamburg"
+            "Hannover" "Karlsruhe" "Köln" "Leipzig" "Lübeck" "Mainz" "Mannheim" "München" "Münster" "Nürnberg" "Potsdam" "Rostock"
+            "Stuttgart"
 
             # >>> Cities - Netherlands
             "Amsterdam" "Arnhem" "Den Haag" "Rotterdam" "Utrecht"
@@ -111,7 +112,7 @@ ui_extra_humans_germanic = {
             # >>> Persons - Exploration - Norse
             "Leif Ericson"
         }
-        coloniser = {
+        colonizer = {
             # >>> Mythology
             "Valhalla"
 
@@ -131,8 +132,9 @@ ui_extra_humans_germanic = {
             "Aarhus" "København"
 
             # >>> Cities - Germany
-            "Aachen" "Augsburg" "Bonn" "Bremen" "Dortmund" "Dresden" "Duisburg" "Düsseldorf" "Essen" "Frankfurt" "Freiburg" "Hamburg" "Hannover" "Karlsruhe"
-            "Köln" "Leipzig" "Lübeck" "Mainz" "Mannheim" "München" "Münster" "Nürnberg" "Potsdam" "Rostock" "Stuttgart"
+            "Aachen" "Augsburg" "Bonn" "Bremen" "Dortmund" "Dresden" "Duisburg" "Düsseldorf" "Essen" "Frankfurt" "Freiburg" "Hamburg"
+            "Hannover" "Karlsruhe" "Köln" "Leipzig" "Lübeck" "Mainz" "Mannheim" "München" "Münster" "Nürnberg" "Potsdam" "Rostock"
+            "Stuttgart"
 
             # >>> Cities - Netherlands
             "Amsterdam" "Arnhem" "Den Haag" "Rotterdam" "Utrecht"
@@ -149,7 +151,7 @@ ui_extra_humans_germanic = {
             # >>> Cities - Others
             "Johannesburg" "Lëtzebuerg" "Luxemburg"
         }
-        sponsored_coloniser = {
+        sponsored_colonizer = {
             # >>> Mythology
             "Valhalla"
 
@@ -169,8 +171,9 @@ ui_extra_humans_germanic = {
             "Aarhus" "København"
 
             # >>> Cities - Germany
-            "Aachen" "Augsburg" "Bonn" "Bremen" "Dortmund" "Dresden" "Duisburg" "Düsseldorf" "Essen" "Frankfurt" "Freiburg" "Hamburg" "Hannover" "Karlsruhe"
-            "Köln" "Leipzig" "Lübeck" "Mainz" "Mannheim" "München" "Münster" "Nürnberg" "Potsdam" "Rostock" "Stuttgart"
+            "Aachen" "Augsburg" "Bonn" "Bremen" "Dortmund" "Dresden" "Duisburg" "Düsseldorf" "Essen" "Frankfurt" "Freiburg" "Hamburg"
+            "Hannover" "Karlsruhe" "Köln" "Leipzig" "Lübeck" "Mainz" "Mannheim" "München" "Münster" "Nürnberg" "Potsdam" "Rostock"
+            "Stuttgart"
 
             # >>> Cities - Netherlands
             "Amsterdam" "Arnhem" "Den Haag" "Rotterdam" "Utrecht"
@@ -200,19 +203,19 @@ ui_extra_humans_germanic = {
         }
 
         starbase_outpost = {
-            sequential_name = "%0% Starbase"
+            sequential_name = "%O% Starbase"
         }
         starbase_starport = {
-            sequential_name = "%0% Starbase"
+            sequential_name = "%O% Starbase"
         }
         starbase_starhold = {
-            sequential_name = "%0% Starbase"
+            sequential_name = "%O% Starbase"
         }
         starbase_starfortress = {
-            sequential_name = "%0% Starbase"
+            sequential_name = "%O% Starbase"
         }
         starbase_citadel = {
-            sequential_name = "%0% Starbase"
+            sequential_name = "%O% Starbase"
         }
 
         military_station_small = {
@@ -280,19 +283,14 @@ ui_extra_humans_germanic = {
         }
 
         starbase_outpost = {
-            sequential_name = "%0% Starbase"
         }
         starbase_starport = {
-            sequential_name = "%0% Starbase"
         }
         starbase_starhold = {
-            sequential_name = "%0% Starbase"
         }
         starbase_starfortress = {
-            sequential_name = "%0% Starbase"
         }
         starbase_citadel = {
-            sequential_name = "%0% Starbase"
         }
 
         military_station_small = {
@@ -314,52 +312,52 @@ ui_extra_humans_germanic = {
             # >>> Weapons
             "The Flamberge Fleet" "The Katzbalger Fleet"
         }
-        sequential_name = "%0% Fleet"
+        sequential_name = "%O% Fleet"
     }
 
     army_names = {
         defense_army = {
-            sequential_name = "%0% Defence Army"
+            sequential_name = "%O% Planetary Guard"
         }
         assault_army = {
-            sequential_name = "%0% Assault Army"
+            sequential_name = "%O% Expeditionary Force"
         }
         occupation_army = {
-            sequential_name = "%0% Occupation Army"
+            sequential_name = "%O% Garrison Force"
         }
 
         slave_army = {
-            sequential_name = "%0% Slave Army"
+            sequential_name = "%O% Indentured Rifles"
         }
         clone_army = {
-            sequential_name = "%0% Clone Army"
+            sequential_name = "%O% Clone Army"
         }
 
         robotic_defense_army = {
-            sequential_name = "%0% Robotic Defence Army"
+            sequential_name = "%O% Ground Defence Matrix"
         }
         robotic_army = {
-            sequential_name = "%0% Robotic Assault Army"
+            sequential_name = "%O% Hunter-Killer Group"
         }
         robotic_occupation_army = {
-            sequential_name = "%0% Robotic Occupation Army"
+            sequential_name = "%O% Mechanised Garrison"
         }
 
         android_defense_army = {
-            sequential_name = "%0% Android Defence Army"
+            sequential_name = "%O% Synthetic Sentinels"
         }
         android_army = {
-            sequential_name = "%0% Android Assault Army"
+            sequential_name = "%O% Synthetic Rangers"
         }
 
         psionic_army = {
-            sequential_name = "%0% Psionic Army"
+            sequential_name = "%O% Psi Commando"
         }
         xenomorph_army = {
-            sequential_name = "%0% Xenomorph Army"
+            sequential_name = "%O% Bio-Warfare Division"
         }
         gene_warrior_army = {
-            sequential_name = "%0% Super Soldier Army"
+            sequential_name = "%O% Bio-Engineered Squadron"
         }
     }
 
@@ -409,9 +407,6 @@ ui_extra_humans_germanic = {
         pc_tundra = {
             names = {
                 # >>> Countries - Native names
-                "Ísland"
-
-                # >>> Countries - English names
                 "Ísland"
 
                 # >>> Mythology
@@ -469,50 +464,65 @@ ui_extra_humans_germanic = {
     }
 
     character_names = {
-
-        # Languages should have a weight equal to the rounded down percentage of its native speakers out of all the implemented ones
-        # Statistics should be taken from Wikipedia. Weight should not be lower than 1.
-
-        ###############################
-        # GERMAN (3.06%)
-        ###############################
-        names8 = {
+        german = {
             weight = 100
             first_names_male = {
-                Adolf Albert Andreas Arnold Artur August Axel Bruno Conrad Dieter Eggert Emil Erhard Erich Ernst Erwin Felix Franz Friedrich
-                Fritz Gerhard Gerhardt Gottfried Gottlob Günther Gustav Hans Heinrich Heinz Helmuth Herbert Hermann Holger Horst Hravn Jakob
-                Joachim Johann Jörg Josef Jürgen Karl Klaus Konrad Konstantin Kurt Lothar Ludolf Ludwig Lukas Manfred Martin Matthias Max
-                Moritz Oswald Otto Paul Peter Reinhard Rolf Rudolf Sepp Sigismund Stefan Theodor Thomas Udo Ulrich Uwe Walter Werner Wilhelm
-                Wolfgang Xaver 
-            }
-            first_names_female = {
-                Adelaide Andrea Angelika Anita Anja Anna Annike Bettina Birgit Christel Claudia Edith Elsa Emma Erika Eva Gertrude Gisela
-                Gretchen Heidi Heike Helga Hermine Hilde Hildegard Ilse Ingrid Jessika Johanna Julia Katharina Katrin Kerstin Lena Lina
-                Lisa Lisbeth Margaret Maria Marith Martina Petra Renate Sabine Sabrina Sandra Sara Silvia Stefanie Tina Ursula Wibke
-                Wilhelmina
-            }
-            second_names = {
-                Alpers Amann Andbert Bach Backe Bauer Baumann Baur Becker Berchtold Berger Bergmeister Best Bittrich Bohle Bomhard Bouhler
-                Braemer Brandt Braun Breithaupt Brenner Brill Brinkmann Buch Bürckel Daluege Demelhubeer Dietrich Dreyer Eberstein Eggeling
-                Eicke Erhard Fegelein Fiehler Fischer Fitzthum Forster Frank Freyberg Friedrichs Gebhardt Genzken Gille Glücks Gottberg
-                Grasser Grawitz Greifelt Greiser Hanke Harster Hausser Heiden Heissmeyer HeissmeyerHenlein Heydrich Hilderbrandt Himmler
-                Hinkel Hoffmann Höfle Hofmann Jeckeln Jüttner Kaltenbrunner Kammler Katzmann Keller Keppler Klein Kleinheisterkamp Klopfer
-                Koppe Kreutz Krüger Kube Lammers Lauterbacher Loeper Lorenz Lörner Meyer Moder Müller Mülverstadt Naumann Nebe Neumann Oberg
-                Ohlendorf Ostendorff Pancke Pfeffer Phelps Pohl Prieß Prützmann Querner Rattenhuber Rauter Rediess Reeder Reinefarth
-                Ribbentrop Richter Rösener Saubeerzweig Sauckel Sauer Schäfer Scharfe Schaub Scheid Schimana Schmidt Schneider Scholz
-                Schreck Schubert Schulz Schwarz Schwarzenegger Sporrenberg Stein Steiner Strasse Streckenbach Stroop Stuckart
-                "von Alvensleben" "von Boyen" "von Falkenstein" "von Fritsch" "von Gebser" "von Halkett" "von Helldorf" "von Herff"
-                "von Hotzendorf" "von Neurath" "von Woyrsch" "von Wrangel" Wächter Wächtler Wagner Weber Weiss Weitzel Wendler Wildenbruch
-                Wolf Wolff Wünnenberg Ziegler 
+                # >>> Male German first names
+                "Adolf" "Albert" "Andreas" "Arnold" "Artur" "August" "Axel" "Bruno" "Conrad" "Dieter" "Eggert" "Emil" "Erhard" "Erich"
+                "Ernst" "Erwin" "Felix" "Franz" "Friedrich" "Fritz" "Gerhard" "Gerhardt" "Gottfried" "Gottlob" "Günther" "Gustav" "Hans"
+                "Heinrich" "Heinz" "Helmuth" "Herbert" "Hermann" "Holger" "Horst" "Hravn" "Jakob" "Joachim" "Johann" "Jörg" "Josef"
+                "Jürgen" "Karl" "Klaus" "Konrad" "Konstantin" "Kurt" "Lothar" "Ludolf" "Ludwig" "Lukas" "Manfred" "Martin" "Matthias" "Max"
+                "Moritz" "Oswald" "Otto" "Paul" "Peter" "Reinhard" "Rolf" "Rudolf" "Sepp" "Sigismund" "Stefan" "Theodor" "Thomas" "Udo"
+                "Ulrich" "Uwe" "Walter" "Werner" "Wilhelm" "Wolfgang" "Xaver"
             }
             regnal_first_names_male = {
-                Wilhelm Leopold Rudolf Freidrich Karl Ferdinand Franz Otto Johann
+                # >>> Male German royal first names
+                "Ferdinand" "Franz" "Freidrich" "Johann" "Karl" "Leopold" "Otto" "Rudolf" "Wilhelm"
+            }
+            first_names_female = {
+                # >>> Female German first names
+                "Adelaide" "Andrea" "Angelika" "Anita" "Anja" "Anna" "Annike" "Bettina" "Birgit" "Christel" "Claudia" "Edith" "Elsa" "Emma"
+                "Erika" "Eva" "Gertrude" "Gisela" "Gretchen" "Heidi" "Heike" "Helga" "Hermine" "Hilde" "Hildegard" "Ilse" "Ingrid"
+                "Jessika" "Johanna" "Julia" "Katharina" "Katrin" "Kerstin" "Lena" "Lina" "Lisa" "Lisbeth" "Margaret" "Maria" "Marith"
+                "Martina" "Petra" "Renate" "Sabine" "Sabrina" "Sandra" "Sara" "Silvia" "Stefanie" "Tina" "Ursula" "Wibke" "Wilhelmina"
             }
             regnal_first_names_female = {
-                Maria Adelaide Hermine Margaret Anna
+                # >>> Female German royal first names
+                "Alpers" "Amann" "Andbert" "Bach" "Backe" "Bauer" "Baumann" "Baur" "Becker" "Berchtold" "Berger" "Bergmeister" "Best"
+                "Bittrich" "Bohle" "Bomhard" "Bouhler" "Braemer" "Brandt" "Braun" "Breithaupt" "Brenner" "Brill" "Brinkmann" "Buch"
+                "Bürckel" "Daluege" "Demelhubeer" "Dietrich" "Dreyer" "Eberstein" "Eggeling" "Eicke" "Erhard" "Fegelein" "Fiehler"
+                "Fischer" "Fitzthum" "Forster" "Frank" "Freyberg" "Friedrichs" "Gebhardt" "Genzken" "Gille" "Glücks" "Gottberg" "Grasser"
+                "Grawitz" "Greifelt" "Greiser" "Hanke" "Harster" "Hausser" "Heiden" "Heissmeyer" "HeissmeyerHenlein" "Heydrich"
+                "Hilderbrandt" "Himmler" "Hinkel" "Hoffmann" "Höfle" "Hofmann" "Jeckeln" "Jüttner" "Kaltenbrunner" "Kammler" "Katzmann"
+                "Keller" "Keppler" "Klein" "Kleinheisterkamp" "Klopfer" "Koppe" "Kreutz" "Krüger" "Kube" "Lammers" "Lauterbacher" "Loeper"
+                "Lorenz" "Lörner" "Meyer" "Moder" "Müller" "Mülverstadt" "Naumann" "Nebe" "Neumann" "Oberg" "Ohlendorf" "Ostendorff"
+                "Pancke" "Pfeffer" "Phelps" "Pohl" "Prieß" "Prützmann" "Querner" "Rattenhuber" "Rauter" "Rediess" "Reeder" "Reinefarth"
+                "Ribbentrop" "Richter" "Rösener" "Saubeerzweig" "Sauckel" "Sauer" "Schäfer" "Scharfe" "Schaub" "Scheid" "Schimana"
+                "Schmidt" "Schneider" "Scholz" "Schreck" "Schubert" "Schulz" "Schwarz" "Schwarzenegger" "Sporrenberg" "Stein" "Steiner"
+                "Strasse" "Streckenbach" "Stroop" "Stuckart" "von Alvensleben" "von Boyen" "von Falkenstein" "von Fritsch" "von Gebser"
+                "von Halkett" "von Helldorf" "von Herff" "von Hotzendorf" "von Neurath" "von Woyrsch" "von Wrangel" "Wächter" "Wächtler"
+                "Wagner" "Weber" "Weiss" "Weitzel" "Wendler" "Wildenbruch" "Wolf" "Wolff" "Wünnenberg" "Ziegler"
+            }
+            second_first_names = {
+                # >>> German royal second names
+                "Alpers" "Amann" "Andbert" "Bach" "Backe" "Bauer" "Baumann" "Baur" "Becker" "Berchtold" "Berger" "Bergmeister" "Best"
+                "Bittrich" "Bohle" "Bomhard" "Bouhler" "Braemer" "Brandt" "Braun" "Breithaupt" "Brenner" "Brill" "Brinkmann" "Buch"
+                "Bürckel" "Daluege" "Demelhubeer" "Dietrich" "Dreyer" "Eberstein" "Eggeling" "Eicke" "Erhard" "Fegelein" "Fiehler"
+                "Fischer" "Fitzthum" "Forster" "Frank" "Freyberg" "Friedrichs" "Gebhardt" "Genzken" "Gille" "Glücks" "Gottberg" "Grasser"
+                "Grawitz" "Greifelt" "Greiser" "Hanke" "Harster" "Hausser" "Heiden" "Heissmeyer" "HeissmeyerHenlein" "Heydrich"
+                "Hilderbrandt" "Himmler" "Hinkel" "Hoffmann" "Höfle" "Hofmann" "Jeckeln" "Jüttner" "Kaltenbrunner" "Kammler" "Katzmann"
+                "Keller" "Keppler" "Klein" "Kleinheisterkamp" "Klopfer" "Koppe" "Kreutz" "Krüger" "Kube" "Lammers" "Lauterbacher" "Loeper"
+                "Lorenz" "Lörner" "Meyer" "Moder" "Müller" "Mülverstadt" "Naumann" "Nebe" "Neumann" "Oberg" "Ohlendorf" "Ostendorff"
+                "Pancke" "Pfeffer" "Phelps" "Pohl" "Prieß" "Prützmann" "Querner" "Rattenhuber" "Rauter" "Rediess" "Reeder" "Reinefarth"
+                "Ribbentrop" "Richter" "Rösener" "Saubeerzweig" "Sauckel" "Sauer" "Schäfer" "Scharfe" "Schaub" "Scheid" "Schimana"
+                "Schmidt" "Schneider" "Scholz" "Schreck" "Schubert" "Schulz" "Schwarz" "Schwarzenegger" "Sporrenberg" "Stein" "Steiner"
+                "Strasse" "Streckenbach" "Stroop" "Stuckart" "von Alvensleben" "von Boyen" "von Falkenstein" "von Fritsch" "von Gebser"
+                "von Halkett" "von Helldorf" "von Herff" "von Hotzendorf" "von Neurath" "von Woyrsch" "von Wrangel" "Wächter" "Wächtler"
+                "Wagner" "Weber" "Weiss" "Weitzel" "Wendler" "Wildenbruch" "Wolf" "Wolff" "Wünnenberg" "Ziegler"
             }
             regnal_second_names = {
-                Karling Hohenstaufen Welf Habsburg Luxemburg Wittelsbach Hohenzollern Sigmaringen
+                # >>> German royal second names
+                "Habsburg" "Hohenstaufen" "Hohenzollern" "Karling" "Luxemburg" "Sigmaringen" "Welf" "Wittelsbach"
             }
         }
     }

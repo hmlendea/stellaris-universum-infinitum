@@ -1,124 +1,278 @@
-### Universum Infinitum
-### Extras
-### Humans - Asian (Chinese, Mongolian, Japanese, Korean, Indonesian, Malysian, Vietnamese, etc)
+### 
 
 ui_extra_humans_asian = {
-    randomized = no
-
     ship_names = {
-        generic = { }
+        generic = {
+            # >>> Nationalities - English Names
+            "Chinese" "Indonesian" "Japanese" "Korean" "Malysian" "Mongol" "Mongolian" "Vietnamese"
+        }
 
         corvette = {
-            # Vanilla HUMAN1 (only asian)
-            "Guru Baaje" "Hua Mulan" "Tomoe Gozen" Belawa Bong Cangjie Changdao Chaoyang Chokuto Dao Datong Guangxing Gurkha Haifeng Hailong Iwamoto Jian Jiangkun
-            Klewang Liuyedao Mandau Meihong Miaodao Mongol Niabor Nishizawa Odachi Parang Qiuxing Ronin Sakai Samurai Shikomizue Shinohara Soyokaze Tachi Taiyang
-            Taizhao Tsurugi Uchigatana Urumi Wakizashi Wodao Wulong Yangwei Yanmaodao Yinghao Yinxi Yongcheng Zhanmadao Zhengsheng
+            # >>> Ships - Chinese
+            "Yangwei"
+
+            # >>> Persons - Military - Japanese
+            "Hiromichi Shinohara" "Hiroyoshi Nishizawa" "Koji Sakai" "Nishizawa" "Sakai" "Shinohara" "Tomoe Gozen"
+
+            # >>> Persons - Heroes - Chinese
+            "Hua Mulan"
+
+            # >>> Persons - Folklore - Chinese
+            "Cangjie" "Yinxi"
+
+            # >>> Military Unit Types - Japanese
+            "Ronin" "Samurai"
+
+            # >>> Swords - Chinese
+            "Changdao" "Jian" "Liuyedao" "Miaodao" "Wodao" "Yanmaodao" "Zhanmadao"
+
+            # >>> Swords - Japanese
+            "Chokuto" "Katana" "Odachi" "Shikomizue" "Tachi" "Tsurugi" "Uchigatana" "Wakizashi"
+
+            # >>> Daggers - Japanese
+            "Kaiken"
         }
         destroyer = {
-            # Vanilla HUMAN1 (only asian)
-            Bangkok Beijing Guangzhou Hanoi "Hong Kong" Jakarta Osaka Seoul Shanghai Singapore Tokyo Kyoto Chengdu Hangzhou Shaoxing Yokohama "Kuala Lumpur" 
-            Tapei Shenzhen Suzhou Dongguan Chongqing Changsha Wuhan Tianjin Foshan Zunyi Shantou Xi'an Zhengzhou Xiamen Quanzhou Busan Hefei Pyongyang
-            Zhongshan Wenzhou Kaohsiung Taichung Quito Chittagong
-            Daegu Nagoya Kobe Fukuoka Kawasaki
+            # >>> Cities - China
+            "Baotou" "Changchun" "Changsha" "Changzhou" "Chengdu" "Chongqing" "Dalian" "Datong" "Dongguan" "Foshan" "Fuzhou" "Guangzhou"
+            "Guiyang" "Hangzhou" "Harbin" "Hefei" "Hong Kong" "Huizhou" "Jinan" "Kunming" "Lanzhou" "Nanchang" "Nanjing" "Ningbo" "Qingdao"
+            "Quanzhou" "Shanghai" "Shantou" "Shaoxing" "Shenyang" "Shenzen" "Shijazhuang" "Suzhou" "Taiyuan" "Tangshan" "Tianjin" "Urumqi"
+            "Wuhan" "Wuxi" "Xi'an" "Xiamen" "Xuzhou" "Yantai" "Yongcheng" "Zhengzhou" "Zhongshan" "Zibo" "Zunyi"
+
+            # >>> Cities - Japan
+            "Adachi" "Chiba" "Edogawa" "Fukuoka" "Fukuyama" "Funabashi" "Hachioji" "Hamamatsu" "Higashiosaka" "Himeji" "Hiroshima"
+            "Itabashi" "Kagoshima" "Kawaguchi" "Kawasaki" "Kitakyushu" "Kobe" "Kumamoto" "Kyoto" "Matsudo" "Matsyama" "Nagasaki" "Nagoya"
+            "Nerima" "Niigata" "Okayama" "Osaka" "Ota" "Sagamihara" "Saitama" "Sakai" "Sendai" "Setagaya" "Shizuoka" "Suginami" "Tokyo"
+            "Utsunomiya"
+
+            # >>> Cities - Korea
+            "Ansan" "Bucheon" "Busan" "Changwon" "Cheonan" "Cheongju" "Chongjin" "Daegu" "Daejeon" "Goyang" "Gwangju" "Haeju" "Hamhung"
+            "Incheon" "Jeonju" "Kaechon" "Kaesong" "Nampo" "Namyangju" "Pyongsong" "Pyongyang" "Sariwon" "Seongnam" "Seoul" "Sinuiju"
+            "Sunchon" "Suwon" "Tanchon" "Ulsan" "Wonsan" "Yongin"
+
+            # >>> Cities - Taiwan
+            "Changhua" "Chiayi" "Douliu" "Hsinchu" "Hualien" "Kaohsiung" "Keelung" "Magong" "Miaoli" "Nantou" "Pingtung" "Puzi" "Taibao"
+            "Taichung" "Tainan" "Taipei" "Taitung" "Taoyuan" "Toufen" "Wenzhou" "Yilan" "Yuanlin" "Zhubei"
         }
         cruiser = {
-            # Vanilla HUMAN1 (only asian)
-            "Sun Tzu" "Yi Sun-sin" Heihachiro Subutai Nagato "Shi Lang" "Tran Hung Dao" "Khalkhin Gol" "Qin Shi Huang" Tamerlane "Genghis Khan"
+            # >>> Ships - Japanese
+            "Nagato"
+
+            # >>> Persons - Military - Chinese
+            "Sun Tzu"
+
+            # >>> Persons - Military - Japanese
+            "Heihachiro" "Oshio Heihachiro" "Togo Heihachiro"
+
+            # >>> Persons - Military - Korean
+            "Yi Sun-sin"
+
+            # >>> Persons - Military - Mongol
+            "Subutai"
         }
         battleship = {
-            # Vanilla HUMAN1 (only asian)
-            Yamato Tsushima Akira Musashi Yamamoto Akagi Kaga 
+            # >>> Ships - Japanese
+            "Akagi" "Kaga"
 
-            # Vanilla Commonwealth (only asian)
-            Katana
+            # >>> Persons - Military - Japanese
+            "Akira" "Akira Muto" "Akira Yamamoto" "Miyamoto Musashi" "Musashi" "Yamamoto"
+
+            # >>> Persons - Leader - Japanese
+            "Yamato" "Yamato Takeru"
+
+            # >>> Ships - Japanese
+            "Tsushima"
         }
-        titan = { }
-        colossus = { }
+
+        titan = {
+        }
+        colossus = {
+        }
 
         constructor = {
-            # Vanilla HUMAN1 (only asian)
-            Mekong Yangtze
+            "Yangtze"
         }
-        science = { }
+        science = {
+        }
         colonizer = {
-            # Vanilla HUMAN1 (only asian)
-            Taiwan
+            # >>> Cities - China
+            "Baotou" "Changchun" "Changsha" "Changzhou" "Chengdu" "Chongqing" "Dalian" "Datong" "Dongguan" "Foshan" "Fuzhou" "Guangzhou"
+            "Guiyang" "Hangzhou" "Harbin" "Hefei" "Hong Kong" "Huizhou" "Jinan" "Kunming" "Lanzhou" "Nanchang" "Nanjing" "Ningbo" "Qingdao"
+            "Quanzhou" "Shanghai" "Shantou" "Shaoxing" "Shenyang" "Shenzen" "Shijazhuang" "Suzhou" "Taiyuan" "Tangshan" "Tianjin" "Urumqi"
+            "Wuhan" "Wuxi" "Xi'an" "Xiamen" "Xuzhou" "Yantai" "Yongcheng" "Zhengzhou" "Zhongshan" "Zibo" "Zunyi"
+
+            # >>> Cities - Japan
+            "Adachi" "Chiba" "Edogawa" "Fukuoka" "Fukuyama" "Funabashi" "Hachioji" "Hamamatsu" "Higashiosaka" "Himeji" "Hiroshima"
+            "Itabashi" "Kagoshima" "Kawaguchi" "Kawasaki" "Kitakyushu" "Kobe" "Kumamoto" "Kyoto" "Matsudo" "Matsyama" "Nagasaki" "Nagoya"
+            "Nerima" "Niigata" "Okayama" "Osaka" "Ota" "Sagamihara" "Saitama" "Sakai" "Sendai" "Setagaya" "Shizuoka" "Suginami" "Tokyo"
+            "Utsunomiya"
+
+            # >>> Cities - Korea
+            "Ansan" "Bucheon" "Busan" "Changwon" "Cheonan" "Cheongju" "Chongjin" "Daegu" "Daejeon" "Goyang" "Gwangju" "Haeju" "Hamhung"
+            "Incheon" "Jeonju" "Kaechon" "Kaesong" "Nampo" "Namyangju" "Pyongsong" "Pyongyang" "Sariwon" "Seongnam" "Seoul" "Sinuiju"
+            "Sunchon" "Suwon" "Tanchon" "Ulsan" "Wonsan" "Yongin"
+
+            # >>> Cities - Taiwan
+            "Changhua" "Chiayi" "Douliu" "Hsinchu" "Hualien" "Kaohsiung" "Keelung" "Magong" "Miaoli" "Nantou" "Pingtung" "Puzi" "Taibao"
+            "Taichung" "Tainan" "Taipei" "Taitung" "Taoyuan" "Toufen" "Wenzhou" "Yilan" "Yuanlin" "Zhubei"
         }
         sponsored_colonizer = {
-            # Vanilla HUMAN1 (only asian)
-            Taiwan
+            # >>> Cities - China
+            "Baotou" "Changchun" "Changsha" "Changzhou" "Chengdu" "Chongqing" "Dalian" "Datong" "Dongguan" "Foshan" "Fuzhou" "Guangzhou"
+            "Guiyang" "Hangzhou" "Harbin" "Hefei" "Hong Kong" "Huizhou" "Jinan" "Kunming" "Lanzhou" "Nanchang" "Nanjing" "Ningbo" "Qingdao"
+            "Quanzhou" "Shanghai" "Shantou" "Shaoxing" "Shenyang" "Shenzen" "Shijazhuang" "Suzhou" "Taiyuan" "Tangshan" "Tianjin" "Urumqi"
+            "Wuhan" "Wuxi" "Xi'an" "Xiamen" "Xuzhou" "Yantai" "Yongcheng" "Zhengzhou" "Zhongshan" "Zibo" "Zunyi"
+
+            # >>> Cities - Japan
+            "Adachi" "Chiba" "Edogawa" "Fukuoka" "Fukuyama" "Funabashi" "Hachioji" "Hamamatsu" "Higashiosaka" "Himeji" "Hiroshima"
+            "Itabashi" "Kagoshima" "Kawaguchi" "Kawasaki" "Kitakyushu" "Kobe" "Kumamoto" "Kyoto" "Matsudo" "Matsyama" "Nagasaki" "Nagoya"
+            "Nerima" "Niigata" "Okayama" "Osaka" "Ota" "Sagamihara" "Saitama" "Sakai" "Sendai" "Setagaya" "Shizuoka" "Suginami" "Tokyo"
+            "Utsunomiya"
+
+            # >>> Cities - Korea
+            "Ansan" "Bucheon" "Busan" "Changwon" "Cheonan" "Cheongju" "Chongjin" "Daegu" "Daejeon" "Goyang" "Gwangju" "Haeju" "Hamhung"
+            "Incheon" "Jeonju" "Kaechon" "Kaesong" "Nampo" "Namyangju" "Pyongsong" "Pyongyang" "Sariwon" "Seongnam" "Seoul" "Sinuiju"
+            "Sunchon" "Suwon" "Tanchon" "Ulsan" "Wonsan" "Yongin"
+
+            # >>> Cities - Taiwan
+            "Changhua" "Chiayi" "Douliu" "Hsinchu" "Hualien" "Kaohsiung" "Keelung" "Magong" "Miaoli" "Nantou" "Pingtung" "Puzi" "Taibao"
+            "Taichung" "Tainan" "Taipei" "Taitung" "Taoyuan" "Toufen" "Wenzhou" "Yilan" "Yuanlin" "Zhubei"
         }
         transport = {
-            # Vanilla HUMAN1
-            Tarawa "Iwo Jima" Okinawa Inchon
-        }
-        
-        mining_station = { }
-        research_station = { }
-        observation_station = { }
+            # >>> Islands
+            "Iwo Jima" "Okinawa" "Tarawa"
 
-        starbase_outpost = { }
-        starbase_starport = { }
-        starbase_starhold = { }
-        starbase_starfortress = { }
-        starbase_citadel = { }
+            # >>> Swords - Chinese
+            "Changdao" "Jian" "Liuyedao" "Miaodao" "Wodao" "Yanmaodao" "Zhanmadao"
+
+            # >>> Swords - Japanese
+            "Chokuto" "Katana" "Odachi" "Shikomizue" "Tachi" "Tsurugi" "Uchigatana" "Wakizashi"
+
+            # >>> Daggers - Japanese
+            "Kaiken"
+        }
+
+        mining_station = {
+        }
+        research_station = {
+        }
+        observation_station = {
+        }
+
+        starbase_outpost = {
+            sequential_name = "%O% Starbase"
+        }
+        starbase_starport = {
+            sequential_name = "%O% Starbase"
+        }
+        starbase_starhold = {
+            sequential_name = "%O% Starbase"
+        }
+        starbase_starfortress = {
+            sequential_name = "%O% Starbase"
+        }
+        starbase_citadel = {
+            sequential_name = "%O% Starbase"
+        }
 
         military_station_small = {
-            # Vanilla HUMAN1 (only asian)
-            Tanaka Yonai
+            # >>> Persons - Military - Japanese
+            "Tanaka" "Yonai"
         }
         military_station_medium = {
-            # Vanilla HUMAN1 (only asian)
-            Tanaka Yonai
+            # >>> Persons - Military - Japanese
+            "Tanaka" "Yonai"
         }
         military_station_large = {
-            # Vanilla HUMAN1 (only asian)
-            Tanaka Yonai
+            # >>> Persons - Military - Japanese
+            "Tanaka" "Yonai"
         }
 
-        ion_cannon = { }
+        ion_cannon = {
+        }
     }
 
     ship_class_names = {
         generic = {
-            # Real-world aircraft manufacturers
-            Changhe Harbin Hongdu Qingdao Sichuan Fuji GEN Kawasaki Mitsubishi AIDC
+            # >>> Aircraft manufacturers - Chinese
+            "Changhe" "Comac" "Hafei" "Hongdu"
+
+            # >>> Aircraft manufacturers - Japanese
+            "Kawasaki" "Mitsubishi"
+
+            # >>> Nationalities - English Names
+            "Chinese" "Indonesian" "Japanese" "Korean" "Malysian" "Mongol" "Mongolian" "Vietnamese"
         }
 
-        corvette = { }
-        destroyer = { }
-        cruiser = { }
-        battleship = { }
-        titan = { }
+        corvette = {
+        }
+        destroyer = {
+        }
+        cruiser = {
+        }
+        battleship = {
+        }
 
-        colossus = { }
+        titan = {
+        }
+        colossus = {
+        }
 
-        constructor = { }
-        science = { }
-        colonizer = { }
-        transport = { }
-        
-        mining_station = { }
-        research_station = { }
-        observation_station = { }
+        constructor = {
+        }
+        science = {
+        }
+        coloniser = {
+        }
+        sponsored_coloniser = {
+        }
+        transport = {
+        }
 
-        starbase_outpost = { }
-        starbase_starport = { }
-        starbase_starhold = { }
-        starbase_starfortress = { }
-        starbase_citadel = { }
+        mining_station = {
+        }
+        research_station = {
+        }
+        observation_station = {
+        }
 
-        military_station_small = { }
-        military_station_medium = { }
-        military_station_large = { }
+        starbase_outpost = {
+        }
+        starbase_starport = {
+        }
+        starbase_starhold = {
+        }
+        starbase_starfortress = {
+        }
+        starbase_citadel = {
+        }
 
-        ion_cannon = { }
+        military_station_small = {
+        }
+        military_station_medium = {
+        }
+        military_station_large = {
+        }
+
+        ion_cannon = {
+        }
     }
 
     fleet_names = {
         random_names = {
-            # Soldier types
-            "The Samurai Fleet"
+            # >>> Military Unit Types - Japanese
+            "The Ronin Fleet" "The Samurai Fleet"
+
+            # >>> Swords - Chinese
+            "The Changdao Fleet" "The Jian Fleet" "The Liuyedao Fleet" "The Miaodao Fleet" "The Wodao Fleet" "The Yanmaodao Fleet"
+            "The Zhanmadao Fleet"
+
+            # >>> Swords - Japanese
+            "The Chokuto Fleet" "The Katana Fleet" "The Odachi Fleet" "The Shikomizue Fleet" "The Tachi Fleet" "The Tsurugi Fleet"
+            "The Uchigatana Fleet" "The Wakizashi Fleet"
+
+            # >>> Daggers - Japanese
+            "The Kaiken Fleet"
         }
         sequential_name = "%O% Fleet"
     }
@@ -131,7 +285,7 @@ ui_extra_humans_asian = {
             sequential_name = "%O% Expeditionary Force"
         }
         occupation_army = {
-            sequential_name = "%0% Garrison Force"
+            sequential_name = "%O% Garrison Force"
         }
 
         slave_army = {
@@ -141,14 +295,21 @@ ui_extra_humans_asian = {
             sequential_name = "%O% Clone Army"
         }
 
-        robotic_army = {
-            sequential_name = "%O% Hunter-Killer Group"
-        }
         robotic_defense_army = {
             sequential_name = "%O% Ground Defence Matrix"
         }
+        robotic_army = {
+            sequential_name = "%O% Hunter-Killer Group"
+        }
         robotic_occupation_army = {
-            sequential_name = "%0% Mechanised Garrison"
+            sequential_name = "%O% Mechanised Garrison"
+        }
+
+        android_defense_army = {
+            sequential_name = "%O% Synthetic Sentinels"
+        }
+        android_army = {
+            sequential_name = "%O% Synthetic Rangers"
         }
 
         psionic_army = {
@@ -158,10 +319,6 @@ ui_extra_humans_asian = {
             sequential_name = "%O% Bio-Warfare Division"
         }
         gene_warrior_army = {
-            random_names = {
-                # Vanilla Commonwealth (only asian)
-                "Experimental Unit 'Orochi'" "Experimental Unit 'Bakunawa'"
-            }
             sequential_name = "%O% Bio-Engineered Squadron"
         }
     }
@@ -169,184 +326,214 @@ ui_extra_humans_asian = {
     planet_names = {
         generic = {
             names = {
-                # Vanilla HUMAN1
-                Xianyang Wenzhou "Wang Tong" Nozomi Akatsuki
-                
-                # Generated (Markov)
-                Altanraat Angol Angye Annouchi Ansengel Ansunai Aridahua Aridaraoi Asaturuun Baatkhit Baatraat Bagacheon Bagakhan Bagaraha Bagasong Bamandal Baoyeong
-                Baruunhaba Baruunhar Baruunnokawa Baruunshui Baruuntooroi Baruunwara Battgon Batthidaka Bayanzawa Bigas Bijing Bikita Birabayan Birabuchi Biratama
-                Birayant Borbulag Borje Bormen Bortari Borxiang Bucheng Bugana Bulanryngol Bulbaek Bulfurano Bulkhorin Bulshaat Buramay Buturuun Buuttari Buutzawa
-                Buyant Chandsu Chandyeong Changhidaka Changkhangai Changsagaan Changyuan Cheomoto Cheotai Cheoyako Choichivlin Choigalant Choikita Choitai Choixing
-                Choiyong Chubetsu Chuluunbaek Chuluuntari Chuluunzawa Chundong Chungnobe Chungong Chungsaki Chunyeong Conggalant Congjinst Congshibetsu Congtoro
-                Danggaljuut Dangmandal Dangon Dangyant Dartoro Deldao Delkh Delshaat Dongkawa Dongsagaan Dulaanchon Dulaansagaan Enchang Enganuur Enhae Enkotan Enpo
-                Enraat Erchang Erturuun Erxiang Fengshu Fengvi Fuchaek Fugalan Fuhama Fujichivlin Fujihoroot Fukhet Funahoma Funatai Furuhaba Furusan Fushu Gakhlant
-                Gangganuur Gangkhangai Gangwara Gangzihua Gimhaba Guanggas Guangjin Guangkhan Guangwei Guigalan Guikonai Guiqihar Guiraoi Guishiri Gurvancheok Gurvanlig
-                Gurvansogt Gurvantsogt Gurvanxiang Guuganuur Guunokawa Gwageup Gwamamoto Gwanggaa Gwanggol Gwangkhit Gwangkonai Gwangping Gwangraha Gwangtont Gwasu
-                Gyeongkanai Gyeongkhan Gyeongmamoto Gyeongping Gyeongraha Haekawa Haemay Haesong Haeyama Hamkhlant Hamran Hangbaek Hangqihar Hanmatsunai Hanshir Hansong
-                Hashigata Hashigon Hashihaba Hashikhet Hayahaba Hayaneung Hengbulag Hengger Hengkumo Hengsagaan Hengtari Hoerfurano Hoershaat Hoerzuishan Honbetsu
-                Honlan Honshui Hontori Horogye Horonuur Horozou Huicheng Hyekotan Hyeqihar Hyezawa Ikchon Ikje Ikliang Iksong Ikturuun Iwagalan Iwahai Iwahoroot Iwaqiu
-                Iwasan Jamicheng Jamikhangai Jamikotan Jamisato Jamitooroi Jandong Janramay Jansagaan Jarga Jarsunai Jarwara Javgawa Javju Javnuur Javtari Javtooroi
-                Jeonchaek Jeondao Jeonmay Jeonsato Jeonseong Jeonzhou Jeraha Jeshina Jewang Jiangbulag Jiangchaek Jiangmani Jiaodene Jiaogol Jiaohae Jiaowang Jinbiro
-                Jincheng Kaebiro Kaeging Kaekita Kaekumo Kaeluut Kaeramay Kaeraoi Kaetai Kaeteeg Kaevi Kaeyako Kamisuhidaka Kamisukhorin Kamisunokawa Kamisusengel
-                Kamisushir Karagalan Karaqihar Kenging Kenneung Khadong Khairchang Khairdene Kharcheok Kharrao Kharyeong Kherchivlin Khergaa Kherjiang Kherkhir
-                Kherlengeup Kherlenmatsunai Kherlenyang Kherrano Khongaa Khonwon Khotzawa Khotzou Khugaa Khugana Khutont Khyalramoto Khyarkhet Kimobiro Kimogaa Kiyoluut
-                Kucheng Kumajinst Kumayuan Kumibuchi Kumichon Kumihidaka Kumitont Kumiyang Kuraha Kurineung Kurisaki Kurisato Kurohama Kuronagawa Kurosan Kuroyang
-                Kuyama Kuzubulag Kuzugor Kuzuhou Kuzukami Kuzumatsunai Kuzushihoro Kuzutori Liaodao Liaogalan Liaolig Liaonouchi Liaonuur Liaoping Malhoma Malpo Malwei
-                Matsugana Matsuraat Matsusato Meigana Meiliun Mianliang Mianramoto Minachang Minagor Minakhangai Minasengel Miyahae Miyakhaan Miyakhangai Miyalan
-                Miyarano Mudanshihoro Mudanteeg Munghua Mungmoto Mungseong Mungshiri Mutsuganuur Mutsugas Mutsumani Mutsuyant Naga Nagaga Nagahoroot Nagajiang Nagakanai
-                Nagasato Nakanai Nakaneung Namgaa Namlin Nanhou Nankonai Nanwon Nanyako Nanzhou Narajin Narakhet Naranhou Narankotan Narantori Naratoro Narawon
-                Nogoonliun Nogoonnan Nogoontori Nomchong Nomsaki Nomshihoro Nomshir Nomyang Nomzihua Nonchon Nonchong Nonmamoto Nonmen Okubetsu Okucheon Okumamoto
-                Okushiri Onhua Onkhon Onkumo Onshaat Onshibetsu Onshiri Orjinst Panlan Panrao Pantsogt Pingging Pingsato Pochun Pyongdong Pyongmandal Pyongnokawa
-                Pyongyuan Qigaa Qigaljuut Qiliang Qinbaek Qingsong Qingsu Qinkh Qinkhir Qinkonai Qinkotan Qinouchi Qinshibetsu Qinturuun Qisengel Qisogt Quangalant
-                Quansaki Quanserleg Quantooroi Qudene Quhidaka Qukhangai Rahae Rahua Ralan Rangas Ransengel Raraoi Razhou Sachon Saiging Saisai Sakhir Salkhet Sallig
-                Salserleg Salsu Samgat Samgong Samjin Samnai Samshiri Samyeong Sanan Sarigas Sarigawa Sarinai Sarixiang Sasu Seochang Shakochivlin Shakogawa Shakomaki
-                Shanbuchi Shangdao Shanhae Shaoqihar Shaosu Shaoyang Shargaljuut Sharkh Sharkhan Sharshiri Sharyncho Sharynguan Shibetsu Shikhangai Shimahou Shimamaki
-                Shimamen Shinan Shinehai Shinelan Shinexiang Shinlan Shinqihar Shinraat Shinshui Shiragol Shiyama Shizuichaek Shizuiwang Shizuiyako Shizuiyong Sintari
-                Sinuisong Sinuisunai Sinuitoro Sokgaa Sokjiang Soksai Soktong Sokxiang Sokzaki Souyako Suhoro Sumay Sunging Sunhung Sunkhan Sunkhorin Sunshibetsu
-                Sunshina Sunyako Sushui Suyant Taidene Taigaa Taigat Takadene Takahoro Tangawa Tangyeong Tanhoro Tannai Tariagata Tariager Tariahoro Tariakhon Tariamen
-                Tariatsukawa Tatechong Tatejiang Tateraoi Tatesaki Tawabuchi Tawarabaek Tawaragaa Tawarahar Tawaranagawa Tawaranobe Tengdong Tengnai Tokrano Tokshan
-                Tongbetsu Touchun Tougong Touhung Toukotan Toulan Tsengana Tsenpo Uicho Uikh Uinobe Uitooroi Uitoro Ulaanhou Ulaankanai Ulaannouchi Ulaanran Ulaansato
-                Ulaanturuun Urabayan Urashina Watabaek Watadene Wataje Wataseong Watawara Wonjinst Wonkhir Wonnagawa Wonshu Xiangga Xianghoroot Xiangkhir Xianglin
-                Xiangsan Xiangsong Xiangtoro Xiangyuan Xiankhangai Xianliun Xiannai Xiannan Xingas Xingye Xinhar Xinmani Xinraha Xinsu Xuanmamoto Xubayan Yahacheok
-                Yahagong Yahakita Yahashibetsu Yahashina Yahashiri Yajiang Yakubayan Yakubetsu Yakugor Yakuhoro Yakukhlant Yakukita Yakushihoro Yakutong Yaliun Yamayama
-                Yangbulag Yangsai Yangtont Yeochun Yeodong Yeofurano Yeogaljuut Yeotsukawa Yeowon Yokohou Yokokh Yokolig Yokotooroi Yuanchong Yuanging Yuankawa
-                Yuankonai Yuanmen Yuecheng Yuedong Yuegawa Yuekami Yuesunai Yuewang Yugagalan Yugahaba Yugahoroot Yugakhaan Yuganan Zhaotori Zhaowara Zhenbuchi
-                Zhenneung Zhenraha Zhongchaek Zhonggaa Zhonghai Zhongmaki Zhongtsukawa Zhougol Zhourano Zhouyuan Zoabetsu Zoakami Zoapo Zoaqiu Zoazaki Zuunchong
-                Zuunchun Zuunkhorin Zuunmoto Zuunturuun
+                # >>> Vanilla HUMAN1
+                "Akatsuki" "Nozomi" "Wang Tong" "Wenzhou" "Xianyang"
 
-                # >>> Civilisation Beyond Earth - Pan-Asian Cooperative
-                "Tiangong" "Quyen" "Nhiet Tinh" "Ganzorig" "Huanle" "Gong Ren" "Thanh" "Kuijia" "Huihuang" "Sinjeon" "Renxing" "Qi Chui" "Gaosi" "Adislal"
-                "Xindalu" "Troi" "Phao Dai" "Tenger Bambai" "Hyugeso"
+                # >>> Generated - Markov
+                "Altanraat" "Angol" "Angye" "Annouchi" "Ansengel" "Ansunai" "Aridahua" "Aridaraoi" "Asaturuun" "Baatkhit" "Baatraat"
+                "Bagacheon" "Bagakhan" "Bagaraha" "Bagasong" "Bamandal" "Baoyeong" "Baruunhaba" "Baruunhar" "Baruunnokawa" "Baruunshui"
+                "Baruuntooroi" "Baruunwara" "Battgon" "Batthidaka" "Bayanzawa" "Bigas" "Bijing" "Bikita" "Birabayan" "Birabuchi" "Biratama"
+                "Birayant" "Borbulag" "Borje" "Bormen" "Bortari" "Borxiang" "Bucheng" "Bugana" "Bulanryngol" "Bulbaek" "Bulfurano"
+                "Bulkhorin" "Bulshaat" "Buramay" "Buturuun" "Buuttari" "Buutzawa" "Buyant" "Chandsu" "Chandyeong" "Changhidaka"
+                "Changkhangai" "Changsagaan" "Changyuan" "Cheomoto" "Cheotai" "Cheoyako" "Choichivlin" "Choigalant" "Choikita" "Choitai"
+                "Choixing" "Choiyong" "Chubetsu" "Chuluunbaek" "Chuluuntari" "Chuluunzawa" "Chundong" "Chungnobe" "Chungong" "Chungsaki"
+                "Chunyeong" "Conggalant" "Congjinst" "Congshibetsu" "Congtoro" "Danggaljuut" "Dangmandal" "Dangon" "Dangyant" "Dartoro"
+                "Deldao" "Delkh" "Delshaat" "Dongkawa" "Dongsagaan" "Dulaanchon" "Dulaansagaan" "Enchang" "Enganuur" "Enhae" "Enkotan"
+                "Enpo" "Enraat" "Erchang" "Erturuun" "Erxiang" "Fengshu" "Fengvi" "Fuchaek" "Fugalan" "Fuhama" "Fujichivlin" "Fujihoroot"
+                "Fukhet" "Funahoma" "Funatai" "Furuhaba" "Furusan" "Fushu" "Gakhlant" "Gangganuur" "Gangkhangai" "Gangwara" "Gangzihua"
+                "Gimhaba" "Guanggas" "Guangjin" "Guangkhan" "Guangwei" "Guigalan" "Guikonai" "Guiqihar" "Guiraoi" "Guishiri" "Gurvancheok"
+                "Gurvanlig" "Gurvansogt" "Gurvantsogt" "Gurvanxiang" "Guuganuur" "Guunokawa" "Gwageup" "Gwamamoto" "Gwanggaa" "Gwanggol"
+                "Gwangkhit" "Gwangkonai" "Gwangping" "Gwangraha" "Gwangtont" "Gwasu" "Gyeongkanai" "Gyeongkhan" "Gyeongmamoto" "Gyeongping"
+                "Gyeongraha" "Haekawa" "Haemay" "Haesong" "Haeyama" "Hamkhlant" "Hamran" "Hangbaek" "Hangqihar" "Hanmatsunai" "Hanshir"
+                "Hansong" "Hashigata" "Hashigon" "Hashihaba" "Hashikhet" "Hayahaba" "Hayaneung" "Hengbulag" "Hengger" "Hengkumo"
+                "Hengsagaan" "Hengtari" "Hoerfurano" "Hoershaat" "Hoerzuishan" "Honbetsu" "Honlan" "Honshui" "Hontori" "Horogye" "Horonuur"
+                "Horozou" "Huicheng" "Hyekotan" "Hyeqihar" "Hyezawa" "Ikchon" "Ikje" "Ikliang" "Iksong" "Ikturuun" "Iwagalan" "Iwahai"
+                "Iwahoroot" "Iwaqiu" "Iwasan" "Jamicheng" "Jamikhangai" "Jamikotan" "Jamisato" "Jamitooroi" "Jandong" "Janramay"
+                "Jansagaan" "Jarga" "Jarsunai" "Jarwara" "Javgawa" "Javju" "Javnuur" "Javtari" "Javtooroi" "Jeonchaek" "Jeondao" "Jeonmay"
+                "Jeonsato" "Jeonseong" "Jeonzhou" "Jeraha" "Jeshina" "Jewang" "Jiangbulag" "Jiangchaek" "Jiangmani" "Jiaodene" "Jiaogol"
+                "Jiaohae" "Jiaowang" "Jinbiro" "Jincheng" "Kaebiro" "Kaeging" "Kaekita" "Kaekumo" "Kaeluut" "Kaeramay" "Kaeraoi" "Kaetai"
+                "Kaeteeg" "Kaevi" "Kaeyako" "Kamisuhidaka" "Kamisukhorin" "Kamisunokawa" "Kamisusengel" "Kamisushir" "Karagalan"
+                "Karaqihar" "Kenging" "Kenneung" "Khadong" "Khairchang" "Khairdene" "Kharcheok" "Kharrao" "Kharyeong" "Kherchivlin"
+                "Khergaa" "Kherjiang" "Kherkhir" "Kherlengeup" "Kherlenmatsunai" "Kherlenyang" "Kherrano" "Khongaa" "Khonwon" "Khotzawa"
+                "Khotzou" "Khugaa" "Khugana" "Khutont" "Khyalramoto" "Khyarkhet" "Kimobiro" "Kimogaa" "Kiyoluut" "Kucheng" "Kumajinst"
+                "Kumayuan" "Kumibuchi" "Kumichon" "Kumihidaka" "Kumitont" "Kumiyang" "Kuraha" "Kurineung" "Kurisaki" "Kurisato" "Kurohama"
+                "Kuronagawa" "Kurosan" "Kuroyang" "Kuyama" "Kuzubulag" "Kuzugor" "Kuzuhou" "Kuzukami" "Kuzumatsunai" "Kuzushihoro"
+                "Kuzutori" "Liaodao" "Liaogalan" "Liaolig" "Liaonouchi" "Liaonuur" "Liaoping" "Malhoma" "Malpo" "Malwei" "Matsugana"
+                "Matsuraat" "Matsusato" "Meigana" "Meiliun" "Mianliang" "Mianramoto" "Minachang" "Minagor" "Minakhangai" "Minasengel"
+                "Miyahae" "Miyakhaan" "Miyakhangai" "Miyalan" "Miyarano" "Mudanshihoro" "Mudanteeg" "Munghua" "Mungmoto" "Mungseong"
+                "Mungshiri" "Mutsuganuur" "Mutsugas" "Mutsumani" "Mutsuyant" "Naga" "Nagaga" "Nagahoroot" "Nagajiang" "Nagakanai"
+                "Nagasato" "Nakanai" "Nakaneung" "Namgaa" "Namlin" "Nanhou" "Nankonai" "Nanwon" "Nanyako" "Nanzhou" "Narajin" "Narakhet"
+                "Naranhou" "Narankotan" "Narantori" "Naratoro" "Narawon" "Nogoonliun" "Nogoonnan" "Nogoontori" "Nomchong" "Nomsaki"
+                "Nomshihoro" "Nomshir" "Nomyang" "Nomzihua" "Nonchon" "Nonchong" "Nonmamoto" "Nonmen" "Okubetsu" "Okucheon" "Okumamoto"
+                "Okushiri" "Onhua" "Onkhon" "Onkumo" "Onshaat" "Onshibetsu" "Onshiri" "Orjinst" "Panlan" "Panrao" "Pantsogt" "Pingging"
+                "Pingsato" "Pochun" "Pyongdong" "Pyongmandal" "Pyongnokawa" "Pyongyuan" "Qigaa" "Qigaljuut" "Qiliang" "Qinbaek" "Qingsong"
+                "Qingsu" "Qinkh" "Qinkhir" "Qinkonai" "Qinkotan" "Qinouchi" "Qinshibetsu" "Qinturuun" "Qisengel" "Qisogt" "Quangalant"
+                "Quansaki" "Quanserleg" "Quantooroi" "Qudene" "Quhidaka" "Qukhangai" "Rahae" "Rahua" "Ralan" "Rangas" "Ransengel" "Raraoi"
+                "Razhou" "Sachon" "Saiging" "Saisai" "Sakhir" "Salkhet" "Sallig" "Salserleg" "Salsu" "Samgat" "Samgong" "Samjin" "Samnai"
+                "Samshiri" "Samyeong" "Sanan" "Sarigas" "Sarigawa" "Sarinai" "Sarixiang" "Sasu" "Seochang" "Shakochivlin" "Shakogawa"
+                "Shakomaki" "Shanbuchi" "Shangdao" "Shanhae" "Shaoqihar" "Shaosu" "Shaoyang" "Shargaljuut" "Sharkh" "Sharkhan" "Sharshiri"
+                "Sharyncho" "Sharynguan" "Shibetsu" "Shikhangai" "Shimahou" "Shimamaki" "Shimamen" "Shinan" "Shinehai" "Shinelan"
+                "Shinexiang" "Shinlan" "Shinqihar" "Shinraat" "Shinshui" "Shiragol" "Shiyama" "Shizuichaek" "Shizuiwang" "Shizuiyako"
+                "Shizuiyong" "Sintari" "Sinuisong" "Sinuisunai" "Sinuitoro" "Sokgaa" "Sokjiang" "Soksai" "Soktong" "Sokxiang" "Sokzaki"
+                "Souyako" "Suhoro" "Sumay" "Sunging" "Sunhung" "Sunkhan" "Sunkhorin" "Sunshibetsu" "Sunshina" "Sunyako" "Sushui" "Suyant"
+                "Taidene" "Taigaa" "Taigat" "Takadene" "Takahoro" "Tangawa" "Tangyeong" "Tanhoro" "Tannai" "Tariagata" "Tariager"
+                "Tariahoro" "Tariakhon" "Tariamen" "Tariatsukawa" "Tatechong" "Tatejiang" "Tateraoi" "Tatesaki" "Tawabuchi" "Tawarabaek"
+                "Tawaragaa" "Tawarahar" "Tawaranagawa" "Tawaranobe" "Tengdong" "Tengnai" "Tokrano" "Tokshan" "Tongbetsu" "Touchun"
+                "Tougong" "Touhung" "Toukotan" "Toulan" "Tsengana" "Tsenpo" "Uicho" "Uikh" "Uinobe" "Uitooroi" "Uitoro" "Ulaanhou"
+                "Ulaankanai" "Ulaannouchi" "Ulaanran" "Ulaansato" "Ulaanturuun" "Urabayan" "Urashina" "Watabaek" "Watadene" "Wataje"
+                "Wataseong" "Watawara" "Wonjinst" "Wonkhir" "Wonnagawa" "Wonshu" "Xiangga" "Xianghoroot" "Xiangkhir" "Xianglin" "Xiangsan"
+                "Xiangsong" "Xiangtoro" "Xiangyuan" "Xiankhangai" "Xianliun" "Xiannai" "Xiannan" "Xingas" "Xingye" "Xinhar" "Xinmani"
+                "Xinraha" "Xinsu" "Xuanmamoto" "Xubayan" "Yahacheok" "Yahagong" "Yahakita" "Yahashibetsu" "Yahashina" "Yahashiri" "Yajiang"
+                "Yakubayan" "Yakubetsu" "Yakugor" "Yakuhoro" "Yakukhlant" "Yakukita" "Yakushihoro" "Yakutong" "Yaliun" "Yamayama"
+                "Yangbulag" "Yangsai" "Yangtont" "Yeochun" "Yeodong" "Yeofurano" "Yeogaljuut" "Yeotsukawa" "Yeowon" "Yokohou" "Yokokh"
+                "Yokolig" "Yokotooroi" "Yuanchong" "Yuanging" "Yuankawa" "Yuankonai" "Yuanmen" "Yuecheng" "Yuedong" "Yuegawa" "Yuekami"
+                "Yuesunai" "Yuewang" "Yugagalan" "Yugahaba" "Yugahoroot" "Yugakhaan" "Yuganan" "Zhaotori" "Zhaowara" "Zhenbuchi"
+                "Zhenneung" "Zhenraha" "Zhongchaek" "Zhonggaa" "Zhonghai" "Zhongmaki" "Zhongtsukawa" "Zhougol" "Zhourano" "Zhouyuan"
+                "Zoabetsu" "Zoakami" "Zoapo" "Zoaqiu" "Zoazaki" "Zuunchong"
+
+                # >>> Civilisation: Beyond Earth - Pan-Asian Cooperative
+                "Adislal" "Ganzorig" "Gaosi" "Gong Ren" "Huanle" "Huihuang" "Hyugeso" "Kuijia" "Nhiet Tinh" "Phao Dai" "Qi Chui" "Quyen"
+                "Renxing" "Sinjeon" "Tenger Bambai" "Thanh" "Tiangong" "Troi" "Xindalu"
             }
         }
         pc_desert = {
             names = {
-                # Regions of Earth
-                Gobi
+                # >>> Places - Regions
+                "Gobi"
             }
         }
-        pc_arid = { }
-        pc_tropical = { }
+        pc_arid = {
+            names = {
+            }
+        }
+        pc_tropical = {
+            names = {
+            }
+        }
         pc_continental = {
             names = {
-                # Vanilla HUMAN1 (only asian)
-                Kongzi "Tian Yi" "Wu Ding" Zheng "Gao Zu" Tokugawa Oda Toyotomi
-                
-                # The Elder Scrolls
-                Akavir Tsaesci
+                # >>> Vanilla HUMAN1
+                "Gao Zu" "Kongzi" "Oda" "Tian Yi" "Tokugawa" "Toyotomi" "Wu Ding" "Zheng"
+
+                # >>> The Elder Scrolls - Places
+                "Akavir" "Tsaesci"
             }
         }
         pc_gaia = {
             names = {
-                # Vanilla HUMAN1 (only asian)
-                Shambhala Xanadu Shangri-La
-                
-                # Others
-                Kizuna # Spiritual connection between each other in Japanese
+                # >>> Vanilla HUMAN1
+                "Shambhala" "Shangri-La" "Xanadu"
+
+                # >>> Words - Japanese
+                "Kizuna"
             }
         }
         pc_ocean = {
             names = {
-                # Vanilla HUMAN1
-                Ningbo
-                
-                # Others
-                Namida # Tear in Japanese
+                # >>> Vanilla HUMAN1
+                "Ningbo"
+
+                # >>> Words - Japanese
+                "Namida"
             }
         }
         pc_tundra = {
             names = {
-                # Vanilla HUMAN1 (only asian)
-                Taiyuan
+                # >>> Vanilla HUMAN1
+                "Taiyuan"
             }
         }
-        pc_arctic = { }
+        pc_arctic = {
+            names = {
+            }
+        }
         pc_nuked = {
             names = {
-                # Devastated places on Earth
-                Nagasaki Hiroshima Fukushima
+                # >>> Devastated places - Japan
+                "Fukushima" "Hiroshima" "Nagasaki"
             }
         }
-        pc_savannah = { }
+        pc_savannah = {
+            names = {
+            }
+        }
         pc_alpine = {
             names = {
-                # Places from Earth
-                Himalaya Sagarmatha Chomolungma
+                # >>> Mountains
+                "Chomolungma" "Fuji" "Himalaya"
             }
         }
         pc_molten = {
             names = {
-                # Biblic/mythological settlements, places, etc
-                Diyu Yomi
+                # >>> Mythology - Places - Chinese
+                "Diu"
+
+                # >>> Mythology - Places - Japanese
+                "Yomi"
             }
         }
-        pc_barren = { }
-        pc_asteroid = { }
+        pc_barren = {
+            names = {
+            }
+        }
+        pc_asteroid = {
+            names = {
+            }
+        }
     }
-    
-    ### CHARACTERS
 
     character_names = {
-
-        # Languages should have a weight equal to the rounded down percentage of its native speakers out of all the implemented ones
-        # Statistics should be taken from Wikipedia. Weight should not be lower than 1.
-
-        ###############################
-        # CHINESE
-        ###############################
-        names1 = {
-            weight = 88
-
+        chinese = {
+            weight = 31
             first_names_male = {
-                An Bao Bo Cai Cheng De Dong Feng Gang Guo Hu Hui Jian Jie Kang Li Liang Long Meng Ning Peng Qiang Shi Song Tao Tian Wei
-                You Yong Yi Xiong Wu
-            }
-            first_names_female = {
-                Ai Bi Cui Chan Dai Dan Fang Hong Hua Huan Jiao Ju Juan Lan Lian Lin Mei Na Ni Qian Qiao Qing Shan Shu Ting Wen Xia Xian
-                Xiang Xiu Xue Yan Ying Yu Yuan Yun Zhen Zhi Zhu Zi
-            }
-            second_names = {
-                Liang Luo Kuang Lu Zheng Lin Xu Xie Wang Zhu Yang Mao Shen Hu Tan He Deng Wu Cheng Gao Wan Kong Pan Sima Zhuge Ouyang
-                Situ Huang Zhao Zhang
+                "An" "Bao" "Bo" "Cai" "Cheng" "De" "Dong" "Feng" "Gang" "Guo" "Hu" "Hui" "Jian" "Jie" "Kang" "Li" "Liang" "Long" "Meng"
+                "Ning" "Peng" "Qiang" "Shi" "Song" "Tao" "Tian" "Wei" "Wu" "Xiong" "Yi" "Yong" "You"
             }
             regnal_first_names_male = {
-                You Yong Yi Xiong Wu Feng Gang Guo Hu Hui
+                "Feng" "Gang" "Guo" "Hu" "Hui" "Wu" "Xiong" "Yi" "Yong" "You"
+            }
+            first_names_female = {
+                "Ai" "Bi" "Chan" "Cui" "Dai" "Dan" "Fang" "Hong" "Hua" "Huan" "Jiao" "Ju" "Juan" "Lan" "Lian" "Lin" "Mei" "Na" "Ni" "Qian"
+                "Qiao" "Qing" "Shan" "Shu" "Ting" "Wen" "Xia" "Xian" "Xiang" "Xiu" "Xue" "Yan" "Ying" "Yu" "Yuan" "Yun" "Zhen" "Zhi" "Zhu"
+                "Zi"
             }
             regnal_first_names_female = {
-                Ai Bi Lian Lin Mei Na Ni Xiu Xue Yan Ying Yu Yuan
+                "Ai" "Bi" "Lian" "Lin" "Mei" "Na" "Ni" "Xiu" "Xue" "Yan" "Ying" "Yu" "Yuan"
+            }
+            second_first_names = {
+                "Cheng" "Deng" "Gao" "He" "Hu" "Huang" "Kong" "Kuang" "Liang" "Lin" "Lu" "Luo" "Mao" "Ouyang" "Pan" "Shen" "Sima" "Situ"
+                "Tan" "Wan" "Wang" "Wu" "Xie" "Xu" "Yang" "Zhang" "Zhao" "Zheng" "Zhu" "Zhuge"
             }
             regnal_second_names = {
-                Wang Zhu Yang
+                "Wang" "Yang" "Zhu"
             }
         }
-
-        ###############################
-        # JAPANESE
-        ###############################
-        names2 = {
-            weight = 12
-
+        japanese = {
+            weight = 4
             first_names_male = {
-                Hiroto Hikaru Takumi Tsubasa Ren Minato Shota Yuuto Sota Yuma Takeru Rikuto Tatsuki Ryuto Haru Yushin Kosei Yoshinobu
-                Jiro Hiroshi Yoshida Mitsue Keisuke Saburo Junichi Yoshi Koshiro Kentaro Koichiro
-            }
-            first_names_female = {
-                Haruna Sakura Misaki Aoi Mihane Miyu Rin Nanami Yui Hina Honoka Riko Yuna Koharu Hinata Mei Saki Ichika Hiyori Yusuki
-                Shiori Natsuki Ayane Kaho Hana Momoka Himari Yume Aomame Noriko Kazumi Kimiko
-            }
-            second_names = {
-                Sato Suzuki Takahashi Tanaka Watanabe Ito Nakamura Kobayashi Yamamoto Kato Yoshida Yamada Sasaki Yamaguchi Matsumoto
-                Inoue Kimura Shimizu Hayashi Saito Yamazaki Nakajima Mori Abe Ikeda Hashimoto Ishikawa Yamashita Ogawa Ishii Hasegawa
-                Goto Okada Fujita Sakamoto Murakami Nishimura Nakagawa Harada Okamoto Miura Takaya Amano Higuchi Ota
+                "Haru" "Hikaru" "Hiroshi" "Hiroto" "Jiro" "Junichi" "Keisuke" "Kentaro" "Koichiro" "Kosei" "Koshiro" "Minato" "Mitsue"
+                "Ren" "Rikuto" "Ryuto" "Saburo" "Shota" "Sota" "Takeru" "Takumi" "Tatsuki" "Tsubasa" "Yoshi" "Yoshida" "Yoshinobu" "Yuma"
+                "Yushin" "Yuuto"
             }
             regnal_first_names_male = {
-                Teruhito Nekuhiko Mimatsuhiko Anaho Hironari Norinaga
+                "Anaho" "Hironari" "Mimatsuhiko" "Nekuhiko" "Norinaga" "Teruhito"
+            }
+            first_names_female = {
+                "Aoi" "Aomame" "Ayane" "Hana" "Haruna" "Himari" "Hina" "Hinata" "Hiyori" "Honoka" "Ichika" "Kaho" "Kazumi" "Kimiko"
+                "Koharu" "Mei" "Mihane" "Misaki" "Miyu" "Momoka" "Nanami" "Natsuki" "Noriko" "Riko" "Rin" "Saki" "Sakura" "Shiori" "Yui"
+                "Yume" "Yuna" "Yusuki"
             }
             regnal_first_names_female = {
-                Nukatabe Toyomike Takara Niinomi Hidaka Takama Okiko Toshiko
+                "Hidaka" "Niinomi" "Nukatabe" "Okiko" "Takama" "Takara" "Toshiko" "Toyomike"
+            }
+            second_first_names = {
+                "Abe" "Amano" "Fujita" "Goto" "Harada" "Hasegawa" "Hashimoto" "Hayashi" "Higuchi" "Ikeda" "Inoue" "Ishii" "Ishikawa" "Ito"
+                "Kato" "Kimura" "Kobayashi" "Matsumoto" "Miura" "Mori" "Murakami" "Nakagawa" "Nakajima" "Nakamura" "Nishimura" "Ogawa"
+                "Okada" "Okamoto" "Ota" "Saito" "Sakamoto" "Sasaki" "Sato" "Shimizu" "Suzuki" "Takahashi" "Takaya" "Tanaka" "Watanabe"
+                "Yamada" "Yamaguchi" "Yamamoto" "Yamashita" "Yamazaki" "Yoshida"
             }
             regnal_second_names = {
-                "no Mikoto" Sumeramikoto Otomo Suijin Mononobe Yamato
+                "Mononobe" "no Mikoto" "Otomo" "Suijin" "Sumeramikoto" "Yamato"
             }
         }
     }
