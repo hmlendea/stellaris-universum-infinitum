@@ -197,7 +197,7 @@ ui_extra_humans_extended = {
             "Bern" "Zürich"
             
             # >>> From: UI Human Germanic - Cities - Others
-            "Johannesburg" "Luxemburg" "Lëtzebuerg"
+            "Johannesburg" "Luxemburg" "Lëtzebuerg" "Scandinavia"
         }
         cruiser = {
             # >>> From: Vanilla Human
@@ -417,7 +417,7 @@ ui_extra_humans_extended = {
             "Bern" "Zürich"
             
             # >>> From: UI Human Germanic - Cities - Others
-            "Johannesburg" "Luxemburg" "Lëtzebuerg"
+            "Johannesburg" "Luxemburg" "Lëtzebuerg" "Scandinavia"
             
             # >>> From: UI - StarCraft - Terran
             Nagglfar Argo
@@ -425,7 +425,7 @@ ui_extra_humans_extended = {
             # Countries, cities, regions, etc
             Bucharest Romania Hungary Italy Scotland Ireland England Wales Spain Portugal Catalonia France Aquitania Occitania Sicily Lombardy Croatia Dalmatia
             Serbia Yugoslavia Bulgaria Greece Macedonia Bavaria Poland Bohemia Switzerland Albania Israel Egypt Tunisia Nigeria Algeria Morocco Malta
-            Scandinavia Finland Lithuania Russia Estonia Latvia Raj China Japan America Mexico Colombia Essex Wessex Bosnia Herzegovina Transylvania Muntenia Oltenia
+            Finland Lithuania Russia Estonia Latvia Raj China Japan America Mexico Colombia Essex Wessex Bosnia Herzegovina Transylvania Muntenia Oltenia
             Moldova Bucovina Dobrogea Bessarabia Liguria Courland Galicia Extremadura Iberia Balkania Provence Normandy Florida California Corsica Sardinia Iasi
             Thrace Byzantium Berlin Rome Budapest Madrid Lisbon Paris Washington Alexandria Memphis Ottawa Helsinki Denmark Copenhagen
             Warsaw Vilnius Bratislava Belgrade Sophia Zagreb Oradea Constanta Venice London Dublin Sudan Uganda Zimbabwe "Tel Aviv" Milan
@@ -1218,17 +1218,20 @@ ui_extra_humans_extended = {
                 # >>> From: UI Human Germanic - Countries
                 "Ísland"
                 
+                # >>> From: UI Human Germanic - Regions of Earth
+                Scandinavia
+                
                 # >>> From: UI Human Germanic - Mythology
                 "Utgard"
+                
+                # >>> From: UI Human Germanic - Puzzle Pirates - Island names
+                Jorvik Norse
                 
                 # >>> From: UI - StarCraft - Terran
                 Borea
                 
-                # Puzzle Pirates (Island names)
-                Jorvik Norse
-                
                 # Countries, cities, regions, etc
-                Novosibirsk Scandinavia "New Helsinki"
+                Novosibirsk "New Helsinki"
                 
                 # Literature
                 Rohan
@@ -1321,6 +1324,9 @@ ui_extra_humans_extended = {
             names = {
                 # >>> From: UI Human Germanic - Mythology - Places
                 "Muspelheim"
+
+                # >>> From: UI Human Germanic - The Elder Scrolls - Mountains
+                Anthor "High Hrothgar" Jerall Wrothgar
                 
                 # >>> From: UI Human Asian - Places from Earth
                 Himalaya Sagarmatha Chomolungma

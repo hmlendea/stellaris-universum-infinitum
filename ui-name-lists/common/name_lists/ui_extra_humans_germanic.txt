@@ -2,7 +2,7 @@
 ### Extras
 ### Human - Germanic (German, Swiss, Austrian, Belgian, Dutch, etc)
 
-ui_extra_humans_extended = {
+ui_extra_humans_germanic = {
     randomized = no
 
     ship_names = {
@@ -60,7 +60,7 @@ ui_extra_humans_extended = {
             "Bern" "Zürich"
             
             # >>> Cities - Others
-            "Johannesburg" "Luxemburg" "Lëtzebuerg"
+            "Johannesburg" "Luxemburg" "Lëtzebuerg" "Scandinavia"
         }
         cruiser = {
             # >>> Ships - German
@@ -139,7 +139,7 @@ ui_extra_humans_extended = {
             "Bern" "Zürich"
             
             # >>> Cities - Others
-            "Johannesburg" "Luxemburg" "Lëtzebuerg"
+            "Johannesburg" "Luxemburg" "Lëtzebuerg" "Scandinavia"
         }
         sponsored_colonizer = { }
         transport = {
@@ -326,8 +326,14 @@ ui_extra_humans_extended = {
                 # >>> Countries
                 "Ísland"
                 
+                # >>> Regions of Earth
+                Scandinavia
+                
                 # >>> Mythology
                 "Utgard"
+                
+                # >>> Puzzle Pirates - Island names
+                Jorvik Norse
             }
         }
         pc_arctic = {
@@ -345,7 +351,12 @@ ui_extra_humans_extended = {
             }
         }
         pc_savannah = { }
-        pc_alpine = { }
+        pc_alpine = {
+            names = {
+                # >>> The Elder Scrolls - Mountains
+                Anthor "High Hrothgar" Jerall Wrothgar
+            }
+        }
         pc_molten = {
             names = {
                 # >>> Mythology - Places
