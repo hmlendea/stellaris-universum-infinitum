@@ -31,6 +31,9 @@ ui_extra_humans_germanic = {
 
             # >>> Persons - Art - German
             "Orff"
+
+            # >>> Weapons
+            "Flamberge" "Katzbalger"
         }
         destroyer = {
             # >>> Regions - Others
@@ -246,6 +249,12 @@ ui_extra_humans_germanic = {
 
     ship_class_names = {
         generic = {
+            # >>> Aircraft manufacturers - Austrian
+            "Diamond Aircraft"
+
+            # >>> Aircraft manufacturers - Swiss
+            "Pilatus"
+
             # >>> Nationalities - English Names
             "Austrian" "Belgian" "Dutch" "German" "Gothic" "Swiss" "Vandal" "Viking"
         }
