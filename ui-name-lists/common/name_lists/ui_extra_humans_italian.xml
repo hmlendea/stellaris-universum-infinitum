@@ -1,56 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <NameList>
-    <Id>ui_extra_humans_turkic</Id>
-    <Name>UI - Humans - Turkic</Name>
+    <Id>ui_extra_humans_italian</Id>
+    <Name>UI - Human - Italian</Name>
     <Nationalities>
       <NameGroup>
         <Name>Nationalities - English Names</Name>
         <Values>
-            <string>Turk</string>
-            <string>Turkmen</string>
+            <string>Italian</string>
+            <string>Neapolitan</string>
+            <string>Sicilian</string>
         </Values>
       </NameGroup>
     </Nationalities>
+    <Weapons>
+      <NameGroup>
+        <Name></Name>
+        <Values>
+        </Values>
+      </NameGroup>
+    </Weapons>
     <Places>
       <Countries>
         <NameGroup>
           <Name>Countries - English names</Name>
           <Values>
-            <string>Turkey</string>
-            <string>Turkmenistan</string>
+            <string>Italy</string>
           </Values>
         </NameGroup>
       </Countries>
       <Cities>
         <NameGroup>
-          <Name>Cities - Turkey</Name>
+          <Name>Cities - Italy</Name>
           <Values>
-            <string>Ankara</string>
-            <string>Istanbul</string>
-            <string>Izmir</string>
+            <string>Florence</string>
+            <string>Genoa</string>
+            <string>Milan</string>
+            <string>Naples</string>
+            <string>Palermo</string>
+            <string>Rome</string>
+            <string>Venice</string>
           </Values>
         </NameGroup>
       </Cities>
     </Places>
-    <Weapons>
-      <NameGroup>
-        <Name>Swords - Turk</Name>
-        <Values>
-          <string>Yatagan</string>
-        </Values>
-      </NameGroup>
-    </Weapons>
-    <MilitaryUnitTypes>
-      <NameGroup>
-        <Name>Military Unit Types - Turk</Name>
-        <Values>
-          <string>Janissary</string>
-        </Values>
-      </NameGroup>
-    </MilitaryUnitTypes>
     <Ships>
-      <Generic />
       <Corvette>
         <NameGroup>
           <Name></Name>

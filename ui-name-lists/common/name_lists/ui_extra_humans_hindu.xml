@@ -15,14 +15,6 @@
         </Values>
       </NameGroup>
     </Nationalities>
-    <Weapons>
-      <NameGroup>
-        <Name>Swords - Indian Subcontinent</Name>
-        <Values>
-          <string>Urumi</string>
-        </Values>
-      </NameGroup>
-    </Weapons>
     <Places>
       <Countries>
         <NameGroup>
@@ -49,6 +41,7 @@
             <string>Calcutta</string>
             <string>Delhi</string>
             <string>Hyderabad</string>
+            <string>Kochi</string>
             <string>Mumbai</string>
           </Values>
         </NameGroup>
@@ -56,6 +49,7 @@
           <Name>Cities - Pakistan</Name>
           <Values>
             <string>Gujranwala</string>
+            <string>Islamabad</string>
             <string>Rawalpindi</string>
           </Values>
         </NameGroup>
@@ -69,6 +63,22 @@
         </NameGroup>
       </Rivers>
     </Places>
+    <Weapons>
+      <NameGroup>
+        <Name>Swords - Indian Subcontinent</Name>
+        <Values>
+          <string>Urumi</string>
+        </Values>
+      </NameGroup>
+    </Weapons>
+    <MilitaryUnitTypes>
+      <NameGroup>
+        <Name>Military Unit Types - Nepali</Name>
+        <Values>
+          <string>Gurkha</string>
+        </Values>
+      </NameGroup>
+    </MilitaryUnitTypes>
     <Ships>
       <Generic />
       <Corvette>
@@ -83,12 +93,6 @@
           <Values>
             <string>Dharma Gurung</string>
             <string>Guru Baaje</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Military Unit Types - Nepali</Name>
-          <Values>
-            <string>Gurkha</string>
           </Values>
         </NameGroup>
       </Corvette>
@@ -209,16 +213,6 @@
         </Generic>
         </MilitaryStations>
     </Stations>
-    <Armies>
-      <Fleet>
-        <NameGroup>
-          <Name>Military Unit Types - Nepali</Name>
-          <Values>
-            <string>The Gurkha Fleet</string>
-          </Values>
-        </NameGroup>
-      </Fleet>
-    </Armies>
     <Planets>
       <Generic>
         <NameGroup>

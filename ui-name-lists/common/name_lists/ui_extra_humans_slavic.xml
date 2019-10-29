@@ -28,13 +28,6 @@
         </Values>
       </NameGroup>
     </Nationalities>
-    <Weapons>
-      <NameGroup>
-        <Name></Name>
-        <Values>
-        </Values>
-      </NameGroup>
-    </Weapons>
     <Places>
       <Countries>
         <NameGroup>
@@ -175,6 +168,22 @@
         </NameGroup>
       </Rivers>
     </Places>
+    <Weapons>
+      <NameGroup>
+        <Name></Name>
+        <Values>
+        </Values>
+      </NameGroup>
+    </Weapons>
+    <MilitaryUnitTypes>
+      <NameGroup>
+        <Name>Military Unit Types - Russian</Name>
+        <Values>
+          <string>Cossack</string>
+          <string>Kasakov</string>
+        </Values>
+      </NameGroup>
+    </MilitaryUnitTypes>
     <Ships>
       <Corvette>
         <NameGroup>
@@ -202,13 +211,6 @@
           <Values>
             <string>Doblestnyi</string>
             <string>Soobrazitelny</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Military Unit Types - Russian</Name>
-          <Values>
-            <string>Cossack</string>
-            <string>Kazakov</string>
           </Values>
         </NameGroup>
         <NameGroup>

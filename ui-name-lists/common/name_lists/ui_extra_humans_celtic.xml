@@ -15,13 +15,6 @@
         </Values>
       </NameGroup>
     </Nationalities>
-    <Weapons>
-      <NameGroup>
-        <Name></Name>
-        <Values>
-        </Values>
-      </NameGroup>
-    </Weapons>
     <Places>
       <Countries>
         <NameGroup>
@@ -58,6 +51,21 @@
         </NameGroup>
       </Cities>
     </Places>
+    <Weapons>
+      <NameGroup>
+        <Name></Name>
+        <Values>
+        </Values>
+      </NameGroup>
+    </Weapons>
+    <MilitaryUnitTypes>
+      <NameGroup>
+        <Name>Military Unit Types - Scottish</Name>
+        <Values>
+          <string>Highlander</string>
+        </Values>
+      </NameGroup>
+    </MilitaryUnitTypes>
     <Ships>
       <Generic />
       <Corvette>
@@ -71,12 +79,6 @@
           <Name>Persons - Leaders - Welsh</Name>
           <Values>
             <string>Gwenllian</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Military Unit Types - Scottish</Name>
-          <Values>
-            <string>Highlander</string>
           </Values>
         </NameGroup>
         <NameGroup>
@@ -144,16 +146,6 @@
         </Generic>
         </MilitaryStations>
     </Stations>
-    <Armies>
-      <Fleet>
-        <NameGroup>
-          <Name>Military Unit Types - Scottish</Name>
-          <Values>
-            <string>The Highlander Fleet</string>
-          </Values>
-        </NameGroup>
-      </Fleet>
-    </Armies>
     <Planets>
       <Generic>
         <NameGroup>

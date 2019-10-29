@@ -18,39 +18,6 @@
         </Values>
       </NameGroup>
     </Nationalities>
-    <Weapons>
-      <NameGroup>
-        <Name>Swords - Chinese</Name>
-        <Values>
-          <string>Changdao</string>
-          <string>Jian</string>
-          <string>Liuyedao</string>
-          <string>Miaodao</string>
-          <string>Wodao</string>
-          <string>Yanmaodao</string>
-          <string>Zhanmadao</string>
-        </Values>
-      </NameGroup>
-      <NameGroup>
-        <Name>Swords - Japanese</Name>
-        <Values>
-          <string>Chokuto</string>
-          <string>Katana</string>
-          <string>Odachi</string>
-          <string>Shikomizue</string>
-          <string>Tachi</string>
-          <string>Tsurugi</string>
-          <string>Uchigatana</string>
-          <string>Wakizashi</string>
-        </Values>
-      </NameGroup>
-      <NameGroup>
-        <Name>Daggers - Japanese</Name>
-        <Values>
-          <string>Kaiken</string>
-        </Values>
-      </NameGroup>
-    </Weapons>
     <Places>
       <Countries>
         <NameGroup>
@@ -241,6 +208,54 @@
         </NameGroup>
       </Rivers>
     </Places>
+    <Weapons>
+      <NameGroup>
+        <Name>Swords - Chinese</Name>
+        <Values>
+          <string>Changdao</string>
+          <string>Jian</string>
+          <string>Liuyedao</string>
+          <string>Miaodao</string>
+          <string>Wodao</string>
+          <string>Yanmaodao</string>
+          <string>Zhanmadao</string>
+        </Values>
+      </NameGroup>
+      <NameGroup>
+        <Name>Swords - Japanese</Name>
+        <Values>
+          <string>Chokuto</string>
+          <string>Katana</string>
+          <string>Odachi</string>
+          <string>Shikomizue</string>
+          <string>Tachi</string>
+          <string>Tsurugi</string>
+          <string>Uchigatana</string>
+          <string>Wakizashi</string>
+        </Values>
+      </NameGroup>
+      <NameGroup>
+        <Name>Daggers - Japanese</Name>
+        <Values>
+          <string>Kaiken</string>
+        </Values>
+      </NameGroup>
+    </Weapons>
+    <MilitaryUnitTypes>
+      <NameGroup>
+        <Name>Military Unit Types - Japanese</Name>
+        <Values>
+          <string>Ronin</string>
+          <string>Samurai</string>
+        </Values>
+      </NameGroup>
+      <NameGroup>
+        <Name>Military Unit Types - Mongol</Name>
+        <Values>
+          <string>Mangudai</string>
+        </Values>
+      </NameGroup>
+    </MilitaryUnitTypes>
     <Ships>
       <Generic />
       <Corvette>
@@ -273,13 +288,6 @@
           <Values>
             <string>Cangjie</string>
             <string>Yinxi</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Military Unit Types - Japanese</Name>
-          <Values>
-            <string>Ronin</string>
-            <string>Samurai</string>
           </Values>
         </NameGroup>
       </Corvette>
@@ -409,15 +417,6 @@
         </MilitaryStations>
     </Stations>
     <Armies>
-      <Fleet>
-        <NameGroup>
-          <Name>Military Unit Types - Japanese</Name>
-          <Values>
-            <string>The Ronin Fleet</string>
-            <string>The Samurai Fleet</string>
-          </Values>
-        </NameGroup>
-      </Fleet>
       <SuperSoldiers>
         <NameGroup>
           <Name>Experimental Units</Name>

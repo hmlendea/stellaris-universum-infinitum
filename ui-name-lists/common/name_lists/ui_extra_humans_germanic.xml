@@ -18,15 +18,6 @@
         </Values>
       </NameGroup>
     </Nationalities>
-    <Weapons>
-      <NameGroup>
-        <Name>Weapons</Name>
-        <Values>
-          <string>Katzbalger</string>
-          <string>Flamberge</string>
-        </Values>
-      </NameGroup>
-    </Weapons>
     <Places>
       <Countries>
         <NameGroup>
@@ -176,8 +167,28 @@
         </NameGroup>
       </Rivers>
     </Places>
+    <Weapons>
+      <NameGroup>
+        <Name>Weapons</Name>
+        <Values>
+          <string>Katzbalger</string>
+          <string>Flamberge</string>
+        </Values>
+      </NameGroup>
+    </Weapons>
+    <MilitaryUnitTypes>
+      <NameGroup>
+        <Name>Military Unit Types</Name>
+        <Values>
+          <string>Berserker</string>
+          <string>Landsknechte</string>
+          <string>Panzer</string>
+          <string>Templar</string>
+          <string>Viking</string>
+        </Values>
+      </NameGroup>
+    </MilitaryUnitTypes>
     <Ships>
-      <Generic />
       <Corvette>
         <NameGroup>
           <Name>Ships - Swedish</Name>
@@ -388,19 +399,6 @@
         </Generic>
       </MilitaryStations>
     </Stations>
-    <Armies>
-      <Fleet>
-        <NameGroup>
-          <Name>Soldier Types</Name>
-          <Values>
-            <string>The Berserker Fleet</string>
-            <string>The Landsknechte Fleet</string>
-            <string>The Panzer Fleet</string>
-            <string>The Templar Fleet</string>
-          </Values>
-        </NameGroup>
-      </Fleet>
-    </Armies>
     <Planets>
       <Generic>
         <NameGroup>
