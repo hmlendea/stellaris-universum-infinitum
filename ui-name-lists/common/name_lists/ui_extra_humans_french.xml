@@ -30,10 +30,29 @@
         <NameGroup>
           <Name>Cities - France</Name>
           <Values>
+            <string>Amiens</string>
+            <string>Bordeaux</string>
+            <string>Brest</string>
+            <string>Dijon</string>
+            <string>Grenoble</string>
+            <string>Le Havre</string>
+            <string>Le Mans</string>
             <string>Liege</string>
+            <string>Lille</string>
+            <string>Limoges</string>
+            <string>Lyon</string>
+            <string>Marseille</string>
+            <string>Metz</string>
+            <string>Montpellier</string>
+            <string>Nantes</string>
+            <string>Nice</string>
             <string>Paris</string>
             <string>Reims</string>
+            <string>Rennes</string>
+            <string>Strasbourg</string>
+            <string>Toulon</string>
             <string>Toulouse</string>
+            <string>Tours</string>
           </Values>
         </NameGroup>
       </Cities>
@@ -77,8 +96,10 @@
       </Destroyer>
       <Cruiser>
         <NameGroup>
-          <Name></Name>
+          <Name>Persons - Leaders - French</Name>
           <Values>
+            <string>Clemenceau</string>
+            <string>Georges Clemenceau</string>
           </Values>
         </NameGroup>
       </Cruiser>
@@ -141,8 +162,18 @@
     <Planets>
       <Generic>
         <NameGroup>
-          <Name></Name>
+          <Name>Civilisation: Beyond Earth - Franco-Iberia - French</Name>
           <Values>
+            <string>Bouclier</string>
+            <string>Espérance</string>
+            <string>Fidèle</string>
+            <string>Honorée</string>
+            <string>Kenza</string>
+            <string>Le Coeur</string>
+            <string>Mirabelle</string>
+            <string>Pacifique</string>
+            <string>Prospérité</string>
+            <string>Senén</string>
           </Values>
         </NameGroup>
       </Generic>

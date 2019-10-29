@@ -37,16 +37,31 @@
             <string>Catalan</string>
             <string>Colombia</string>
             <string>Cuba</string>
+            <string>Ecuador</string>
+            <string>El Salvador</string>
             <string>Mexico</string>
             <string>Panama</string>
             <string>Peru</string>
             <string>Portugal</string>
             <string>Spain</string>
+            <string>Uruguay</string>
             <string>Venezuela</string>
           </Values>
         </NameGroup>
       </Countries>
       <Cities>
+        <NameGroup>
+          <Name>Cities - Argentina</Name>
+          <Values>
+            <string>Buenos Aires</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Cities - Brazil</Name>
+          <Values>
+            <string>Rio de Janeiro</string>
+          </Values>
+        </NameGroup>
         <NameGroup>
           <Name>Cities - Catalonia</Name>
           <Values>
@@ -67,15 +82,38 @@
           </Values>
         </NameGroup>
         <NameGroup>
+          <Name>Cities - Ecuador</Name>
+          <Values>
+            <string>Guayaquil</string>
+            <string>Quito</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Cities - El Salvador</Name>
+          <Values>
+            <string>San Salvador</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
           <Name>Cities - Mexico</Name>
           <Values>
+            <string>Guadalajara</string>
+            <string>Los Mochis</string>
             <string>Mexico City</string>
+            <string>Nuevo Laredo</string>
+            <string>Tijuana</string>
           </Values>
         </NameGroup>
         <NameGroup>
           <Name>Cities - Panama</Name>
           <Values>
             <string>Panama City</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Cities - Peru</Name>
+          <Values>
+            <string>Lima</string>
           </Values>
         </NameGroup>
         <NameGroup>
@@ -88,10 +126,33 @@
         <NameGroup>
           <Name>Cities - Spain</Name>
           <Values>
+            <string>Alicante</string>
+            <string>Bilbao</string>
+            <string>Córdoba</string>
             <string>Madrid</string>
+            <string>Málaga</string>
+            <string>Murcia</string>
+            <string>Palma</string>
+            <string>Seville</string>
+            <string>Valladolid</string>
+            <string>Zaragoza</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Cities - Uruguay</Name>
+          <Values>
+            <string>Montevideo</string>
           </Values>
         </NameGroup>
       </Cities>
+      <Rivers>
+        <NameGroup>
+          <Name>Rivers</Name>
+          <Values>
+            <string>Rio Grande</string>
+          </Values>
+        </NameGroup>
+      </Rivers>
     </Places>
     <Ships>
       <Generic />
@@ -126,8 +187,10 @@
       </Battleship>
       <Science>
         <NameGroup>
-          <Name></Name>
+          <Name>Persons - Explorers - Portuguese</Name>
           <Values>
+            <string>Fernando Magellan</string>
+            <string>Magellan</string>
           </Values>
         </NameGroup>
       </Science>
@@ -162,8 +225,52 @@
     <Planets>
       <Generic>
         <NameGroup>
-          <Name></Name>
+          <Name>Civilisation: Beyond Earth - Franco-Iberia - Basque</Name>
           <Values>
+            <string>Aintza</string>
+            <string>Igoa</string>
+            <string>Izar</string>
+            <string>Kemena</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Civilisation: Beyond Earth - Franco-Iberia - Catalan</Name>
+          <Values>
+            <string>Filoteu</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Civilisation: Beyond Earth - Franco-Iberia - Spanish</Name>
+          <Values>
+            <string>Gran Éxito</string>
+            <string>Fidèle</string>
+            <string>Amparo</string>
+            <string>Valienta</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Civilisation: Beyond Earth - Brasilia - Portuguese</Name>
+          <Values>
+            <string>Alto Torre</string>
+            <string>Ascensão</string>
+            <string>Batista Aldeia</string>
+            <string>Bênção</string>
+            <string>Boa Esperança</string>
+            <string>Borda Dura</string>
+            <string>Caminho Celeste</string>
+            <string>Cidadela</string>
+            <string>Dourado</string>
+            <string>Fiel</string>
+            <string>Fogo Sagrado</string>
+            <string>Hélder</string>
+            <string>Lembrança</string>
+            <string>Lugar de Paz</string>
+            <string>Manoel</string>
+            <string>Monumento</string>
+            <string>Pacífico</string>
+            <string>Paraíso</string>
+            <string>Santo Adrião</string>
+            <string>Terra Alegre</string>
           </Values>
         </NameGroup>
       </Generic>

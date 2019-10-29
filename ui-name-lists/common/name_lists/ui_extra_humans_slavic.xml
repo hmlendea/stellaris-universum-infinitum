@@ -70,6 +70,20 @@
           </Values>
         </NameGroup>
         <NameGroup>
+          <Name>Cities - Bulgaria</Name>
+          <Values>
+            <string>Sofia</string>
+            <string>Varna</string>
+            <string>Vidin</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Cities - Croatia</Name>
+          <Values>
+            <string>Zagreb</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
           <Name>Cities - Czechia</Name>
           <Values>
             <string>Prague</string>
@@ -332,13 +346,40 @@
       </Fleet>
     </Armies>
     <Planets>
-      <Generic>
         <NameGroup>
-          <Name></Name>
+          <Name>Civilisation: Beyond Earth - Slavic Federation - Belorussian</Name>
           <Values>
+            <string>Aguya</string>
           </Values>
         </NameGroup>
-      </Generic>
+        <NameGroup>
+          <Name>Civilisation: Beyond Earth - Slavic Federation - Russian</Name>
+          <Values>
+            <string>Averkiy</string>
+            <string>Blesk</string>
+            <string>Heba</string>
+            <string>Istochnik</string>
+            <string>Izot</string>
+            <string>Khrabrost</string>
+            <string>Konechno</string>
+            <string>Krasota</string>
+            <string>Kuzma</string>
+            <string>Pobeda</string>
+            <string>Serik</string>
+            <string>Svyatoy</string>
+            <string>Uspekh</string>
+            <string>Vola</string>
+            <string>Yuriya</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Civilisation: Beyond Earth - Slavic Federation - Slavic</Name>
+          <Values>
+            <string>Mir</string>
+            <string>Rodomir</string>
+            <string>Stanimir</string>
+          </Values>
+        </NameGroup>
       <Desert>
         <NameGroup>
           <Name></Name>

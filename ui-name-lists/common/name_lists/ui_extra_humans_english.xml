@@ -29,7 +29,9 @@
           <Name>Countries - English names</Name>
           <Values>
             <string>Australia</string>
+            <string>Britain</string>
             <string>Canada</string>
+            <string>England</string>
             <string>Great Britain</string>
             <string>New Zealand</string>
             <string>United Kingdom</string>
@@ -41,45 +43,96 @@
         <NameGroup>
           <Name>Cities - Australia</Name>
           <Values>
+            <string>Springfield</string>
             <string>Sydney</string>
           </Values>
         </NameGroup>
         <NameGroup>
-          <Name>Cities - United Kingdom</Name>
+          <Name>Cities - Canada</Name>
+          <Values>
+            <string>Edmonton</string>
+            <string>Mississauga</string>
+            <string>Ottawa</string>
+            <string>Toronto</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Cities - England</Name>
           <Values>
             <string>Cambridge</string>
+            <string>Coventry</string>
+            <string>Exeter</string>
             <string>Ipswich</string>
+            <string>Leicester</string>
             <string>Liverpool</string>
             <string>London</string>
             <string>Manchester</string>
+            <string>Norwich</string>
+            <string>Nottingham</string>
+            <string>Oxford</string>
+            <string>Portsmouth</string>
+            <string>Sheffield</string>
+            <string>Southampton</string>
+            <string>Wolverhampton</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Cities - New Zealand</Name>
+          <Values>
+            <string>Auckland</string>
           </Values>
         </NameGroup>
         <NameGroup>
           <Name>Cities - United States</Name>
           <Values>
+            <string>Albuquerque</string>
             <string>Atlanta</string>
+            <string>Bakersfield</string>
             <string>Boston</string>
             <string>Chicago</string>
+            <string>Cincinnati</string>
+            <string>Cleveland</string>
             <string>Dallas</string>
             <string>Denver</string>
             <string>Detroit</string>
             <string>Hartford</string>
+            <string>Houston</string>
+            <string>Huntsville</string>
+            <string>Indianapolis</string>
             <string>Jacksonville</string>
             <string>Kansas City</string>
+            <string>Knoxville</string>
             <string>Las Vegas</string>
             <string>Los Angeles</string>
+            <string>Louisville</string>
             <string>Miami</string>
+            <string>Minneapolis</string>
             <string>Nashville</string>
+            <string>New Orleans</string>
             <string>New York</string>
             <string>Oklahoma City</string>
             <string>Philadelphia</string>
+            <string>Phoenix</string>
+            <string>Pittsburgh</string>
+            <string>Richmond</string>
             <string>Salt Lake City</string>
             <string>San Francisco</string>
             <string>Seattle</string>
+            <string>Tallahassee</string>
             <string>Washington</string>
           </Values>
         </NameGroup>
       </Cities>
+      <Rivers>
+        <NameGroup>
+          <Name>Rivers - United States</Name>
+          <Values>
+            <string>Colorado</string>
+            <string>Mississippi</string>
+            <string>Potomac</string>
+          </Values>
+        </NameGroup>
+      </Rivers>
     </Places>
     <Ships>
       <Generic />
@@ -141,24 +194,61 @@
       </Destroyer>
       <Cruiser>
         <NameGroup>
-          <Name></Name>
+          <Name>Persons - Leaders - American</Name>
           <Values>
+            <string>Abraham Lincoln</string>
+            <string>Franklin Delano Roosevelt</string>
+            <string>Franklin Roosevelt</string>
+            <string>Lincoln</string>
+            <string>Roosevelt</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Persons - Military - American</Name>
+          <Values>
+            <string>Dwight D. Eisenhower</string>
+            <string>Dwight David Eisenhower</string>
+            <string>Eisenhower</string>
           </Values>
         </NameGroup>
       </Cruiser>
       <Battleship>
         <NameGroup>
-          <Name></Name>
+          <Name>Battles / Battlefields - United States</Name>
           <Values>
+            <string>Lexington</string>
           </Values>
         </NameGroup>
       </Battleship>
       <Science>
         <NameGroup>
-          <Name>Explorers - United Statez</Name>
+          <Name>Persons - Scientists - British</Name>
+          <Values>
+            <string>Kelvin</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Persons - Scientists - American</Name>
+          <Values>
+            <string>Carl Sagan</string>
+            <string>Edwin Hubble</string>
+            <string>Hubble</string>
+            <string>Sagan</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Persons - Explorers - British</Name>
+          <Values>
+            <string>Walter Raleigh</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Persons - Explorers - American</Name>
           <Values>
             <string>Aldrin</string>
+            <string>Armstrong</string>
             <string>Buzz Aldrin</string>
+            <string>Neil Armstrong</string>
           </Values>
         </NameGroup>
       </Science>
@@ -225,8 +315,36 @@
     <Planets>
       <Generic>
         <NameGroup>
-          <Name></Name>
+          <Name>Civilisation: Beyond Earth - American Reclamation Corporation</Name>
           <Values>
+            <string>Amity</string>
+            <string>Ascension</string>
+            <string>Axiom</string>
+            <string>Bradbury</string>
+            <string>Central</string>
+            <string>Empire</string>
+            <string>Endaevour</string>
+            <string>Enterprise</string>
+            <string>Fortune</string>
+            <string>Grand City</string>
+            <string>Heritage</string>
+            <string>Liberty</string>
+            <string>Praxis</string>
+            <string>Prospect</string>
+            <string>Reliance</string>
+            <string>Sentinel</string>
+            <string>Stalwart</string>
+            <string>Star City</string>
+            <string>Vanguard</string>
+            <string>Venture</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Civilisation: Beyond Earth - North Sea Alliance - English</Name>
+          <Values>
+            <string>Deepcastle</string>
+            <string>Wideway</string>
+            <string>Oceanham</string>
           </Values>
         </NameGroup>
       </Generic>

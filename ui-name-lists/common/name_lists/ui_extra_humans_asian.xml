@@ -54,8 +54,13 @@
     <Places>
       <Countries>
         <NameGroup>
-          <Name></Name>
+          <Name>Countries - English names</Name>
           <Values>
+            <string>China</string>
+            <string>Japan</string>
+            <string>Korea</string>
+            <string>Mongolia</string>
+            <string>Taiwan</string>
           </Values>
         </NameGroup>
       </Countries>
@@ -93,7 +98,7 @@
             <string>Shantou</string>
             <string>Shaoxing</string>
             <string>Shenyang</string>
-            <string>Shenzen</string>
+            <string>Shenzhen</string>
             <string>Shijazhuang</string>
             <string>Suzhou</string>
             <string>Taiyuan</string>
@@ -147,6 +152,7 @@
             <string>Sagamihara</string>
             <string>Saitama</string>
             <string>Sakai</string>
+            <string>Sapporo</string>
             <string>Sendai</string>
             <string>Setagaya</string>
             <string>Shizuoka</string>
@@ -192,6 +198,12 @@
           </Values>
         </NameGroup>
         <NameGroup>
+          <Name>Cities - Mongolia</Name>
+          <Values>
+            <string>Ulan Bator</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
           <Name>Cities - Taiwan</Name>
           <Values>
             <string>Changhua</string>
@@ -220,6 +232,14 @@
           </Values>
         </NameGroup>
       </Cities>
+      <Rivers>
+        <NameGroup>
+          <Name>Rivers - English names</Name>
+          <Values>
+            <string>Yangtze</string>
+          </Values>
+        </NameGroup>
+      </Rivers>
     </Places>
     <Ships>
       <Generic />
@@ -268,6 +288,12 @@
           <Name>Ships - Japanese</Name>
           <Values>
             <string>Nagato</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Persons - Leaders - Mongol</Name>
+          <Values>
+            <string>Genghis Khan</string>
           </Values>
         </NameGroup>
         <NameGroup>
@@ -330,13 +356,14 @@
           </Values>
         </NameGroup>
       </Battleship>
-      <Constructor>
+      <Science>
         <NameGroup>
+          <Name>Persons - Explorers - Chinese</Name>
           <Values>
-            <string>Yangtze</string>
+            <string>Zheng He</string>
           </Values>
         </NameGroup>
-      </Constructor>
+      </Science>
       <Transport>
         <NameGroup>
           <Name>Islands</Name>
@@ -1059,27 +1086,66 @@
           </Values>
         </NameGroup>
         <NameGroup>
-          <Name>Civilisation: Beyond Earth - Pan-Asian Cooperative</Name>
+          <Name>Civilisation: Beyond Earth - Pan-Asian Cooperative - Chinese</Name>
           <Values>
-            <string>Adislal</string>
-            <string>Ganzorig</string>
             <string>Gaosi</string>
             <string>Gong Ren</string>
             <string>Huanle</string>
             <string>Huihuang</string>
-            <string>Hyugeso</string>
             <string>Kuijia</string>
+            <string>Qi Chui</string>
+            <string>Renxing</string>
+            <string>Tiangong</string>
+            <string>Xindalu</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Civilisation: Beyond Earth - Pan-Asian Cooperative - Korean</Name>
+          <Values>
+            <string>Hyugeso</string>
+            <string>Sinjeon</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Civilisation: Beyond Earth - Pan-Asian Cooperative - Mongolian</Name>
+          <Values>
+            <string>Adislal</string>
+            <string>Ganzorig</string>
+            <string>Tenger Bambai</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Civilisation: Beyond Earth - Pan-Asian Cooperative - Vietnamese</Name>
+          <Values>
             <string>Nhiet Tinh</string>
             <string>Phao Dai</string>
-            <string>Qi Chui</string>
             <string>Quyen</string>
-            <string>Renxing</string>
-            <string>Sinjeon</string>
-            <string>Tenger Bambai</string>
             <string>Thanh</string>
-            <string>Tiangong</string>
             <string>Troi</string>
-            <string>Xindalu</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Civilisation: Beyond Earth - Chungsu - Korean</Name>
+          <Values>
+            <string>Jeongsang</string>
+            <string>Dangye</string>
+            <string>Uimu</string>
+            <string>Yagsog</string>
+            <string>Jibae</string>
+            <string>Cheongchija</string>
+            <string>Bojeung</string>
+            <string>Gamsa</string>
+            <string>Ihae</string>
+            <string>Junbi</string>
+            <string>Gwanchalja</string>
+            <string>Chul</string>
+            <string>Sinnyeom</string>
+            <string>Tong-Gwa</string>
+            <string>Pangyeol</string>
+            <string>Mogjeog</string>
+            <string>Pungbu</string>
+            <string>Insig</string>
+            <string>Pinancheo</string>
           </Values>
         </NameGroup>
       </Generic>

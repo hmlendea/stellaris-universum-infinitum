@@ -7,7 +7,7 @@
       <NameGroup>
         <Name>Nationalities - English Names</Name>
         <Values>
-            <string>Iranian</string>
+          <string>Iranian</string>
         </Values>
       </NameGroup>
     </Nationalities>
@@ -28,8 +28,11 @@
       </Countries>
       <Cities>
         <NameGroup>
-          <Name></Name>
+          <Name>Cities - Iran</Name>
           <Values>
+            <string>Isfahan</string>
+            <string>Mashad</string>
+            <string>Tehran</string>
           </Values>
         </NameGroup>
       </Cities>

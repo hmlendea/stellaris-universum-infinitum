@@ -38,6 +38,7 @@
         <NameGroup>
           <Name>Cities - Ireland</Name>
           <Values>
+            <string>Belfast</string>
             <string>Dublin</string>
           </Values>
         </NameGroup>
@@ -45,12 +46,14 @@
           <Name>Cities - Scotland</Name>
           <Values>
             <string>Aberdeen</string>
+            <string>Edinburgh</string>
           </Values>
         </NameGroup>
         <NameGroup>
           <Name>Cities - Wales</Name>
           <Values>
             <string>Cardiff</string>
+            <string>Swansea</string>
           </Values>
         </NameGroup>
       </Cities>
@@ -106,8 +109,9 @@
       </Battleship>
       <Science>
         <NameGroup>
-          <Name></Name>
+          <Name>Persons - Scientists - Irish</Name>
           <Values>
+            <string>Kelvin</string>
           </Values>
         </NameGroup>
       </Science>
@@ -153,8 +157,18 @@
     <Planets>
       <Generic>
         <NameGroup>
-          <Name></Name>
+          <Name>Civilisation: Beyond Earth - North Sea Alliance - Irish</Name>
           <Values>
+            <string>Eilemuir</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Civilisation: Beyond Earth - North Sea Alliance - Scots Gaelic</Name>
+          <Values>
+            <string>Bànclagh</string>
+            <string>Dunkyle</string>
+            <string>Sàmchair</string>
+            <string>Sìorraidh</string>
           </Values>
         </NameGroup>
       </Generic>

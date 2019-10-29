@@ -8,11 +8,13 @@
         <Name>Nationalities - English Names</Name>
         <Values>
             <string>Berber</string>
+            <string>Congolese</string>
             <string>Ethiopian</string>
             <string>Kabyle</string>
             <string>Kenyan</string>
             <string>Nigerian</string>
             <string>Somali</string>
+            <string>Sudanese</string>
             <string>Tunisian</string>
             <string>Ugandan</string>
             <string>Zulu</string>
@@ -32,22 +34,43 @@
         <NameGroup>
           <Name>Countries - English names</Name>
           <Values>
+            <string>Algeria</string>
             <string>Chad</string>
+            <string>Congo</string>
             <string>Djibouti</string>
+            <string>Eritrea</string>
+            <string>Ethiopia</string>
+            <string>Ghana</string>
             <string>Ivory Coast</string>
             <string>Kenya</string>
+            <string>Liberia</string>
+            <string>Madagascar</string>
+            <string>Mali</string>
+            <string>Mozambique</string>
             <string>Nigeria</string>
             <string>Somalia</string>
+            <string>South Africa</string>
+            <string>Sudan</string>
+            <string>Tanzania</string>
+            <string>Tunisia</string>
+            <string>Uganda</string>
           </Values>
         </NameGroup>
         <NameGroup>
           <Name>Countries - Native names</Name>
           <Values>
             <string>Côte d'Ivoire</string>
+            <string>Kongo</string>
           </Values>
         </NameGroup>
       </Countries>
       <Cities>
+        <NameGroup>
+          <Name>Cities - Algeria</Name>
+          <Values>
+            <string>Algiers</string>
+          </Values>
+        </NameGroup>
         <NameGroup>
           <Name>Cities - Chad</Name>
           <Values>
@@ -55,9 +78,33 @@
           </Values>
         </NameGroup>
         <NameGroup>
-          <Name>Cities - Dijbouti</Name>
+          <Name>Cities - Congo</Name>
           <Values>
-            <string>Dijbouti</string>
+            <string>Kinshasa</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Cities - Djibouti</Name>
+          <Values>
+            <string>Djibouti</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Cities - Eritrea</Name>
+          <Values>
+            <string>Asmara</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Cities - Ethiopia</Name>
+          <Values>
+            <string>Addis Ababa</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Cities - Ghana</Name>
+          <Values>
+            <string>Accra</string>
           </Values>
         </NameGroup>
         <NameGroup>
@@ -70,6 +117,31 @@
           <Name>Cities - Kenya</Name>
           <Values>
             <string>Mombasa</string>
+            <string>Nairobi</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Cities - Liberia</Name>
+          <Values>
+            <string>Monrovia</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Cities - Madagascar</Name>
+          <Values>
+            <string>Antananarivo</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Cities - Mali</Name>
+          <Values>
+            <string>Bamako</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Cities - Mozambique</Name>
+          <Values>
+            <string>Maputo</string>
           </Values>
         </NameGroup>
         <NameGroup>
@@ -84,7 +156,40 @@
             <string>Mogadishu</string>
           </Values>
         </NameGroup>
+        <NameGroup>
+          <Name>Cities - South Africa</Name>
+          <Values>
+            <string>Pretoria</string>
+            <string>Ekurhuleni</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Cities - Sudan</Name>
+          <Values>
+            <string>Khartoum</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Cities - Tanzania</Name>
+          <Values>
+            <string>Dar es Salaam</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Cities - Tunisia</Name>
+          <Values>
+            <string>Tunis</string>
+          </Values>
+        </NameGroup>
       </Cities>
+      <Rivers>
+        <NameGroup>
+          <Name>Rivers - English names</Name>
+          <Values>
+          <string>Congo</string>
+          </Values>
+        </NameGroup>
+      </Rivers>
     </Places>
     <Ships>
       <Generic />
@@ -162,8 +267,53 @@
     <Planets>
       <Generic>
         <NameGroup>
-          <Name></Name>
+          <Name>Civilisation: Beyond Earth - People's African Union - Shona</Name>
           <Values>
+            <string>Ayaan</string>
+            <string>Ladan</string>
+            <string>Magan</string>
+            <string>Qarsi</string>
+            <string>Warsame</string>
+            <string>Xirsi</string>
+            <string>Zuberi</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Civilisation: Beyond Earth - People's African Union - Somali</Name>
+          <Values>
+            <string>Chengetai</string>
+            <string>Fadziso</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Civilisation: Beyond Earth - People's African Union - Swahili</Name>
+          <Values>
+            <string>Hoodo</string>
+            <string>Jenali</string>
+            <string>Libaan</string>
+            <string>Roonaan</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Civilisation: Beyond Earth - People's African Union - Tswana</Name>
+          <Values>
+            <string>Masego</string>
+            <string>Thabo</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Civilisation: Beyond Earth - People's African Union - Xhosa</Name>
+          <Values>
+            <string>Sizwe</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Civilisation: Beyond Earth - People's African Union - Zulu</Name>
+          <Values>
+            <string>Bongani</string>
+            <string>Jabulile</string>
+            <string>Mzoxolo</string>
+            <string>Thula</string>
           </Values>
         </NameGroup>
       </Generic>

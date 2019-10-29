@@ -114,18 +114,26 @@
           </Values>
         </NameGroup>
         <NameGroup>
+          <Name>Cities - Iceland</Name>
+          <Values>
+            <string>Reykjavík</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
           <Name>Cities - Netherlands</Name>
           <Values>
             <string>Amsterdam</string>
             <string>Arnhem</string>
             <string>Den Haag</string>
             <string>Rotterdam</string>
+            <string>The Hague</string>
             <string>Utrecht</string>
           </Values>
         </NameGroup>
         <NameGroup>
           <Name>Cities - Norway</Name>
           <Values>
+            <string>Oslo</string>
             <string>Trondheim</string>
           </Values>
         </NameGroup>
@@ -159,6 +167,14 @@
           </Values>
         </NameGroup>
       </Cities>
+      <Rivers>
+        <NameGroup>
+          <Name>Rivers</Name>
+          <Values>
+            <string>Danube</string>
+          </Values>
+        </NameGroup>
+      </Rivers>
     </Places>
     <Ships>
       <Generic />
@@ -399,6 +415,48 @@
             <string>Alfheim</string>
           </Values>
         </NameGroup>
+        <NameGroup>
+          <Name>Civilisation: Beyond Earth - North Sea Alliance - Danish</Name>
+          <Values>
+            <string>Klog Hjerte</string>
+            <string>Vanfald</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Civilisation: Beyond Earth - North Sea Alliance - Icelandic</Name>
+          <Values>
+            <string>Himinn</string>
+            <string>Örlög</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Civilisation: Beyond Earth - North Sea Alliance - Norwegian</Name>
+          <Values>
+            <string>Bredt Øye</string>
+            <string>Gryten</string>
+            <string>Sìorraidh</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Civilisation: Beyond Earth - North Sea Alliance - Old Norse</Name>
+          <Values>
+            <string>Duncankeld</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Civilisation: Beyond Earth - North Sea Alliance - Swedish</Name>
+          <Values>
+            <string>Fjarran</string>
+            <string>Helgedom</string>
+            <string>Ståndaktig</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Civilisation: Beyond Earth - Franco-Iberia - Old High German</Name>
+          <Values>
+            <string>Beraht</string>
+          </Values>
+        </NameGroup>
       </Generic>
       <Desert>
         <NameGroup>
@@ -434,13 +492,13 @@
       </Ocean>
       <Tundra>
         <NameGroup>
-          <Name>Countries - Native names</Name>
+          <Name>Countries - English names</Name>
           <Values>
-            <string>Ísland</string>
+            <string>Iceland</string>
           </Values>
         </NameGroup>
         <NameGroup>
-          <Name>Countries - English names</Name>
+          <Name>Countries - Native names</Name>
           <Values>
             <string>Ísland</string>
           </Values>
