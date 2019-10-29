@@ -43,6 +43,8 @@
  ui_trait_very_rapid_breeders:0 "Very Rapid Breeders"
  ui_trait_very_slow_breeders_desc:0 "§LThis species reproduces at an incredibly slow rate, lowering population growth significantly.§!\n"
  ui_trait_very_slow_breeders:0 "Very Slow Breeders"
+ ui_trait_very_weak_desc:0 "§LThis species is incredibly weak, making them terrible combatants and generally unproductive.§!\n"
+ ui_trait_very_weak:0 "Very Weak"
 
 # Leader traits
  ui_trait_politically_connected_desc:0 "This character climed the ladder using political connections instead of skill, and is thus not likely to improve their ability more than the bare minimum necessary.§!\n"
