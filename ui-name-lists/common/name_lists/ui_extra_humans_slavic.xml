@@ -7,24 +7,24 @@
       <NameGroup>
         <Name>Nationalities - English Names</Name>
         <Values>
-            <string>Belarusian</string>
-            <string>Bosniak</string>
-            <string>Bulgarian</string>
-            <string>Croat</string>
-            <string>Czech</string>
-            <string>Kashubian</string>
-            <string>Montenegrin</string>
-            <string>Moravian</string>
-            <string>Polish</string>
-            <string>Russian</string>
-            <string>Serb</string>
-            <string>Silesian</string>
-            <string>Slavic</string>
-            <string>Slovak</string>
-            <string>Slovene</string>
-            <string>Sorbian</string>
-            <string>Ukrainian</string>
-            <string>Yugoslav</string>
+          <string>Belarusian</string>
+          <string>Bosniak</string>
+          <string>Bulgarian</string>
+          <string>Croat</string>
+          <string>Czech</string>
+          <string>Kashubian</string>
+          <string>Montenegrin</string>
+          <string>Moravian</string>
+          <string>Polish</string>
+          <string>Russian</string>
+          <string>Serb</string>
+          <string>Silesian</string>
+          <string>Slavic</string>
+          <string>Slovak</string>
+          <string>Slovene</string>
+          <string>Sorbian</string>
+          <string>Ukrainian</string>
+          <string>Yugoslav</string>
         </Values>
       </NameGroup>
     </Nationalities>
@@ -38,23 +38,130 @@
     <Places>
       <Countries>
         <NameGroup>
-          <Name></Name>
+          <Name>Countries - English names</Name>
           <Values>
+          <string>Belarus</string>
+          <string>Bosnia</string>
+          <string>Bulgaria</string>
+          <string>Croatia</string>
+          <string>Czechia</string>
+          <string>Montenegro</string>
+          <string>Poland</string>
+          <string>Russia</string>
+          <string>Serbia</string>
+          <string>Slovakia</string>
+          <string>Slovenia</string>
+          <string>Ukraine</string>
+          <string>Yugoslavia</string>
           </Values>
         </NameGroup>
       </Countries>
       <Cities>
         <NameGroup>
+          <Name>Cities - Belarus</Name>
+          <Values>
+            <string>Minsk</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Cities - Bosnia</Name>
+          <Values>
+            <string>Sarajevo</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Cities - Czechia</Name>
+          <Values>
+            <string>Prague</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Cities - Poland</Name>
+          <Values>
+            <string>Krakow</string>
+            <string>Warsaw</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
           <Name>Cities - Russia</Name>
           <Values>
+            <string>Arkhangelsk</string>
+            <string>Astrakhan</string>
+            <string>Bryansk</string>
+            <string>Chelyabinsk</string>
+            <string>Grozny</string>
+            <string>Irkutsk</string>
+            <string>Ivanovo</string>
             <string>Izhevsk</string>
             <string>Khabarovsk</string>
+            <string>Kirov</string>
+            <string>Krasnodar</string>
+            <string>Krasnoyarsk</string>
+            <string>Lipetsk</string>
+            <string>Moscow</string>
+            <string>Murmansk</string>
+            <string>Novgorod</string>
+            <string>Novosibirsk</string>
+            <string>Omsk</string>
+            <string>Orenburg</string>
+            <string>Perm</string>
+            <string>Petrozavodsk</string>
+            <string>Pskov</string>
+            <string>Rostov</string>
+            <string>Ryazan</string>
+            <string>Saratov</string>
+            <string>Smolensk</string>
+            <string>St. Petersburg</string>
+            <string>Stavropol</string>
+            <string>Tula</string>
+            <string>Tver</string>
+            <string>Ufa</string>
+            <string>Ulyanovsk</string>
+            <string>Vladimir</string>
+            <string>Vladivostok</string>
+            <string>Volgograd</string>
+            <string>Voronezh</string>
+            <string>Yaroslavl</string>
+            <string>Yekaterinburg</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Cities - Serbia</Name>
+          <Values>
+            <string>Belgrade</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Cities - Slovakia</Name>
+          <Values>
+            <string>Bratislava</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Cities - Slovenia</Name>
+          <Values>
+            <string>Ljubljana</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Cities - Ukraine</Name>
+          <Values>
+            <string>Donetsk</string>
+            <string>Kiev</string>
+            <string>Sevastopol</string>
           </Values>
         </NameGroup>
       </Cities>
+      <Rivers>
+        <NameGroup>
+          <Name>Rivers - English names</Name>
+          <Values>
+          <string>Volga</string>
+          </Values>
+        </NameGroup>
+      </Rivers>
     </Places>
     <Ships>
-      <Generic />
       <Corvette>
         <NameGroup>
           <Name>Persons - Military - Polish</Name>
@@ -65,8 +172,14 @@
         <NameGroup>
           <Name>Persons - Military - Russian</Name>
           <Values>
-            <string>Lev Shestakov</string>
+            <string>Ivan Kozhedub</string>
+            <string>Ivan Nikitovich Kozhedub</string>
+            <string>Kozhedub</string>
             <string>Lev Lvovich Shestakov</string>
+            <string>Lev Shestakov</string>
+            <string>Litvyak</string>
+            <string>Lydia Litvyak</string>
+            <string>Lydia Vladimirovna Litvyak</string>
             <string>Shestakov</string>
           </Values>
         </NameGroup>
@@ -78,6 +191,13 @@
           </Values>
         </NameGroup>
         <NameGroup>
+          <Name>Military Unit Types - Russian</Name>
+          <Values>
+            <string>Cossack</string>
+            <string>Kazakov</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
           <Name>Animals - Russian</Name>
           <Values>
             <string>Akula</string>
@@ -85,31 +205,84 @@
           </Values>
         </NameGroup>
       </Corvette>
-      <Destroyer>
-        <NameGroup>
-          <Name></Name>
-          <Values>
-          </Values>
-        </NameGroup>
-      </Destroyer>
       <Cruiser>
         <NameGroup>
-          <Name></Name>
+          <Name>Persons - Leaders - Russian</Name>
           <Values>
+            <string>Alexander Nevsky</string>
+            <string>Catherine the Great</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Persons - Military - Russian</Name>
+          <Values>
+            <string>Alexei Alexeevici Brusilov</string>
+            <string>Alexei Brusilov</string>
+            <string>Brusilov</string>
+            <string>Georgy Konstantinovich Zhukov</string>
+            <string>Georgy Zhukov</string>
+            <string>Zhukov</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Ships - Russian</Name>
+          <Values>
+            <string>Kursk</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Battles / Battlefields</Name>
+          <Values>
+            <string>Kharkov</string>
+            <string>Poltava</string>
           </Values>
         </NameGroup>
       </Cruiser>
       <Battleship>
         <NameGroup>
-          <Name></Name>
+          <Name>Persons - Leaders - Russian</Name>
           <Values>
+            <string>Grigory Aleksandrovich Potemkin</string>
+            <string>Grigory Potemkin</string>
+            <string>Potemkin</string>
           </Values>
         </NameGroup>
       </Battleship>
       <Science>
         <NameGroup>
-          <Name></Name>
+          <Name>People - Scientists - Russian</Name>
           <Values>
+            <string>Konstantin Eduardovich Tsiolkovsky</string>
+            <string>Konstantin Tsiolkovsky</string>
+            <string>Tsiolkovsky</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>People - Scientists - Serbia</Name>
+          <Values>
+            <string>Nikola Tesla</string>
+            <string>Tesla</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>People - Cosmonauts - Russian</Name>
+          <Values>
+            <string>Tereshkova</string>
+            <string>Valentina Tereshkova</string>
+            <string>Valentina Vladimirovna Tereshkova</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>People - Writers - Russian</Name>
+          <Values>
+            <string>Asimov</string>
+            <string>Isaac Asimov</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Ships - Satellite - Russian</Name>
+          <Values>
+            <string>Sputnik</string>
           </Values>
         </NameGroup>
       </Science>
