@@ -26,6 +26,37 @@
           </Values>
         </NameGroup>
       </Countries>
+      <States>
+        <NameGroup>
+          <Name>States - France - French names</Name>
+          <Values>
+            <string>Auvergne-Rhône-Alpes</string>
+            <string>Bourgogne-Franche-Comté</string>
+            <string>Bretagne</string>
+            <string>Centre-Val de Loire</string>
+            <string>Corse</string>
+            <string>Grand Est</string>
+            <string>Hauts-de-France</string>
+            <string>Île-de-France</string>
+            <string>Normandie</string>
+            <string>Nouvelle-Aquitaine</string>
+            <string>Occitanie</string>
+            <string>Pays de la Loire</string>
+            <string>Provence-Alpes-Côte d'Azur</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>States - France - English names</Name>
+          <Values>
+            <string>Brittany</string>
+            <string>Burgundy-Franche-Comté</string>
+            <string>Corsica</string>
+            <string>Great East</string>
+            <string>New Aquitaine</string>
+            <string>Normandy</string>
+          </Values>
+        </NameGroup>
+      </States>
       <Cities>
         <NameGroup>
           <Name>Cities - France</Name>

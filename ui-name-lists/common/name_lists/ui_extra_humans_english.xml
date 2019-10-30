@@ -41,6 +41,17 @@
       </Countries>
       <States>
         <NameGroup>
+          <Name>States - Australia</Name>
+          <Values>
+            <string>New South Wales</string>
+            <string>Qeensland</string>
+            <string>South Australia</string>
+            <string>Tasmania</string>
+            <string>Victoria</string>
+            <string>Western Australia</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
           <Name>States - United States</Name>
           <Values>
             <string>Alabama</string>
@@ -100,6 +111,7 @@
         <NameGroup>
           <Name>Cities - Australia</Name>
           <Values>
+            <string>Perth</string>
             <string>Springfield</string>
             <string>Sydney</string>
           </Values>
@@ -137,6 +149,7 @@
           <Name>Cities - New Zealand</Name>
           <Values>
             <string>Auckland</string>
+            <string>Wellington</string>
           </Values>
         </NameGroup>
         <NameGroup>
@@ -153,6 +166,7 @@
             <string>Denver</string>
             <string>Detroit</string>
             <string>Hartford</string>
+            <string>Honolulu</string>
             <string>Houston</string>
             <string>Huntsville</string>
             <string>Indianapolis</string>
@@ -173,10 +187,18 @@
             <string>Pittsburgh</string>
             <string>Richmond</string>
             <string>Salt Lake City</string>
+            <string>San Antonio</string>
+            <string>San Diego</string>
             <string>San Francisco</string>
+            <string>San Jose</string>
+            <string>Savannah</string>
             <string>Seattle</string>
+            <string>Spokane</string>
+            <string>St. Louis</string>
             <string>Tallahassee</string>
+            <string>Tucson</string>
             <string>Washington</string>
+            <string>Wichita</string>
           </Values>
         </NameGroup>
       </Cities>
@@ -203,14 +225,23 @@
             <string>Charles Doolittle</string>
             <string>David McCampbell</string>
             <string>Doolittle</string>
+            <string>Edward O'Hare</string>
             <string>Gregory Boyington</string>
             <string>Gregory Pappy Boyington</string>
             <string>John Paul Jones</string>
             <string>McAuliffe</string>
             <string>McCampbell</string>
+            <string>O'Hare</string>
             <string>Pappy Boyington</string>
             <string>Rodger Wilton Young</string>
             <string>Rodger Young</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Persons - Military - British</Name>
+          <Values>
+            <string>James MacLachlan</string>
+            <string>MacLachlan</string>
           </Values>
         </NameGroup>
         <NameGroup>
@@ -295,7 +326,9 @@
         <NameGroup>
           <Name>Persons - Scientists - British</Name>
           <Values>
+            <string>Hawking</string>
             <string>Kelvin</string>
+            <string>Stephen Hawking</string>
           </Values>
         </NameGroup>
         <NameGroup>
@@ -320,6 +353,13 @@
             <string>Armstrong</string>
             <string>Buzz Aldrin</string>
             <string>Neil Armstrong</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Persons - Pioneers - American</Name>
+          <Values>
+            <string>Amelia Earhart</string>
+            <string>Earhart</string>
           </Values>
         </NameGroup>
       </Science>

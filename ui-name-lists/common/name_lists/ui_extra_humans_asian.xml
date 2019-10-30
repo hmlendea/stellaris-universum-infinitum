@@ -31,6 +31,21 @@
           </Values>
         </NameGroup>
       </Countries>
+      <States>
+        <NameGroup>
+          <Name>States - Japan</Name>
+          <Values>
+            <string>Chūbu</string>
+            <string>Chūgoku</string>
+            <string>Hokkaidō</string>
+            <string>Kansai</string>
+            <string>Kantō</string>
+            <string>Kyūshū</string>
+            <string>Shikoku</string>
+            <string>Tōhoku</string>
+          </Values>
+        </NameGroup>
+      </States>
       <Cities>
         <NameGroup>
           <Name>Cities - China</Name>
@@ -126,6 +141,7 @@
             <string>Suginami</string>
             <string>Tokyo</string>
             <string>Utsunomiya</string>
+            <string>Yokohama</string>
           </Values>
         </NameGroup>
         <NameGroup>

@@ -1,63 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <NameList>
-    <Id>ui_extra_humans_celtic</Id>
-    <Name>UI - Humans - Celtic</Name>
+    <Id>ui_extra_humans_hellenic</Id>
+    <Name>UI - Humans - Hellenic</Name>
     <Nationalities>
       <NameGroup>
-        <Name>Nationalities - English Names</Name>
+        <Name>Denonyms - English Names</Name>
         <Values>
-            <string>Breton</string>
-            <string>Celtic</string>
-            <string>Irish</string>
-            <string>Scottish</string>
-            <string>Welsh</string>
+          <string>Cypriote</string>
+          <string>Greek</string>
         </Values>
       </NameGroup>
     </Nationalities>
-    <Places>
-      <Countries>
-        <NameGroup>
-          <Name>Countries - English names</Name>
-          <Values>
-            <string>Britanny</string>
-            <string>Ireland</string>
-            <string>Scotland</string>
-            <string>Wales</string>
-          </Values>
-        </NameGroup>
-      </Countries>
-      <Cities>
-        <NameGroup>
-          <Name>Cities - Ireland - English names</Name>
-          <Values>
-            <string>Belfast</string>
-            <string>Cork</string>
-            <string>Dublin</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Cities - Ireland - Irish names</Name>
-          <Values>
-            <string>Corcaigh</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Cities - Scotland</Name>
-          <Values>
-            <string>Aberdeen</string>
-            <string>Edinburgh</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Cities - Wales</Name>
-          <Values>
-            <string>Cardiff</string>
-            <string>Swansea</string>
-          </Values>
-        </NameGroup>
-      </Cities>
-    </Places>
     <Weapons>
       <NameGroup>
         <Name></Name>
@@ -65,33 +19,78 @@
         </Values>
       </NameGroup>
     </Weapons>
-    <MilitaryUnitTypes>
-      <NameGroup>
-        <Name>Military Unit Types - Scottish</Name>
-        <Values>
-          <string>Highlander</string>
-        </Values>
-      </NameGroup>
-    </MilitaryUnitTypes>
+    <Places>
+      <Countries>
+        <NameGroup>
+          <Name>Countries - English names</Name>
+          <Values>
+            <string>Cyprus</string>
+            <string>Greece</string>
+          </Values>
+        </NameGroup>
+      </Countries>
+      <States>
+        <NameGroup>
+          <Name>States - Greece</Name>
+          <Values>
+            <string>Attica</string>
+            <string>Central Greece</string>
+            <string>Central Macedonia</string>
+            <string>Crete</string>
+            <string>East Macedonia and Thrace</string>
+            <string>Epirus</string>
+            <string>Ionian Islands</string>
+            <string>North Aegean</string>
+            <string>Peloponnese</string>
+            <string>South Aegean</string>
+            <string>Thessaly</string>
+            <string>West Greece</string>
+            <string>West Macedonia</string>
+          </Values>
+        </NameGroup>
+      </States>
+      <Cities>
+        <NameGroup>
+          <Name>Cities - Greece</Name>
+          <Values>
+            <string>Agrinio</string>
+            <string>Alexandroupoli</string>
+            <string>Athens</string>
+            <string>Chalcis</string>
+            <string>Chania</string>
+            <string>Heraklion</string>
+            <string>Ioannina</string>
+            <string>Kalamata</string>
+            <string>Katerini</string>
+            <string>Kavala</string>
+            <string>Komotini</string>
+            <string>Lamia</string>
+            <string>Larissa</string>
+            <string>Patras</string>
+            <string>Rhodes</string>
+            <string>Serres</string>
+            <string>Thessaloniki</string>
+            <string>Trikala</string>
+            <string>Volos</string>
+            <string>Xanthi</string>
+          </Values>
+        </NameGroup>
+      </Cities>
+      <Seas>
+        <NameGroup>
+          <Name>Seas - Greece</Name>
+          <Values>
+            <string>Aegean</string>
+          </Values>
+        </NameGroup>
+      </Seas>
+    </Places>
     <Ships>
       <Generic />
       <Corvette>
         <NameGroup>
-          <Name>Persons - Leaders</Name>
+          <Name></Name>
           <Values>
-            <string>Gwendolen</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Persons - Leaders - Welsh</Name>
-          <Values>
-            <string>Gwenllian</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Mythology</Name>
-          <Values>
-            <string>Morrigan</string>
           </Values>
         </NameGroup>
       </Corvette>
@@ -118,9 +117,8 @@
       </Battleship>
       <Science>
         <NameGroup>
-          <Name>Persons - Scientists - Irish</Name>
+          <Name></Name>
           <Values>
-            <string>Kelvin</string>
           </Values>
         </NameGroup>
       </Science>
@@ -132,42 +130,31 @@
         </NameGroup>
       </Coloniser>
     </Ships>
-    <ShipClasses>
-      <Generic>
-        <NameGroup>
-          <Name>Aircraft manufacturers - Irish</Name>
-          <Values>
-            <string>AerCap</string>
-          </Values>
-        </NameGroup>
-      </Generic>
-    </ShipClasses>
     <Stations>
-        <MilitaryStations>
+      <MilitaryStations>
         <Generic>
-            <NameGroup>
-                <Name></Name>
-                <Values>
-                </Values>
+          <NameGroup>
+            <Name></Name>
+              <Values>
+              </Values>
             </NameGroup>
-        </Generic>
+          </Generic>
         </MilitaryStations>
     </Stations>
+    <Armies>
+      <Fleet>
+        <NameGroup>
+          <Name></Name>
+          <Values>
+          </Values>
+        </NameGroup>
+      </Fleet>
+    </Armies>
     <Planets>
       <Generic>
         <NameGroup>
-          <Name>Civilisation: Beyond Earth - North Sea Alliance - Irish</Name>
+          <Name></Name>
           <Values>
-            <string>Eilemuir</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Civilisation: Beyond Earth - North Sea Alliance - Scots Gaelic</Name>
-          <Values>
-            <string>Bànclagh</string>
-            <string>Dunkyle</string>
-            <string>Sàmchair</string>
-            <string>Sìorraidh</string>
           </Values>
         </NameGroup>
       </Generic>

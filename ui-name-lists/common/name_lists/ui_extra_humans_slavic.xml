@@ -283,9 +283,12 @@
         <NameGroup>
           <Name>People - Cosmonauts - Russian</Name>
           <Values>
+            <string>Gagarin</string>
             <string>Tereshkova</string>
             <string>Valentina Tereshkova</string>
             <string>Valentina Vladimirovna Tereshkova</string>
+            <string>Yuri Alekseyevich Gagarin</string>
+            <string>Yuri Gagarin</string>
           </Values>
         </NameGroup>
         <NameGroup>

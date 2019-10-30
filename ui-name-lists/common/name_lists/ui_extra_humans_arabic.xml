@@ -1,63 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <NameList>
-    <Id>ui_extra_humans_celtic</Id>
-    <Name>UI - Humans - Celtic</Name>
+    <Id>ui_extra_humans_arabic</Id>
+    <Name>UI - Humans - Arabic</Name>
     <Nationalities>
       <NameGroup>
-        <Name>Nationalities - English Names</Name>
+        <Name>Denonyms - English Names</Name>
         <Values>
-            <string>Breton</string>
-            <string>Celtic</string>
-            <string>Irish</string>
-            <string>Scottish</string>
-            <string>Welsh</string>
+          <string>Arabian</string>
+          <string>Kuwaiti</string>
+          <string>Saudi</string>
         </Values>
       </NameGroup>
     </Nationalities>
-    <Places>
-      <Countries>
-        <NameGroup>
-          <Name>Countries - English names</Name>
-          <Values>
-            <string>Britanny</string>
-            <string>Ireland</string>
-            <string>Scotland</string>
-            <string>Wales</string>
-          </Values>
-        </NameGroup>
-      </Countries>
-      <Cities>
-        <NameGroup>
-          <Name>Cities - Ireland - English names</Name>
-          <Values>
-            <string>Belfast</string>
-            <string>Cork</string>
-            <string>Dublin</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Cities - Ireland - Irish names</Name>
-          <Values>
-            <string>Corcaigh</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Cities - Scotland</Name>
-          <Values>
-            <string>Aberdeen</string>
-            <string>Edinburgh</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Cities - Wales</Name>
-          <Values>
-            <string>Cardiff</string>
-            <string>Swansea</string>
-          </Values>
-        </NameGroup>
-      </Cities>
-    </Places>
     <Weapons>
       <NameGroup>
         <Name></Name>
@@ -65,33 +20,118 @@
         </Values>
       </NameGroup>
     </Weapons>
-    <MilitaryUnitTypes>
-      <NameGroup>
-        <Name>Military Unit Types - Scottish</Name>
-        <Values>
-          <string>Highlander</string>
-        </Values>
-      </NameGroup>
-    </MilitaryUnitTypes>
+    <Places>
+      <Countries>
+        <NameGroup>
+          <Name>Countries - English names</Name>
+          <Values>
+            <string>Arabia</string>
+            <string>Kuwait</string>
+            <string>Saudi Arabia</string>
+            <string>United Arab Emirates</string>
+          </Values>
+        </NameGroup>
+      </Countries>
+      <States>
+        <NameGroup>
+          <Name>States - Saudi Arabia</Name>
+          <Values>
+            <string>'Asir</string>
+            <string>Bahah</string>
+            <string>Eastern Province</string>
+            <string>Ha'il</string>
+            <string>Jawf</string>
+            <string>Jizan</string>
+            <string>Madinah</string>
+            <string>Makkah</string>
+            <string>Najran</string>
+            <string>Northern Borders</string>
+            <string>Qassim</string>
+            <string>Riyadh</string>
+            <string>Tabuk</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>States - United Arab Emirates</Name>
+          <Values>
+            <string>Abu Dhabi</string>
+            <string>Ajman</string>
+            <string>Dubai</string>
+            <string>Fujairah</string>
+            <string>Ras Al Khaimah</string>
+            <string>Sharjah</string>
+            <string>Umm Al Quwain</string>
+          </Values>
+        </NameGroup>
+      </States>
+      <Cities>
+        <NameGroup>
+          <Name>Cities - Kuwait</Name>
+          <Values>
+            <string>Kuwait City</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Cities - Saudi Arabia</Name>
+          <Values>
+            <string>Abha</string>
+            <string>Al Bahah</string>
+            <string>Al Jawf</string>
+            <string>Al Qunfudhah</string>
+            <string>Al-Mubarraz</string>
+            <string>Ar Rass</string>
+            <string>Buraydah</string>
+            <string>Dhahran</string>
+            <string>Gurayat</string>
+            <string>Jeddah</string>
+            <string>Khamis Mushayt</string>
+            <string>Muzahmiyya</string>
+            <string>Najran</string>
+            <string>Riyadh Al-Khabra</string>
+            <string>Riyadh</string>
+            <string>Sakakah</string>
+            <string>Sharurah</string>
+            <string>Tabuk</string>
+            <string>Taif</string>
+            <string>Unaizah</string>
+            <string>Yanbu</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Cities - United Arab Emirates</Name>
+          <Values>
+            <string>Abu Dhabi</string>
+            <string>Ajman</string>
+            <string>Al Ain</string>
+            <string>Al Madam</string>
+            <string>Al Quoz</string>
+            <string>Ar-Rams</string>
+            <string>Dhaid</string>
+            <string>Dibba Al-Fujairah</string>
+            <string>Dibba Al-Hish</string>
+            <string>Dubai</string>
+            <string>Fujairah</string>
+            <string>Ghayathi</string>
+            <string>Hatta</string>
+            <string>Jebel Ali</string>
+            <string>Kalba</string>
+            <string>Khor Fakkan</string>
+            <string>Liwa Oasis</string>
+            <string>Madinat Zayed</string>
+            <string>Ras Al Khaimah City</string>
+            <string>Ruwais</string>
+            <string>Sharjah</string>
+            <string>Umm Al Quwain</string>
+          </Values>
+        </NameGroup>
+      </Cities>
+    </Places>
     <Ships>
       <Generic />
       <Corvette>
         <NameGroup>
-          <Name>Persons - Leaders</Name>
+          <Name></Name>
           <Values>
-            <string>Gwendolen</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Persons - Leaders - Welsh</Name>
-          <Values>
-            <string>Gwenllian</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Mythology</Name>
-          <Values>
-            <string>Morrigan</string>
           </Values>
         </NameGroup>
       </Corvette>
@@ -118,9 +158,8 @@
       </Battleship>
       <Science>
         <NameGroup>
-          <Name>Persons - Scientists - Irish</Name>
+          <Name></Name>
           <Values>
-            <string>Kelvin</string>
           </Values>
         </NameGroup>
       </Science>
@@ -132,42 +171,31 @@
         </NameGroup>
       </Coloniser>
     </Ships>
-    <ShipClasses>
-      <Generic>
-        <NameGroup>
-          <Name>Aircraft manufacturers - Irish</Name>
-          <Values>
-            <string>AerCap</string>
-          </Values>
-        </NameGroup>
-      </Generic>
-    </ShipClasses>
     <Stations>
-        <MilitaryStations>
+      <MilitaryStations>
         <Generic>
-            <NameGroup>
-                <Name></Name>
-                <Values>
-                </Values>
+          <NameGroup>
+            <Name></Name>
+              <Values>
+              </Values>
             </NameGroup>
-        </Generic>
+          </Generic>
         </MilitaryStations>
     </Stations>
+    <Armies>
+      <Fleet>
+        <NameGroup>
+          <Name></Name>
+          <Values>
+          </Values>
+        </NameGroup>
+      </Fleet>
+    </Armies>
     <Planets>
       <Generic>
         <NameGroup>
-          <Name>Civilisation: Beyond Earth - North Sea Alliance - Irish</Name>
+          <Name></Name>
           <Values>
-            <string>Eilemuir</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Civilisation: Beyond Earth - North Sea Alliance - Scots Gaelic</Name>
-          <Values>
-            <string>Bànclagh</string>
-            <string>Dunkyle</string>
-            <string>Sàmchair</string>
-            <string>Sìorraidh</string>
           </Values>
         </NameGroup>
       </Generic>

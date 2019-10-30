@@ -43,6 +43,22 @@
           </Values>
         </NameGroup>
       </Cities>
+      <Rivers>
+        <NameGroup>
+          <Name>Rivers - Italy</Name>
+          <Values>
+            <string>Rubicon</string>
+          </Values>
+        </NameGroup>
+      </Rivers>
+      <Seas>
+        <NameGroup>
+          <Name>Seas - Italy</Name>
+          <Values>
+            <string>Adriatic</string>
+          </Values>
+        </NameGroup>
+      </Seas>
     </Places>
     <Ships>
       <Corvette>

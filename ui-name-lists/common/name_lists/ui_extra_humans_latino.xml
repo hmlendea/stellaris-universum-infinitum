@@ -105,7 +105,9 @@
         <NameGroup>
           <Name>Cities - Brazil</Name>
           <Values>
+            <string>Brasilia</string>
             <string>Rio de Janeiro</string>
+            <string>Sao Paulo</string>
             <string>São Paulo</string>
           </Values>
         </NameGroup>

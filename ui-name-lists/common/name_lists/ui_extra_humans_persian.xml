@@ -30,6 +30,7 @@
         <NameGroup>
           <Name>Cities - Iran</Name>
           <Values>
+            <string>Faisalabad</string>
             <string>Isfahan</string>
             <string>Mashad</string>
             <string>Tehran</string>
