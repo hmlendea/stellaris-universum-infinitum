@@ -27,6 +27,43 @@
           </Values>
         </NameGroup>
       </Countries>
+      <States>
+        <NameGroup>
+          <Name>States - India</Name>
+          <Values>
+            <string>Andhra</string>
+            <string>Arunachal</string>
+            <string>Assam</string>
+            <string>Bihar</string>
+            <string>Chhattisgarh</string>
+            <string>Goa</string>
+            <string>Gujarat</string>
+            <string>Haryana</string>
+            <string>Himachal</string>
+            <string>Jammu</string>
+            <string>Jharkhand</string>
+            <string>Karnataka</string>
+            <string>Kashmir</string>
+            <string>Kerala</string>
+            <string>Madhya</string>
+            <string>Maharashtra</string>
+            <string>Manipur</string>
+            <string>Meghalaya</string>
+            <string>Mizoram</string>
+            <string>Nagaland</string>
+            <string>Odisha</string>
+            <string>Punjab</string>
+            <string>Rajasthan</string>
+            <string>Sikkim</string>
+            <string>Tamil Nadu</string>
+            <string>Telangana</string>
+            <string>Tripura</string>
+            <string>Uttar</string>
+            <string>Uttarakhand</string>
+            <string>West Bengal</string>
+          </Values>
+        </NameGroup>
+      </States>
       <Cities>
         <NameGroup>
           <Name>Cities - Bangladesh</Name>
@@ -37,11 +74,13 @@
         <NameGroup>
           <Name>Cities - India</Name>
           <Values>
+            <string>Bangalore</string>
             <string>Bombay</string>
             <string>Calcutta</string>
             <string>Delhi</string>
             <string>Hyderabad</string>
             <string>Kochi</string>
+            <string>Lucknow</string>
             <string>Mumbai</string>
           </Values>
         </NameGroup>
@@ -58,6 +97,7 @@
         <NameGroup>
           <Name>Rivers</Name>
           <Values>
+            <string>Ganges</string>
             <string>Indus</string>
           </Values>
         </NameGroup>
@@ -79,6 +119,14 @@
         </Values>
       </NameGroup>
     </MilitaryUnitTypes>
+    <MythologicalCreatures>
+      <NameGroup>
+        <Name>Mythological Creatures - Hindu</Name>
+        <Values>
+          <string>Rakshasa</string>
+        </Values>
+      </NameGroup>
+    </MythologicalCreatures>
     <Ships>
       <Generic />
       <Corvette>

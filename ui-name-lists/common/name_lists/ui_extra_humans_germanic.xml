@@ -61,6 +61,13 @@
         <NameGroup>
           <Name>Cities - Belgium</Name>
           <Values>
+            <string>Antwerp</string>
+            <string>Brussels</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Cities - Belgium - Endonyms</Name>
+          <Values>
             <string>Antwerpen</string>
             <string>Brussel</string>
           </Values>
@@ -131,6 +138,7 @@
         <NameGroup>
           <Name>Cities - Sweden</Name>
           <Values>
+            <string>Gothenburg</string>
             <string>Lund</string>
             <string>Malmö</string>
             <string>Stockholm</string>
@@ -140,6 +148,7 @@
           <Name>Cities - Switzerland</Name>
           <Values>
             <string>Bern</string>
+            <string>Geneva</string>
             <string>Zürich</string>
           </Values>
         </NameGroup>
@@ -160,9 +169,16 @@
       </Cities>
       <Rivers>
         <NameGroup>
-          <Name>Rivers</Name>
+          <Name>Rivers - Germany</Name>
           <Values>
             <string>Danube</string>
+            <string>Rhine</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Rivers - Sweden</Name>
+          <Values>
+            <string>Göta</string>
           </Values>
         </NameGroup>
       </Rivers>

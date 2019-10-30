@@ -12,13 +12,6 @@
         </Values>
       </NameGroup>
     </Nationalities>
-    <Weapons>
-      <NameGroup>
-        <Name></Name>
-        <Values>
-        </Values>
-      </NameGroup>
-    </Weapons>
     <Places>
       <Countries>
         <NameGroup>
@@ -51,6 +44,12 @@
       </States>
       <Cities>
         <NameGroup>
+          <Name>Cities - Cyprus</Name>
+          <Values>
+            <string>Nicosia</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
           <Name>Cities - Greece</Name>
           <Values>
             <string>Agrinio</string>
@@ -63,12 +62,14 @@
             <string>Kalamata</string>
             <string>Katerini</string>
             <string>Kavala</string>
+            <string>Knossos</string>
             <string>Komotini</string>
             <string>Lamia</string>
             <string>Larissa</string>
             <string>Patras</string>
             <string>Rhodes</string>
             <string>Serres</string>
+            <string>Sparta</string>
             <string>Thessaloniki</string>
             <string>Trikala</string>
             <string>Volos</string>
@@ -85,6 +86,43 @@
         </NameGroup>
       </Seas>
     </Places>
+    <Weapons>
+      <NameGroup>
+        <Name>Swords</Name>
+        <Values>
+          <string>Makihara</string>
+        </Values>
+      </NameGroup>
+    </Weapons>
+    <MilitaryUnitTypes>
+      <NameGroup>
+        <Name>Military Unit Types - Greek</Name>
+        <Values>
+          <string>Hoplite</string>
+          <string>Cataphract</string>
+          <string>Varangian</string>
+        </Values>
+      </NameGroup>
+    </MilitaryUnitTypes>
+    <MythologicalCreatures>
+      <NameGroup>
+        <Name>Mythological Creatures - Greek</Name>
+        <Values>
+          <string>Basilisk</string>
+          <string>Centaur</string>
+          <string>Cerberus</string>
+          <string>Chimera</string>
+          <string>Cyclops</string>
+          <string>Hippogriff</string>
+          <string>Manticore</string>
+          <string>Minotaur</string>
+          <string>Pegasus</string>
+          <string>Phoenix</string>
+          <string>Satyr</string>
+          <string>Scylla</string>
+        </Values>
+      </NameGroup>
+    </MythologicalCreatures>
     <Ships>
       <Generic />
       <Corvette>
@@ -110,15 +148,25 @@
       </Cruiser>
       <Battleship>
         <NameGroup>
-          <Name></Name>
+          <Name>Persons - Leaders - Greek</Name>
           <Values>
+            <string>Alexander</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Persons - Mythological Heroes - Greek</Name>
+          <Values>
+            <string>Ajax</string>
           </Values>
         </NameGroup>
       </Battleship>
       <Science>
         <NameGroup>
-          <Name></Name>
+          <Name>Persons - Scientists - Greek</Name>
           <Values>
+            <string>Archimedes</string>
+            <string>Ptolemy</string>
+            <string>Pytheas</string>
           </Values>
         </NameGroup>
       </Science>

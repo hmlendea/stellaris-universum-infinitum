@@ -136,8 +136,11 @@
       </Cruiser>
       <Battleship>
         <NameGroup>
-          <Name></Name>
+          <Name>Persons - Leaders - French</Name>
           <Values>
+            <string>Charlemagne</string>
+            <string>Napoleon Bonaparte</string>
+            <string>Napoleon</string>
           </Values>
         </NameGroup>
       </Battleship>

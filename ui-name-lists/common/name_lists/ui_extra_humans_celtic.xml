@@ -73,6 +73,20 @@
         </Values>
       </NameGroup>
     </MilitaryUnitTypes>
+    <MythologicalCreatures>
+      <NameGroup>
+        <Name>Mythological Creatures - Cornish</Name>
+        <Values>
+          <string>Spriggan</string>
+        </Values>
+      </NameGroup>
+      <NameGroup>
+        <Name>Mythological Creatures - Irish</Name>
+        <Values>
+          <string>Banshee</string>
+        </Values>
+      </NameGroup>
+    </MythologicalCreatures>
     <Ships>
       <Generic />
       <Corvette>

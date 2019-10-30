@@ -215,6 +215,7 @@
             <string>Alicante</string>
             <string>Bilbao</string>
             <string>Córdoba</string>
+            <string>Gibraltar</string>
             <string>Madrid</string>
             <string>Málaga</string>
             <string>Murcia</string>
@@ -235,7 +236,19 @@
         <NameGroup>
           <Name>Rivers</Name>
           <Values>
+            <string>Amazon</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Rivers - Mexico</Name>
+          <Values>
             <string>Rio Grande</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Rivers - Venezuela</Name>
+          <Values>
+            <string>Orinoco</string>
           </Values>
         </NameGroup>
       </Rivers>
@@ -305,6 +318,13 @@
           <Values>
             <string>Fernando Magellan</string>
             <string>Magellan</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Persons - Explorers - Spanish</Name>
+          <Values>
+            <string>Cortez</string>
+            <string>Hernan Cortez</string>
           </Values>
         </NameGroup>
       </Science>

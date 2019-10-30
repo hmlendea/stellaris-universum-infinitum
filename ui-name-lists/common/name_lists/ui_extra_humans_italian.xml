@@ -33,12 +33,14 @@
         <NameGroup>
           <Name>Cities - Italy</Name>
           <Values>
+            <string>Cagliari</string>
             <string>Florence</string>
             <string>Genoa</string>
             <string>Milan</string>
             <string>Naples</string>
             <string>Palermo</string>
             <string>Rome</string>
+            <string>Turin</string>
             <string>Venice</string>
           </Values>
         </NameGroup>
@@ -91,8 +93,15 @@
       </Battleship>
       <Science>
         <NameGroup>
-          <Name></Name>
+          <Name>Persons - Scientists - Italian</Name>
           <Values>
+            <string>Columbus</string>
+            <string>Cristopher Columbus</string>
+            <string>Galileo Galilei</string>
+            <string>Galileo</string>
+            <string>Giuseppe Lagrange</string>
+            <string>Lagrange</string>
+            <string>Marco Polo</string>
           </Values>
         </NameGroup>
       </Science>

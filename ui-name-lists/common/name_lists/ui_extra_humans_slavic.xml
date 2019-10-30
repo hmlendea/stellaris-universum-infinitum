@@ -86,6 +86,7 @@
           <Name>Cities - Poland</Name>
           <Values>
             <string>Krakow</string>
+            <string>Lodz</string>
             <string>Warsaw</string>
           </Values>
         </NameGroup>
@@ -180,7 +181,7 @@
         <Name>Military Unit Types - Russian</Name>
         <Values>
           <string>Cossack</string>
-          <string>Kasakov</string>
+          <string>Kazakov</string>
         </Values>
       </NameGroup>
     </MilitaryUnitTypes>
@@ -281,7 +282,7 @@
           </Values>
         </NameGroup>
         <NameGroup>
-          <Name>People - Cosmonauts - Russian</Name>
+          <Name>People - Explorers - Russian</Name>
           <Values>
             <string>Gagarin</string>
             <string>Tereshkova</string>

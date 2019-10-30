@@ -16,13 +16,6 @@
         </Values>
       </NameGroup>
     </Nationalities>
-    <Weapons>
-      <NameGroup>
-        <Name></Name>
-        <Values>
-        </Values>
-      </NameGroup>
-    </Weapons>
     <Places>
       <Countries>
         <NameGroup>
@@ -111,6 +104,9 @@
         <NameGroup>
           <Name>Cities - Australia</Name>
           <Values>
+            <string>Brisbane</string>
+            <string>Canberra</string>
+            <string>Melbourne</string>
             <string>Perth</string>
             <string>Springfield</string>
             <string>Sydney</string>
@@ -119,6 +115,7 @@
         <NameGroup>
           <Name>Cities - Canada</Name>
           <Values>
+            <string>Calgary</string>
             <string>Edmonton</string>
             <string>Mississauga</string>
             <string>Ottawa</string>
@@ -128,6 +125,10 @@
         <NameGroup>
           <Name>Cities - England</Name>
           <Values>
+            <string>Birmingham</string>
+            <string>Bradford</string>
+            <string>Brighton</string>
+            <string>Bristol</string>
             <string>Cambridge</string>
             <string>Coventry</string>
             <string>Exeter</string>
@@ -156,15 +157,21 @@
           <Name>Cities - United States</Name>
           <Values>
             <string>Albuquerque</string>
+            <string>Anchorage</string>
             <string>Atlanta</string>
+            <string>Austin</string>
             <string>Bakersfield</string>
+            <string>Baltimore</string>
             <string>Boston</string>
+            <string>Charlotte</string>
             <string>Chicago</string>
             <string>Cincinnati</string>
             <string>Cleveland</string>
             <string>Dallas</string>
             <string>Denver</string>
             <string>Detroit</string>
+            <string>El Paso</string>
+            <string>Fresno</string>
             <string>Hartford</string>
             <string>Honolulu</string>
             <string>Houston</string>
@@ -182,10 +189,13 @@
             <string>New Orleans</string>
             <string>New York</string>
             <string>Oklahoma City</string>
+            <string>Orlando</string>
             <string>Philadelphia</string>
             <string>Phoenix</string>
             <string>Pittsburgh</string>
+            <string>Portland</string>
             <string>Richmond</string>
+            <string>Sacramento</string>
             <string>Salt Lake City</string>
             <string>San Antonio</string>
             <string>San Diego</string>
@@ -207,14 +217,45 @@
           <Name>Rivers - United States</Name>
           <Values>
             <string>Colorado</string>
+            <string>Merrimack</string>
             <string>Mississippi</string>
             <string>Potomac</string>
+            <string>Sacramento</string>
+            <string>Shenandoah</string>
+            <string>Susquehanna</string>
+            <string>Yukon</string>
           </Values>
         </NameGroup>
       </Rivers>
     </Places>
+    <Weapons>
+      <NameGroup>
+        <Name>Axes</Name>
+        <Values>
+          <string>Tomahawk</string>
+        </Values>
+      </NameGroup>
+    </Weapons>
+    <MilitaryUnitTypes>
+      <NameGroup>
+        <Name>Military Unit Types - British</Name>
+        <Values>
+          <string>Highlander</string>
+          <string>Longbowman</string>
+        </Values>
+      </NameGroup>
+    </MilitaryUnitTypes>
+    <MilitaryUnitTypes>
+      <NameGroup>
+        <Name>Mythological Creatures - British</Name>
+        <Values>
+          <string>Banshee</string>
+          <string>Spriggan</string>
+          <string>Wyvern</string>
+        </Values>
+      </NameGroup>
+    </MilitaryUnitTypes>
     <Ships>
-      <Generic />
       <Corvette>
         <NameGroup>
           <Name>Persons - Military - American</Name>
@@ -223,6 +264,7 @@
             <string>Boyington</string>
             <string>Charles Camp Doolittle</string>
             <string>Charles Doolittle</string>
+            <string>Chuck Yeager</string>
             <string>David McCampbell</string>
             <string>Doolittle</string>
             <string>Edward O'Hare</string>
@@ -235,6 +277,7 @@
             <string>Pappy Boyington</string>
             <string>Rodger Wilton Young</string>
             <string>Rodger Young</string>
+            <string>Yeager</string>
           </Values>
         </NameGroup>
         <NameGroup>
@@ -255,6 +298,12 @@
           <Values>
             <string>John Henry</string>
             <string>Paul Bunyan</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Ships - American</Name>
+          <Values>
+            <string>Kearsarge</string>
           </Values>
         </NameGroup>
         <NameGroup>
@@ -309,6 +358,13 @@
       </Cruiser>
       <Battleship>
         <NameGroup>
+          <Name>Persons - Leaders - American</Name>
+          <Values>
+            <string>George Washington</string>
+            <string>Washington</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
           <Name>Persons - Leaders - English</Name>
           <Values>
             <string>Lionheart</string>
@@ -324,10 +380,20 @@
       </Battleship>
       <Science>
         <NameGroup>
+          <Name>Ships - British</Name>
+          <Values>
+            <string>Untiring</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
           <Name>Persons - Scientists - British</Name>
           <Values>
+            <string>Charles Darwin</string>
+            <string>Darwin</string>
             <string>Hawking</string>
+            <string>Isaac Newton</string>
             <string>Kelvin</string>
+            <string>Newton</string>
             <string>Stephen Hawking</string>
           </Values>
         </NameGroup>
@@ -336,13 +402,16 @@
           <Values>
             <string>Carl Sagan</string>
             <string>Edwin Hubble</string>
+            <string>Goddard</string>
             <string>Hubble</string>
+            <string>Robert H. Goddard</string>
             <string>Sagan</string>
           </Values>
         </NameGroup>
         <NameGroup>
           <Name>Persons - Explorers - British</Name>
           <Values>
+            <string>James Cook</string>
             <string>Walter Raleigh</string>
           </Values>
         </NameGroup>
@@ -352,6 +421,8 @@
             <string>Aldrin</string>
             <string>Armstrong</string>
             <string>Buzz Aldrin</string>
+            <string>Grissom</string>
+            <string>Gus Grissom</string>
             <string>Neil Armstrong</string>
           </Values>
         </NameGroup>

@@ -51,6 +51,7 @@
           <Name>Cities - China</Name>
           <Values>
             <string>Baotou</string>
+            <string>Beijing</string>
             <string>Changchun</string>
             <string>Changsha</string>
             <string>Changzhou</string>

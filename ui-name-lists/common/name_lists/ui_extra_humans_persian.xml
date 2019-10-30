@@ -71,8 +71,9 @@
       </Battleship>
       <Science>
         <NameGroup>
-          <Name></Name>
+          <Name>Persons - Science - Persian</Name>
           <Values>
+            <string>Azophi</string>
           </Values>
         </NameGroup>
       </Science>

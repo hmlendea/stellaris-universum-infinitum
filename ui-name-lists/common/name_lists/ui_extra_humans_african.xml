@@ -53,8 +53,10 @@
             <string>Liberia</string>
             <string>Madagascar</string>
             <string>Mali</string>
+            <string>Mauritania</string>
             <string>Mozambique</string>
             <string>Nigeria</string>
+            <string>Senegal</string>
             <string>Somalia</string>
             <string>South Africa</string>
             <string>Sudan</string>
@@ -111,6 +113,24 @@
             <string>Taraba</string>
             <string>Yobe</string>
             <string>Zamfara</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>States - Mauritania</Name>
+          <Values>
+            <string>Adrar</string>
+            <string>Assaba</string>
+            <string>Brakna</string>
+            <string>Dakhlet Nouadhibou</string>
+            <string>Duidimaka</string>
+            <string>Gorgol</string>
+            <string>Hodh Ech Chargui</string>
+            <string>Hodh El Gharbi</string>
+            <string>Inchiri</string>
+            <string>Nouakchott</string>
+            <string>Tagant</string>
+            <string>Tiris Zemmour</string>
+            <string>Trarza</string>
           </Values>
         </NameGroup>
       </States>
@@ -195,6 +215,27 @@
           </Values>
         </NameGroup>
         <NameGroup>
+          <Name>Cities - Mauritania</Name>
+          <Values>
+            <string>Akjoujt</string>
+            <string>Aleg</string>
+            <string>Arafat</string>
+            <string>Atar</string>
+            <string>Ayoun el Atrous</string>
+            <string>Dar-Naim</string>
+            <string>Kaédi</string>
+            <string>Kiffa</string>
+            <string>Néma</string>
+            <string>Nouadhibou</string>
+            <string>Nouakchott</string>
+            <string>Rosso</string>
+            <string>Sélibaby</string>
+            <string>Tevragh-Zeina</string>
+            <string>Tidjikja</string>
+            <string>Zouérat</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
           <Name>Cities - Mozambique</Name>
           <Values>
             <string>Maputo</string>
@@ -208,6 +249,12 @@
           </Values>
         </NameGroup>
         <NameGroup>
+          <Name>Cities - Senegal</Name>
+          <Values>
+            <string>Dakar</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
           <Name>Cities - Somalia</Name>
           <Values>
             <string>Mogadishu</string>
@@ -216,6 +263,7 @@
         <NameGroup>
           <Name>Cities - South Africa</Name>
           <Values>
+            <string>Cape Town</string>
             <string>Pretoria</string>
             <string>Ekurhuleni</string>
           </Values>
@@ -280,15 +328,17 @@
       </Cruiser>
       <Battleship>
         <NameGroup>
-          <Name></Name>
+          <Name>Persons - Leaders - Tunisian</Name>
           <Values>
+            <string>Hannibal</string>
           </Values>
         </NameGroup>
       </Battleship>
       <Science>
         <NameGroup>
-          <Name></Name>
+          <Name>Persons - Scientsits - Berber</Name>
           <Values>
+            <string>Ibn Battuta</string>
           </Values>
         </NameGroup>
       </Science>
