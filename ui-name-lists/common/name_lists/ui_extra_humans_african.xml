@@ -75,6 +75,12 @@
       </Countries>
       <States>
         <NameGroup>
+          <Name>States - Africa</Name>
+          <Values>
+            <string>Sahara</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
           <Name>States - Nigeria</Name>
           <Values>
             <string>Abia</string>
@@ -334,6 +340,14 @@
           </Values>
         </NameGroup>
       </Battleship>
+      <Constructor>
+        <NameGroup>
+          <Name>Mythology - Spirits - Irish</Name>
+          <Values>
+            <string>Ikenga</string>
+          </Values>
+        </NameGroup>
+      </Constructor>
       <Science>
         <NameGroup>
           <Name>Persons - Scientsits - Berber</Name>

@@ -1,130 +1,124 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <NameList>
-    <Id>ui_extra_humans_hellenic</Id>
-    <Name>UI - Humans - Hellenic</Name>
+    <Id>ui_extra_humans_romanian</Id>
+    <Name>UI - Human - Romanian</Name>
     <Nationalities>
       <NameGroup>
-        <Name>Denonyms - English Names</Name>
+        <Name>Denonyms</Name>
         <Values>
-          <string>Cypriote</string>
-          <string>Greek</string>
+          <string>Dobrujan</string>
+          <string>Moldavian</string>
+          <string>Romanian</string>
+          <string>Transylvanian</string>
+          <string>Wallachian</string>
+        </Values>
+      </NameGroup>
+      <NameGroup>
+        <Name>Denonyms - Endonyms</Name>
+        <Values>
+          <string>Ardelean</string>
+          <string>Dobrogean</string>
+          <string>Moldovean</string>
+          <string>Român</string>
+          <string>Transilvănean</string>
+          <string>Vlah</string>
         </Values>
       </NameGroup>
     </Nationalities>
     <Places>
       <Countries>
         <NameGroup>
-          <Name>Countries - English names</Name>
+          <Name>Countries</Name>
           <Values>
-            <string>Cyprus</string>
-            <string>Greece</string>
+            <string>Romania</string>
+            <string>Moldova</string>
           </Values>
         </NameGroup>
       </Countries>
       <States>
         <NameGroup>
-          <Name>States - Greece</Name>
+          <Name>Regions - Romania - Endonyms</Name>
           <Values>
-            <string>Attica</string>
-            <string>Central Greece</string>
-            <string>Central Macedonia</string>
-            <string>Crete</string>
-            <string>East Macedonia and Thrace</string>
-            <string>Epirus</string>
-            <string>Ionian Islands</string>
-            <string>North Aegean</string>
-            <string>Peloponnese</string>
-            <string>South Aegean</string>
-            <string>Thessaly</string>
-            <string>West Greece</string>
-            <string>West Macedonia</string>
+            <string>Banate</string>
+            <string>Bukovina</string>
+            <string>Crisana</string>
+            <string>Dobruja</string>
+            <string>Maramures</string>
+            <string>Moldavia</string>
+            <string>Muntenia</string>
+            <string>Transylvania</string>
+            <string>Wallachia</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Regions - Romania - Endonyms</Name>
+          <Values>
+            <string>Ardeal</string>
+            <string>Banat</string>
+            <string>Bucovina</string>
+            <string>Crișana</string>
+            <string>Dobrogea</string>
+            <string>Maramureș</string>
+            <string>Moldova</string>
+            <string>Transilvania</string>
+            <string>Valahia</string>
           </Values>
         </NameGroup>
       </States>
       <Cities>
         <NameGroup>
-          <Name>Cities - Cyprus</Name>
+          <Name>Cities - Romania</Name>
           <Values>
-            <string>Nicosia</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Cities - Greece</Name>
-          <Values>
-            <string>Agrinio</string>
-            <string>Alexandroupoli</string>
-            <string>Athens</string>
-            <string>Chalcis</string>
-            <string>Chania</string>
-            <string>Heraklion</string>
-            <string>Ioannina</string>
-            <string>Kalamata</string>
-            <string>Katerini</string>
-            <string>Kavala</string>
-            <string>Knossos</string>
-            <string>Komotini</string>
-            <string>Lamia</string>
-            <string>Larissa</string>
-            <string>Patras</string>
-            <string>Rhodes</string>
-            <string>Serres</string>
-            <string>Sparta</string>
-            <string>Thessaloniki</string>
-            <string>Trikala</string>
-            <string>Volos</string>
-            <string>Xanthi</string>
+            <string>Baia Mare</string>
+            <string>Brașov</string>
+            <string>Bucharest</string>
+            <string>Cluj-Napoca</string>
+            <string>Constanța</string>
+            <string>Deva</string>
+            <string>Iași</string>
+            <string>Oradea</string>
+            <string>Sibiu</string>
+            <string>Timișoara</string>
           </Values>
         </NameGroup>
       </Cities>
+      <Rivers>
+        <NameGroup>
+          <Name>Rivers - Romania</Name>
+          <Values>
+            <string>Danube</string>
+            <string>Prut</string>
+          </Values>
+        </NameGroup>
+      </Rivers>
       <Seas>
         <NameGroup>
-          <Name>Seas - Greece</Name>
+          <Name>Seas - Romania</Name>
           <Values>
-            <string>Aegean</string>
+            <string>Black Sea</string>
           </Values>
         </NameGroup>
       </Seas>
     </Places>
     <Weapons>
       <NameGroup>
-        <Name>Swords</Name>
+        <Name>Swords - Falx</Name>
         <Values>
-          <string>Makihara</string>
+          <string>Falx</string>
         </Values>
       </NameGroup>
     </Weapons>
     <MilitaryUnitTypes>
       <NameGroup>
-        <Name>Military Unit Types - Greek</Name>
+        <Name>Military Unit Types - Romania</Name>
         <Values>
-          <string>Hoplite</string>
-          <string>Cataphract</string>
-          <string>Varangian</string>
+          <string>Dorobant</string>
+          <string>Falxman</string>
         </Values>
       </NameGroup>
     </MilitaryUnitTypes>
-    <MythologicalCreatures>
-      <NameGroup>
-        <Name>Mythological Creatures - Greek</Name>
-        <Values>
-          <string>Basilisk</string>
-          <string>Centaur</string>
-          <string>Cerberus</string>
-          <string>Chimera</string>
-          <string>Cyclops</string>
-          <string>Hippogriff</string>
-          <string>Manticore</string>
-          <string>Minotaur</string>
-          <string>Pegasus</string>
-          <string>Phoenix</string>
-          <string>Satyr</string>
-          <string>Scylla</string>
-        </Values>
-      </NameGroup>
-    </MythologicalCreatures>
     <Ships>
-      <Generic />
       <Corvette>
         <NameGroup>
           <Name></Name>
@@ -148,27 +142,24 @@
       </Cruiser>
       <Battleship>
         <NameGroup>
-          <Name>Persons - Leaders - Greek</Name>
+          <Name></Name>
           <Values>
-            <string>Alexander</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Persons - Mythological Heroes - Greek</Name>
-          <Values>
-            <string>Ajax</string>
           </Values>
         </NameGroup>
       </Battleship>
       <Science>
         <NameGroup>
-          <Name>Persons - Scientists - Greek</Name>
+          <Name>Persons - Scientists - Romanian</Name>
           <Values>
-            <string>Archimedes</string>
-            <string>Callippus</string>
-            <string>Isidore</string>
-            <string>Ptolemy</string>
-            <string>Pytheas</string>
+            <string>Racoviță</string>
+            <string>Emil Racoviță</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Persons - Explorers - Romanian</Name>
+          <Values>
+            <string>Prunariu</string>
+            <string>Dumitru Prunariu</string>
           </Values>
         </NameGroup>
       </Science>
@@ -182,14 +173,14 @@
     </Ships>
     <Stations>
       <MilitaryStations>
-        <Generic>
-          <NameGroup>
-            <Name></Name>
-              <Values>
-              </Values>
-            </NameGroup>
-          </Generic>
-        </MilitaryStations>
+      <Generic>
+        <NameGroup>
+          <Name></Name>
+          <Values>
+          </Values>
+        </NameGroup>
+      </Generic>
+      </MilitaryStations>
     </Stations>
     <Armies>
       <Fleet>

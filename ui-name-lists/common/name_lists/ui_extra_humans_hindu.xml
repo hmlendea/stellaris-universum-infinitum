@@ -200,6 +200,15 @@
           </Values>
         </NameGroup>
       </Battleship>
+      <Constructor>
+        <NameGroup>
+          <Name>Gods - India</Name>
+          <Values>
+            <string>Tvastar</string>
+            <string>Vishvakarman</string>
+          </Values>
+        </NameGroup>
+      </Constructor>
       <Science>
         <NameGroup>
           <Name></Name>

@@ -274,12 +274,13 @@
         <NameGroup>
           <Name>Persons - Scientists - Roman</Name>
           <Values>
-            <string>Hygnius</string>
+            <string>Hyginus</string>
             <string>Lucilius</string>
             <string>Plinius</string>
             <string>Pliny the Elder</string>
             <string>Pliny the Younger</string>
             <string>Pliny</string>
+            <string>Polemius Silvius</string>
           </Values>
         </NameGroup>
       </Science>

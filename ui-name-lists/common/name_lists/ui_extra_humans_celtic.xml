@@ -130,6 +130,16 @@
           </Values>
         </NameGroup>
       </Battleship>
+      <Constructor>
+        <NameGroup>
+          <Name>Persons - Mythology - Irish</Name>
+          <Values>
+            <string>Creidhne</string>
+            <string>Goibniu</string>
+            <string>Luchtaine</string>
+          </Values>
+        </NameGroup>
+      </Constructor>
       <Science>
         <NameGroup>
           <Name>Persons - Scientists - Irish</Name>
