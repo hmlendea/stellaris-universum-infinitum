@@ -2,10 +2,11 @@
 <ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <NameList>
     <Id>human1</Id>
-    <Name>HUMAN1</Name>
+    <Name>zzz HUMAN1</Name>
     <Ships>
       <Corvette>
         <NameGroup>
+          <Name>zzz HUMAN1</Name>
           <Values>
             <string>Aardvark</string>
             <string>Accentor</string>
@@ -329,6 +330,7 @@
       </Corvette>
       <Destroyer>
         <NameGroup>
+          <Name>zzz HUMAN1</Name>
           <Values>
             <string>Amsterdam</string>
             <string>Austin</string>
@@ -764,6 +766,7 @@
       </Destroyer>
       <Cruiser>
         <NameGroup>
+          <Name>zzz HUMAN1</Name>
           <Values>
             <string>Bolivar</string>
             <string>Brusilov</string>
@@ -971,6 +974,7 @@
       </Cruiser>
       <Battleship>
         <NameGroup>
+          <Name>zzz HUMAN1</Name>
           <Values>
             <string>Ulysses</string>
             <string>Xenophon</string>
@@ -1065,6 +1069,7 @@
       </Battleship>
       <Titan>
         <NameGroup>
+          <Name>zzz HUMAN1</Name>
             <string>Enterprise</string>
             <string>Invincible</string>
             <string>Pegasus</string>
@@ -1075,6 +1080,7 @@
       </Titan>
       <Colossus>
         <NameGroup>
+          <Name>zzz HUMAN1</Name>
             <string>Sol Invictus</string>
             <string>Adjudicator</string>
             <string>Overlord</string>
@@ -1084,6 +1090,7 @@
       </Colossus>
       <Constructor>
         <NameGroup>
+          <Name>zzz HUMAN1</Name>
           <Values>
             <string>Pacific</string>
             <string>Atlantic</string>
@@ -1117,6 +1124,7 @@
       </Constructor>
       <Science>
         <NameGroup>
+          <Name>zzz HUMAN1</Name>
           <Values>
             <string>Aldrin</string>
             <string>Armstrong</string>
@@ -1171,6 +1179,7 @@
       </Science>
       <Coloniser>
         <NameGroup>
+          <Name>zzz HUMAN1</Name>
           <Values>
             <string>Mayflower</string>
             <string>Abundance</string>
@@ -1214,6 +1223,7 @@
       </Coloniser>
       <Transport>
         <NameGroup>
+          <Name>zzz HUMAN1</Name>
           <Values>
             <string>Cowpens</string>
             <string>Belleau Wood</string>
@@ -1236,6 +1246,7 @@
       <MilitaryStations>
       <Generic>
         <NameGroup>
+          <Name>zzz HUMAN1</Name>
           <Values>
           </Values>
         </NameGroup>
@@ -1245,6 +1256,7 @@
     <Armies>
       <Fleet>
         <NameGroup>
+          <Name>zzz HUMAN1</Name>
           <Name></Name>
           <Values>
           </Values>
@@ -1254,6 +1266,7 @@
     <Planets>
       <Generic>
         <NameGroup>
+          <Name>zzz HUMAN1</Name>
           <Name></Name>
           <Values>
           </Values>
@@ -1261,6 +1274,7 @@
       </Generic>
       <Desert>
         <NameGroup>
+          <Name>zzz HUMAN1</Name>
           <Name></Name>
           <Values>
           </Values>
@@ -1268,6 +1282,7 @@
       </Desert>
       <Continental>
         <NameGroup>
+          <Name>zzz HUMAN1</Name>
           <Name></Name>
           <Values>
           </Values>
@@ -1275,6 +1290,7 @@
       </Continental>
       <Ocean>
         <NameGroup>
+          <Name>zzz HUMAN1</Name>
           <Name></Name>
           <Values>
           </Values>
@@ -1282,6 +1298,7 @@
       </Ocean>
       <Tundra>
         <NameGroup>
+          <Name>zzz HUMAN1</Name>
           <Name></Name>
           <Values>
           </Values>
@@ -1289,6 +1306,7 @@
       </Tundra>
       <Arctic>
         <NameGroup>
+          <Name>zzz HUMAN1</Name>
           <Name></Name>
           <Values>
           </Values>
@@ -1296,6 +1314,7 @@
       </Arctic>
       <Tomb>
         <NameGroup>
+          <Name>zzz HUMAN1</Name>
           <Name></Name>
           <Values>
           </Values>
@@ -1303,6 +1322,7 @@
       </Tomb>
       <Alpine>
         <NameGroup>
+          <Name>zzz HUMAN1</Name>
           <Name></Name>
           <Values>
           </Values>
@@ -1310,6 +1330,7 @@
       </Alpine>
       <Molten>
         <NameGroup>
+          <Name>zzz HUMAN1</Name>
           <Name></Name>
           <Values>
           </Values>
@@ -1322,36 +1343,42 @@
         <Weight>100</Weight>
         <MaleFirstNames>
           <NameGroup>
+            <Name>zzz HUMAN1</Name>
             <Values>
             </Values>
           </NameGroup>
         </MaleFirstNames>
         <MaleRoyalFirstNames>
           <NameGroup>
+            <Name>zzz HUMAN1</Name>
             <Values>
             </Values>
           </NameGroup>
         </MaleRoyalFirstNames>
         <FemaleFirstNames>
           <NameGroup>
+            <Name>zzz HUMAN1</Name>
             <Values>
             </Values>
           </NameGroup>
         </FemaleFirstNames>
         <FemaleRoyalFirstNames>
           <NameGroup>
+            <Name>zzz HUMAN1</Name>
             <Values>
             </Values>
           </NameGroup>
         </FemaleRoyalFirstNames>
         <SecondNames>
           <NameGroup>
+            <Name>zzz HUMAN1</Name>
             <Values>
             </Values>
           </NameGroup>
         </SecondNames>
         <RoyalSecondNames>
           <NameGroup>
+            <Name>zzz HUMAN1</Name>
             <Values>
             </Values>
           </NameGroup>

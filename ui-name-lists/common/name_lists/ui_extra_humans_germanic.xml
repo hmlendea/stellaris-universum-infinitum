@@ -77,6 +77,11 @@
           <Values>
             <string>Aarhus</string>
             <string>Copenhagen</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Cities - Denmark - Endonyms</Name>
+          <Values>
             <string>København</string>
           </Values>
         </NameGroup>

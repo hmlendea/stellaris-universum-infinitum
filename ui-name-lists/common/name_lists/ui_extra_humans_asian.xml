@@ -257,6 +257,12 @@
           <string>Kaiken</string>
         </Values>
       </NameGroup>
+      <NameGroup>
+        <Name>Crossbows - Chinese</Name>
+        <Values>
+          <string>Chu-ko-nu</string>
+        </Values>
+      </NameGroup>
     </Weapons>
     <MilitaryUnitTypes>
       <NameGroup>
