@@ -29,6 +29,47 @@
           </Values>
         </NameGroup>
       </Countries>
+      <States>
+        <NameGroup>
+          <Name>Regions - Italy</Name>
+          <Values>
+            <string>Abruzzo</string>
+            <string>Aosta</string>
+            <string>Apulia</string>
+            <string>Basilicata</string>
+            <string>Calabria</string>
+            <string>Campania</string>
+            <string>Emilia-Romagna</string>
+            <string>Friuli</string>
+            <string>Venezia</string>
+            <string>Lazio</string>
+            <string>Liguria</string>
+            <string>Lombardy</string>
+            <string>Marche</string>
+            <string>Molise</string>
+            <string>Piedmont</string>
+            <string>Sardinia</string>
+            <string>Sicilia</string>
+            <string>Trentino</string>
+            <string>South Tyrol</string>
+            <string>Tuscany</string>
+            <string>Umbria</string>
+            <string>Veneto</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Regions - Italy - Endonyms</Name>
+          <Values>
+            <string>Alto Adige</string>
+            <string>Lombardia</string>
+            <string>Piemonte</string>
+            <string>Puglia</string>
+            <string>Sardegna</string>
+            <string>Sicilia</string>
+            <string>Toscania</string>
+          </Values>
+        </NameGroup>
+      </States>
       <Cities>
         <NameGroup>
           <Name>Cities - Italy</Name>

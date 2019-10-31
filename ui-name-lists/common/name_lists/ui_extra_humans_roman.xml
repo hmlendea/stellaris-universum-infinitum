@@ -22,23 +22,25 @@
       </Countries>
       <States>
         <NameGroup>
-          <Name>States - Rome</Name>
+          <Name>Regions - Rome</Name>
           <Values>
+            <string>Achaea</string>
             <string>Achaia</string>
             <string>Aegyptus</string>
-            <string>Africa Nova</string>
             <string>Africa</string>
-            <string>Alpes Atrectianae</string>
-            <string>Alpes Cottiae</string>
-            <string>Alpes Maritimae</string>
-            <string>Alpes Poeninae</string>
+            <string>Alpes</string>
+            <string>Anatolia</string>
             <string>Aquitania</string>
             <string>Arabia</string>
+            <string>Ariana</string>
             <string>Armenia</string>
             <string>Asia</string>
             <string>Assyria</string>
+            <string>Belgica</string>
             <string>Bithynia</string>
             <string>Britannia</string>
+            <string>Caledonia</string>
+            <string>Cambria</string>
             <string>Cappadocia</string>
             <string>Cilicia</string>
             <string>Commagene</string>
@@ -46,39 +48,39 @@
             <string>Creta</string>
             <string>Cyprus</string>
             <string>Cyrenae</string>
-            <string>Dacia Aureliana</string>
+            <string>Cyrenaica</string>
             <string>Dacia</string>
-            <string>Epirus Nova</string>
+            <string>Epirus</string>
             <string>Galatia</string>
-            <string>Gallia Belgica</string>
-            <string>Gallia Lugdunensis</string>
-            <string>Gallia Narbonensis</string>
-            <string>Germania Inferior</string>
-            <string>Germania Magna</string>
-            <string>Germania Superior</string>
-            <string>Hispania Baetica</string>
-            <string>Hispania Citerior</string>
-            <string>Hispania Tarraconensis</string>
-            <string>Hispania Ulterior</string>
+            <string>Gallia</string>
+            <string>Germania</string>
+            <string>Graecia</string>
+            <string>Hibernia</string>
+            <string>Hispania</string>
+            <string>Illyria</string>
             <string>Illyricum</string>
+            <string>Italia</string>
             <string>Judaea</string>
             <string>Lusitania</string>
             <string>Lycia</string>
-            <string>Lycia</string>
             <string>Macedonia</string>
-            <string>Mauretania Caesariensis</string>
-            <string>Mauretania Tingitana</string>
+            <string>Mauretania</string>
             <string>Mesopotamia</string>
             <string>Moesia</string>
             <string>Noricum</string>
             <string>Numidia</string>
             <string>Osrhoene</string>
+            <string>Palaestina</string>
             <string>Pamphylia</string>
+            <string>Parthia</string>
+            <string>Phoenicia</string>
             <string>Pontus</string>
             <string>Raetia</string>
+            <string>Ruthenia</string>
             <string>Sardinia</string>
+            <string>Scythia</string>
+            <string>Serica</string>
             <string>Sicilia</string>
-            <string>Syria Coele</string>
             <string>Syria</string>
             <string>Thracia</string>
           </Values>
@@ -145,6 +147,40 @@
         <Name>Swords - Roman</Name>
         <Values>
           <string>Gladius</string>
+          <string>Spatha</string>
+        </Values>
+      </NameGroup>
+      <NameGroup>
+        <Name>Daggers - Roman</Name>
+        <Values>
+          <string>Pugio</string>
+        </Values>
+      </NameGroup>
+      <NameGroup>
+        <Name>Spears - Roman</Name>
+        <Values>
+          <string>Hasta</string>
+          <string>Spiculum</string>
+        </Values>
+      </NameGroup>
+      <NameGroup>
+        <Name>Javelin - Roman</Name>
+        <Values>
+          <string>Lancea</string>
+          <string>Verutum</string>
+        </Values>
+      </NameGroup>
+      <NameGroup>
+        <Name>Arrows - Roman</Name>
+        <Values>
+          <string>Plumbata</string>
+        </Values>
+      </NameGroup>
+      <NameGroup>
+        <Name>Siege - Roman</Name>
+        <Values>
+          <string>Ballista</string>
+          <string>Scorpio</string>
         </Values>
       </NameGroup>
     </Weapons>
@@ -152,9 +188,19 @@
       <NameGroup>
         <Name>Military Unit Types - Roman</Name>
         <Values>
+          <string>Aeneator</string>
+          <string>Aquilifer</string>
+          <string>Bucinator</string>
           <string>Centurion</string>
+          <string>Cornicen</string>
+          <string>Draconarius</string>
           <string>Legion</string>
           <string>Legionaire</string>
+          <string>Legionarius</string>
+          <string>Signifier</string>
+          <string>Tablifer</string>
+          <string>Tubicen</string>
+          <string>Vexillarius</string>
         </Values>
       </NameGroup>
       <NameGroup>
@@ -202,12 +248,35 @@
           </Values>
         </NameGroup>
       </Battleship>
+      <Titan>
+        <NameGroup>
+          <Name>Leaders -  Roman</Name>
+          <Values>
+            <string>Imperator Augustus</string>
+            <string>Julius Caesar</string>
+            <string>Remus</string>
+            <string>Romulus</string>
+            <string>Trajan</string>
+          </Values>
+        </NameGroup>
+      </Titan>
+      <Colossus>
+        <NameGroup>
+          <Name>Vanilla Human SPQR</Name>
+          <Values>
+            <string>Dis Pater</string>
+            <string>Pax Romana</string>
+            <string>Sol Invictus</string>
+          </Values>
+        </NameGroup>
+      </Colossus>
       <Science>
         <NameGroup>
           <Name>Persons - Scientists - Roman</Name>
           <Values>
             <string>Hygnius</string>
             <string>Lucilius</string>
+            <string>Plinius</string>
             <string>Pliny the Elder</string>
             <string>Pliny the Younger</string>
             <string>Pliny</string>

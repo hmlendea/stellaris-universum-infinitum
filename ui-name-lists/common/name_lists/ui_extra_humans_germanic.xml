@@ -385,6 +385,14 @@
           </Values>
         </NameGroup>
       </Coloniser>
+      <Transport>
+        <NameGroup>
+          <Name>Mythology - Ships - Norse</Name>
+          <Values>
+            <string>Nagglfar</string>
+          </Values>
+        </NameGroup>
+      </Transport>
     </Ships>
     <ShipClasses>
       <Generic>

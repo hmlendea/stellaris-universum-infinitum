@@ -33,7 +33,45 @@
       </Countries>
       <States>
         <NameGroup>
-          <Name>States - Japan</Name>
+          <Name>Regions - China</Name>
+          <Values>
+            <string>Anhui</string>
+            <string>Beijing</string>
+            <string>Chongqing</string>
+            <string>Fujian</string>
+            <string>Gansu</string>
+            <string>Guangdong</string>
+            <string>Guangxi Zhuang</string>
+            <string>Guizhou</string>
+            <string>Hainan</string>
+            <string>Hebei</string>
+            <string>Heilongjiang</string>
+            <string>Henan</string>
+            <string>Hong Kong</string>
+            <string>Hubei</string>
+            <string>Hunan</string>
+            <string>Jiangsu</string>
+            <string>Jiangxi</string>
+            <string>Jilin</string>
+            <string>Liaoning</string>
+            <string>Macau</string>
+            <string>Ningxia Hui</string>
+            <string>Qinghai</string>
+            <string>Shaanxi</string>
+            <string>Shandong</string>
+            <string>Shanghai</string>
+            <string>Shanxi</string>
+            <string>Sichuan</string>
+            <string>Taiwan</string>
+            <string>Tianjin</string>
+            <string>Tibet</string>
+            <string>Xinjiang</string>
+            <string>Yunnan</string>
+            <string>Zhejiang</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Regions - Japan</Name>
           <Values>
             <string>Chūbu</string>
             <string>Chūgoku</string>
