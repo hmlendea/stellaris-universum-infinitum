@@ -3,14 +3,16 @@
   <NameList>
     <Id>ui_starcraft_human</Id>
     <Name>UI - StarCraft - Human</Name>
-    <Nationalities>
+    <Denonyms>
       <NameGroup>
-        <Name>Denonyms</Name>
+        <Name>Denonyms - StarCraft</Name>
         <Values>
+          <string>Kel-Morian</string>
           <string>Terran</string>
+          <string>Umojan</string>
         </Values>
       </NameGroup>
-    </Nationalities>
+    </Denonyms>
     <Weapons>
       <NameGroup>
         <Name></Name>
@@ -21,14 +23,18 @@
     <Places>
       <Countries>
         <NameGroup>
-          <Name>Countries - English names</Name>
+          <Name>Countries - StarCraft</Name>
           <Values>
+            <string>Confederacy</string>
+            <string>Dominion</string>
+            <string>Kel-Moria</string>
+            <string>Umoja</string>
           </Values>
         </NameGroup>
       </Countries>
       <Cities>
         <NameGroup>
-          <Name>Cities - StarCraft Terran</Name>
+          <Name>Cities - StarCraft - Terran</Name>
           <Values>
             <string>Augustgrad</string>
             <string>Backwater</string>
@@ -44,7 +50,7 @@
     <Ships>
       <Cruiser>
         <NameGroup>
-          <Name>Ships - StarCraft Terran</Name>
+          <Name>Ships - StarCraft - Terran</Name>
           <Values>
             <string>Victory</string>
           </Values>
@@ -52,7 +58,7 @@
       </Cruiser>
       <Battleship>
         <NameGroup>
-          <Name>Ships - StarCraft Terran</Name>
+          <Name>Ships - StarCraft - Terran</Name>
           <Values>
             <string>Aeneas</string>
             <string>Aethon</string>
@@ -102,18 +108,18 @@
           </Values>
         </NameGroup>
       </Battleship>
-      <Science>
+      <Titan>
         <NameGroup>
-          <Name>Ships - StarCraft Terran</Name>
+          <Name>Ships - StarCraft - Terran</Name>
           <Values>
             <string>Aleksander</string>
             <string>Loki</string>
           </Values>
         </NameGroup>
-      </Science>
+      </Titan>
       <Science>
         <NameGroup>
-          <Name>Ships - StarCraft Terran</Name>
+          <Name>Ships - StarCraft - Terran</Name>
           <Values>
             <string>Amerigo</string>
             <string>Brin</string>
@@ -122,7 +128,7 @@
       </Science>
       <Coloniser>
         <NameGroup>
-          <Name>Ships - StarCraft Terran</Name>
+          <Name>Ships - StarCraft - Terran</Name>
           <Values>
             <string>Argo</string>
             <string>Nagglfar</string>
@@ -131,7 +137,7 @@
       </Coloniser>
       <Transport>
         <NameGroup>
-          <Name>Ships - StarCraft Terran</Name>
+          <Name>Ships - StarCraft - Terran</Name>
           <Values>
             <string>Cormorant</string>
             <string>Daisy</string>
@@ -143,7 +149,7 @@
     <ShipClasses>
       <Corvette>
         <NameGroup>
-          <Name>Ship Classes - StarCraft Terran</Name>
+          <Name>Ship Classes - StarCraft - Terran</Name>
           <Values>
             <string>Avenger</string>
             <string>Banshee</string>
@@ -155,7 +161,7 @@
       </Corvette>
       <Battleship>
         <NameGroup>
-          <Name>Ship Classes - StarCraft Terran</Name>
+          <Name>Ship Classes - StarCraft - Terran</Name>
           <Values>
             <string>Behemoth</string>
             <string>Gorgon</string>
@@ -172,7 +178,7 @@
       </Battleship>
       <Science>
         <NameGroup>
-          <Name>Ship Classes - StarCraft Terran</Name>
+          <Name>Ship Classes - StarCraft - Terran</Name>
           <Values>
             <string>Explorer</string>
             <string>Kurzweil</string>
@@ -181,7 +187,7 @@
       </Science>
       <Transport>
         <NameGroup>
-          <Name>Ship Classes - StarCraft Terran</Name>
+          <Name>Ship Classes - StarCraft - Terran</Name>
           <Values>
             <string>Cyrus</string>
             <string>Gladiator</string>
@@ -194,7 +200,7 @@
     <Stations>
       <MiningStations>
         <NameGroup>
-          <Name>Mining Stations - StarCraft Terran</Name>
+          <Name>Mining Stations - StarCraft - Terran</Name>
           <Values>
             <string>Avernus</string>
             <string>Char Aleph</string>
@@ -209,7 +215,7 @@
       </MiningStations>
       <ResearchStations>
         <NameGroup>
-          <Name>Research Stations - StarCraft Terran</Name>
+          <Name>Research Stations - StarCraft - Terran</Name>
           <Values>
             <string>Castanar</string>
             <string>Immortal Forge</string>
@@ -221,7 +227,7 @@
       <MilitaryStations>
         <Small>
           <NameGroup>
-            <Name>Military Stations - StarCraft Terran</Name>
+            <Name>Military Stations - StarCraft - Terran</Name>
             <Values>
               <string>Catwalk Alley</string>
               <string>Gemini</string>
@@ -236,7 +242,7 @@
         </Small>
         <Medium>
           <NameGroup>
-            <Name>Military Stations - StarCraft Terran</Name>
+            <Name>Military Stations - StarCraft - Terran</Name>
             <Values>
               <string>Crusader</string>
               <string>Gutterhulk</string>
@@ -250,7 +256,7 @@
         </Medium>
         <Large>
           <NameGroup>
-            <Name>Military Stations - StarCraft Terran</Name>
+            <Name>Military Stations - StarCraft - Terran</Name>
             <Values>
               <string>Gehanna</string>
               <string>The Keep</string>
@@ -261,7 +267,7 @@
       <Starbases>
         <Generic>
           <NameGroup>
-            <Name>Starbases - StarCraft Terran</Name>
+            <Name>Starbases - StarCraft - Terran</Name>
             <Values>
               <string>Dylar</string>
             </Values>
@@ -272,7 +278,7 @@
     <Armies>
       <Fleet>
         <NameGroup>
-          <Name>Squadrons - StarCraft Terran</Name>
+          <Name>Squadrons - StarCraft - Terran</Name>
           <Values>
             <string>Alpha Squadron</string>
             <string>Delta Squadron</string>
@@ -286,7 +292,7 @@
       </Fleet>
       <DefenceArmy>
         <NameGroup>
-          <Name>Armies - StarCraft Terran</Name>
+          <Name>Armies - StarCraft - Terran</Name>
           <Values>
             <string>Aegis Guard</string>
             <string>Delta Company</string>
@@ -296,7 +302,7 @@
       </DefenceArmy>
       <AssaultArmy>
         <NameGroup>
-          <Name>Armies - StarCraft Terran</Name>
+          <Name>Armies - StarCraft - Terran</Name>
           <Values>
             <string>Annihilators</string>
             <string>Blackhammers</string>
@@ -325,7 +331,7 @@
       </AssaultArmy>
       <PsionicArmy>
         <NameGroup>
-          <Name>Armies - StarCraft Terran</Name>
+          <Name>Armies - StarCraft - Terran</Name>
           <Values>
             <string>Nova Squadron</string>
           </Values>
@@ -333,7 +339,7 @@
       </PsionicArmy>
       <XenomorphArmy>
         <NameGroup>
-          <Name>Armies - StarCraft Terran</Name>
+          <Name>Armies - StarCraft - Terran</Name>
           <Values>
             <string>The Tamed</string>
           </Values>
@@ -343,7 +349,7 @@
     <Planets>
       <Generic>
         <NameGroup>
-          <Name>Planets - StarCraft Terran - Unknown or unsure climate</Name>
+          <Name>Planets - StarCraft - Terran - Unknown or unsure climate</Name>
           <Values>
             <string>Thys</string>
             <string>Pegasus</string>
@@ -372,7 +378,7 @@
           </Values>
         </NameGroup>
         <NameGroup>
-          <Name>Planets - StarCraft Terran - Unknown or unsure climate - Mining worlds</Name>
+          <Name>Planets - StarCraft - Terran - Unknown or unsure climate - Mining worlds</Name>
           <Values>
             <string>Brutus</string>
             <string>Feronis</string>
@@ -384,7 +390,7 @@
       </Generic>
       <Desert>
         <NameGroup>
-          <Name>Planets - StarCraft Terran</Name>
+          <Name>Planets - StarCraft - Terran</Name>
           <Values>
             <string>Altara</string>
             <string>Choss</string>
@@ -399,7 +405,7 @@
       </Desert>
       <Arid>
         <NameGroup>
-          <Name>Planets - StarCraft Terran</Name>
+          <Name>Planets - StarCraft - Terran</Name>
           <Values>
             <string>Gamma Dorian</string>
             <string>Mar Sara</string>
@@ -408,7 +414,7 @@
       </Arid>
       <Tropical>
         <NameGroup>
-          <Name>Planets - StarCraft Terran</Name>
+          <Name>Planets - StarCraft - Terran</Name>
           <Values>
             <string>Aridas</string>
             <string>Brokas Hur</string>
@@ -423,7 +429,7 @@
       </Tropical>
       <Continental>
         <NameGroup>
-          <Name>Planets - StarCraft Terran</Name>
+          <Name>Planets - StarCraft - Terran</Name>
           <Values>
             <string>Bhekar Ro</string>
             <string>Boone</string>
@@ -448,7 +454,7 @@
       </Continental>
       <Gaia>
         <NameGroup>
-          <Name>Planets - StarCraft Terran</Name>
+          <Name>Planets - StarCraft - Terran</Name>
           <Values>
             <string>Agria</string>
             <string>Meinhoff</string>
@@ -457,7 +463,7 @@
       </Gaia>
       <Ocean>
         <NameGroup>
-          <Name>Planets - StarCraft Terran</Name>
+          <Name>Planets - StarCraft - Terran</Name>
           <Values>
             <string>Hydrax</string>
             <string>Pridewater</string>
@@ -466,7 +472,7 @@
       </Ocean>
       <Tundra>
         <NameGroup>
-          <Name>Planets - StarCraft Terran</Name>
+          <Name>Planets - StarCraft - Terran</Name>
           <Values>
             <string>Borea</string>
           </Values>
@@ -474,7 +480,7 @@
       </Tundra>
       <Arctic>
         <NameGroup>
-          <Name>Planets - StarCraft Terran</Name>
+          <Name>Planets - StarCraft - Terran</Name>
           <Values>
             <string>Anselm</string>
             <string>Braxis</string>
@@ -487,7 +493,7 @@
       </Arctic>
       <Tomb>
         <NameGroup>
-          <Name>Planets - StarCraft Terran</Name>
+          <Name>Planets - StarCraft - Terran</Name>
           <Values>
             <string>Dead Man's Rock</string>
             <string>Port Zion</string>
@@ -497,7 +503,7 @@
       </Tomb>
       <Alpine>
         <NameGroup>
-          <Name>Planets - StarCraft Terran</Name>
+          <Name>Planets - StarCraft - Terran</Name>
           <Values>
             <string>Jarban Minor</string>
             <string>Karkulv</string>
@@ -508,7 +514,7 @@
       </Alpine>
       <Molten>
         <NameGroup>
-          <Name>Planets - StarCraft Terran</Name>
+          <Name>Planets - StarCraft - Terran</Name>
           <Values>
             <string>Abaddon</string>
             <string>Ashrigo</string>
@@ -523,7 +529,7 @@
       </Molten>
       <Barren>
         <NameGroup>
-          <Name>Planets - StarCraft Terran</Name>
+          <Name>Planets - StarCraft - Terran</Name>
           <Values>
             <string>Brutus</string>
             <string>Canis</string>
@@ -533,7 +539,7 @@
       </Barren>
       <Asteroid>
         <NameGroup>
-          <Name>Planets - StarCraft Terran</Name>
+          <Name>Planets - StarCraft - Terran</Name>
           <Values>
             <string>Chanuk</string>
           </Values>

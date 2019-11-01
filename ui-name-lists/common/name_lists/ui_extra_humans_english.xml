@@ -3,9 +3,9 @@
   <NameList>
     <Id>ui_extra_humans_english</Id>
     <Name>UI - Humans - English</Name>
-    <Nationalities>
+    <Denonyms>
       <NameGroup>
-        <Name>Nationalities</Name>
+        <Name>Denonyms</Name>
         <Values>
             <string>American</string>
             <string>Australian</string>
@@ -15,11 +15,11 @@
             <string>New Zeelander</string>
         </Values>
       </NameGroup>
-    </Nationalities>
+    </Denonyms>
     <Places>
       <Countries>
         <NameGroup>
-          <Name>Countries - English names</Name>
+          <Name>Countries</Name>
           <Values>
             <string>Australia</string>
             <string>Britain</string>
@@ -32,9 +32,9 @@
           </Values>
         </NameGroup>
       </Countries>
-      <States>
+      <Regions>
         <NameGroup>
-          <Name>States - Australia</Name>
+          <Name>Regions -Australia</Name>
           <Values>
             <string>New South Wales</string>
             <string>Qeensland</string>
@@ -45,7 +45,7 @@
           </Values>
         </NameGroup>
         <NameGroup>
-          <Name>States - United States</Name>
+          <Name>Regions -United States</Name>
           <Values>
             <string>Alabama</string>
             <string>Alaska</string>
@@ -99,7 +99,7 @@
             <string>Wyoming</string>
           </Values>
         </NameGroup>
-      </States>
+      </Regions>
       <Cities>
         <NameGroup>
           <Name>Cities - Australia</Name>
@@ -173,6 +173,7 @@
             <string>Detroit</string>
             <string>El Paso</string>
             <string>Fresno</string>
+            <string>Gettysburg</string>
             <string>Hartford</string>
             <string>Honolulu</string>
             <string>Houston</string>
@@ -203,6 +204,7 @@
             <string>San Diego</string>
             <string>San Francisco</string>
             <string>San Jose</string>
+            <string>Saratoga</string>
             <string>Savannah</string>
             <string>Seattle</string>
             <string>Spokane</string>
@@ -219,6 +221,7 @@
           <Name>Rivers - United States</Name>
           <Values>
             <string>Colorado</string>
+            <string>Hudson</string>
             <string>Merrimack</string>
             <string>Mississippi</string>
             <string>Potomac</string>
@@ -376,6 +379,7 @@
         <NameGroup>
           <Name>Battles / Battlefields - United States</Name>
           <Values>
+            <string>Chickamagua</string>
             <string>Lexington</string>
           </Values>
         </NameGroup>

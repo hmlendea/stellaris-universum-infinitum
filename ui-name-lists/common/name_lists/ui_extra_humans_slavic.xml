@@ -3,9 +3,9 @@
   <NameList>
     <Id>ui_extra_humans_slavic</Id>
     <Name>UI - Humans - Slavic</Name>
-    <Nationalities>
+    <Denonyms>
       <NameGroup>
-        <Name>Nationalities - English Names</Name>
+        <Name>Denonyms</Name>
         <Values>
           <string>Belarusian</string>
           <string>Bosniak</string>
@@ -27,11 +27,17 @@
           <string>Yugoslav</string>
         </Values>
       </NameGroup>
-    </Nationalities>
+      <NameGroup>
+        <Name>Denonyms - Endonyms</Name>
+        <Values>
+          <string>Russkiy</string>
+        </Values>
+      </NameGroup>
+    </Denonyms>
     <Places>
       <Countries>
         <NameGroup>
-          <Name>Countries - English names</Name>
+          <Name>Countries</Name>
           <Values>
           <string>Belarus</string>
           <string>Bosnia</string>

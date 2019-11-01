@@ -3,9 +3,9 @@
   <NameList>
     <Id>ui_extra_humans_asian</Id>
     <Name>UI - Humans - Asian</Name>
-    <Nationalities>
+    <Denonyms>
       <NameGroup>
-        <Name>Nationalities - English Names</Name>
+        <Name>Denonyms</Name>
         <Values>
           <string>Chinese</string>
           <string>Indonesian</string>
@@ -17,11 +17,11 @@
           <string>Vietnamese</string>
         </Values>
       </NameGroup>
-    </Nationalities>
+    </Denonyms>
     <Places>
       <Countries>
         <NameGroup>
-          <Name>Countries - English names</Name>
+          <Name>Countries</Name>
           <Values>
             <string>China</string>
             <string>Japan</string>
@@ -31,7 +31,7 @@
           </Values>
         </NameGroup>
       </Countries>
-      <States>
+      <Regions>
         <NameGroup>
           <Name>Regions - China</Name>
           <Values>
@@ -83,7 +83,7 @@
             <string>Tōhoku</string>
           </Values>
         </NameGroup>
-      </States>
+      </Regions>
       <Cities>
         <NameGroup>
           <Name>Cities - China</Name>
@@ -1219,23 +1219,36 @@
       </Desert>
       <Continental>
         <NameGroup>
-          <Name>Vanilla HUMAN1</Name>
+          <Name>Persons - Leaders - Chinese</Name>
           <Values>
-            <string>Gao Zu</string>
-            <string>Kongzi</string>
-            <string>Oda</string>
-            <string>Tian Yi</string>
-            <string>Tokugawa</string>
-            <string>Toyotomi</string>
+            <string>Gao zu</string>
             <string>Wu Ding</string>
             <string>Zheng</string>
           </Values>
         </NameGroup>
         <NameGroup>
-          <Name>The Elder Scrolls - Places</Name>
+          <Name>Persons - Leaders - Japanese</Name>
           <Values>
-            <string>Akavir</string>
-            <string>Tsaesci</string>
+            <string>Oda</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Persons - Politics - Chinese</Name>
+          <Values>
+            <string>Tian Yi</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Persons - Scientists - Chinese</Name>
+          <Values>
+            <string>Kongzi</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Clans - Japanese</Name>
+          <Values>
+            <string>Tokugawa</string>
+            <string>Toyotomi</string>
           </Values>
         </NameGroup>
       </Continental>

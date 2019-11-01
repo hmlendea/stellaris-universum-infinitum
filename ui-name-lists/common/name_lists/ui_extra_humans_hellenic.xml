@@ -3,28 +3,28 @@
   <NameList>
     <Id>ui_extra_humans_hellenic</Id>
     <Name>UI - Humans - Hellenic</Name>
-    <Nationalities>
+    <Denonyms>
       <NameGroup>
-        <Name>Denonyms - English Names</Name>
+        <Name>Denonyms</Name>
         <Values>
           <string>Cypriote</string>
           <string>Greek</string>
         </Values>
       </NameGroup>
-    </Nationalities>
+    </Denonyms>
     <Places>
       <Countries>
         <NameGroup>
-          <Name>Countries - English names</Name>
+          <Name>Countries</Name>
           <Values>
             <string>Cyprus</string>
             <string>Greece</string>
           </Values>
         </NameGroup>
       </Countries>
-      <States>
+      <Regions>
         <NameGroup>
-          <Name>States - Greece</Name>
+          <Name>Regions -Greece</Name>
           <Values>
             <string>Attica</string>
             <string>Central Greece</string>
@@ -41,7 +41,7 @@
             <string>West Macedonia</string>
           </Values>
         </NameGroup>
-      </States>
+      </Regions>
       <Cities>
         <NameGroup>
           <Name>Cities - Cyprus</Name>
@@ -88,9 +88,16 @@
     </Places>
     <Weapons>
       <NameGroup>
-        <Name>Swords</Name>
+        <Name>Swords - Greek</Name>
         <Values>
           <string>Makihara</string>
+          <string>Xiphos</string>
+        </Values>
+      </NameGroup>
+      <NameGroup>
+        <Name>Daggers - Greek</Name>
+        <Values>
+          <string>Kopis</string>
         </Values>
       </NameGroup>
     </Weapons>
@@ -127,8 +134,10 @@
       <Generic />
       <Corvette>
         <NameGroup>
-          <Name></Name>
+          <Name>Persons - Military - Greek</Name>
           <Values>
+            <string>Marinos Mitralexis</string>
+            <string>Mitralexis</string>
           </Values>
         </NameGroup>
       </Corvette>

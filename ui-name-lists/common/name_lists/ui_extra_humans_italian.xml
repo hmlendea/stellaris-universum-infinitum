@@ -3,16 +3,16 @@
   <NameList>
     <Id>ui_extra_humans_italian</Id>
     <Name>UI - Humans - Italian</Name>
-    <Nationalities>
+    <Denonyms>
       <NameGroup>
-        <Name>Nationalities - English Names</Name>
+        <Name>Denonyms</Name>
         <Values>
             <string>Italian</string>
             <string>Neapolitan</string>
             <string>Sicilian</string>
         </Values>
       </NameGroup>
-    </Nationalities>
+    </Denonyms>
     <Weapons>
       <NameGroup>
         <Name></Name>
@@ -23,13 +23,13 @@
     <Places>
       <Countries>
         <NameGroup>
-          <Name>Countries - English names</Name>
+          <Name>Countries</Name>
           <Values>
             <string>Italy</string>
           </Values>
         </NameGroup>
       </Countries>
-      <States>
+      <Regions>
         <NameGroup>
           <Name>Regions - Italy</Name>
           <Values>
@@ -69,7 +69,7 @@
             <string>Toscania</string>
           </Values>
         </NameGroup>
-      </States>
+      </Regions>
       <Cities>
         <NameGroup>
           <Name>Cities - Italy</Name>

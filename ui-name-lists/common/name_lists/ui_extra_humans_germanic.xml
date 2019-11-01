@@ -3,9 +3,9 @@
   <NameList>
     <Id>ui_extra_humans_germanic</Id>
     <Name>UI - Humans - Germanic</Name>
-    <Nationalities>
+    <Denonyms>
       <NameGroup>
-        <Name>Nationalities - English Names</Name>
+        <Name>Denonyms</Name>
         <Values>
           <string>Austrian</string>
           <string>Belgian</string>
@@ -17,7 +17,7 @@
           <string>Viking</string>
         </Values>
       </NameGroup>
-    </Nationalities>
+    </Denonyms>
     <Places>
       <Countries>
         <NameGroup>
@@ -36,7 +36,7 @@
           </Values>
         </NameGroup>
         <NameGroup>
-          <Name>Countries - English names</Name>
+          <Name>Countries</Name>
           <Values>
             <string>Austria</string>
             <string>Belgium</string>
@@ -437,7 +437,7 @@
           </Values>
         </NameGroup>
         <NameGroup>
-          <Name>Mythology - Places</Name>
+          <Name>Mythology - Places - Norse</Name>
           <Values>
             <string>Alfheim</string>
           </Values>
@@ -495,9 +495,10 @@
       </Desert>
       <Continental>
         <NameGroup>
-          <Name>Mythology - Places</Name>
+          <Name>Mythology - Places - Norse</Name>
           <Values>
             <string>Asgard</string>
+            <string>Midgard</string>
           </Values>
         </NameGroup>
         <NameGroup>
@@ -519,7 +520,7 @@
       </Ocean>
       <Tundra>
         <NameGroup>
-          <Name>Countries - English names</Name>
+          <Name>Countries</Name>
           <Values>
             <string>Iceland</string>
           </Values>
@@ -531,16 +532,9 @@
           </Values>
         </NameGroup>
         <NameGroup>
-          <Name>Mythology</Name>
+          <Name>Mythology - Places - Norse</Name>
           <Values>
             <string>Utgard</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Puzzle Pirates - Islands</Name>
-          <Values>
-            <string>Jorvik</string>
-            <string>Norse</string>
           </Values>
         </NameGroup>
       </Tundra>
@@ -552,7 +546,7 @@
           </Values>
         </NameGroup>
         <NameGroup>
-          <Name>Countries - English names</Name>
+          <Name>Countries</Name>
           <Values>
             <string>Greenland</string>
           </Values>
@@ -579,17 +573,6 @@
           </Values>
         </NameGroup>
       </Tomb>
-      <Alpine>
-        <NameGroup>
-          <Name>The Elder Scrolls - Mountains</Name>
-          <Values>
-            <string>Anthor</string>
-            <string>High Hrothgar</string>
-            <string>Jerall</string>
-            <string>Wrothgar</string>
-          </Values>
-        </NameGroup>
-      </Alpine>
       <Molten>
         <NameGroup>
           <Name>Mythology - Places</Name>

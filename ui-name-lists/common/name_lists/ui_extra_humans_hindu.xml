@@ -3,9 +3,9 @@
   <NameList>
     <Id>ui_extra_humans_indian</Id>
     <Name>UI - Humans - Hindu</Name>
-    <Nationalities>
+    <Denonyms>
       <NameGroup>
-        <Name>Nationalities - English Names</Name>
+        <Name>Denonyms</Name>
         <Values>
           <string>Bengali</string>
           <string>Hindu</string>
@@ -14,11 +14,11 @@
           <string>Pakistani</string>
         </Values>
       </NameGroup>
-    </Nationalities>
+    </Denonyms>
     <Places>
       <Countries>
         <NameGroup>
-          <Name>Countries - English names</Name>
+          <Name>Countries</Name>
           <Values>
             <string>Bangladesh</string>
             <string>India</string>
@@ -27,9 +27,9 @@
           </Values>
         </NameGroup>
       </Countries>
-      <States>
+      <Regions>
         <NameGroup>
-          <Name>States - India</Name>
+          <Name>Regions -India</Name>
           <Values>
             <string>Andhra</string>
             <string>Arunachal</string>
@@ -63,7 +63,7 @@
             <string>West Bengal</string>
           </Values>
         </NameGroup>
-      </States>
+      </Regions>
       <Cities>
         <NameGroup>
           <Name>Cities - Bangladesh</Name>

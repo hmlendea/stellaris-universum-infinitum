@@ -3,9 +3,9 @@
   <NameList>
     <Id>ui_extra_humans_celtic</Id>
     <Name>UI - Humans - Celtic</Name>
-    <Nationalities>
+    <Denonyms>
       <NameGroup>
-        <Name>Nationalities - English Names</Name>
+        <Name>Denonyms</Name>
         <Values>
             <string>Breton</string>
             <string>Celtic</string>
@@ -14,11 +14,11 @@
             <string>Welsh</string>
         </Values>
       </NameGroup>
-    </Nationalities>
+    </Denonyms>
     <Places>
       <Countries>
         <NameGroup>
-          <Name>Countries - English names</Name>
+          <Name>Countries</Name>
           <Values>
             <string>Britanny</string>
             <string>Ireland</string>

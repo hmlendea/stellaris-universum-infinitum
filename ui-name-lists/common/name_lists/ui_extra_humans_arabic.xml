@@ -3,16 +3,16 @@
   <NameList>
     <Id>ui_extra_humans_arabic</Id>
     <Name>UI - Humans - Arabic</Name>
-    <Nationalities>
+    <Denonyms>
       <NameGroup>
-        <Name>Denonyms - English Names</Name>
+        <Name>Denonyms</Name>
         <Values>
           <string>Arabian</string>
           <string>Kuwaiti</string>
           <string>Saudi</string>
         </Values>
       </NameGroup>
-    </Nationalities>
+    </Denonyms>
     <Weapons>
       <NameGroup>
         <Name></Name>
@@ -23,7 +23,7 @@
     <Places>
       <Countries>
         <NameGroup>
-          <Name>Countries - English names</Name>
+          <Name>Countries</Name>
           <Values>
             <string>Arabia</string>
             <string>Kuwait</string>
@@ -32,9 +32,9 @@
           </Values>
         </NameGroup>
       </Countries>
-      <States>
+      <Regions>
         <NameGroup>
-          <Name>States - Saudi Arabia</Name>
+          <Name>Regions -Saudi Arabia</Name>
           <Values>
             <string>'Asir</string>
             <string>Bahah</string>
@@ -52,7 +52,7 @@
           </Values>
         </NameGroup>
         <NameGroup>
-          <Name>States - United Arab Emirates</Name>
+          <Name>Regions -United Arab Emirates</Name>
           <Values>
             <string>Abu Dhabi</string>
             <string>Ajman</string>
@@ -63,7 +63,7 @@
             <string>Umm Al Quwain</string>
           </Values>
         </NameGroup>
-      </States>
+      </Regions>
       <Cities>
         <NameGroup>
           <Name>Cities - Kuwait</Name>

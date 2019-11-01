@@ -3,14 +3,14 @@
   <NameList>
     <Id>ui_extra_humans_french</Id>
     <Name>UI - Humans - French</Name>
-    <Nationalities>
+    <Denonyms>
       <NameGroup>
-        <Name>Nationalities - English Names</Name>
+        <Name>Denonyms</Name>
         <Values>
           <string>French</string>
         </Values>
       </NameGroup>
-    </Nationalities>
+    </Denonyms>
     <Weapons>
       <NameGroup>
         <Name></Name>
@@ -26,9 +26,9 @@
           </Values>
         </NameGroup>
       </Countries>
-      <States>
+      <Regions>
         <NameGroup>
-          <Name>States - France - French names</Name>
+          <Name>Regions -France - French names</Name>
           <Values>
             <string>Auvergne-Rhône-Alpes</string>
             <string>Bourgogne-Franche-Comté</string>
@@ -46,7 +46,7 @@
           </Values>
         </NameGroup>
         <NameGroup>
-          <Name>States - France - English names</Name>
+          <Name>Regions -France - English names</Name>
           <Values>
             <string>Brittany</string>
             <string>Burgundy-Franche-Comté</string>
@@ -56,7 +56,7 @@
             <string>Normandy</string>
           </Values>
         </NameGroup>
-      </States>
+      </Regions>
       <Cities>
         <NameGroup>
           <Name>Cities - France</Name>

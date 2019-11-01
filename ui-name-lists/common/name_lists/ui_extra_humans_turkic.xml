@@ -3,19 +3,19 @@
   <NameList>
     <Id>ui_extra_humans_turkic</Id>
     <Name>UI - Humans - Turkic</Name>
-    <Nationalities>
+    <Denonyms>
       <NameGroup>
-        <Name>Nationalities - English Names</Name>
+        <Name>Denonyms</Name>
         <Values>
             <string>Turk</string>
             <string>Turkmen</string>
         </Values>
       </NameGroup>
-    </Nationalities>
+    </Denonyms>
     <Places>
       <Countries>
         <NameGroup>
-          <Name>Countries - English names</Name>
+          <Name>Countries</Name>
           <Values>
             <string>Turkey</string>
             <string>Turkmenistan</string>

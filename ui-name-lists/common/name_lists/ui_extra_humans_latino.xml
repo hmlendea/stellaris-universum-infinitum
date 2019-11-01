@@ -3,9 +3,9 @@
   <NameList>
     <Id>ui_extra_humans_latino</Id>
     <Name>UI - Humans - Latino</Name>
-    <Nationalities>
+    <Denonyms>
       <NameGroup>
-        <Name>Nationalities - English Names</Name>
+        <Name>Denonyms</Name>
         <Values>
             <string>Argentinian</string>
             <string>Brazilian</string>
@@ -18,11 +18,11 @@
             <string>Venezuelan</string>
         </Values>
       </NameGroup>
-    </Nationalities>
+    </Denonyms>
     <Places>
       <Countries>
         <NameGroup>
-          <Name>Countries - English names</Name>
+          <Name>Countries</Name>
           <Values>
             <string>Argentina</string>
             <string>Brazil</string>
@@ -41,9 +41,9 @@
           </Values>
         </NameGroup>
       </Countries>
-      <States>
+      <Regions>
         <NameGroup>
-          <Name>States - Mexico</Name>
+          <Name>Regions -Mexico</Name>
           <Values>
             <string>Aguascalientes</string>
             <string>Baja</string>
@@ -77,7 +77,7 @@
           </Values>
         </NameGroup>
         <NameGroup>
-          <Name>States - Spain</Name>
+          <Name>Regions -Spain</Name>
           <Values>
             <string>Andalusia</string>
             <string>Aragon</string>
@@ -94,7 +94,7 @@
             <string>Valencia</string>
           </Values>
         </NameGroup>
-      </States>
+      </Regions>
       <Cities>
         <NameGroup>
           <Name>Cities - Argentina</Name>

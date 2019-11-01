@@ -3,24 +3,24 @@
   <NameList>
     <Id>ui_extra_humans_roman</Id>
     <Name>UI - Humans - Roman</Name>
-    <Nationalities>
+    <Denonyms>
       <NameGroup>
-        <Name>Denonyms - English Names</Name>
+        <Name>Denonyms</Name>
         <Values>
           <string>Roman</string>
         </Values>
       </NameGroup>
-    </Nationalities>
+    </Denonyms>
     <Places>
       <Countries>
         <NameGroup>
-          <Name>Countries - English names</Name>
+          <Name>Countries</Name>
           <Values>
             <string>Rome</string>
           </Values>
         </NameGroup>
       </Countries>
-      <States>
+      <Regions>
         <NameGroup>
           <Name>Regions - Rome</Name>
           <Values>
@@ -85,13 +85,13 @@
             <string>Thracia</string>
           </Values>
         </NameGroup>
-      </States>
+      </Regions>
       <Cities>
         <NameGroup>
           <Name>Cities - Rome</Name>
           <Values>
             <string>Alexandria</string>
-            <string>Antiochia</string>
+            <string>Antioch</string>
             <string>Apulum</string>
             <string>Aquileia</string>
             <string>Argentoratum</string>
@@ -131,6 +131,13 @@
             <string>Trapezus</string>
             <string>Turicum</string>
             <string>Vindobona</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Cities - Rome - Endonyms</Name>
+          <Values>
+            <string>Antiochia</string>
+            <string>Roma</string>
           </Values>
         </NameGroup>
       </Cities>
@@ -243,14 +250,15 @@
       </Cruiser>
       <Battleship>
         <NameGroup>
-          <Name></Name>
+          <Name>Persons - Leaders - Roman</Name>
           <Values>
+            <string>Nero</string>
           </Values>
         </NameGroup>
       </Battleship>
       <Titan>
         <NameGroup>
-          <Name>Leaders -  Roman</Name>
+          <Name>Persons - Leaders -  Roman</Name>
           <Values>
             <string>Imperator Augustus</string>
             <string>Julius Caesar</string>

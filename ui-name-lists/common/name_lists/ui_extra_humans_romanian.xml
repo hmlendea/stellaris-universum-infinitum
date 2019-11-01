@@ -3,7 +3,7 @@
   <NameList>
     <Id>ui_extra_humans_romanian</Id>
     <Name>UI - Human - Romanian</Name>
-    <Nationalities>
+    <Denonyms>
       <NameGroup>
         <Name>Denonyms</Name>
         <Values>
@@ -25,7 +25,7 @@
           <string>Vlah</string>
         </Values>
       </NameGroup>
-    </Nationalities>
+    </Denonyms>
     <Places>
       <Countries>
         <NameGroup>
@@ -36,7 +36,7 @@
           </Values>
         </NameGroup>
       </Countries>
-      <States>
+      <Regions>
         <NameGroup>
           <Name>Regions - Romania - Endonyms</Name>
           <Values>
@@ -65,7 +65,7 @@
             <string>Valahia</string>
           </Values>
         </NameGroup>
-      </States>
+      </Regions>
       <Cities>
         <NameGroup>
           <Name>Cities - Romania</Name>

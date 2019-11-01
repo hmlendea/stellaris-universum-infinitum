@@ -3,14 +3,14 @@
   <NameList>
     <Id>ui_extra_humans_persian</Id>
     <Name>UI - Humans - Persian</Name>
-    <Nationalities>
+    <Denonyms>
       <NameGroup>
-        <Name>Nationalities - English Names</Name>
+        <Name>Denonyms</Name>
         <Values>
           <string>Iranian</string>
         </Values>
       </NameGroup>
-    </Nationalities>
+    </Denonyms>
     <Weapons>
       <NameGroup>
         <Name></Name>
@@ -64,8 +64,9 @@
       </Cruiser>
       <Battleship>
         <NameGroup>
-          <Name></Name>
+          <Name>Persons - Leaders - Persian</Name>
           <Values>
+            <string>Xerxes</string>
           </Values>
         </NameGroup>
       </Battleship>

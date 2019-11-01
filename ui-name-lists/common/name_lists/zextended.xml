@@ -8,72 +8,19 @@
         <NameGroup>
           <Name>zzz EXTENDED</Name>
           <Values>
-            <string>Mars</string>
-            <string>Iuppiter</string>
-            <string>Iupiter</string>
-            <string>Minerva</string>
-            <string>Isis</string>
-            <string>Iuno</string>
-            <string>Neptunus</string>
-            <string>Venus</string>
-            <string>Bellona</string>
-            <string>Ianus</string>
-            <string>Vesta</string>
-            <string>Quirinus</string>
-            <string>Ceres</string>
-            <string>Liber</string>
-            <string>Libera</string>
-            <string>Liber Pater</string>
-            <string>Diana</string>
-            <string>Mercurius</string>
-            <string>Vulcanus</string>
-            <string>Vulcan</string>
-            <string>Carmentis</string>
-            <string>Falacer</string>
-            <string>Flora</string>
-            <string>Furrina</string>
-            <string>Palatua</string>
-            <string>Pomona</string>
-            <string>Portunes</string>
-            <string>Volturnus</string>
-            <string>Saturnus</string>
-            <string>Genius</string>
-            <string>Sol</string>
-            <string>Terra</string>
-            <string>Tellus</string>
-            <string>Tellumo</string>
-            <string>Tellurus</string>
-            <string>Terra Mater</string>
-            <string>Tellus Mater</string>
-            <string>Orcus</string>
-            <string>Luna</string>
-            <string>Feronia</string>
-            <string>Novensides</string>
-            <string>Pales</string>
-            <string>Salus</string>
-            <string>Fons</string>
-            <string>Fides</string>
-            <string>Ops</string>
-            <string>Flora</string>
-            <string>Vdeiovis</string>
-            <string>Summanus</string>
-            <string>Larunda</string>
-            <string>Terminus</string>
-            <string>Vortummus</string>
-            <string>Lares</string>
-            <string>Lucina</string>
             <string>Abundantia</string>
             <string>Acca Larentia</string>
             <string>Acis</string>
-            <string>Aerecura</string>
+            <string>Adventurous</string>
+            <string>Aeneas</string>
             <string>Aequitas</string>
+            <string>Aerecura</string>
             <string>Aesculapius</string>
             <string>Aeternitas</string>
             <string>Aion</string>
             <string>Aius Locutius</string>
+            <string>Albatross</string>
             <string>Alernus</string>
-            <string>Elernus</string>
-            <string>Helernus</string>
             <string>Angerona</string>
             <string>Angitia</string>
             <string>Anna Perenna</string>
@@ -83,75 +30,131 @@
             <string>Arimanius</string>
             <string>Aura</string>
             <string>Aurora</string>
+            <string>Austrian</string>
             <string>Averruncus</string>
             <string>Bacchus</string>
+            <string>Barbarous</string>
+            <string>Belgian</string>
+            <string>Bellona</string>
             <string>Bona Dea</string>
             <string>Bonus Eventus</string>
             <string>Bubona</string>
+            <string>Butcher</string>
             <string>Caca</string>
             <string>Cacus</string>
             <string>Caelus</string>
             <string>Camenae</string>
+            <string>Captain Alex</string>
             <string>Cardea</string>
             <string>Carmenta</string>
             <string>Carmentes</string>
+            <string>Carmentis</string>
             <string>Carna</string>
+            <string>Ceres</string>
             <string>Clementia</string>
             <string>Cloacina</string>
+            <string>Concordia</string>
             <string>Consus</string>
             <string>Cupid</string>
             <string>Cura</string>
             <string>Cybele</string>
+            <string>Dacicus</string>
             <string>Dea Dia</string>
             <string>Decima</string>
             <string>Devera</string>
             <string>Deverra</string>
-            <string>Diana Nemorensis</string>
-            <string>Dius Fidius</string>
             <string>Di Inferni</string>
-            <string>Fontus</string>
-            <string>Fufluns</string>
+            <string>Di Penates</string>
+            <string>Diana Nemorensis</string>
+            <string>Diana</string>
             <string>Dis Pater</string>
+            <string>Disciplina</string>
+            <string>Discordia</string>
             <string>Dispater</string>
+            <string>Dius Fidius</string>
+            <string>Doge</string>
+            <string>Dutch</string>
+            <string>Edelweiss</string>
+            <string>Edesia</string>
             <string>Egeria</string>
+            <string>Elernus</string>
             <string>Empanda</string>
             <string>Epona</string>
-            <string>Edesia</string>
+            <string>Falacer</string>
             <string>Fama</string>
             <string>Fascinus</string>
             <string>Fauna</string>
             <string>Faunus</string>
             <string>Faustitas</string>
-            <string>Februus</string>
             <string>Febris</string>
+            <string>Februus</string>
             <string>Fecunditas</string>
             <string>Felicitas</string>
             <string>Ferentina</string>
+            <string>Feronia</string>
+            <string>Fides</string>
+            <string>Flora</string>
+            <string>Fons</string>
+            <string>Fontus</string>
             <string>Fornax</string>
+            <string>Fortuna</string>
+            <string>Fufluns</string>
             <string>Fulgora</string>
             <string>Furrina</string>
+            <string>Genius</string>
+            <string>German</string>
+            <string>Ghostship</string>
+            <string>Glass</string>
+            <string>Gnome's Promise</string>
             <string>Gratiae</string>
+            <string>Hangman</string>
+            <string>Helernus</string>
+            <string>Hercules</string>
+            <string>Hermaphroditus</string>
+            <string>Honos</string>
             <string>Hora</string>
+            <string>Ianus</string>
+            <string>Indiges</string>
+            <string>Inebriated</string>
             <string>Intercidona</string>
             <string>Inuus</string>
+            <string>Invidia</string>
+            <string>Isis</string>
+            <string>Iuno</string>
+            <string>Iupiter</string>
+            <string>Iuppiter</string>
             <string>Iustitia</string>
+            <string>Jonah</string>
             <string>Juturna</string>
             <string>Juventas</string>
-            <string>Laverna</string>
+            <string>Kekistan</string>
+            <string>Lady Lumbridge</string>
+            <string>Lady Zay</string>
+            <string>Lady of the Waves</string>
+            <string>Lares</string>
+            <string>Larunda</string>
             <string>Latona</string>
+            <string>Laverna</string>
             <string>Lemures</string>
-            <string>Levana</string>
             <string>Letum</string>
+            <string>Levana</string>
+            <string>Liber Pater</string>
+            <string>Liber</string>
+            <string>Libera</string>
+            <string>Liberalitas</string>
+            <string>Libertas</string>
             <string>Libitina</string>
             <string>Lua</string>
             <string>Lucifer</string>
             <string>Lucina</string>
+            <string>Luna</string>
             <string>Lupercus</string>
             <string>Lympha</string>
             <string>Mana Genita</string>
             <string>Manes</string>
             <string>Mania</string>
             <string>Mantus</string>
+            <string>Mars</string>
             <string>Mater Matuta</string>
             <string>Meditrina</string>
             <string>Mefitis</string>
@@ -159,6 +162,8 @@
             <string>Mellonia</string>
             <string>Mena</string>
             <string>Mene</string>
+            <string>Mercurius</string>
+            <string>Minerva</string>
             <string>Mithras</string>
             <string>Molae</string>
             <string>Moneta</string>
@@ -166,54 +171,83 @@
             <string>Morta</string>
             <string>Murcia</string>
             <string>Murtia</string>
-            <string>Pietas</string>
             <string>Mutunus Tutunus</string>
             <string>Naenia</string>
             <string>Nascio</string>
             <string>Necessitas</string>
             <string>Nemesis</string>
+            <string>Neptunus</string>
             <string>Nerio</string>
             <string>Neverita</string>
-            <string>Nixi</string>
             <string>Nixae</string>
+            <string>Nixi</string>
             <string>Nona</string>
             <string>Nortia</string>
+            <string>Novensides</string>
             <string>Nox</string>
+            <string>Oceanus</string>
             <string>Opis</string>
+            <string>Ops</string>
+            <string>Orcus</string>
+            <string>Palatua</string>
+            <string>Pales</string>
             <string>Parcae</string>
             <string>Pax</string>
             <string>Penates</string>
-            <string>Di Penates</string>
+            <string>Pepe the Frog</string>
             <string>Picumnus</string>
             <string>Picus</string>
+            <string>Pietas</string>
             <string>Pilumnus</string>
             <string>Pluto</string>
             <string>Poena</string>
+            <string>Pomona</string>
             <string>Porrima</string>
+            <string>Portunes</string>
             <string>Postverta</string>
             <string>Priapus</string>
             <string>Proserpina</string>
             <string>Providentia</string>
             <string>Pudicitia</string>
             <string>Querquetulanae</string>
+            <string>Quirinus</string>
             <string>Quiritis</string>
+            <string>Reaver</string>
+            <string>Rhenus</string>
+            <string>Rick Roll</string>
             <string>Robigo</string>
             <string>Robigus</string>
             <string>Roma</string>
             <string>Rumina</string>
             <string>Salacia</string>
+            <string>Salamina</string>
+            <string>Salus</string>
             <string>Sancus</string>
+            <string>Saturnus</string>
+            <string>Saucy Wench</string>
+            <string>Seahound</string>
+            <string>Securitas</string>
             <string>Silvanus</string>
             <string>Sol Invictus</string>
+            <string>Sol</string>
             <string>Somnus</string>
             <string>Soranus</string>
             <string>Sors</string>
             <string>Spes</string>
             <string>Stata Mater</string>
-            <string>Sterquilinus" Suadela</string>
-            <string>Summanus</string>
+            <string>Sterquilinus</string>
+            <string>Suadela</string>
             <string>Sulis Minerva</string>
+            <string>Summanus</string>
+            <string>Swiss</string>
+            <string>Tellumo</string>
+            <string>Tellurus</string>
+            <string>Tellus Mater</string>
+            <string>Tellus</string>
             <string>Tempestas</string>
+            <string>Terminus</string>
+            <string>Terra Mater</string>
+            <string>Terra</string>
             <string>Tiberinus</string>
             <string>Tibertus</string>
             <string>Tranquilitas</string>
@@ -222,65 +256,32 @@
             <string>Unxia</string>
             <string>Vacuna</string>
             <string>Vagitanus</string>
+            <string>Vandal</string>
             <string>Vaticanus</string>
+            <string>Vdeiovis</string>
             <string>Vediovus</string>
             <string>Veiovis</string>
-            <string>Venilia</string>
             <string>Venelia</string>
+            <string>Venilia</string>
             <string>Venti</string>
+            <string>Venus</string>
             <string>Veritas</string>
             <string>Verminus</string>
-            <string>Vertumnus</string>
-            <string>Vortumnus</string>
             <string>Vertimnus</string>
+            <string>Vertumnus</string>
+            <string>Vesta</string>
             <string>Vica Pota</string>
             <string>Victoria</string>
-            <string>Viduus" "Virbius</string>
-            <string>Virtus" "Volturnus</string>
-            <string>Voluptas" "Viking</string>
-            <string>Swiss" "German</string>
-            <string>Austrian" "Belgian</string>
-            <string>Dutch" "Vandal</string>
-            <string>Hercules</string>
-            <string>Aeneas</string>
-            <string>Indiges</string>
-            <string>Hermaphroditus</string>
-            <string>Rhenus</string>
-            <string>Oceanus</string>
-            <string>Pax</string>
-            <string>Fides</string>
-            <string>Victoria</string>
-            <string>Concordia</string>
-            <string>Discordia</string>
-            <string>Disciplina</string>
-            <string>Fortuna</string>
-            <string>Honos</string>
-            <string>Invidia</string>
-            <string>Liberalitas</string>
-            <string>Libertas</string>
-            <string>Securitas</string>
-            <string>Dacicus</string>
-            <string>Salamina</string>
-            <string>Lady Lumbridge</string>
-            <string>Lady Zay</string>
-            <string>Lady of</string>
-            <string>the</string>
-            <string>Waves</string>
-            <string>Adventurous" "Inebriated</string>
-            <string>Barbarous" "Gnome's</string>
-            <string>Promise</string>
-            <string>Glass" "Hangman</string>
-            <string>Jonah" "Reaver</string>
-            <string>Saucy Wench</string>
-            <string>Seahound" "Albatross</string>
-            <string>Edelweiss" "Ghostship</string>
-            <string>Butcher" "Pepe</string>
-            <string>the</string>
-            <string>Frog</string>
-            <string>Kekistan</string>
-            <string>Captain Alex</string>
-            <string>Doge</string>
-            <string>Rick Roll</string>
+            <string>Viduus</string>
+            <string>Viking</string>
+            <string>Virbius</string>
+            <string>Virtus</string>
+            <string>Volturnus</string>
+            <string>Voluptas</string>
+            <string>Vortummus</string>
+            <string>Vortumnus</string>
+            <string>Vulcan</string>
+            <string>Vulcanus</string>
           </Values>
         </NameGroup>
       </Generic>
