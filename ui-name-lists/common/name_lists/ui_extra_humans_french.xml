@@ -11,48 +11,46 @@
         </Values>
       </NameGroup>
     </Denonyms>
-    <Weapons>
-      <NameGroup>
-        <Name></Name>
-        <Values>
-        </Values>
-      </NameGroup>
-    </Weapons>
     <Places>
       <Countries>
         <NameGroup>
-          <Name></Name>
+          <Name>Countries</Name>
           <Values>
+            <string>France</string>
           </Values>
         </NameGroup>
       </Countries>
       <Regions>
         <NameGroup>
-          <Name>Regions -France - French names</Name>
+          <Name>Regions - France - French names</Name>
           <Values>
-            <string>Auvergne-Rhône-Alpes</string>
-            <string>Bourgogne-Franche-Comté</string>
+            <string>Alpes</string>
+            <string>Auvergne</string>
+            <string>Bourgogne</string>
             <string>Bretagne</string>
             <string>Centre-Val de Loire</string>
+            <string>Comté</string>
             <string>Corse</string>
+            <string>Côte d'Azur</string>
+            <string>Franche</string>
             <string>Grand Est</string>
             <string>Hauts-de-France</string>
             <string>Île-de-France</string>
             <string>Normandie</string>
-            <string>Nouvelle-Aquitaine</string>
+            <string>Aquitaine</string>
             <string>Occitanie</string>
             <string>Pays de la Loire</string>
-            <string>Provence-Alpes-Côte d'Azur</string>
+            <string>Provence</string>
+            <string>Rhône</string>
           </Values>
         </NameGroup>
         <NameGroup>
-          <Name>Regions -France - English names</Name>
+          <Name>Regions - France - English names</Name>
           <Values>
             <string>Brittany</string>
-            <string>Burgundy-Franche-Comté</string>
+            <string>Burgundy</string>
             <string>Corsica</string>
             <string>Great East</string>
-            <string>New Aquitaine</string>
             <string>Normandy</string>
           </Values>
         </NameGroup>
@@ -88,19 +86,41 @@
         </NameGroup>
       </Cities>
     </Places>
-    <Ships>
-      <Generic />
-      <Corvette>
+    <Warfare>
+      <Weapons>
         <NameGroup>
-          <Name>Persons - Heroes</Name>
+          <Name>Crossbows - French</Name>
           <Values>
-            <string>Jeanne Fourquet</string>
-            <string>Jeanne Hachette</string>
-            <string>Jeanne Laisné</string>
+            <string>Arbalest</string>
           </Values>
         </NameGroup>
+      </Weapons>
+      <MilitaryUnitTypes>
         <NameGroup>
-          <Name>Persons - Military</Name>
+          <Name>Military unit types - French</Name>
+          <Values>
+            <string>Arbalester</string>
+          </Values>
+        </NameGroup>
+      </MilitaryUnitTypes>
+      <BattleLocations>
+        <NameGroup>
+          <Name>Battle locations - France</Name>
+          <Values>
+            <string>Belleau Wood</string>
+          </Values>
+        </NameGroup>
+      </BattleLocations>
+      <BattleLocations>
+        <NameGroup>
+          <Name>Battle locations - </Name>
+          <Values>
+          </Values>
+        </NameGroup>
+      </BattleLocations>
+      <MilitaryPeopleTier1>
+        <NameGroup>
+          <Name>Persons - Military - French</Name>
           <Values>
             <string>Clostermann</string>
             <string>Fonck</string>
@@ -111,10 +131,22 @@
           </Values>
         </NameGroup>
         <NameGroup>
-          <Name>Persons - Military - Belgium</Name>
+          <Name>Persons - Military - Belgian</Name>
           <Values>
             <string>Coppens</string>
             <string>Willy Coppens</string>
+          </Values>
+        </NameGroup>
+      </MilitaryPeopleTier1>
+    </Warfare>
+    <Ships>
+      <Corvette>
+        <NameGroup>
+          <Name>Persons - Heroes</Name>
+          <Values>
+            <string>Jeanne Fourquet</string>
+            <string>Jeanne Hachette</string>
+            <string>Jeanne Laisné</string>
           </Values>
         </NameGroup>
       </Corvette>
@@ -174,15 +206,25 @@
       </Generic>
     </ShipClasses>
     <Stations>
-        <MilitaryStations>
+      <MilitaryStations>
         <Generic>
-            <NameGroup>
-                <Name></Name>
-                <Values>
-                </Values>
-            </NameGroup>
+          <NameGroup>
+            <Name></Name>
+            <Values>
+            </Values>
+          </NameGroup>
         </Generic>
-        </MilitaryStations>
+      </MilitaryStations>
+      <Starbases>
+        <Starports>
+          <NameGroup>
+            <Name>Airports - France</Name>
+            <Values>
+              <string>Charles de Gaulle</string>
+            </Values>
+          </NameGroup>
+        </Starports>
+      </Starbases>
     </Stations>
     <Armies>
       <Fleet>
@@ -211,62 +253,14 @@
           </Values>
         </NameGroup>
       </Generic>
-      <Desert>
+      <Gaia>
         <NameGroup>
-          <Name></Name>
+          <Name>Mythology - Places - French</Name>
           <Values>
+            <string>Agartha</string>
           </Values>
         </NameGroup>
-      </Desert>
-      <Continental>
-        <NameGroup>
-          <Name></Name>
-          <Values>
-          </Values>
-        </NameGroup>
-      </Continental>
-      <Ocean>
-        <NameGroup>
-          <Name></Name>
-          <Values>
-          </Values>
-        </NameGroup>
-      </Ocean>
-      <Tundra>
-        <NameGroup>
-          <Name></Name>
-          <Values>
-          </Values>
-        </NameGroup>
-      </Tundra>
-      <Arctic>
-        <NameGroup>
-          <Name></Name>
-          <Values>
-          </Values>
-        </NameGroup>
-      </Arctic>
-      <Tomb>
-        <NameGroup>
-          <Name></Name>
-          <Values>
-          </Values>
-        </NameGroup>
-      </Tomb>
-      <Alpine>
-        <NameGroup>
-          <Name></Name>
-          <Values>
-          </Values>
-        </NameGroup>
-      </Alpine>
-      <Molten>
-        <NameGroup>
-          <Name></Name>
-          <Values>
-          </Values>
-        </NameGroup>
-      </Molten>
+      </Gaia>
     </Planets>
     <Characters>
       <CharacterNames>

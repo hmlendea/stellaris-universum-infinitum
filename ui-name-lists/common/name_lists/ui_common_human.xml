@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NameList>
+    <Id>ui_common_human</Id>
+    <Name>UI - Common - Human</Name>
+    <Ships>
+      <Corvette>
+        <NameGroup>
+          <Name></Name>
+          <Values>
+          </Values>
+        </NameGroup>
+      </Corvette>
+      <Destroyer>
+        <NameGroup>
+          <Name></Name>
+          <Values>
+          </Values>
+        </NameGroup>
+      </Destroyer>
+      <Cruiser>
+        <NameGroup>
+          <Name></Name>
+          <Values>
+          </Values>
+        </NameGroup>
+      </Cruiser>
+      <Battleship>
+        <NameGroup>
+          <Name></Name>
+          <Values>
+          </Values>
+        </NameGroup>
+      </Battleship>
+      <Science>
+        <NameGroup>
+          <Name></Name>
+          <Values>
+          </Values>
+        </NameGroup>
+      </Science>
+      <Coloniser>
+        <NameGroup>
+          <Name></Name>
+          <Values>
+          </Values>
+        </NameGroup>
+      </Coloniser>
+    </Ships>
+    <Stations>
+      <MilitaryStations>
+        <Generic>
+          <NameGroup>
+            <Name></Name>
+            <Values>
+            </Values>
+          </NameGroup>
+        </Generic>
+      </MilitaryStations>
+      <Starbases>
+        <Outpost>
+          <NameGroup>
+            <Name>Outposts - FantasyNameGenerator</Name>
+            <Values>
+              <string>Dire Post</string>
+              <string>Direstar Point</string>
+              <string>Gloom Station</string>
+              <string>Razor Watch</string>
+              <string>Starbreeze Outpost</string>
+              <string>Starwatch Outpost</string>
+              <string>Storm Haven</string>
+            </Values>
+          </NameGroup>
+        </Outpost>
+      </Starbases>
+      <ResearchStations>
+        <NameGroup>
+          <Name></Name>
+          <Values>
+          </Values>
+        </NameGroup>
+      </ResearchStations>
+    </Stations>
+    <Armies>
+      <Fleet>
+        <NameGroup>
+          <Name></Name>
+          <Values>
+          </Values>
+        </NameGroup>
+      </Fleet>
+    </Armies>
+  </NameList>
+</ArrayOfNameList>

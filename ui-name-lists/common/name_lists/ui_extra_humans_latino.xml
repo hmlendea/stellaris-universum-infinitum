@@ -7,15 +7,15 @@
       <NameGroup>
         <Name>Denonyms</Name>
         <Values>
-            <string>Argentinian</string>
-            <string>Brazilian</string>
-            <string>Colombian</string>
-            <string>Cuban</string>
-            <string>Mexican</string>
-            <string>Peruvian</string>
-            <string>Portuguese</string>
-            <string>Spanish</string>
-            <string>Venezuelan</string>
+          <string>Argentinian</string>
+          <string>Brazilian</string>
+          <string>Colombian</string>
+          <string>Cuban</string>
+          <string>Mexican</string>
+          <string>Peruvian</string>
+          <string>Portuguese</string>
+          <string>Spanish</string>
+          <string>Venezuelan</string>
         </Values>
       </NameGroup>
     </Denonyms>
@@ -246,6 +246,12 @@
           </Values>
         </NameGroup>
         <NameGroup>
+          <Name>Rivers - Paraguay</Name>
+          <Values>
+            <string>Rio Paraguay</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
           <Name>Rivers - Venezuela</Name>
           <Values>
             <string>Orinoco</string>
@@ -253,44 +259,53 @@
         </NameGroup>
       </Rivers>
     </Places>
-    <Weapons>
-      <NameGroup>
-        <Name>Swords - Iberia</Name>
-        <Values>
-            <string>Falcata</string>
-        </Values>
-      </NameGroup>
-    </Weapons>
-    <MilitaryUnitTypes>
-      <NameGroup>
-        <Name>Military Unit Types - Mexican</Name>
-        <Values>
-          <string>Luchador</string>
-        </Values>
-      </NameGroup>
-      <NameGroup>
-        <Name>Military Unit Types - Portuguese</Name>
-        <Values>
-          <string>Caravel</string>
-        </Values>
-      </NameGroup>
-      <NameGroup>
-        <Name>Military Unit Types - Spanish</Name>
-        <Values>
-          <string>Conquistador</string>
-        </Values>
-      </NameGroup>
-    </MilitaryUnitTypes>
-    <Ships>
-      <Generic />
-      <Corvette>
+    <Warfare>
+      <Weapons>
+        <NameGroup>
+          <Name>Swords - Iberia</Name>
+          <Values>
+              <string>Falcata</string>
+          </Values>
+        </NameGroup>
+      </Weapons>
+      <MilitaryUnitTypes>
+        <NameGroup>
+          <Name>Military Unit Types - Mexican</Name>
+          <Values>
+            <string>Luchador</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Military Unit Types - Portuguese</Name>
+          <Values>
+            <string>Caravel</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Military Unit Types - Spanish</Name>
+          <Values>
+            <string>Conquistador</string>
+            <string>Tercio</string>
+          </Values>
+        </NameGroup>
+      </MilitaryUnitTypes>
+      <BattleLocations>
+        <NameGroup>
+          <Name>Battle locations - </Name>
+          <Values>
+          </Values>
+        </NameGroup>
+      </BattleLocations>
+      <MilitaryPeopleTier1>
         <NameGroup>
           <Name>Persons - Military - Mexican</Name>
           <Values>
             <string>Juan Valdivia</string>
           </Values>
         </NameGroup>
-      </Corvette>
+      </MilitaryPeopleTier1>
+    </Warfare>
+    <Ships>
       <Destroyer>
         <NameGroup>
           <Name></Name>
@@ -415,13 +430,31 @@
           </Values>
         </NameGroup>
       </Desert>
+      <Arid>
+        <NameGroup>
+          <Name>Places - Grand Theft Auto</Name>
+          <Values>
+            <string>Las Venturas</string>
+          </Values>
+        </NameGroup>
+      </Arid>
       <Continental>
         <NameGroup>
-          <Name></Name>
+          <Name>Places - Grand Theft Auto</Name>
           <Values>
+            <string>San Fierro</string>
+            <string>Los Santos</string>
           </Values>
         </NameGroup>
       </Continental>
+      <Gaia>
+        <NameGroup>
+          <Name>Mythology - Places - Hispanic</Name>
+          <Values>
+            <string>El Dorado</string>
+          </Values>
+        </NameGroup>
+      </Gaia>
       <Ocean>
         <NameGroup>
           <Name></Name>

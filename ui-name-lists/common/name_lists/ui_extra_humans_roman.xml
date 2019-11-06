@@ -149,75 +149,77 @@
         </NameGroup>
       </Seas>
     </Places>
-    <Weapons>
-      <NameGroup>
-        <Name>Swords - Roman</Name>
-        <Values>
-          <string>Gladius</string>
-          <string>Spatha</string>
-        </Values>
-      </NameGroup>
-      <NameGroup>
-        <Name>Daggers - Roman</Name>
-        <Values>
-          <string>Pugio</string>
-        </Values>
-      </NameGroup>
-      <NameGroup>
-        <Name>Spears - Roman</Name>
-        <Values>
-          <string>Hasta</string>
-          <string>Spiculum</string>
-        </Values>
-      </NameGroup>
-      <NameGroup>
-        <Name>Javelin - Roman</Name>
-        <Values>
-          <string>Lancea</string>
-          <string>Verutum</string>
-        </Values>
-      </NameGroup>
-      <NameGroup>
-        <Name>Arrows - Roman</Name>
-        <Values>
-          <string>Plumbata</string>
-        </Values>
-      </NameGroup>
-      <NameGroup>
-        <Name>Siege - Roman</Name>
-        <Values>
-          <string>Ballista</string>
-          <string>Scorpio</string>
-        </Values>
-      </NameGroup>
-    </Weapons>
-    <MilitaryUnitTypes>
-      <NameGroup>
-        <Name>Military Unit Types - Roman</Name>
-        <Values>
-          <string>Aeneator</string>
-          <string>Aquilifer</string>
-          <string>Bucinator</string>
-          <string>Centurion</string>
-          <string>Cornicen</string>
-          <string>Draconarius</string>
-          <string>Legion</string>
-          <string>Legionaire</string>
-          <string>Legionarius</string>
-          <string>Signifier</string>
-          <string>Tablifer</string>
-          <string>Tubicen</string>
-          <string>Vexillarius</string>
-        </Values>
-      </NameGroup>
-      <NameGroup>
-        <Name>Military Unit Types - Roman (Byzantine)</Name>
-        <Values>
-          <string>Cataphract</string>
-          <string>Varangian</string>
-        </Values>
-      </NameGroup>
-    </MilitaryUnitTypes>
+    <Warfare>
+      <Weapons>
+        <NameGroup>
+          <Name>Swords - Roman</Name>
+          <Values>
+            <string>Gladius</string>
+            <string>Spatha</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Daggers - Roman</Name>
+          <Values>
+            <string>Pugio</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Spears - Roman</Name>
+          <Values>
+            <string>Hasta</string>
+            <string>Spiculum</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Javelins - Roman</Name>
+          <Values>
+            <string>Lancea</string>
+            <string>Verutum</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Arrows - Roman</Name>
+          <Values>
+            <string>Plumbata</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Siege - Roman</Name>
+          <Values>
+            <string>Ballista</string>
+            <string>Scorpio</string>
+          </Values>
+        </NameGroup>
+      </Weapons>
+      <MilitaryUnitTypes>
+        <NameGroup>
+          <Name>Military Unit Types - Roman</Name>
+          <Values>
+            <string>Aeneator</string>
+            <string>Aquilifer</string>
+            <string>Bucinator</string>
+            <string>Centurion</string>
+            <string>Cornicen</string>
+            <string>Draconarius</string>
+            <string>Legion</string>
+            <string>Legionaire</string>
+            <string>Legionarius</string>
+            <string>Signifier</string>
+            <string>Tablifer</string>
+            <string>Tubicen</string>
+            <string>Vexillarius</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Military Unit Types - Roman (Byzantine)</Name>
+          <Values>
+            <string>Cataphract</string>
+            <string>Varangian</string>
+          </Values>
+        </NameGroup>
+      </MilitaryUnitTypes>
+    </Warfare>
     <MythologicalCreatures>
       <NameGroup>
         <Name>Mythological Creatures - Roman</Name>
@@ -319,12 +321,20 @@
           </Values>
         </NameGroup>
       </Fleet>
+      <DefenceArmy>
+        <NameGroup>
+          <Name>Defence armies - Roman</Name>
+          <Values>
+            <string>Praetorian Guard</string>
+          </Values>
+        </NameGroup>
+      </DefenceArmy>
     </Armies>
     <Planets>
       <Generic>
         <NameGroup>
-          <Name></Name>
           <Values>
+            <string>Colonia</string>
           </Values>
         </NameGroup>
       </Generic>

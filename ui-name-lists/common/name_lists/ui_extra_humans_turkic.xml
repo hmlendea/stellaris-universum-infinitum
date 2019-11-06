@@ -8,6 +8,7 @@
         <Name>Denonyms</Name>
         <Values>
             <string>Turk</string>
+            <string>Turkish</string>
             <string>Turkmen</string>
         </Values>
       </NameGroup>
@@ -33,22 +34,25 @@
         </NameGroup>
       </Cities>
     </Places>
-    <Weapons>
-      <NameGroup>
-        <Name>Swords - Turk</Name>
-        <Values>
-          <string>Yatagan</string>
-        </Values>
-      </NameGroup>
-    </Weapons>
-    <MilitaryUnitTypes>
-      <NameGroup>
-        <Name>Military Unit Types - Turk</Name>
-        <Values>
-          <string>Janissary</string>
-        </Values>
-      </NameGroup>
-    </MilitaryUnitTypes>
+    <Warfare>
+      <Weapons>
+        <NameGroup>
+          <Name>Swords - Turk</Name>
+          <Values>
+            <string>Yatagan</string>
+          </Values>
+        </NameGroup>
+      </Weapons>
+      <MilitaryUnitTypes>
+        <NameGroup>
+          <Name>Military Unit Types - Turk</Name>
+          <Values>
+            <string>Janissary</string>
+            <string>Sipahi</string>
+          </Values>
+        </NameGroup>
+      </MilitaryUnitTypes>
+    </Warfare>
     <Ships>
       <Generic />
       <Corvette>

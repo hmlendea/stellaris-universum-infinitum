@@ -86,31 +86,50 @@
         </NameGroup>
       </Seas>
     </Places>
-    <Weapons>
-      <NameGroup>
-        <Name>Swords - Greek</Name>
-        <Values>
-          <string>Makihara</string>
-          <string>Xiphos</string>
-        </Values>
-      </NameGroup>
-      <NameGroup>
-        <Name>Daggers - Greek</Name>
-        <Values>
-          <string>Kopis</string>
-        </Values>
-      </NameGroup>
-    </Weapons>
-    <MilitaryUnitTypes>
-      <NameGroup>
-        <Name>Military Unit Types - Greek</Name>
-        <Values>
-          <string>Hoplite</string>
-          <string>Cataphract</string>
-          <string>Varangian</string>
-        </Values>
-      </NameGroup>
-    </MilitaryUnitTypes>
+    <Warfare>
+      <Weapons>
+        <NameGroup>
+          <Name>Swords - Greek</Name>
+          <Values>
+            <string>Makihara</string>
+            <string>Xiphos</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Daggers - Greek</Name>
+          <Values>
+            <string>Kopis</string>
+          </Values>
+        </NameGroup>
+      </Weapons>
+      <MilitaryUnitTypes>
+        <NameGroup>
+          <Name>Military Unit Types - Greek</Name>
+          <Values>
+            <string>Cataphract</string>
+            <string>Hoplite</string>
+            <string>Phalanx</string>
+            <string>Varangian</string>
+          </Values>
+        </NameGroup>
+      </MilitaryUnitTypes>
+      <BattleLocations>
+        <NameGroup>
+          <Name>Battle locations - </Name>
+          <Values>
+          </Values>
+        </NameGroup>
+      </BattleLocations>
+      <MilitaryPeopleTier1>
+        <NameGroup>
+          <Name>Persons - Military - Greek</Name>
+          <Values>
+            <string>Marinos Mitralexis</string>
+            <string>Mitralexis</string>
+          </Values>
+        </NameGroup>
+      </MilitaryPeopleTier1>
+    </Warfare>
     <MythologicalCreatures>
       <NameGroup>
         <Name>Mythological Creatures - Greek</Name>
@@ -120,8 +139,12 @@
           <string>Cerberus</string>
           <string>Chimera</string>
           <string>Cyclops</string>
+          <string>Griffin</string>
+          <string>Gryphon</string>
+          <string>Harpy</string>
           <string>Hippogriff</string>
           <string>Manticore</string>
+          <string>Medusa</string>
           <string>Minotaur</string>
           <string>Pegasus</string>
           <string>Phoenix</string>
@@ -131,15 +154,7 @@
       </NameGroup>
     </MythologicalCreatures>
     <Ships>
-      <Generic />
       <Corvette>
-        <NameGroup>
-          <Name>Persons - Military - Greek</Name>
-          <Values>
-            <string>Marinos Mitralexis</string>
-            <string>Mitralexis</string>
-          </Values>
-        </NameGroup>
       </Corvette>
       <Destroyer>
         <NameGroup>
@@ -231,6 +246,14 @@
           </Values>
         </NameGroup>
       </Continental>
+      <Gaia>
+        <NameGroup>
+          <Name>Mythology - Places - Greek</Name>
+          <Values>
+            <string>Elysium</string>
+          </Values>
+        </NameGroup>
+      </Gaia>
       <Ocean>
         <NameGroup>
           <Name></Name>
@@ -268,8 +291,9 @@
       </Alpine>
       <Molten>
         <NameGroup>
-          <Name></Name>
+          <Name>Mythology - Deities</Name>
           <Values>
+            <string>Hephaestus</string>
           </Values>
         </NameGroup>
       </Molten>

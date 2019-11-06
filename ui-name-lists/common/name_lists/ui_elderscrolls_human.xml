@@ -5,7 +5,7 @@
     <Name>UI - ElderScrolls - Human</Name>
     <Denonyms>
       <NameGroup>
-        <Name>Denonyms</Name>
+        <Name>Denonyms - The Elder Scrolls</Name>
         <Values>
           <string>Atmoran</string>
           <string>Breton</string>
@@ -155,6 +155,20 @@
         </NameGroup>
       </Seas>
     </Places>
+    <Warfare>
+      <BattleLocations>
+        <NameGroup>
+          <Name>Battle locations - The Elder Scrolls</Name>
+          <Values>
+            <string>Markarth</string>
+            <string>Mount Anthor</string>
+            <string>Orsinium</string>
+            <string>Red Mountain</string>
+            <string>Red Ring</string>
+          </Values>
+        </NameGroup>
+      </BattleLocations>
+    </Warfare>
     <Ships>
       <Corvette>
         <NameGroup>
@@ -210,11 +224,26 @@
       </Desert>
       <Continental>
         <NameGroup>
-          <Name></Name>
+          <Name>Countries - Elder Scrolls</Name>
           <Values>
+            <string>Cyrodiil</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Regions - Elder Scrolls</Name>
+          <Values>
+            <string>Colovia</string>
           </Values>
         </NameGroup>
       </Continental>
+      <Gaia>
+        <NameGroup>
+          <Name>Countries - Elder Scrolls</Name>
+          <Values>
+            <string>Sovengarde</string>
+          </Values>
+        </NameGroup>
+      </Gaia>
       <Ocean>
         <NameGroup>
           <Name></Name>
@@ -231,8 +260,10 @@
       </Tundra>
       <Arctic>
         <NameGroup>
-          <Name></Name>
+          <Name>Countries - Elder Scrolls</Name>
           <Values>
+            <string>Atmora</string>
+            <string>Solstheim</string>
           </Values>
         </NameGroup>
       </Arctic>

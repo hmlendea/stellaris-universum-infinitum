@@ -10,13 +10,6 @@
         </Values>
       </NameGroup>
     </Denonyms>
-    <Weapons>
-      <NameGroup>
-        <Name></Name>
-        <Values>
-        </Values>
-      </NameGroup>
-    </Weapons>
     <Places>
       <Cities>
         <NameGroup>
@@ -55,6 +48,20 @@
       </Corvette>
     </ShipClasses>
     <Stations>
+      <MiningStations>
+        <NameGroup>
+          <Name>Mining Stations - StarWars - Human</Name>
+          <Values>
+            <string>Arah</string>
+            <string>CMC-A14</string>
+            <string>Firebase Alpha</string>
+            <string>H-5 70</string>
+            <string>Nallera's Mining Field</string>
+            <string>Peragus</string>
+            <string>Void Anvil</string>
+          </Values>
+        </NameGroup>
+      </MiningStations>
       <MilitaryStations>
         <Generic>
           <NameGroup>
@@ -86,6 +93,7 @@
             <string>7th Sky Corps</string>
             <string>91st Reconissance Corps</string>
             <string>ARC Troppers</string>
+            <string>ARF Troopers</string>
             <string>Blue Squadron</string>
             <string>Bravo Squad</string>
             <string>Clone Commando Squads</string>

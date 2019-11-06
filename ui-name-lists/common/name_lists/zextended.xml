@@ -2944,6 +2944,204 @@
         </NameGroup>
       </Transport>
     </Ships>
+    <ShipClasses>
+      <Generic>
+        <NameGroup>
+          <Name>zzz EXTENDED</Name>
+          <Values>
+            <string>AeroAstro</string>
+            <string>African</string>
+            <string>AIDC</string>
+            <string>Airbus</string>
+            <string>American</string>
+            <string>Amsat</string>
+            <string>Antrix</string>
+            <string>Ariane</string>
+            <string>Asian</string>
+            <string>Australian</string>
+            <string>Austrian</string>
+            <string>Ball</string>
+            <string>Belgian</string>
+            <string>Bengel</string>
+            <string>Boeing</string>
+            <string>British</string>
+            <string>Busek</string>
+            <string>Canadian</string>
+            <string>Changhe</string>
+            <string>Chinese</string>
+            <string>Dannish</string>
+            <string>Dhurva</string>
+            <string>Dutch</string>
+            <string>Dynetics</string>
+            <string>EnduroSat</string>
+            <string>Energiya</string>
+            <string>English</string>
+            <string>European</string>
+            <string>Fokker</string>
+            <string>Ford</string>
+            <string>French</string>
+            <string>Fuji</string>
+            <string>Gauss</string>
+            <string>GEN</string>
+            <string>German</string>
+            <string>GomSpace</string>
+            <string>Greek</string>
+            <string>Harbin</string>
+            <string>Hawker Disseley</string>
+            <string>Hongdu</string>
+            <string>Hughes</string>
+            <string>Human</string>
+            <string>Icelandic</string>
+            <string>Irish</string>
+            <string>Italian</string>
+            <string>Japanese</string>
+            <string>Kawasaki</string>
+            <string>Kekistani</string>
+            <string>Keldysh</string>
+            <string>Korean</string>
+            <string>Kosmotras</string>
+            <string>Kuznetsov</string>
+            <string>Lavochkin</string>
+            <string>Lockheed Martin</string>
+            <string>Makeyev</string>
+            <string>Mashinostroyeniya</string>
+            <string>Mexican</string>
+            <string>MicroSat</string>
+            <string>Mitsubishi</string>
+            <string>NanoAvionics</string>
+            <string>Northrop</string>
+            <string>Norwegian</string>
+            <string>Nyan</string>
+            <string>Orbital</string>
+            <string>Polish</string>
+            <string>Qingdao</string>
+            <string>Raytheon</string>
+            <string>Rocketdyne</string>
+            <string>Rocketstar</string>
+            <string>Rockwell</string>
+            <string>Rolls-Royce</string>
+            <string>Romanian</string>
+            <string>Russian</string>
+            <string>Safran</string>
+            <string>Scottish</string>
+            <string>Sichuan</string>
+            <string>SpaceDev</string>
+            <string>SpaceQuest</string>
+            <string>SpaceX</string>
+            <string>Spanish</string>
+            <string>Spectrum Astro</string>
+            <string>Starsem</string>
+            <string>Stofiel</string>
+            <string>Surrey</string>
+            <string>Swales</string>
+            <string>Swedish</string>
+            <string>Swiss</string>
+            <string>Thai</string>
+            <string>Thales Alenia</string>
+            <string>Turkish</string>
+            <string>Voronezh</string>
+            <string>Xovian</string>
+            <string>Yuzhoye</string>
+            <string>Zeelandian</string>
+          </Values>
+        </NameGroup>
+      </Generic>
+      <Corvette>
+        <NameGroup>
+          <Name>zzz EXTENDED</Name>
+          <Values>
+            <string>Avenger</string>
+            <string>Banshee</string>
+            <string>Lembus</string>
+            <string>Liburna</string>
+            <string>TIE</string>
+            <string>Valkyrie</string>
+            <string>Viking</string>
+            <string>Wraith</string>
+          </Values>
+        </NameGroup>
+      </Corvette>
+      <Destroyer>
+        <NameGroup>
+          <Name>zzz EXTENDED</Name>
+          <Values>
+            <string>Bireme</string>
+            <string>Quadrireme</string>
+            <string>Quinquereme</string>
+            <string>Trireme</string>
+          </Values>
+        </NameGroup>
+      </Destroyer>
+      <Cruiser>
+        <NameGroup>
+          <Name>zzz EXTENDED</Name>
+          <Values>
+            <string>Hexareme</string>
+            <string>Sexireme</string>
+          </Values>
+        </NameGroup>
+      </Cruiser>
+      <Battleship>
+        <NameGroup>
+          <Name>zzz EXTENDED</Name>
+          <Values>
+            <string>Behemoth</string>
+            <string>Deceres</string>
+            <string>Enneres</string>
+            <string>Gorgon</string>
+            <string>Hercules</string>
+            <string>Hurricane</string>
+            <string>Ironclad</string>
+            <string>Leviathan</string>
+            <string>Minotaur</string>
+            <string>Moirai</string>
+            <string>Octeres</string>
+            <string>Pride of Augustgrad</string>
+            <string>Septireme</string>
+            <string>Sovereign</string>
+            <string>Starcruiser</string>
+          </Values>
+        </NameGroup>
+      </Battleship>
+      <Science>
+        <NameGroup>
+          <Name>zzz EXTENDED</Name>
+          <Values>
+            <string>Explorer</string>
+            <string>Kurzweil</string>
+          </Values>
+        </NameGroup>
+      </Science>
+      <Coloniser>
+        <NameGroup>
+          <Name>zzz EXTENDED</Name>
+          <Values>
+            <string>Airbus</string>
+            <string>Boeing</string>
+            <string>Bombardier</string>
+            <string>Embraer</string>
+            <string>Tupoloev</string>
+          </Values>
+        </NameGroup>
+      </Coloniser>
+      <Transport>
+        <NameGroup>
+          <Name>zzz EXTENDED</Name>
+          <Values>
+            <string>Airbus</string>
+            <string>Boeing</string>
+            <string>Bombardier</string>
+            <string>Cyrus</string>
+            <string>Embraer</string>
+            <string>Gladiator</string>
+            <string>Hemiolia</string>
+            <string>Hydrus</string>
+            <string>Mammoth</string>
+            <string>Tupoloev</string>
+          </Values>
+        </NameGroup>
+      </Transport>
+    </ShipClasses>
     <Stations>
       <MilitaryStations>
         <Small>
@@ -3242,7 +3440,7 @@
         </Large>
       </MilitaryStations>
       <Starbases>
-        <Outpost>
+        <Outposts>
           <NameGroup>
             <Name>zzz EXTENDED</Name>
             <Values>
@@ -3284,7 +3482,7 @@
               <string>Wide</string>
             </Values>
           </NameGroup>
-        </Outpost>
+        </Outposts>
         <Starports>
           <NameGroup>
             <Name>zzz EXTENDED</Name>
@@ -3337,48 +3535,1033 @@
         <NameGroup>
           <Name>zzz EXTENDED</Name>
           <Values>
-
+            <string>Alpha Squadron</string>
+            <string>Delta Squadron</string>
+            <string>Epsilon Squadron</string>
+            <string>Ethereal Fleet</string>
+            <string>Gamma Squadron</string>
+            <string>Hurricane Armada</string>
+            <string>Iron Curtain Fleet</string>
+            <string>Lightning Stars</string>
+            <string>Omega Squadron</string>
+            <string>Pale Blue Dots</string>
+            <string>Phoenix Star Division</string>
+            <string>Rho Squadron</string>
+            <string>Shooting Stars</string>
+            <string>The Arbalest Fleet</string>
+            <string>The Archer Fleet</string>
+            <string>The Arquebusier Fleet</string>
+            <string>The Assassin Fleet</string>
+            <string>The Ballista Fleet</string>
+            <string>The Banshee Fleet</string>
+            <string>The Basilisk Fleet</string>
+            <string>The Battleaxe Fleet</string>
+            <string>The Behemoth Fleet</string>
+            <string>The Berserker Fleet</string>
+            <string>The Black Fleet</string>
+            <string>The Blue Fleet</string>
+            <string>The Blue Stars</string>
+            <string>The Brown Fleet</string>
+            <string>The Buccaneer Fleet</string>
+            <string>The Burgundy Fleet</string>
+            <string>The Cataphract Fleet</string>
+            <string>The Catapult Fleet</string>
+            <string>The Cavalier Fleet</string>
+            <string>The Cavalry Fleet</string>
+            <string>The Centaur Fleet</string>
+            <string>The Centurion Fleet</string>
+            <string>The Cerberus Fleet</string>
+            <string>The Chariot Fleet</string>
+            <string>The Charybdis Fleet</string>
+            <string>The Chimera Fleet</string>
+            <string>The Chrome Fleet</string>
+            <string>The Cinquedea Fleet</string>
+            <string>The Cleaver Fleet</string>
+            <string>The Club Fleet</string>
+            <string>The Clubmen Fleet</string>
+            <string>The Cobalt Fleet</string>
+            <string>The Conquistador Fleet</string>
+            <string>The Cossack Fleet</string>
+            <string>The Crimson Fleet</string>
+            <string>The Crossbow Fleet</string>
+            <string>The Cutlass Fleet</string>
+            <string>The Cyan Fleet</string>
+            <string>The Cyclope Fleet</string>
+            <string>The Dagger Fleet</string>
+            <string>The Dirk Fleet</string>
+            <string>The Dorobant Fleet</string>
+            <string>The Dragon Fleet</string>
+            <string>The Eclipse Fleet</string>
+            <string>The Enfield Fleet</string>
+            <string>The Estoc Fleet</string>
+            <string>The Falchion Fleet</string>
+            <string>The Falx Fleet</string>
+            <string>The Falxmen Fleet</string>
+            <string>The Flamberge Fleet</string>
+            <string>The Foil Fleet</string>
+            <string>The Gargoyle Fleet</string>
+            <string>The Garuda Fleet</string>
+            <string>The Gendarme Fleet</string>
+            <string>The Glaive Fleet</string>
+            <string>The Golbin Fleet</string>
+            <string>The Golden Fleet</string>
+            <string>The Gorgon Fleet</string>
+            <string>The Green Fleet</string>
+            <string>The Griffin Fleet</string>
+            <string>The Gurkha Fleet</string>
+            <string>The Halberd Fleet</string>
+            <string>The Harpoon Fleet</string>
+            <string>The Harpy Fleet</string>
+            <string>The Hippogriff Fleet</string>
+            <string>The Hoplite Fleet</string>
+            <string>The Hussar Fleet</string>
+            <string>The Hydra Fleet</string>
+            <string>The Immortal Fleet</string>
+            <string>The Incubus Fleet</string>
+            <string>The Ironclad Fleet</string>
+            <string>The Iron Fleet</string>
+            <string>The Janissary Fleet</string>
+            <string>The Javelin Fleet</string>
+            <string>The Katana Fleet</string>
+            <string>The Katzbalger Fleet</string>
+            <string>The Knight Fleet</string>
+            <string>The Kraken Fleet</string>
+            <string>The Lancer Fleet</string>
+            <string>The Landsknechte Fleet</string>
+            <string>The Leviathan Fleet</string>
+            <string>The Lime Fleet</string>
+            <string>The Longbow Fleet</string>
+            <string>The Longsword Fleet</string>
+            <string>The Magenta Fleet</string>
+            <string>The Manticore Fleet</string>
+            <string>The Medusa Fleet</string>
+            <string>The Mermaid Fleet</string>
+            <string>The Millenial Fleet</string>
+            <string>The Minotaur Fleet</string>
+            <string>The Minuteman Fleet</string>
+            <string>The Mohawk Fleet</string>
+            <string>The Mummy Fleet</string>
+            <string>The Musketeer Fleet</string>
+            <string>The Nymph Fleet</string>
+            <string>The Ogre Fleet</string>
+            <string>The Orange Fleet</string>
+            <string>The Paladin Fleet</string>
+            <string>The Panzer Fleet</string>
+            <string>The Pegasus Fleet</string>
+            <string>The Phalanx Fleet</string>
+            <string>The Phoenix Fleet</string>
+            <string>The Pike Fleet</string>
+            <string>The Pikeman Fleet</string>
+            <string>The Pink Fleet</string>
+            <string>The Poignard Fleet</string>
+            <string>The Praetorian Fleet</string>
+            <string>The Privateer Fleet</string>
+            <string>The Purple Fleet</string>
+            <string>The Rapier Fleet</string>
+            <string>The Red Fleet</string>
+            <string>The Ronin Fleet</string>
+            <string>The Samurai Fleet</string>
+            <string>The Sanguine Fleet</string>
+            <string>The Scimitar Fleet</string>
+            <string>The Scorpion Fleet</string>
+            <string>The Scylla Fleet</string>
+            <string>The Shortbow Fleet</string>
+            <string>The Sica Fleet</string>
+            <string>The Silver Fleet</string>
+            <string>The Sipahi Fleet</string>
+            <string>The Skirmisher Fleet</string>
+            <string>The Solar Sails</string>
+            <string>The Spear Fleet</string>
+            <string>The Spectre Fleet</string>
+            <string>The Sphinx Fleet</string>
+            <string>The Steel Fleet</string>
+            <string>The Succubus Fleet</string>
+            <string>The Sword Fleet</string>
+            <string>The Szekler Fleet</string>
+            <string>The Teal Fleet</string>
+            <string>The Templar Fleet</string>
+            <string>The Tercio Fleet</string>
+            <string>The Titan Fleet</string>
+            <string>The Trebuchet Fleet</string>
+            <string>The Turqoise Fleet</string>
+            <string>The Uchigatana Fleet</string>
+            <string>The Violet Fleet</string>
+            <string>The Vortex Fleet</string>
+            <string>The Warhammer Fleet</string>
+            <string>The Warlock Fleet</string>
+            <string>The Werewolf Fleet</string>
+            <string>The White Fleet</string>
+            <string>The Wolfhound Fleet</string>
+            <string>The Wraith Fleet</string>
+            <string>The Wyvern Fleet</string>
+            <string>The Yellow Fleet</string>
+            <string>Void Stars</string>
+            <string>Zeta Squadron</string>
           </Values>
         </NameGroup>
       </Fleet>
+      <DefenceArmy>
+        <NameGroup>
+          <Name>zzz EXTENDED</Name>
+          <Values>
+            <string>Aegis Guard</string>
+            <string>Delta Company</string>
+            <string>Elite Guard</string>
+            <string>Praetorian Guard</string>
+            <string>The Minutemen</string>
+          </Values>
+        </NameGroup>
+      </DefenceArmy>
+      <AssaultArmy>
+        <NameGroup>
+          <Name>zzz EXTENDED</Name>
+          <Values>
+            <string>Annihilators</string>
+            <string>Blackhammers</string>
+            <string>Brute Squad</string>
+            <string>Bulwark Company</string>
+            <string>Cerberus Squad</string>
+            <string>Charlie Squad</string>
+            <string>Crimson Corps</string>
+            <string>Death Heads</string>
+            <string>Death's Head Legion</string>
+            <string>Easy Company</string>
+            <string>Field Response Theta</string>
+            <string>Hammer Strike Force</string>
+            <string>Heaven's Devils</string>
+            <string>Hellbringers</string>
+            <string>Iron Jesters</string>
+            <string>Lost Wolves</string>
+            <string>Night Wolves</string>
+            <string>Outback Hunters</string>
+            <string>Prometheus Company</string>
+            <string>Shock Division</string>
+            <string>Sky Fury Squadron</string>
+            <string>The Battle Royales</string>
+            <string>The Black Sheep</string>
+            <string>The Cataclysm Corps</string>
+            <string>The Crimson Cloud</string>
+            <string>The Crushing</string>
+            <string>The Dogs</string>
+            <string>The Eclipse</string>
+            <string>The Expendables</string>
+            <string>The Fire Battalion</string>
+            <string>The Great Army</string>
+            <string>The Guardians</string>
+            <string>The Hellfire Squad</string>
+            <string>The Hell Hosts</string>
+            <string>The Hell Squad</string>
+            <string>The Hounds</string>
+            <string>The Illustrious</string>
+            <string>The Immortals</string>
+            <string>The Last Hope</string>
+            <string>The Lightbringers</string>
+            <string>The Maroon Martyrs</string>
+            <string>The New Order</string>
+            <string>The Punishers</string>
+            <string>The Pure Platoon</string>
+            <string>The Rose Regiment</string>
+            <string>The Rose Riders</string>
+            <string>The Saints</string>
+            <string>The Silver Lining</string>
+            <string>The Silver Soldiers</string>
+            <string>The Srumanir</string>
+            <string>The Swarm</string>
+            <string>The Thunder Troops</string>
+            <string>The Undefeated</string>
+            <string>Thundering Third</string>
+            <string>Torch Seven</string>
+            <string>Vanquisher Corps</string>
+            <string>War Pigs</string>
+          </Values>
+        </NameGroup>
+      </AssaultArmy>
+      <CloneArmy>
+        <NameGroup>
+          <Name>zzz EXTENDED</Name>
+          <Values>
+            <string>104th Battalion</string>
+            <string>212th Attack Battalion</string>
+            <string>327th Star Corps</string>
+            <string>41st Elite Corps</string>
+            <string>501st Legion</string>
+            <string>7th Sky Corps</string>
+            <string>91st Reconissance Corps</string>
+            <string>ARC Troppers</string>
+            <string>ARF Troopers</string>
+            <string>Blue Squadron</string>
+            <string>Bravo Squad</string>
+            <string>Clone Commando Squads</string>
+            <string>Doom's Unit</string>
+            <string>Ghost Company</string>
+            <string>Gold Squadron</string>
+            <string>Green Company</string>
+            <string>Horn Company</string>
+            <string>Jet's Unit</string>
+            <string>Lancer Battalion</string>
+            <string>Lightning Squadron</string>
+            <string>Rancor Battalion</string>
+            <string>Slick's Platoon</string>
+            <string>Tango Company</string>
+            <string>Torrent Company</string>
+            <string>Trauma's Unit</string>
+            <string>Wolfpack</string>
+          </Values>
+        </NameGroup>
+      </CloneArmy>
+      <PsionicArmy>
+        <NameGroup>
+          <Name>zzz EXTENDED</Name>
+          <Values>
+            <string>Banshee Legion</string>
+            <string>Ghost Division</string>
+            <string>Ghost Legion</string>
+            <string>Nova Squadron</string>
+            <string>Phantom Legion</string>
+            <string>Reaper Legion</string>
+            <string>Shadow Legion</string>
+            <string>Skull Legion</string>
+            <string>Specter Legion</string>
+            <string>Warlock Legion</string>
+            <string>Widowmaker Legion</string>
+            <string>Wraith Legion</string>
+            <string>XCOM Squadron</string>
+          </Values>
+        </NameGroup>
+      </PsionicArmy>
+      <SuperSoldierArmy>
+        <NameGroup>
+          <Name>zzz EXTENDED</Name>
+          <Values>
+            <string>Experimental Unit 'Amaru'</string>
+            <string>Experimental Unit 'Asnaeb'</string>
+            <string>Experimental Unit 'Azojal'</string>
+            <string>Experimental Unit 'Baguvix'</string>
+            <string>Experimental Unit 'Bakunawa'</string>
+            <string>Experimental Unit 'Fafnir'</string>
+            <string>Experimental Unit 'Hesoyam'</string>
+            <string>Experimental Unit 'Illuyanka'</string>
+            <string>Experimental Unit 'Jaculus'</string>
+            <string>Experimental Unit 'Orochi'</string>
+            <string>Experimental Unit 'Rahab'</string>
+            <string>Experimental Unit 'Tarasque'</string>
+            <string>Experimental Unit 'Tiamat'</string>
+            <string>Experimental Unit 'Typhon'</string>
+            <string>Experimental Unit 'Uzumymw'</string>
+            <string>SARC-A 'Gladiators'</string>
+            <string>SARC-B 'Widowmakers'</string>
+            <string>SARC-C 'Immortals'</string>
+            <string>SARC-D 'Berserkers'</string>
+            <string>SARC-E 'Assassins'</string>
+            <string>SARC-F 'Reapers'</string>
+            <string>SARC-G 'Nighthawks'</string>
+            <string>SARC-H 'Desperados'</string>
+            <string>SARC-I 'Grey Knights'</string>
+            <string>SARC-J 'Roughnecks'</string>
+            <string>SARC-K 'Purgers'</string>
+            <string>SARC-L 'Lawnmowers'</string>
+            <string>SARC-M 'Steamrollers'</string>
+            <string>SARC-N 'Dark Knights'</string>
+            <string>SARC-O 'Templars'</string>
+            <string>SARC-P 'Leafblowers'</string>
+            <string>SARC-Q 'Knuckles'</string>
+            <string>SARC-R 'Bayonettes'</string>
+            <string>SARC-S 'Bastards'</string>
+            <string>SARC-T 'Vagabonds'</string>
+          </Values>
+        </NameGroup>
+      </SuperSoldierArmy>
     </Armies>
     <Planets>
       <Generic>
         <NameGroup>
           <Name>zzz EXTENDED</Name>
-          <Name></Name>
           <Values>
+            <string>Acherusia</string>
+            <string>Acrisia</string>
+            <string>Adena</string>
+            <string>Adislal</string>
+            <string>Agartha</string>
+            <string>Akatsuki</string>
+            <string>Alfheim</string>
+            <string>Al-Jissa</string>
+            <string>Al-Karak</string>
+            <string>Al-Mada'in</string>
+            <string>Al-Matabbah</string>
+            <string>Al-Nuqayrah</string>
+            <string>Amerigo</string>
+            <string>Amity</string>
+            <string>Anchor</string>
+            <string>Annares</string>
+            <string>Ansel</string>
+            <string>Antiochia</string>
+            <string>Aquilo</string>
+            <string>Arakoua</string>
+            <string>Argyre</string>
+            <string>Ascension</string>
+            <string>Ascrivium</string>
+            <string>Asteria</string>
+            <string>Athura</string>
+            <string>Aurora</string>
+            <string>Auster</string>
+            <string>Avalon</string>
+            <string>Axiom</string>
+            <string>Ayaan</string>
+            <string>Bacchus</string>
+            <string>Balion</string>
+            <string>Bismarck</string>
+            <string>Blackthrope</string>
+            <string>Bongani</string>
+            <string>Bounty</string>
+            <string>Bowditch</string>
+            <string>Boyle</string>
+            <string>Bradbury</string>
+            <string>Brigantium</string>
+            <string>Brontes</string>
+            <string>Brutus</string>
+            <string>Byrne</string>
+            <string>Caesaria</string>
+            <string>Caledonia</string>
+            <string>Capella</string>
+            <string>Central</string>
+            <string>Chalacta</string>
+            <string>Chaparral</string>
+            <string>Chengetai</string>
+            <string>Chiron</string>
+            <string>Cirion</string>
+            <string>Clausewitz</string>
+            <string>Cnossos</string>
+            <string>Colonia Augusta</string>
+            <string>Colonia Aurora</string>
+            <string>Colonia Emerita</string>
+            <string>Colonia Pacifica</string>
+            <string>Colonia</string>
+            <string>Colonia Traiana</string>
+            <string>Concord</string>
+            <string>Corregan</string>
+            <string>Cromwell</string>
+            <string>Delgovicia</string>
+            <string>Demon's Fair</string>
+            <string>Destinikon</string>
+            <string>Destiny</string>
+            <string>Dis</string>
+            <string>Dochia</string>
+            <string>Doron</string>
+            <string>Durkheim</string>
+            <string>Eboracum</string>
+            <string>Einstein</string>
+            <string>Elidinis</string>
+            <string>Elysium</string>
+            <string>Empire</string>
+            <string>Endaevour</string>
+            <string>Enterprise</string>
+            <string>Escaron</string>
+            <string>Esperanza</string>
+            <string>Eurus</string>
+            <string>Euterpe</string>
+            <string>Fadziso</string>
+            <string>Faunus</string>
+            <string>Favonius</string>
+            <string>Feronis</string>
+            <string>Fincastle</string>
+            <string>Fitzroy's World</string>
+            <string>Flaxington</string>
+            <string>Fortune</string>
+            <string>Ganzorig</string>
+            <string>Gaosi</string>
+            <string>Gelgaris</string>
+            <string>Geroia</string>
+            <string>Girdwood</string>
+            <string>Gohbus</string>
+            <string>Gong Ren</string>
+            <string>Grand City</string>
+            <string>Great Bend</string>
+            <string>Grinstead</string>
+            <string>Hades</string>
+            <string>Hawking</string>
+            <string>Hectonia</string>
+            <string>Heritage</string>
+            <string>Hesperides</string>
+            <string>Hesperos</string>
+            <string>Het</string>
+            <string>Hibernia</string>
+            <string>Hinckley's Hope</string>
+            <string>Hoodo</string>
+            <string>Hope</string>
+            <string>Hoxworth</string>
+            <string>Huanle</string>
+            <string>Huihuang</string>
+            <string>Hypatia</string>
+            <string>Hyperborea</string>
+            <string>Hyugeso</string>
+            <string>Illyria</string>
+            <string>Ithaca</string>
+            <string>Jabulile</string>
+            <string>Jenali</string>
+            <string>Jotun</string>
+            <string>Keresia</string>
+            <string>Knutton</string>
+            <string>Kolob</string>
+            <string>Kuijia</string>
+            <string>Ladan</string>
+            <string>La Isabela</string>
+            <string>Lakius</string>
+            <string>Las Veredas</string>
+            <string>Leffingwell</string>
+            <string>Libaan</string>
+            <string>Liber</string>
+            <string>Liberty</string>
+            <string>Lockney</string>
+            <string>Lusitania</string>
+            <string>Lyrcea</string>
+            <string>Lyrnessus</string>
+            <string>Marco</string>
+            <string>Marlowe</string>
+            <string>Masego</string>
+            <string>Melkora</string>
+            <string>Melpomenia</string>
+            <string>Minerva</string>
+            <string>Mullineux</string>
+            <string>Mzoxolo</string>
+            <string>Napoleon</string>
+            <string>Neritum</string>
+            <string>New Coventry</string>
+            <string>New Jamestown</string>
+            <string>New Jerusalem</string>
+            <string>New Roanoke</string>
+            <string>Newton</string>
+            <string>New Troy</string>
+            <string>Nexon</string>
+            <string>Nhiet Tinh</string>
+            <string>Noricum</string>
+            <string>Nova Aegyptus</string>
+            <string>Nova Arabia</string>
+            <string>Nova Constantinople</string>
+            <string>Nova Parthia</string>
+            <string>Nova Roma</string>
+            <string>Nova Serica</string>
+            <string>Nozomi</string>
+            <string>Nueva Cádiz</string>
+            <string>Nueva Sonora</string>
+            <string>Nysa</string>
+            <string>Obia</string>
+            <string>Oeno</string>
+            <string>Olympia</string>
+            <string>Osiris</string>
+            <string>Osterum</string>
+            <string>Pallas</string>
+            <string>Pallena</string>
+            <string>Pamarthe</string>
+            <string>Panchaea</string>
+            <string>Parragos</string>
+            <string>Patavium</string>
+            <string>Pedasus</string>
+            <string>Pegasus</string>
+            <string>Persephone</string>
+            <string>Phao Dai</string>
+            <string>Phlegra</string>
+            <string>Pho-Rekh</string>
+            <string>Polo</string>
+            <string>Port Karakosov</string>
+            <string>Praetoria</string>
+            <string>Praxis</string>
+            <string>Proclas</string>
+            <string>Prospect</string>
+            <string>Puerto González</string>
+            <string>Pyramus</string>
+            <string>Qasri</string>
+            <string>Qi Chui</string>
+            <string>Quyen</string>
+            <string>Rabita</string>
+            <string>Rattenbury</string>
+            <string>Ravera</string>
+            <string>Reliance</string>
+            <string>Renxing</string>
+            <string>Reynes</string>
+            <string>Rhea</string>
+            <string>Rhegium</string>
+            <string>Roonaan</string>
+            <string>Rosetta</string>
+            <string>Saguenay</string>
+            <string>Salaam</string>
+            <string>San Cristóbal</string>
+            <string>San Fernando</string>
+            <string>San Lucas</string>
+            <string>Saon</string>
+            <string>Scandia</string>
+            <string>Schimmel's World</string>
+            <string>Scrimshaw</string>
+            <string>Scythia</string>
+            <string>Sentinel</string>
+            <string>Serendipity</string>
+            <string>Seti</string>
+            <string>Silpium</string>
+            <string>Sinjeon</string>
+            <string>Sizwe</string>
+            <string>Smitheus</string>
+            <string>Solaria</string>
+            <string>Solaris</string>
+            <string>Solitude</string>
+            <string>Spalatum</string>
+            <string>Spring</string>
+            <string>Stalwart</string>
+            <string>Star City</string>
+            <string>St. Caspar</string>
+            <string>St. Hossack</string>
+            <string>St. Knatchbull</string>
+            <string>St. Pomeroy</string>
+            <string>St. Yegorov</string>
+            <string>Swadia</string>
+            <string>Tal Qirat</string>
+            <string>Tartessos</string>
+            <string>Telepylos</string>
+            <string>Tenger Bambai</string>
+            <string>Tepperus</string>
+            <string>Terminus</string>
+            <string>Tesla</string>
+            <string>Tethys</string>
+            <string>Thabo</string>
+            <string>Thanh</string>
+            <string>Theia</string>
+            <string>Thinis</string>
+            <string>Thisby</string>
+            <string>Thrinacia</string>
+            <string>Thula</string>
+            <string>Thule</string>
+            <string>Thys</string>
+            <string>Tiangong</string>
+            <string>Titania</string>
+            <string>Torus</string>
+            <string>Treadway</string>
+            <string>Tritonis</string>
+            <string>Troi</string>
+            <string>Tronchet</string>
+            <string>Truett</string>
+            <string>Tuscany</string>
+            <string>Tyndis</string>
+            <string>Unadar</string>
+            <string>Valhalla</string>
+            <string>Vanguard</string>
+            <string>Venture</string>
+            <string>Vice</string>
+            <string>Vito</string>
+            <string>Wang Tong</string>
+            <string>Warsame</string>
+            <string>Wenzhou</string>
+            <string>Xenon</string>
+            <string>Xianyang</string>
+            <string>Xindalu</string>
+            <string>Xirsi</string>
+            <string>Zuberi</string>
           </Values>
         </NameGroup>
       </Generic>
       <Desert>
         <NameGroup>
           <Name>zzz EXTENDED</Name>
-          <Name></Name>
           <Values>
+            <string>Aegyptus Novus</string>
+            <string>Altara</string>
+            <string>Atacama</string>
+            <string>Baal</string>
+            <string>Carthage</string>
+            <string>Chihuahua</string>
+            <string>Choss</string>
+            <string>Colorado</string>
+            <string>Dune</string>
+            <string>Frampton Sands</string>
+            <string>Geonosis</string>
+            <string>Gibson</string>
+            <string>Gobi</string>
+            <string>Gurdlac</string>
+            <string>Inferno</string>
+            <string>Kalahari</string>
+            <string>Kali</string>
+            <string>Kara Kum</string>
+            <string>Kavir</string>
+            <string>Khara</string>
+            <string>Kyzyl Kum</string>
+            <string>Lop</string>
+            <string>Lut</string>
+            <string>Mandalore</string>
+            <string>Maranjab</string>
+            <string>Menaphos</string>
+            <string>Menor</string>
+            <string>Mojave</string>
+            <string>Moria</string>
+            <string>Muspelheim</string>
+            <string>Namib</string>
+            <string>Nazca</string>
+            <string>Negev</string>
+            <string>New Mojave</string>
+            <string>New Sydney</string>
+            <string>Nova Alexandria</string>
+            <string>Nova Arabia</string>
+            <string>Ordos</string>
+            <string>Patagonia</string>
+            <string>Persia</string>
+            <string>Phaeton</string>
+            <string>Sahara</string>
+            <string>Sand</string>
+            <string>Simpson</string>
+            <string>Sinai</string>
+            <string>Sirocco</string>
+            <string>Sonora</string>
+            <string>Sonyan</string>
+            <string>Sophanem</string>
+            <string>Sunrise</string>
+            <string>Syria</string>
+            <string>Taklamakan</string>
+            <string>Tatooine</string>
+            <string>Thar</string>
+            <string>Ullek</string>
+            <string>Uzer</string>
+            <string>Vulcan</string>
           </Values>
         </NameGroup>
       </Desert>
+      <Arid>
+        <NameGroup>
+          <Name>zzz EXTENDED</Name>
+          <Values>
+            <string>Accona</string>
+            <string>Antioch</string>
+            <string>Atacama</string>
+            <string>Bardenas</string>
+            <string>Canaan</string>
+            <string>Caravenserai</string>
+            <string>Cyrene</string>
+            <string>Dorne</string>
+            <string>Gamma Dorian</string>
+            <string>High Ground</string>
+            <string>Jaxartes</string>
+            <string>Larzac</string>
+            <string>Las Venturas</string>
+            <string>Lebanon</string>
+            <string>Mar Sara</string>
+            <string>Nevada</string>
+            <string>New Jerusalem</string>
+            <string>New Mars</string>
+            <string>New Troy</string>
+            <string>New Vegas</string>
+            <string>Nova Antioch</string>
+            <string>Nova Parthia</string>
+            <string>Nova Troia</string>
+            <string>Nuevo Madrid</string>
+            <string>Oltenia</string>
+            <string>Oxus</string>
+            <string>Rangipo</string>
+            <string>Sunspear</string>
+            <string>Tabernas</string>
+            <string>Tanami</string>
+            <string>Tartarus</string>
+            <string>Turan</string>
+            <string>Tyre</string>
+          </Values>
+        </NameGroup>
+      </Arid>
+      <Tropical>
+        <NameGroup>
+          <Name>zzz EXTENDED</Name>
+          <Values>
+            <string>Akiva</string>
+            <string>Amazonia</string>
+            <string>Aridas</string>
+            <string>Bengal</string>
+            <string>Brimhaven</string>
+            <string>Broadleaf</string>
+            <string>Brokas Hur</string>
+            <string>Calus</string>
+            <string>Candore</string>
+            <string>Chau Sara</string>
+            <string>Congo</string>
+            <string>Daflomia</string>
+            <string>Ecuador</string>
+            <string>Felucia</string>
+            <string>Garxxax</string>
+            <string>Jangala</string>
+            <string>Karamja</string>
+            <string>Khersonia</string>
+            <string>Kipling</string>
+            <string>Kishkindha</string>
+            <string>Maya</string>
+            <string>Miranar</string>
+            <string>Monsoon</string>
+            <string>New Africa</string>
+            <string>Onderon</string>
+            <string>Pandora</string>
+            <string>Rain</string>
+            <string>Shrub</string>
+            <string>Silvestris</string>
+            <string>Storm</string>
+            <string>Sylvana</string>
+            <string>Transylvania Nova</string>
+            <string>Tropico</string>
+            <string>Valrar</string>
+            <string>Vestar</string>
+            <string>Vygoire</string>
+            <string>Wamba</string>
+            <string>Zanzibar</string>
+          </Values>
+        </NameGroup>
+      </Tropical>
       <Continental>
         <NameGroup>
           <Name>zzz EXTENDED</Name>
-          <Name></Name>
           <Values>
+            <string>Abbassus</string>
+            <string>Acropolis</string>
+            <string>Admiral</string>
+            <string>Akavir</string>
+            <string>Albion</string>
+            <string>Alderaan</string>
+            <string>Amor</string>
+            <string>Andorhal</string>
+            <string>Aradan</string>
+            <string>Arcadia</string>
+            <string>Ardougne</string>
+            <string>Asgard</string>
+            <string>Asgarnia</string>
+            <string>Ashur</string>
+            <string>Astora</string>
+            <string>Athena</string>
+            <string>Avarrocka</string>
+            <string>Bakura</string>
+            <string>Bastion</string>
+            <string>Bhekar Ro</string>
+            <string>Boone</string>
+            <string>Bountiful</string>
+            <string>Brentaal</string>
+            <string>Britannia Nova</string>
+            <string>Byzantium</string>
+            <string>Calradia</string>
+            <string>Camelot</string>
+            <string>Carida</string>
+            <string>Carthago Nova</string>
+            <string>Champala</string>
+            <string>Chandrila</string>
+            <string>Citadel</string>
+            <string>Colovia</string>
+            <string>Columbus</string>
+            <string>Corellia</string>
+            <string>Coruscant</string>
+            <string>Cyrodiil</string>
+            <string>Dacia Nova</string>
+            <string>Dantooine</string>
+            <string>Dawnlight</string>
+            <string>Dawn</string>
+            <string>Delphi</string>
+            <string>Destiny</string>
+            <string>Edgeville</string>
+            <string>Entrana</string>
+            <string>Espandor</string>
+            <string>Europa Nova</string>
+            <string>Falador</string>
+            <string>Fondor</string>
+            <string>Gao Zu</string>
+            <string>Goldilocks</string>
+            <string>Gudrun</string>
+            <string>Gystt</string>
+            <string>Haji</string>
+            <string>Halcyon</string>
+            <string>Harmony</string>
+            <string>Haven</string>
+            <string>Horizon</string>
+            <string>Kandarin</string>
+            <string>Kongzi</string>
+            <string>Korhal</string>
+            <string>Lexington</string>
+            <string>Lianna</string>
+            <string>Londinium</string>
+            <string>Lordaeron</string>
+            <string>Los Santos</string>
+            <string>Lothal</string>
+            <string>Lothric</string>
+            <string>Lumbridge</string>
+            <string>Midgard</string>
+            <string>Misthalin</string>
+            <string>Mundus</string>
+            <string>Myndos</string>
+            <string>Naboo</string>
+            <string>Napoca</string>
+            <string>Neu Berlin</string>
+            <string>New Bucharest</string>
+            <string>New Budapest</string>
+            <string>New Coventry</string>
+            <string>New Dublin</string>
+            <string>New Kiev</string>
+            <string>New Paris</string>
+            <string>New Sophia</string>
+            <string>New Vilnius</string>
+            <string>New Warsaw</string>
+            <string>Nirn</string>
+            <string>Nova Thracia</string>
+            <string>Novi Belgrad</string>
+            <string>Oda</string>
+            <string>Orinda</string>
+            <string>Pangea</string>
+            <string>Pannonia</string>
+            <string>Port Sarim</string>
+            <string>Rama</string>
+            <string>Roma Nova</string>
+            <string>Roxara</string>
+            <string>Sammy</string>
+            <string>San Fierro</string>
+            <string>Senntisten</string>
+            <string>Shiloh</string>
+            <string>Soma</string>
+            <string>Stormwind</string>
+            <string>Stratholme</string>
+            <string>Tamriel</string>
+            <string>TarKossia</string>
+            <string>Tarsonis</string>
+            <string>Tashai</string>
+            <string>Teragard</string>
+            <string>Terra Nova</string>
+            <string>Thebes</string>
+            <string>Tian Yi</string>
+            <string>Tokugawa</string>
+            <string>Toyotomi</string>
+            <string>Transilvania Nova</string>
+            <string>Tsaesci</string>
+            <string>Umoja</string>
+            <string>Varadinum</string>
+            <string>Vardona</string>
+            <string>Varrock</string>
+            <string>Vishnu</string>
+            <string>Wensleydale</string>
+            <string>Wu Ding</string>
+            <string>Yanille</string>
+            <string>Zheng</string>
+            <string>Zoroaster</string>
           </Values>
         </NameGroup>
       </Continental>
+      <Gaia>
+        <NameGroup>
+          <Name>zzz EXTENDED</Name>
+          <Values>
+            <string>Achillea</string>
+            <string>Agamar</string>
+            <string>Agria</string>
+            <string>Angelis</string>
+            <string>Apollonia</string>
+            <string>Arcadia</string>
+            <string>Borleias</string>
+            <string>Caelum</string>
+            <string>Cleopatra's Pearl</string>
+            <string>Cockaigne</string>
+            <string>Cornucopia</string>
+            <string>Dathomir</string>
+            <string>Deliverance</string>
+            <string>Eden</string>
+            <string>El Dorado</string>
+            <string>Elysium</string>
+            <string>Fortuna</string>
+            <string>Gallifrey</string>
+            <string>Garden</string>
+            <string>Himlen</string>
+            <string>Holy Grail</string>
+            <string>Kizuna</string>
+            <string>Marvel</string>
+            <string>Meinhoff</string>
+            <string>Midsummer</string>
+            <string>Nova Babylon</string>
+            <string>Nymphaea</string>
+            <string>Nysa</string>
+            <string>Paradiso</string>
+            <string>Perla</string>
+            <string>Port Venture</string>
+            <string>Sanctuary</string>
+            <string>Scarif</string>
+            <string>Serendipity</string>
+            <string>Serenity</string>
+            <string>Shambhala</string>
+            <string>Shangri-La</string>
+            <string>Splendoria</string>
+            <string>Summerset</string>
+            <string>Taevas</string>
+            <string>Terraria</string>
+            <string>Utopia</string>
+            <string>Xanadu</string>
+          </Values>
+        </NameGroup>
+      </Gaia>
       <Ocean>
         <NameGroup>
           <Name>zzz EXTENDED</Name>
-          <Name></Name>
           <Values>
+            <string>Admastor</string>
+            <string>Adriatica</string>
+            <string>Aegea</string>
+            <string>Aguarl</string>
+            <string>Albatross</string>
+            <string>Amethia</string>
+            <string>Angelfish</string>
+            <string>Aquarius</string>
+            <string>Arkantos</string>
+            <string>Atlantica</string>
+            <string>Atlantis</string>
+            <string>Azovia</string>
+            <string>Baltica</string>
+            <string>Barracuda</string>
+            <string>Beringia</string>
+            <string>Blazewater</string>
+            <string>Caspia</string>
+            <string>Catherby</string>
+            <string>Coralia</string>
+            <string>Cormorant</string>
+            <string>Dagon</string>
+            <string>Danubia</string>
+            <string>Diluvia</string>
+            <string>Dugong</string>
+            <string>Elba</string>
+            <string>Elid</string>
+            <string>Erythraea</string>
+            <string>Euxina</string>
+            <string>Histria</string>
+            <string>Hyderia</string>
+            <string>Hydra</string>
+            <string>Hydrax</string>
+            <string>Hydros</string>
+            <string>Hyrcania</string>
+            <string>Istros</string>
+            <string>Java</string>
+            <string>Kamino</string>
+            <string>Kraken</string>
+            <string>Lochness</string>
+            <string>Mangalia</string>
+            <string>Mare</string>
+            <string>Marmara</string>
+            <string>Mediterranea</string>
+            <string>Meredith Bay</string>
+            <string>Namida</string>
+            <string>Nemo</string>
+            <string>Neritum</string>
+            <string>Ningbo</string>
+            <string>Noah</string>
+            <string>Oceania</string>
+            <string>Oceanus</string>
+            <string>Pacifica</string>
+            <string>Port Bixby</string>
+            <string>Port Rabcewicz</string>
+            <string>Port Snedden</string>
+            <string>Pridewater</string>
+            <string>Rheinland</string>
+            <string>R'lyeh</string>
+            <string>Rubrica</string>
+            <string>Selonia</string>
+            <string>Starfish</string>
+            <string>Thalassa</string>
+            <string>The Ark</string>
+            <string>Tyrrhenia</string>
+            <string>Venetia</string>
           </Values>
         </NameGroup>
       </Ocean>
       <Tundra>
         <NameGroup>
           <Name>zzz EXTENDED</Name>
-          <Name></Name>
           <Values>
           </Values>
         </NameGroup>
@@ -3386,7 +4569,6 @@
       <Arctic>
         <NameGroup>
           <Name>zzz EXTENDED</Name>
-          <Name></Name>
           <Values>
           </Values>
         </NameGroup>
@@ -3394,7 +4576,6 @@
       <Tomb>
         <NameGroup>
           <Name>zzz EXTENDED</Name>
-          <Name></Name>
           <Values>
           </Values>
         </NameGroup>
@@ -3402,7 +4583,6 @@
       <Alpine>
         <NameGroup>
           <Name>zzz EXTENDED</Name>
-          <Name></Name>
           <Values>
           </Values>
         </NameGroup>
@@ -3410,7 +4590,6 @@
       <Molten>
         <NameGroup>
           <Name>zzz EXTENDED</Name>
-          <Name></Name>
           <Values>
           </Values>
         </NameGroup>

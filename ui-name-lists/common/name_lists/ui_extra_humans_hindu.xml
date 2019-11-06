@@ -12,6 +12,7 @@
           <string>Indian</string>
           <string>Nepali</string>
           <string>Pakistani</string>
+          <string>Raj</string>
         </Values>
       </NameGroup>
     </Denonyms>
@@ -103,26 +104,29 @@
         </NameGroup>
       </Rivers>
     </Places>
-    <Weapons>
-      <NameGroup>
-        <Name>Swords - Indian Subcontinent</Name>
-        <Values>
-          <string>Urumi</string>
-        </Values>
-      </NameGroup>
-    </Weapons>
-    <MilitaryUnitTypes>
-      <NameGroup>
-        <Name>Military Unit Types - Nepali</Name>
-        <Values>
-          <string>Gurkha</string>
-        </Values>
-      </NameGroup>
-    </MilitaryUnitTypes>
+    <Warfare>
+      <Weapons>
+        <NameGroup>
+          <Name>Swords - Indian Subcontinent</Name>
+          <Values>
+            <string>Urumi</string>
+          </Values>
+        </NameGroup>
+      </Weapons>
+      <MilitaryUnitTypes>
+        <NameGroup>
+          <Name>Military Unit Types - Nepali</Name>
+          <Values>
+            <string>Gurkha</string>
+          </Values>
+        </NameGroup>
+      </MilitaryUnitTypes>
+    </Warfare>
     <MythologicalCreatures>
       <NameGroup>
         <Name>Mythological Creatures - Hindu</Name>
         <Values>
+          <string>Garuda</string>
           <string>Rakshasa</string>
         </Values>
       </NameGroup>

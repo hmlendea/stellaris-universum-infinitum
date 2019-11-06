@@ -9,9 +9,12 @@
         <Values>
           <string>Austrian</string>
           <string>Belgian</string>
+          <string>Danish</string>
           <string>Dutch</string>
           <string>German</string>
           <string>Gothic</string>
+          <string>Norwegian</string>
+          <string>Swedish</string>
           <string>Swiss</string>
           <string>Vandal</string>
           <string>Viking</string>
@@ -188,27 +191,99 @@
         </NameGroup>
       </Rivers>
     </Places>
-    <Weapons>
-      <NameGroup>
-        <Name>Weapons</Name>
-        <Values>
-          <string>Katzbalger</string>
-          <string>Flamberge</string>
-        </Values>
-      </NameGroup>
-    </Weapons>
-    <MilitaryUnitTypes>
-      <NameGroup>
-        <Name>Military Unit Types</Name>
-        <Values>
-          <string>Berserker</string>
-          <string>Landsknechte</string>
-          <string>Panzer</string>
-          <string>Templar</string>
-          <string>Viking</string>
-        </Values>
-      </NameGroup>
-    </MilitaryUnitTypes>
+    <Warfare>
+      <Weapons>
+        <NameGroup>
+          <Name>Swords - Danish</Name>
+          <Values>
+            <string>Sparth</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Swords - German</Name>
+          <Values>
+            <string>Katzbalger</string>
+            <string>Flamberge</string>
+          </Values>
+        </NameGroup>
+      </Weapons>
+      <MilitaryUnitTypes>
+        <NameGroup>
+          <Name>Military Unit Types</Name>
+          <Values>
+            <string>Berserker</string>
+            <string>Landsknechte</string>
+            <string>Panzer</string>
+            <string>Templar</string>
+            <string>Viking</string>
+          </Values>
+        </NameGroup>
+      </MilitaryUnitTypes>
+      <BattleLocations>
+        <NameGroup>
+          <Name>Battle locations</Name>
+          <Values>
+            <string>Arnhem</string>
+            <string>Austerlitz</string>
+            <string>Breitenfeld</string>
+            <string>Breslau</string>
+            <string>Essen</string>
+            <string>Jutland</string>
+            <string>Königgrätz</string>
+            <string>Leipzig</string>
+            <string>Lund</string>
+            <string>Lützen</string>
+            <string>Tannenberg</string>
+            <string>Teutoburg Forest</string>
+          </Values>
+        </NameGroup>
+      </BattleLocations>
+      <BattleLocations>
+        <NameGroup>
+          <Name>Battle locations - </Name>
+          <Values>
+          </Values>
+        </NameGroup>
+      </BattleLocations>
+      <MilitaryPeopleTier1>
+        <NameGroup>
+          <Name>Persons - Military - German</Name>
+          <Values>
+            <string>Erich Hartmann</string>
+            <string>Hartmann</string>
+            <string>Manfred von Richthofen</string>
+            <string>Richthofen</string>
+          </Values>
+        </NameGroup>
+      </MilitaryPeopleTier1>
+      <MilitaryPeopleTier2>
+        <NameGroup>
+          <Name>Persons - Military</Name>
+          <Values>
+            <string>Roland</string>
+            <string>Frederick the Great</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Persons - Military - German</Name>
+          <Values>
+            <string>Erwin Rommel</string>
+            <string>Hindenburg</string>
+            <string>Paul von Hindenburg</string>
+            <string>Rommel</string>
+          </Values>
+        </NameGroup>
+      </MilitaryPeopleTier2>
+      <MilitaryPeopleTier3>
+        <NameGroup>
+          <Name>Persons - Military</Name>
+          <Values>
+            <string>Bismarck</string>
+            <string>Otto von Bismarck</string>
+          </Values>
+        </NameGroup>
+      </MilitaryPeopleTier3>
+    </Warfare>
     <Ships>
       <Corvette>
         <NameGroup>
@@ -243,13 +318,6 @@
           </Values>
         </NameGroup>
         <NameGroup>
-          <Name>Persons - Military - German</Name>
-          <Values>
-            <string>Hartmann</string>
-            <string>Richthofen</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
           <Name>Persons - Science - Swiss</Name>
           <Values>
             <string>Rickenbacker</string>
@@ -278,34 +346,6 @@
           </Values>
         </NameGroup>
         <NameGroup>
-          <Name>Battles / Battlefields</Name>
-          <Values>
-            <string>Arnhem</string>
-            <string>Breitenfeld</string>
-            <string>Breslau</string>
-            <string>Königgrätz</string>
-            <string>Leipzig</string>
-            <string>Lund</string>
-            <string>Lützen</string>
-            <string>Tannenberg</string>
-            <string>Teutoburg Forest</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Persons - Military - Others</Name>
-          <Values>
-            <string>Roland</string>
-            <string>Frederick the Great</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Persons - Military - German</Name>
-          <Values>
-            <string>Hindenburg</string>
-            <string>Rommel</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
           <Name>Persons - Leaders - Swedish</Name>
           <Values>
             <string>Gustavus Adolphus</string>
@@ -323,19 +363,6 @@
         </NameGroup>
       </Cruiser>
       <Battleship>
-        <NameGroup>
-          <Name>Battles / Battlefields</Name>
-          <Values>
-            <string>Austerlitz</string>
-            <string>Jutland</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Persons - Military</Name>
-          <Values>
-            <string>Bismarck</string>
-          </Values>
-        </NameGroup>
         <NameGroup>
           <Name>Mythology - Norse</Name>
           <Values>
@@ -409,6 +436,14 @@
           </Values>
         </NameGroup>
       </Generic>
+      <Science>
+        <NameGroup>
+          <Name>Ship Classes - StarCraft - Terran</Name>
+          <Values>
+            <string>Kurzweil</string>
+          </Values>
+        </NameGroup>
+      </Science>
     </ShipClasses>
     <Stations>
       <MilitaryStations>
@@ -417,12 +452,6 @@
             <Name>Ships - German</Name>
             <Values>
               <string>Tirpitz</string>
-            </Values>
-          </NameGroup>
-          <NameGroup>
-            <Name>Battles / Battlefields</Name>
-            <Values>
-              <string>Essen</string>
             </Values>
           </NameGroup>
         </Generic>
@@ -535,6 +564,13 @@
           <Name>Mythology - Places - Norse</Name>
           <Values>
             <string>Utgard</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Places - Puzzle Pirates</Name>
+          <Values>
+            <string>Jorvik</string>
+            <string>Norse</string>
           </Values>
         </NameGroup>
       </Tundra>

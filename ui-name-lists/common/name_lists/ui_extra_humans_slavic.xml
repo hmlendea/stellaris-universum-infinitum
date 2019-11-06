@@ -55,6 +55,22 @@
           </Values>
         </NameGroup>
       </Countries>
+      <Regions>
+        <NameGroup>
+          <Name>Regions - Bosnia</Name>
+          <Values>
+            <string>Herzegovina</string>
+          </Values>
+        </NameGroup>
+      </Regions>
+      <Regions>
+        <NameGroup>
+          <Name>Regions - Croatia</Name>
+          <Values>
+            <string>Dalmatia</string>
+          </Values>
+        </NameGroup>
+      </Regions>
       <Cities>
         <NameGroup>
           <Name>Cities - Belarus</Name>
@@ -169,31 +185,64 @@
       </Cities>
       <Rivers>
         <NameGroup>
-          <Name>Rivers - English names</Name>
+          <Name>Rivers - Russia</Name>
           <Values>
+          <string>Dnieper</string>
+          <string>Ural</string>
           <string>Volga</string>
           </Values>
         </NameGroup>
+        <NameGroup>
+          <Name>Rivers - Ukraine</Name>
+          <Values>
+          <string>Dniester</string>
+          </Values>
+        </NameGroup>
       </Rivers>
+      <Seas>
+        <NameGroup>
+          <Name>Seas - Russia</Name>
+          <Values>
+          <string>Azov</string>
+          </Values>
+        </NameGroup>
+      </Seas>
     </Places>
-    <Weapons>
-      <NameGroup>
-        <Name></Name>
-        <Values>
-        </Values>
-      </NameGroup>
-    </Weapons>
-    <MilitaryUnitTypes>
-      <NameGroup>
-        <Name>Military Unit Types - Russian</Name>
-        <Values>
-          <string>Cossack</string>
-          <string>Kazakov</string>
-        </Values>
-      </NameGroup>
-    </MilitaryUnitTypes>
-    <Ships>
-      <Corvette>
+    <Warfare>
+      <Weapons>
+        <NameGroup>
+          <Name>Guns - Russian</Name>
+          <Values>
+          <string>Kalashnikov</string>
+          </Values>
+        </NameGroup>
+      </Weapons>
+      <MilitaryUnitTypes>
+        <NameGroup>
+          <Name>Military Unit Types - Russian</Name>
+          <Values>
+            <string>Cossack</string>
+            <string>Kazakov</string>
+          </Values>
+        </NameGroup>
+      </MilitaryUnitTypes>
+      <BattleLocations>
+        <NameGroup>
+          <Name>Battle locations</Name>
+          <Values>
+            <string>Kharkov</string>
+            <string>Poltava</string>
+          </Values>
+        </NameGroup>
+      </BattleLocations>
+      <BattleLocations>
+        <NameGroup>
+          <Name>Battle locations - </Name>
+          <Values>
+          </Values>
+        </NameGroup>
+      </BattleLocations>
+      <MilitaryPeopleTier1>
         <NameGroup>
           <Name>Persons - Military - Polish</Name>
           <Values>
@@ -204,16 +253,41 @@
           <Name>Persons - Military - Russian</Name>
           <Values>
             <string>Ivan Kozhedub</string>
-            <string>Ivan Nikitovich Kozhedub</string>
             <string>Kozhedub</string>
-            <string>Lev Lvovich Shestakov</string>
             <string>Lev Shestakov</string>
             <string>Litvyak</string>
             <string>Lydia Litvyak</string>
-            <string>Lydia Vladimirovna Litvyak</string>
             <string>Shestakov</string>
           </Values>
         </NameGroup>
+      </MilitaryPeopleTier1>
+      <MilitaryPeopleTier2>
+        <NameGroup>
+          <Name>Persons - Military - Russian</Name>
+          <Values>
+            <string>Alexei Brusilov</string>
+            <string>Brusilov</string>
+            <string>Georgy Zhukov</string>
+            <string>Zhukov</string>
+          </Values>
+        </NameGroup>
+      </MilitaryPeopleTier2>
+      <MilitaryPeopleTier3>
+        <NameGroup>
+          <Name>Persons - Military - Russian</Name>
+          <Values>
+            <string>Butakov</string>
+            <string>Grigory Butakov</string>
+            <string>Kornilov</string>
+            <string>Kuznetsov</string>
+            <string>Nikolai Kuznetsov</string>
+            <string>Vladimir Kornilov</string>
+          </Values>
+        </NameGroup>
+      </MilitaryPeopleTier3>
+    </Warfare>
+    <Ships>
+      <Corvette>
         <NameGroup>
           <Name>Ships - Russian</Name>
           <Values>
@@ -238,27 +312,9 @@
           </Values>
         </NameGroup>
         <NameGroup>
-          <Name>Persons - Military - Russian</Name>
-          <Values>
-            <string>Alexei Alexeevici Brusilov</string>
-            <string>Alexei Brusilov</string>
-            <string>Brusilov</string>
-            <string>Georgy Konstantinovich Zhukov</string>
-            <string>Georgy Zhukov</string>
-            <string>Zhukov</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
           <Name>Ships - Russian</Name>
           <Values>
             <string>Kursk</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Battles / Battlefields</Name>
-          <Values>
-            <string>Kharkov</string>
-            <string>Poltava</string>
           </Values>
         </NameGroup>
       </Cruiser>
@@ -266,7 +322,6 @@
         <NameGroup>
           <Name>Persons - Leaders - Russian</Name>
           <Values>
-            <string>Grigory Aleksandrovich Potemkin</string>
             <string>Grigory Potemkin</string>
             <string>Potemkin</string>
           </Values>
@@ -276,7 +331,6 @@
         <NameGroup>
           <Name>People - Scientists - Russian</Name>
           <Values>
-            <string>Konstantin Eduardovich Tsiolkovsky</string>
             <string>Konstantin Tsiolkovsky</string>
             <string>Tsiolkovsky</string>
           </Values>
@@ -294,8 +348,6 @@
             <string>Gagarin</string>
             <string>Tereshkova</string>
             <string>Valentina Tereshkova</string>
-            <string>Valentina Vladimirovna Tereshkova</string>
-            <string>Yuri Alekseyevich Gagarin</string>
             <string>Yuri Gagarin</string>
           </Values>
         </NameGroup>
@@ -338,17 +390,6 @@
         </NameGroup>
       </Generic>
     </ShipClasses>
-    <Stations>
-        <MilitaryStations>
-        <Generic>
-            <NameGroup>
-                <Name></Name>
-                <Values>
-                </Values>
-            </NameGroup>
-        </Generic>
-        </MilitaryStations>
-    </Stations>
     <Armies>
       <Fleet>
         <NameGroup>

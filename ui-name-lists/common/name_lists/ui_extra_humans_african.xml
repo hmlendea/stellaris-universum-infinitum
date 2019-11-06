@@ -7,34 +7,24 @@
       <NameGroup>
         <Name>Denonyms</Name>
         <Values>
-            <string>Berber</string>
-            <string>Congolese</string>
-            <string>Ethiopian</string>
-            <string>Kabyle</string>
-            <string>Kenyan</string>
-            <string>Nigerian</string>
-            <string>Somali</string>
-            <string>Sudanese</string>
-            <string>Tunisian</string>
-            <string>Ugandan</string>
-            <string>Zulu</string>
+          <string>African</string>
+          <string>Berber</string>
+          <string>Congolese</string>
+          <string>Ethiopian</string>
+          <string>Kabyle</string>
+          <string>Kenyan</string>
+          <string>Nigerian</string>
+          <string>Somali</string>
+          <string>Sudanese</string>
+          <string>Tunisian</string>
+          <string>Ugandan</string>
+          <string>Zambian</string>
+          <string>Zimbabwean</string>
+          <string>Zimbo</string>
+          <string>Zulu</string>
         </Values>
       </NameGroup>
     </Denonyms>
-    <Weapons>
-      <NameGroup>
-        <Name>Swords - Kabyle</Name>
-        <Values>
-            <string>Flyssa</string>
-        </Values>
-      </NameGroup>
-      <NameGroup>
-        <Name>Swords - Sudan, Chad, Eritrea</Name>
-        <Values>
-            <string>Kaskara</string>
-        </Values>
-      </NameGroup>
-    </Weapons>
     <Places>
       <Countries>
         <NameGroup>
@@ -63,6 +53,8 @@
             <string>Tanzania</string>
             <string>Tunisia</string>
             <string>Uganda</string>
+            <string>Zambia</string>
+            <string>Zimbabwe</string>
           </Values>
         </NameGroup>
         <NameGroup>
@@ -293,16 +285,62 @@
             <string>Tunis</string>
           </Values>
         </NameGroup>
+        <NameGroup>
+          <Name>Cities - Zambia</Name>
+          <Values>
+            <string>Lusaka</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Cities - Zimbabwe</Name>
+          <Values>
+            <string>Harare</string>
+          </Values>
+        </NameGroup>
       </Cities>
       <Rivers>
         <NameGroup>
-          <Name>Rivers - English names</Name>
+          <Name>Rivers - Congo</Name>
           <Values>
-          <string>Congo</string>
+            <string>Congo</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Rivers - Mozambique</Name>
+          <Values>
+            <string>Limpopo</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Rivers - Nigeria</Name>
+          <Values>
+            <string>Niger</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Rivers - Zambia</Name>
+          <Values>
+            <string>Zambezi</string>
           </Values>
         </NameGroup>
       </Rivers>
     </Places>
+    <Warfare>
+      <Weapons>
+        <NameGroup>
+          <Name>Swords - Kabyle</Name>
+          <Values>
+              <string>Flyssa</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Swords - Sudan, Chad, Eritrea</Name>
+          <Values>
+              <string>Kaskara</string>
+          </Values>
+        </NameGroup>
+      </Weapons>
+    </Warfare>
     <Ships>
       <Corvette>
         <NameGroup>

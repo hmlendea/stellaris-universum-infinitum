@@ -7,12 +7,13 @@
       <NameGroup>
         <Name>Denonyms</Name>
         <Values>
-            <string>American</string>
-            <string>Australian</string>
-            <string>British</string>
-            <string>Canadian</string>
-            <string>English</string>
-            <string>New Zeelander</string>
+          <string>American</string>
+          <string>Australian</string>
+          <string>British</string>
+          <string>Canadian</string>
+          <string>English</string>
+          <string>New Zeelander</string>
+          <string>Zeelandian</string>
         </Values>
       </NameGroup>
     </Denonyms>
@@ -34,7 +35,7 @@
       </Countries>
       <Regions>
         <NameGroup>
-          <Name>Regions -Australia</Name>
+          <Name>Regions - Australia</Name>
           <Values>
             <string>New South Wales</string>
             <string>Qeensland</string>
@@ -45,7 +46,14 @@
           </Values>
         </NameGroup>
         <NameGroup>
-          <Name>Regions -United States</Name>
+          <Name>Regions - England</Name>
+          <Values>
+            <string>Essex</string>
+            <string>Wessex</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Regions - United States</Name>
           <Values>
             <string>Alabama</string>
             <string>Alaska</string>
@@ -220,6 +228,7 @@
         <NameGroup>
           <Name>Rivers - United States</Name>
           <Values>
+            <string>Arkansas</string>
             <string>Colorado</string>
             <string>Hudson</string>
             <string>Merrimack</string>
@@ -233,35 +242,67 @@
         </NameGroup>
       </Rivers>
     </Places>
-    <Weapons>
-      <NameGroup>
-        <Name>Axes</Name>
-        <Values>
-          <string>Tomahawk</string>
-        </Values>
-      </NameGroup>
-    </Weapons>
-    <MilitaryUnitTypes>
-      <NameGroup>
-        <Name>Military Unit Types - British</Name>
-        <Values>
-          <string>Highlander</string>
-          <string>Longbowman</string>
-        </Values>
-      </NameGroup>
-    </MilitaryUnitTypes>
-    <MilitaryUnitTypes>
-      <NameGroup>
-        <Name>Mythological Creatures - British</Name>
-        <Values>
-          <string>Banshee</string>
-          <string>Spriggan</string>
-          <string>Wyvern</string>
-        </Values>
-      </NameGroup>
-    </MilitaryUnitTypes>
-    <Ships>
-      <Corvette>
+    <Warfare>
+      <Weapons>
+        <NameGroup>
+          <Name>Axes</Name>
+          <Values>
+            <string>Axe</string>
+            <string>Hatchet</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Axes - American</Name>
+          <Values>
+            <string>Tomahawk</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Swords</Name>
+          <Values>
+            <string>Longsword</string>
+            <string>Shortsword</string>
+            <string>Sword</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Daggers</Name>
+          <Values>
+            <string>Dagger</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Hammers</Name>
+          <Values>
+            <string>Warhammer</string>
+          </Values>
+        </NameGroup>
+      </Weapons>
+      <MilitaryUnitTypes>
+        <NameGroup>
+          <Name>Military Unit Types - American</Name>
+          <Values>
+            <string>Minuteman</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Military Unit Types - British</Name>
+          <Values>
+            <string>Highlander</string>
+            <string>Longbowman</string>
+          </Values>
+        </NameGroup>
+      </MilitaryUnitTypes>
+      <BattleLocations>
+        <NameGroup>
+          <Name>Battle locations</Name>
+          <Values>
+            <string>Chickamagua</string>
+            <string>Lexington</string>
+          </Values>
+        </NameGroup>
+      </BattleLocations>
+      <MilitaryPeopleTier1>
         <NameGroup>
           <Name>Persons - Military - American</Name>
           <Values>
@@ -292,6 +333,46 @@
             <string>MacLachlan</string>
           </Values>
         </NameGroup>
+      </MilitaryPeopleTier1>
+      <MilitaryPeopleTier2>
+        <NameGroup>
+          <Name>Persons - Military - American</Name>
+          <Values>
+            <string>Dwight D. Eisenhower</string>
+            <string>Dwight David Eisenhower</string>
+            <string>Eisenhower</string>
+          </Values>
+        </NameGroup>
+      </MilitaryPeopleTier2>
+      <MilitaryPeopleTier3>
+        <NameGroup>
+          <Name>Persons - Military - British</Name>
+          <Values>
+            <string>Aaron Cunningham</string>
+            <string>Andrew Cunningham</string>
+            <string>Crutchley</string>
+            <string>Cunningham</string>
+            <string>Francis Laforey</string>
+            <string>Laforey</string>
+            <string>Louis Mountbatten</string>
+            <string>Mountbatten</string>
+            <string>Victor Crutchley</string>
+          </Values>
+        </NameGroup>
+      </MilitaryPeopleTier3>
+    </Warfare>
+    <MythologicalCreatures>
+      <NameGroup>
+        <Name>Mythological Creatures - British</Name>
+        <Values>
+          <string>Banshee</string>
+          <string>Spriggan</string>
+          <string>Wyvern</string>
+        </Values>
+      </NameGroup>
+    </MythologicalCreatures>
+    <Ships>
+      <Corvette>
         <NameGroup>
           <Name>Persons - Heroes - American</Name>
           <Values>
@@ -352,14 +433,6 @@
             <string>Winston Churchill</string>
           </Values>
         </NameGroup>
-        <NameGroup>
-          <Name>Persons - Military - American</Name>
-          <Values>
-            <string>Dwight D. Eisenhower</string>
-            <string>Dwight David Eisenhower</string>
-            <string>Eisenhower</string>
-          </Values>
-        </NameGroup>
       </Cruiser>
       <Battleship>
         <NameGroup>
@@ -374,13 +447,6 @@
           <Values>
             <string>Lionheart</string>
             <string>Richard the Lionheart</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Battles / Battlefields - United States</Name>
-          <Values>
-            <string>Chickamagua</string>
-            <string>Lexington</string>
           </Values>
         </NameGroup>
       </Battleship>
@@ -481,15 +547,32 @@
       </Generic>
     </ShipClasses>
     <Stations>
-        <MilitaryStations>
+      <MilitaryStations>
         <Generic>
-            <NameGroup>
-                <Name></Name>
-                <Values>
-                </Values>
-            </NameGroup>
+          <NameGroup>
+            <Name>Persons - Leaders - British</Name>
+            <Values>
+              <string>Victoria</string>
+            </Values>
+          </NameGroup>
         </Generic>
-        </MilitaryStations>
+      </MilitaryStations>
+      <Starbases>
+        <Starports>
+          <NameGroup>
+            <Name>Airports - England</Name>
+            <Values>
+              <string>Heathrow</string>
+            </Values>
+          </NameGroup>
+          <NameGroup>
+            <Name>Airports - United States</Name>
+            <Values>
+              <string>John F. Kennedy</string>
+            </Values>
+          </NameGroup>
+        </Starports>
+      </Starbases>
     </Stations>
     <Armies>
       <Fleet>
@@ -499,6 +582,14 @@
           </Values>
         </NameGroup>
       </Fleet>
+      <DefenceArmy>
+        <NameGroup>
+          <Name>Defence armies - American</Name>
+          <Values>
+            <string>The Minutemen</string>
+          </Values>
+        </NameGroup>
+      </DefenceArmy>
     </Armies>
     <Planets>
       <Generic>
@@ -545,8 +636,9 @@
       </Desert>
       <Continental>
         <NameGroup>
-          <Name></Name>
+          <Name>Mythology - Places - English</Name>
           <Values>
+            <string>Camelot</string>
           </Values>
         </NameGroup>
       </Continental>

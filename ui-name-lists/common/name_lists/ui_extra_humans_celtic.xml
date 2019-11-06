@@ -58,21 +58,23 @@
         </NameGroup>
       </Cities>
     </Places>
-    <Weapons>
-      <NameGroup>
-        <Name></Name>
-        <Values>
-        </Values>
-      </NameGroup>
-    </Weapons>
-    <MilitaryUnitTypes>
-      <NameGroup>
-        <Name>Military Unit Types - Scottish</Name>
-        <Values>
-          <string>Highlander</string>
-        </Values>
-      </NameGroup>
-    </MilitaryUnitTypes>
+    <Warfare>
+      <Weapons>
+        <NameGroup>
+          <Name></Name>
+          <Values>
+          </Values>
+        </NameGroup>
+      </Weapons>
+      <MilitaryUnitTypes>
+        <NameGroup>
+          <Name>Military Unit Types - Scottish</Name>
+          <Values>
+            <string>Highlander</string>
+          </Values>
+        </NameGroup>
+      </MilitaryUnitTypes>
+    </Warfare>
     <MythologicalCreatures>
       <NameGroup>
         <Name>Mythological Creatures - Cornish</Name>

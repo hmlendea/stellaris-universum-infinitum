@@ -13,13 +13,6 @@
         </Values>
       </NameGroup>
     </Denonyms>
-    <Weapons>
-      <NameGroup>
-        <Name></Name>
-        <Values>
-        </Values>
-      </NameGroup>
-    </Weapons>
     <Places>
       <Countries>
         <NameGroup>
@@ -126,6 +119,29 @@
         </NameGroup>
       </Cities>
     </Places>
+    <Warfare>
+      <Weapons>
+        <NameGroup>
+          <Name></Name>
+          <Values>
+          </Values>
+        </NameGroup>
+      </Weapons>
+      <MilitaryUnitTypes>
+        <NameGroup>
+          <Name></Name>
+          <Values>
+          </Values>
+        </NameGroup>
+      </MilitaryUnitTypes>
+      <BattleLocations>
+        <NameGroup>
+          <Name></Name>
+          <Values>
+          </Values>
+        </NameGroup>
+      </BattleLocations>
+    </Warfare>
     <Ships>
       <Generic />
       <Corvette>

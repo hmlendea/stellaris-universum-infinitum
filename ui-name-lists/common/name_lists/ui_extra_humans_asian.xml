@@ -14,6 +14,7 @@
           <string>Malysian</string>
           <string>Mongol</string>
           <string>Mongolian</string>
+          <string>Tibetan</string>
           <string>Vietnamese</string>
         </Values>
       </NameGroup>
@@ -28,6 +29,7 @@
             <string>Korea</string>
             <string>Mongolia</string>
             <string>Taiwan</string>
+            <string>Tibet</string>
           </Values>
         </NameGroup>
       </Countries>
@@ -258,74 +260,76 @@
         <NameGroup>
           <Name>Rivers - English names</Name>
           <Values>
+            <string>Mekong</string>
             <string>Yangtze</string>
           </Values>
         </NameGroup>
       </Rivers>
     </Places>
-    <Weapons>
-      <NameGroup>
-        <Name>Swords - Chinese</Name>
-        <Values>
-          <string>Changdao</string>
-          <string>Jian</string>
-          <string>Liuyedao</string>
-          <string>Miaodao</string>
-          <string>Wodao</string>
-          <string>Yanmaodao</string>
-          <string>Zhanmadao</string>
-        </Values>
-      </NameGroup>
-      <NameGroup>
-        <Name>Swords - Japanese</Name>
-        <Values>
-          <string>Chokuto</string>
-          <string>Katana</string>
-          <string>Odachi</string>
-          <string>Shikomizue</string>
-          <string>Tachi</string>
-          <string>Tsurugi</string>
-          <string>Uchigatana</string>
-          <string>Wakizashi</string>
-        </Values>
-      </NameGroup>
-      <NameGroup>
-        <Name>Daggers - Japanese</Name>
-        <Values>
-          <string>Kaiken</string>
-        </Values>
-      </NameGroup>
-      <NameGroup>
-        <Name>Crossbows - Chinese</Name>
-        <Values>
-          <string>Chu-ko-nu</string>
-        </Values>
-      </NameGroup>
-    </Weapons>
-    <MilitaryUnitTypes>
-      <NameGroup>
-        <Name>Military Unit Types - Japanese</Name>
-        <Values>
-          <string>Ronin</string>
-          <string>Samurai</string>
-        </Values>
-      </NameGroup>
-      <NameGroup>
-        <Name>Military Unit Types - Mongol</Name>
-        <Values>
-          <string>Mangudai</string>
-        </Values>
-      </NameGroup>
-    </MilitaryUnitTypes>
-    <Ships>
-      <Generic />
-      <Corvette>
+    <Warfare>
+      <Weapons>
         <NameGroup>
-          <Name>Ships - Chinese</Name>
+          <Name>Swords - Chinese</Name>
           <Values>
-            <string>Yangwei</string>
+            <string>Changdao</string>
+            <string>Dadao</string>
+            <string>Jian</string>
+            <string>Liuyedao</string>
+            <string>Miaodao</string>
+            <string>Wodao</string>
+            <string>Yanmaodao</string>
+            <string>Zhanmadao</string>
           </Values>
         </NameGroup>
+        <NameGroup>
+          <Name>Swords - Japanese</Name>
+          <Values>
+            <string>Chokuto</string>
+            <string>Katana</string>
+            <string>Odachi</string>
+            <string>Shikomizue</string>
+            <string>Tachi</string>
+            <string>Tsurugi</string>
+            <string>Uchigatana</string>
+            <string>Wakizashi</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Daggers - Japanese</Name>
+          <Values>
+            <string>Kaiken</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Crossbows - Chinese</Name>
+          <Values>
+            <string>Chu-ko-nu</string>
+          </Values>
+        </NameGroup>
+      </Weapons>
+      <MilitaryUnitTypes>
+        <NameGroup>
+          <Name>Military Unit Types - Japanese</Name>
+          <Values>
+            <string>Ronin</string>
+            <string>Samurai</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Military Unit Types - Mongol</Name>
+          <Values>
+            <string>Mangudai</string>
+          </Values>
+        </NameGroup>
+      </MilitaryUnitTypes>
+      <BattleLocations>
+        <NameGroup>
+          <Name>Battle locations - </Name>
+          <Values>
+          </Values>
+        </NameGroup>
+      </BattleLocations>
+      <MilitaryPeopleTier1>
         <NameGroup>
           <Name>Persons - Military - Japanese</Name>
           <Values>
@@ -336,6 +340,60 @@
             <string>Sakai</string>
             <string>Shinohara</string>
             <string>Tomoe Gozen</string>
+          </Values>
+        </NameGroup>
+      </MilitaryPeopleTier1>
+      <MilitaryPeopleTier2>
+        <NameGroup>
+          <Name>Persons - Military - Chinese</Name>
+          <Values>
+            <string>Sun Tzu</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Persons - Military - Japanese</Name>
+          <Values>
+            <string>Heihachiro</string>
+            <string>Oshio Heihachiro</string>
+            <string>Togo Heihachiro</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Persons - Military - Korean</Name>
+          <Values>
+            <string>Yi Sun-sin</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Persons - Military - Mongol</Name>
+          <Values>
+            <string>Subutai</string>
+          </Values>
+        </NameGroup>
+      </MilitaryPeopleTier2>
+      <MilitaryPeopleTier3>
+        <NameGroup>
+          <Name>Persons - Military - Japanese</Name>
+          <Values>
+            <string>Akira Muto</string>
+            <string>Akira Yamamoto</string>
+            <string>Akira</string>
+            <string>Miyamoto Musashi</string>
+            <string>Musashi</string>
+            <string>Raizō Tanaka</string>
+            <string>Tanaka</string>
+            <string>Yamamoto</string>
+            <string>Yonai</string>
+          </Values>
+        </NameGroup>
+      </MilitaryPeopleTier3>
+    </Warfare>
+    <Ships>
+      <Corvette>
+        <NameGroup>
+          <Name>Ships - Chinese</Name>
+          <Values>
+            <string>Yangwei</string>
           </Values>
         </NameGroup>
         <NameGroup>
@@ -365,32 +423,6 @@
             <string>Genghis Khan</string>
           </Values>
         </NameGroup>
-        <NameGroup>
-          <Name>Persons - Military - Chinese</Name>
-          <Values>
-            <string>Sun Tzu</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Persons - Military - Japanese</Name>
-          <Values>
-            <string>Heihachiro</string>
-            <string>Oshio Heihachiro</string>
-            <string>Togo Heihachiro</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Persons - Military - Korean</Name>
-          <Values>
-            <string>Yi Sun-sin</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Persons - Military - Mongol</Name>
-          <Values>
-            <string>Subutai</string>
-          </Values>
-        </NameGroup>
       </Cruiser>
       <Battleship>
         <NameGroup>
@@ -398,17 +430,6 @@
           <Values>
             <string>Akagi</string>
             <string>Kaga</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Persons - Military - Japanese</Name>
-          <Values>
-            <string>Akira Muto</string>
-            <string>Akira Yamamoto</string>
-            <string>Akira</string>
-            <string>Miyamoto Musashi</string>
-            <string>Musashi</string>
-            <string>Yamamoto</string>
           </Values>
         </NameGroup>
         <NameGroup>
@@ -464,19 +485,6 @@
         </NameGroup>
       </Generic>
     </ShipClasses>
-    <Stations>
-        <MilitaryStations>
-        <Generic>
-            <NameGroup>
-              <Name>Persons - Military - Japanese</Name>
-              <Values>
-                <string>Tanaka</string>
-                <string>Yonai</string>
-              </Values>
-            </NameGroup>
-        </Generic>
-        </MilitaryStations>
-    </Stations>
     <Armies>
       <SuperSoldiers>
         <NameGroup>
@@ -498,651 +506,6 @@
             <string>Wang Tong</string>
             <string>Nozomi</string>
             <string>Akatsuki</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Generated - Markov</Name>
-          <Values>
-            <string>Altanraat</string>
-            <string>Angol</string>
-            <string>Angye</string>
-            <string>Annouchi</string>
-            <string>Ansengel</string>
-            <string>Ansunai</string>
-            <string>Aridahua</string>
-            <string>Aridaraoi</string>
-            <string>Asaturuun</string>
-            <string>Baatkhit</string>
-            <string>Baatraat</string>
-            <string>Bagacheon</string>
-            <string>Bagakhan</string>
-            <string>Bagaraha</string>
-            <string>Bagasong</string>
-            <string>Bamandal</string>
-            <string>Baoyeong</string>
-            <string>Baruunhaba</string>
-            <string>Baruunhar</string>
-            <string>Baruunnokawa</string>
-            <string>Baruunshui</string>
-            <string>Baruuntooroi</string>
-            <string>Baruunwara</string>
-            <string>Battgon</string>
-            <string>Batthidaka</string>
-            <string>Bayanzawa</string>
-            <string>Bigas</string>
-            <string>Bijing</string>
-            <string>Bikita</string>
-            <string>Birabayan</string>
-            <string>Birabuchi</string>
-            <string>Biratama</string>
-            <string>Birayant</string>
-            <string>Borbulag</string>
-            <string>Borje</string>
-            <string>Bormen</string>
-            <string>Bortari</string>
-            <string>Borxiang</string>
-            <string>Bucheng</string>
-            <string>Bugana</string>
-            <string>Bulanryngol</string>
-            <string>Bulbaek</string>
-            <string>Bulfurano</string>
-            <string>Bulkhorin</string>
-            <string>Bulshaat</string>
-            <string>Buramay</string>
-            <string>Buturuun</string>
-            <string>Buuttari</string>
-            <string>Buutzawa</string>
-            <string>Buyant</string>
-            <string>Chandsu</string>
-            <string>Chandyeong</string>
-            <string>Changhidaka</string>
-            <string>Changkhangai</string>
-            <string>Changsagaan</string>
-            <string>Changyuan</string>
-            <string>Cheomoto</string>
-            <string>Cheotai</string>
-            <string>Cheoyako</string>
-            <string>Choichivlin</string>
-            <string>Choigalant</string>
-            <string>Choikita</string>
-            <string>Choitai</string>
-            <string>Choixing</string>
-            <string>Choiyong</string>
-            <string>Chubetsu</string>
-            <string>Chuluunbaek</string>
-            <string>Chuluuntari</string>
-            <string>Chuluunzawa</string>
-            <string>Chundong</string>
-            <string>Chungnobe</string>
-            <string>Chungong</string>
-            <string>Chungsaki</string>
-            <string>Chunyeong</string>
-            <string>Conggalant</string>
-            <string>Congjinst</string>
-            <string>Congshibetsu</string>
-            <string>Congtoro</string>
-            <string>Danggaljuut</string>
-            <string>Dangmandal</string>
-            <string>Dangon</string>
-            <string>Dangyant</string>
-            <string>Dartoro</string>
-            <string>Deldao</string>
-            <string>Delkh</string>
-            <string>Delshaat</string>
-            <string>Dongkawa</string>
-            <string>Dongsagaan</string>
-            <string>Dulaanchon</string>
-            <string>Dulaansagaan</string>
-            <string>Enchang</string>
-            <string>Enganuur</string>
-            <string>Enhae</string>
-            <string>Enkotan</string>
-            <string>Enpo</string>
-            <string>Enraat</string>
-            <string>Erchang</string>
-            <string>Erturuun</string>
-            <string>Erxiang</string>
-            <string>Fengshu</string>
-            <string>Fengvi</string>
-            <string>Fuchaek</string>
-            <string>Fugalan</string>
-            <string>Fuhama</string>
-            <string>Fujichivlin</string>
-            <string>Fujihoroot</string>
-            <string>Fukhet</string>
-            <string>Funahoma</string>
-            <string>Funatai</string>
-            <string>Furuhaba</string>
-            <string>Furusan</string>
-            <string>Fushu</string>
-            <string>Gakhlant</string>
-            <string>Gangganuur</string>
-            <string>Gangkhangai</string>
-            <string>Gangwara</string>
-            <string>Gangzihua</string>
-            <string>Gimhaba</string>
-            <string>Guanggas</string>
-            <string>Guangjin</string>
-            <string>Guangkhan</string>
-            <string>Guangwei</string>
-            <string>Guigalan</string>
-            <string>Guikonai</string>
-            <string>Guiqihar</string>
-            <string>Guiraoi</string>
-            <string>Guishiri</string>
-            <string>Gurvancheok</string>
-            <string>Gurvanlig</string>
-            <string>Gurvansogt</string>
-            <string>Gurvantsogt</string>
-            <string>Gurvanxiang</string>
-            <string>Guuganuur</string>
-            <string>Guunokawa</string>
-            <string>Gwageup</string>
-            <string>Gwamamoto</string>
-            <string>Gwanggaa</string>
-            <string>Gwanggol</string>
-            <string>Gwangkhit</string>
-            <string>Gwangkonai</string>
-            <string>Gwangping</string>
-            <string>Gwangraha</string>
-            <string>Gwangtont</string>
-            <string>Gwasu</string>
-            <string>Gyeongkanai</string>
-            <string>Gyeongkhan</string>
-            <string>Gyeongmamoto</string>
-            <string>Gyeongping</string>
-            <string>Gyeongraha</string>
-            <string>Haekawa</string>
-            <string>Haemay</string>
-            <string>Haesong</string>
-            <string>Haeyama</string>
-            <string>Hamkhlant</string>
-            <string>Hamran</string>
-            <string>Hangbaek</string>
-            <string>Hangqihar</string>
-            <string>Hanmatsunai</string>
-            <string>Hanshir</string>
-            <string>Hansong</string>
-            <string>Hashigata</string>
-            <string>Hashigon</string>
-            <string>Hashihaba</string>
-            <string>Hashikhet</string>
-            <string>Hayahaba</string>
-            <string>Hayaneung</string>
-            <string>Hengbulag</string>
-            <string>Hengger</string>
-            <string>Hengkumo</string>
-            <string>Hengsagaan</string>
-            <string>Hengtari</string>
-            <string>Hoerfurano</string>
-            <string>Hoershaat</string>
-            <string>Hoerzuishan</string>
-            <string>Honbetsu</string>
-            <string>Honlan</string>
-            <string>Honshui</string>
-            <string>Hontori</string>
-            <string>Horogye</string>
-            <string>Horonuur</string>
-            <string>Horozou</string>
-            <string>Huicheng</string>
-            <string>Hyekotan</string>
-            <string>Hyeqihar</string>
-            <string>Hyezawa</string>
-            <string>Ikchon</string>
-            <string>Ikje</string>
-            <string>Ikliang</string>
-            <string>Iksong</string>
-            <string>Ikturuun</string>
-            <string>Iwagalan</string>
-            <string>Iwahai</string>
-            <string>Iwahoroot</string>
-            <string>Iwaqiu</string>
-            <string>Iwasan</string>
-            <string>Jamicheng</string>
-            <string>Jamikhangai</string>
-            <string>Jamikotan</string>
-            <string>Jamisato</string>
-            <string>Jamitooroi</string>
-            <string>Jandong</string>
-            <string>Janramay</string>
-            <string>Jansagaan</string>
-            <string>Jarga</string>
-            <string>Jarsunai</string>
-            <string>Jarwara</string>
-            <string>Javgawa</string>
-            <string>Javju</string>
-            <string>Javnuur</string>
-            <string>Javtari</string>
-            <string>Javtooroi</string>
-            <string>Jeonchaek</string>
-            <string>Jeondao</string>
-            <string>Jeonmay</string>
-            <string>Jeonsato</string>
-            <string>Jeonseong</string>
-            <string>Jeonzhou</string>
-            <string>Jeraha</string>
-            <string>Jeshina</string>
-            <string>Jewang</string>
-            <string>Jiangbulag</string>
-            <string>Jiangchaek</string>
-            <string>Jiangmani</string>
-            <string>Jiaodene</string>
-            <string>Jiaogol</string>
-            <string>Jiaohae</string>
-            <string>Jiaowang</string>
-            <string>Jinbiro</string>
-            <string>Jincheng</string>
-            <string>Kaebiro</string>
-            <string>Kaeging</string>
-            <string>Kaekita</string>
-            <string>Kaekumo</string>
-            <string>Kaeluut</string>
-            <string>Kaeramay</string>
-            <string>Kaeraoi</string>
-            <string>Kaetai</string>
-            <string>Kaeteeg</string>
-            <string>Kaevi</string>
-            <string>Kaeyako</string>
-            <string>Kamisuhidaka</string>
-            <string>Kamisukhorin</string>
-            <string>Kamisunokawa</string>
-            <string>Kamisusengel</string>
-            <string>Kamisushir</string>
-            <string>Karagalan</string>
-            <string>Karaqihar</string>
-            <string>Kenging</string>
-            <string>Kenneung</string>
-            <string>Khadong</string>
-            <string>Khairchang</string>
-            <string>Khairdene</string>
-            <string>Kharcheok</string>
-            <string>Kharrao</string>
-            <string>Kharyeong</string>
-            <string>Kherchivlin</string>
-            <string>Khergaa</string>
-            <string>Kherjiang</string>
-            <string>Kherkhir</string>
-            <string>Kherlengeup</string>
-            <string>Kherlenmatsunai</string>
-            <string>Kherlenyang</string>
-            <string>Kherrano</string>
-            <string>Khongaa</string>
-            <string>Khonwon</string>
-            <string>Khotzawa</string>
-            <string>Khotzou</string>
-            <string>Khugaa</string>
-            <string>Khugana</string>
-            <string>Khutont</string>
-            <string>Khyalramoto</string>
-            <string>Khyarkhet</string>
-            <string>Kimobiro</string>
-            <string>Kimogaa</string>
-            <string>Kiyoluut</string>
-            <string>Kucheng</string>
-            <string>Kumajinst</string>
-            <string>Kumayuan</string>
-            <string>Kumibuchi</string>
-            <string>Kumichon</string>
-            <string>Kumihidaka</string>
-            <string>Kumitont</string>
-            <string>Kumiyang</string>
-            <string>Kuraha</string>
-            <string>Kurineung</string>
-            <string>Kurisaki</string>
-            <string>Kurisato</string>
-            <string>Kurohama</string>
-            <string>Kuronagawa</string>
-            <string>Kurosan</string>
-            <string>Kuroyang</string>
-            <string>Kuyama</string>
-            <string>Kuzubulag</string>
-            <string>Kuzugor</string>
-            <string>Kuzuhou</string>
-            <string>Kuzukami</string>
-            <string>Kuzumatsunai</string>
-            <string>Kuzushihoro</string>
-            <string>Kuzutori</string>
-            <string>Liaodao</string>
-            <string>Liaogalan</string>
-            <string>Liaolig</string>
-            <string>Liaonouchi</string>
-            <string>Liaonuur</string>
-            <string>Liaoping</string>
-            <string>Malhoma</string>
-            <string>Malpo</string>
-            <string>Malwei</string>
-            <string>Matsugana</string>
-            <string>Matsuraat</string>
-            <string>Matsusato</string>
-            <string>Meigana</string>
-            <string>Meiliun</string>
-            <string>Mianliang</string>
-            <string>Mianramoto</string>
-            <string>Minachang</string>
-            <string>Minagor</string>
-            <string>Minakhangai</string>
-            <string>Minasengel</string>
-            <string>Miyahae</string>
-            <string>Miyakhaan</string>
-            <string>Miyakhangai</string>
-            <string>Miyalan</string>
-            <string>Miyarano</string>
-            <string>Mudanshihoro</string>
-            <string>Mudanteeg</string>
-            <string>Munghua</string>
-            <string>Mungmoto</string>
-            <string>Mungseong</string>
-            <string>Mungshiri</string>
-            <string>Mutsuganuur</string>
-            <string>Mutsugas</string>
-            <string>Mutsumani</string>
-            <string>Mutsuyant</string>
-            <string>Naga</string>
-            <string>Nagaga</string>
-            <string>Nagahoroot</string>
-            <string>Nagajiang</string>
-            <string>Nagakanai</string>
-            <string>Nagasato</string>
-            <string>Nakanai</string>
-            <string>Nakaneung</string>
-            <string>Namgaa</string>
-            <string>Namlin</string>
-            <string>Nanhou</string>
-            <string>Nankonai</string>
-            <string>Nanwon</string>
-            <string>Nanyako</string>
-            <string>Nanzhou</string>
-            <string>Narajin</string>
-            <string>Narakhet</string>
-            <string>Naranhou</string>
-            <string>Narankotan</string>
-            <string>Narantori</string>
-            <string>Naratoro</string>
-            <string>Narawon</string>
-            <string>Nogoonliun</string>
-            <string>Nogoonnan</string>
-            <string>Nogoontori</string>
-            <string>Nomchong</string>
-            <string>Nomsaki</string>
-            <string>Nomshihoro</string>
-            <string>Nomshir</string>
-            <string>Nomyang</string>
-            <string>Nomzihua</string>
-            <string>Nonchon</string>
-            <string>Nonchong</string>
-            <string>Nonmamoto</string>
-            <string>Nonmen</string>
-            <string>Okubetsu</string>
-            <string>Okucheon</string>
-            <string>Okumamoto</string>
-            <string>Okushiri</string>
-            <string>Onhua</string>
-            <string>Onkhon</string>
-            <string>Onkumo</string>
-            <string>Onshaat</string>
-            <string>Onshibetsu</string>
-            <string>Onshiri</string>
-            <string>Orjinst</string>
-            <string>Panlan</string>
-            <string>Panrao</string>
-            <string>Pantsogt</string>
-            <string>Pingging</string>
-            <string>Pingsato</string>
-            <string>Pochun</string>
-            <string>Pyongdong</string>
-            <string>Pyongmandal</string>
-            <string>Pyongnokawa</string>
-            <string>Pyongyuan</string>
-            <string>Qigaa</string>
-            <string>Qigaljuut</string>
-            <string>Qiliang</string>
-            <string>Qinbaek</string>
-            <string>Qingsong</string>
-            <string>Qingsu</string>
-            <string>Qinkh</string>
-            <string>Qinkhir</string>
-            <string>Qinkonai</string>
-            <string>Qinkotan</string>
-            <string>Qinouchi</string>
-            <string>Qinshibetsu</string>
-            <string>Qinturuun</string>
-            <string>Qisengel</string>
-            <string>Qisogt</string>
-            <string>Quangalant</string>
-            <string>Quansaki</string>
-            <string>Quanserleg</string>
-            <string>Quantooroi</string>
-            <string>Qudene</string>
-            <string>Quhidaka</string>
-            <string>Qukhangai</string>
-            <string>Rahae</string>
-            <string>Rahua</string>
-            <string>Ralan</string>
-            <string>Rangas</string>
-            <string>Ransengel</string>
-            <string>Raraoi</string>
-            <string>Razhou</string>
-            <string>Sachon</string>
-            <string>Saiging</string>
-            <string>Saisai</string>
-            <string>Sakhir</string>
-            <string>Salkhet</string>
-            <string>Sallig</string>
-            <string>Salserleg</string>
-            <string>Salsu</string>
-            <string>Samgat</string>
-            <string>Samgong</string>
-            <string>Samjin</string>
-            <string>Samnai</string>
-            <string>Samshiri</string>
-            <string>Samyeong</string>
-            <string>Sanan</string>
-            <string>Sarigas</string>
-            <string>Sarigawa</string>
-            <string>Sarinai</string>
-            <string>Sarixiang</string>
-            <string>Sasu</string>
-            <string>Seochang</string>
-            <string>Shakochivlin</string>
-            <string>Shakogawa</string>
-            <string>Shakomaki</string>
-            <string>Shanbuchi</string>
-            <string>Shangdao</string>
-            <string>Shanhae</string>
-            <string>Shaoqihar</string>
-            <string>Shaosu</string>
-            <string>Shaoyang</string>
-            <string>Shargaljuut</string>
-            <string>Sharkh</string>
-            <string>Sharkhan</string>
-            <string>Sharshiri</string>
-            <string>Sharyncho</string>
-            <string>Sharynguan</string>
-            <string>Shibetsu</string>
-            <string>Shikhangai</string>
-            <string>Shimahou</string>
-            <string>Shimamaki</string>
-            <string>Shimamen</string>
-            <string>Shinan</string>
-            <string>Shinehai</string>
-            <string>Shinelan</string>
-            <string>Shinexiang</string>
-            <string>Shinlan</string>
-            <string>Shinqihar</string>
-            <string>Shinraat</string>
-            <string>Shinshui</string>
-            <string>Shiragol</string>
-            <string>Shiyama</string>
-            <string>Shizuichaek</string>
-            <string>Shizuiwang</string>
-            <string>Shizuiyako</string>
-            <string>Shizuiyong</string>
-            <string>Sintari</string>
-            <string>Sinuisong</string>
-            <string>Sinuisunai</string>
-            <string>Sinuitoro</string>
-            <string>Sokgaa</string>
-            <string>Sokjiang</string>
-            <string>Soksai</string>
-            <string>Soktong</string>
-            <string>Sokxiang</string>
-            <string>Sokzaki</string>
-            <string>Souyako</string>
-            <string>Suhoro</string>
-            <string>Sumay</string>
-            <string>Sunging</string>
-            <string>Sunhung</string>
-            <string>Sunkhan</string>
-            <string>Sunkhorin</string>
-            <string>Sunshibetsu</string>
-            <string>Sunshina</string>
-            <string>Sunyako</string>
-            <string>Sushui</string>
-            <string>Suyant</string>
-            <string>Taidene</string>
-            <string>Taigaa</string>
-            <string>Taigat</string>
-            <string>Takadene</string>
-            <string>Takahoro</string>
-            <string>Tangawa</string>
-            <string>Tangyeong</string>
-            <string>Tanhoro</string>
-            <string>Tannai</string>
-            <string>Tariagata</string>
-            <string>Tariager</string>
-            <string>Tariahoro</string>
-            <string>Tariakhon</string>
-            <string>Tariamen</string>
-            <string>Tariatsukawa</string>
-            <string>Tatechong</string>
-            <string>Tatejiang</string>
-            <string>Tateraoi</string>
-            <string>Tatesaki</string>
-            <string>Tawabuchi</string>
-            <string>Tawarabaek</string>
-            <string>Tawaragaa</string>
-            <string>Tawarahar</string>
-            <string>Tawaranagawa</string>
-            <string>Tawaranobe</string>
-            <string>Tengdong</string>
-            <string>Tengnai</string>
-            <string>Tokrano</string>
-            <string>Tokshan</string>
-            <string>Tongbetsu</string>
-            <string>Touchun</string>
-            <string>Tougong</string>
-            <string>Touhung</string>
-            <string>Toukotan</string>
-            <string>Toulan</string>
-            <string>Tsengana</string>
-            <string>Tsenpo</string>
-            <string>Uicho</string>
-            <string>Uikh</string>
-            <string>Uinobe</string>
-            <string>Uitooroi</string>
-            <string>Uitoro</string>
-            <string>Ulaanhou</string>
-            <string>Ulaankanai</string>
-            <string>Ulaannouchi</string>
-            <string>Ulaanran</string>
-            <string>Ulaansato</string>
-            <string>Ulaanturuun</string>
-            <string>Urabayan</string>
-            <string>Urashina</string>
-            <string>Watabaek</string>
-            <string>Watadene</string>
-            <string>Wataje</string>
-            <string>Wataseong</string>
-            <string>Watawara</string>
-            <string>Wonjinst</string>
-            <string>Wonkhir</string>
-            <string>Wonnagawa</string>
-            <string>Wonshu</string>
-            <string>Xiangga</string>
-            <string>Xianghoroot</string>
-            <string>Xiangkhir</string>
-            <string>Xianglin</string>
-            <string>Xiangsan</string>
-            <string>Xiangsong</string>
-            <string>Xiangtoro</string>
-            <string>Xiangyuan</string>
-            <string>Xiankhangai</string>
-            <string>Xianliun</string>
-            <string>Xiannai</string>
-            <string>Xiannan</string>
-            <string>Xingas</string>
-            <string>Xingye</string>
-            <string>Xinhar</string>
-            <string>Xinmani</string>
-            <string>Xinraha</string>
-            <string>Xinsu</string>
-            <string>Xuanmamoto</string>
-            <string>Xubayan</string>
-            <string>Yahacheok</string>
-            <string>Yahagong</string>
-            <string>Yahakita</string>
-            <string>Yahashibetsu</string>
-            <string>Yahashina</string>
-            <string>Yahashiri</string>
-            <string>Yajiang</string>
-            <string>Yakubayan</string>
-            <string>Yakubetsu</string>
-            <string>Yakugor</string>
-            <string>Yakuhoro</string>
-            <string>Yakukhlant</string>
-            <string>Yakukita</string>
-            <string>Yakushihoro</string>
-            <string>Yakutong</string>
-            <string>Yaliun</string>
-            <string>Yamayama</string>
-            <string>Yangbulag</string>
-            <string>Yangsai</string>
-            <string>Yangtont</string>
-            <string>Yeochun</string>
-            <string>Yeodong</string>
-            <string>Yeofurano</string>
-            <string>Yeogaljuut</string>
-            <string>Yeotsukawa</string>
-            <string>Yeowon</string>
-            <string>Yokohou</string>
-            <string>Yokokh</string>
-            <string>Yokolig</string>
-            <string>Yokotooroi</string>
-            <string>Yuanchong</string>
-            <string>Yuanging</string>
-            <string>Yuankawa</string>
-            <string>Yuankonai</string>
-            <string>Yuanmen</string>
-            <string>Yuecheng</string>
-            <string>Yuedong</string>
-            <string>Yuegawa</string>
-            <string>Yuekami</string>
-            <string>Yuesunai</string>
-            <string>Yuewang</string>
-            <string>Yugagalan</string>
-            <string>Yugahaba</string>
-            <string>Yugahoroot</string>
-            <string>Yugakhaan</string>
-            <string>Yuganan</string>
-            <string>Zhaotori</string>
-            <string>Zhaowara</string>
-            <string>Zhenbuchi</string>
-            <string>Zhenneung</string>
-            <string>Zhenraha</string>
-            <string>Zhongchaek</string>
-            <string>Zhonggaa</string>
-            <string>Zhonghai</string>
-            <string>Zhongmaki</string>
-            <string>Zhongtsukawa</string>
-            <string>Zhougol</string>
-            <string>Zhourano</string>
-            <string>Zhouyuan</string>
-            <string>Zoabetsu</string>
-            <string>Zoakami</string>
-            <string>Zoapo</string>
-            <string>Zoaqiu</string>
-            <string>Zoazaki</string>
-            <string>Zuunchong</string>
           </Values>
         </NameGroup>
         <NameGroup>
@@ -1221,7 +584,7 @@
         <NameGroup>
           <Name>Persons - Leaders - Chinese</Name>
           <Values>
-            <string>Gao zu</string>
+            <string>Gao Zu</string>
             <string>Wu Ding</string>
             <string>Zheng</string>
           </Values>
@@ -1254,10 +617,9 @@
       </Continental>
       <Gaia>
         <NameGroup>
-          <Name>Vanilla HUMAN1</Name>
+          <Name>Mythology - Places - Tibetan</Name>
           <Values>
             <string>Shambhala</string>
-            <string>Xanadu</string>
             <string>Shangri-La</string>
           </Values>
         </NameGroup>
@@ -1265,6 +627,12 @@
           <Name>Words - Japanese</Name>
           <Values>
             <string>Kizuna</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Vanilla HUMAN1</Name>
+          <Values>
+            <string>Xanadu</string>
           </Values>
         </NameGroup>
       </Gaia>
