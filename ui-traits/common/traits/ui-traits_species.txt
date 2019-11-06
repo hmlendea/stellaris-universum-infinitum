@@ -355,3 +355,68 @@ ui_trait_extremely_weak = {
         weight = 0
     }
 }
+
+ui_trait_long_lived = {
+    cost = 2
+    potential_crossbreeding_chance = 1.0
+    opposites = { "trait_venerable" "trai_enduring" "trat_fleeting_lithoid" "trait_fleeting" "ui_trait_very_long_lived" "ui_trait_short_lived" "ui_trait_very_short_lived" "ui_trait_momentary" }
+    allowed_archetypes = { BIOLOGICAL }
+    modifier = {
+        leader_age = 40
+    }
+    ai_weight = {
+        weight = 0
+    }
+}
+
+ui_trait_very_long_lived = {
+    cost = 3
+    potential_crossbreeding_chance = 1.0
+    opposites = { "trait_venerable" "trai_enduring" "trat_fleeting_lithoid" "trait_fleeting" "ui_trait_long_lived" "ui_trait_short_lived" "ui_trait_very_short_lived" "ui_trait_momentary" }
+    allowed_archetypes = { BIOLOGICAL }
+    modifier = {
+        leader_age = 60
+    }
+    ai_weight = {
+        weight = 0
+    }
+}
+
+ui_trait_short_lived = {
+    cost = -2
+    potential_crossbreeding_chance = 1.0
+    opposites = { "trait_venerable" "trai_enduring" "trat_fleeting_lithoid" "trait_fleeting" "ui_trait_long_lived" "ui_trait_very_long_lived" "ui_trait_very_short_lived" "ui_trait_momentary" }
+    allowed_archetypes = { BIOLOGICAL }
+    modifier = {
+        leader_age = -20
+    }
+    ai_weight = {
+        weight = 0
+    }
+}
+
+ui_trait_very_short_lived = {
+    cost = -3
+    potential_crossbreeding_chance = 1.0
+    opposites = { "trait_venerable" "trai_enduring" "trat_fleeting_lithoid" "trait_fleeting" "ui_trait_long_lived" "ui_trait_very_long_lived" "ui_trait_short_lived" "ui_trait_momentary" }
+    allowed_archetypes = { BIOLOGICAL }
+    modifier = {
+        leader_age = -30
+    }
+    ai_weight = {
+        weight = 0
+    }
+}
+
+ui_trait_momentary = {
+    cost = -4
+    potential_crossbreeding_chance = 1.0
+    opposites = { "trait_venerable" "trai_enduring" "trat_fleeting_lithoid" "trait_fleeting" "ui_trait_long_lived" "ui_trait_very_long_lived" "ui_trait_short_lived" "ui_trait_very_short_lived" }
+    allowed_archetypes = { BIOLOGICAL }
+    modifier = {
+        leader_age = -40
+    }
+    ai_weight = {
+        weight = 0
+    }
+}
