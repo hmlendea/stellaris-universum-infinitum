@@ -99,10 +99,14 @@
  ui_trait_governor_war_industrialist:0 "War Industrialist"
  
 # Ruler traits
- ui_trait_ruler_antique_collector:0 "Antique Collector"
  ui_trait_ruler_antique_collector_desc:0 "This character is very passionate about collecting all sorts of exotic and antique trinkets found through the galaxy.§!\n"
- ui_trait_ruler_backroom_backstabber:0 "Backroom Backstabber"
+ ui_trait_ruler_antique_collector:0 "Antique Collector"
  ui_trait_ruler_backroom_backstabber_desc:0 "This politician is very skilled in the arts of manipulation, and would stop at nothing to achieve its goals.§!\n"
- ui_trait_ruler_smoothtalking_charmer:0 "Smooth-Talking Charmer"
+ ui_trait_ruler_backroom_backstabber:0 "Backroom Backstabber"
+ ui_trait_ruler_efficient_bureaucrat_desc:0 "This individual is a stauch believer of an simplified bureaucracy, and actively actively pursues new ways to reduce its burden and negative side effects.§!\n"
+ ui_trait_ruler_efficient_bureaucrat:0 "Efficient Bureaucrat"
+ ui_trait_ruler_hardcore_bureaucrat_desc:0 "This individual is a stauch believer of a well-defined and rigit bureaucracy, and believes that any negative side-effects and over-complications are a necessary evil.§!\n"
+ ui_trait_ruler_hardcore_bureaucrat:0 "Hardcore Bureaucrat"
  ui_trait_ruler_smoothtalking_charmer_desc:0 "This character is a very skilled diplomat, and is very sucessful at forming and maintaining foreign relations.§!\n"
+ ui_trait_ruler_smoothtalking_charmer:0 "Smooth-Talking Charmer"
  
