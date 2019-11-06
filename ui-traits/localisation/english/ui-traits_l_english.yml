@@ -86,6 +86,10 @@
  ui_trait_admiral_testudo_desc:0 "This character favours the "sheild wall" tactic. The fleet's formation, as well as individual vessel systems and configurations, are all optimised for the best possible defense. However, the damage output suffers significantly as a result.§!\n"
  ui_trait_admiral_testudo:0 "Testudo"
 
+# General traits
+ ui_trait_general_crusader_desc:0 "This character is a zealous believer in his faith, integrating his beliefs withing his military doctrine.\n"
+ ui_trait_general_crusader:0 "Crusader"
+
 # Governor traits
  ui_trait_governor_corporatist_desc:0 "This character is a stauch corporatist, with a strong focus on economy and capital gain.§!\n"
  ui_trait_governor_corporatist:0 "Corporatist"
