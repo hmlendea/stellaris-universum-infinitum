@@ -19,6 +19,7 @@ ui_trait_governor_engineer = {
             }
         }
     }
+    opposites = { "ui_trait_governor_naturalist" }
 }
 
 ui_trait_governor_physicist = {
@@ -42,6 +43,7 @@ ui_trait_governor_physicist = {
             }
         }
     }
+    opposites = { "ui_trait_governor_naturalist" }
 }
 
 ui_trait_governor_sociologist = {
@@ -65,6 +67,7 @@ ui_trait_governor_sociologist = {
             }
         }
     }
+    opposites = { "ui_trait_governor_naturalist" }
 }
 
 ui_trait_governor_familist = {
@@ -141,7 +144,7 @@ ui_trait_governor_moral_authority = {
     modification = no
     modifier = {
         planet_jobs_unity_produces_mult = 0.05
-        planet_stability_add = 0.05
+        planet_stability_add = 5
         pop_happiness = 0.05
     }
     leader_trait = yes
@@ -156,8 +159,9 @@ ui_trait_governor_moral_authority = {
             }
         }
     }
-    opposites = { "ui_trait_governor_fascist_demagogue" }
+    opposites = { "ui_trait_governor_fascist_demagogue" "ui_trait_vicious_rumours" "ui_trait_governor_deal_with_the_devil" }
 }
+
 ui_trait_governor_fascist_demagogue = {
     cost = 1
     modification = no
@@ -176,6 +180,7 @@ ui_trait_governor_fascist_demagogue = {
     }
     opposites = { "ui_trait_governor_moral_authority" }
 }
+
 ui_trait_governor_war_industrialist = {
     cost = 1
     modification = no
@@ -196,6 +201,7 @@ ui_trait_governor_war_industrialist = {
     }
     opposites = { "ui_trait_governor_corporatist" "ui_trait_governor_miner" "ui_trait_governor_environmentalist" "ui_trait_governor_familist" "ui_trait_governor_robotics_magnate" }
 }
+
 ui_trait_governor_spiritual_preacher = {
     cost = 1
     modification = no
@@ -206,6 +212,7 @@ ui_trait_governor_spiritual_preacher = {
     leader_class = { governor }
     opposites = { "ui_trait_governor_corporatist" "ui_trait_governor_robotics_magnate" }
 }
+
 ui_trait_governor_racist = {
     cost = 1
     modification = no
@@ -217,6 +224,7 @@ ui_trait_governor_racist = {
     leader_class = { governor }
     opposites = { "ui_trait_governor_open_armed" }
 }
+
 ui_trait_governor_open_armed = {
     cost = 1
     modification = no
@@ -227,4 +235,87 @@ ui_trait_governor_open_armed = {
     leader_trait = yes
     leader_class = { governor }
     opposites = { "ui_trait_governor_racist" }
+}
+
+ui_trait_governor_vicious_rumours = {
+    cost = 1
+    modification = no
+    modifier = {
+        planet_jobs_unity_produces_mult = -0.05
+    }
+    leader_trait = yes
+    leader_class = { governor }
+    opposites = { "leader_trait_righteous" "ui_trait_governor_moral_authority" }
+}
+
+ui_trait_governor_deal_with_the_devil = {
+    cost = 1
+    modification = no
+    modifier = {
+        planet_jobs_energy_produces_mult = 0.25
+		planet_crime_add = 25
+    }
+    leader_trait = yes
+    leader_class = { governor }
+    opposites = { "leader_trait_righteous" "ui_trait_governor_moral_authority" }
+}
+
+ui_trait_governor_questionable_ethics = {
+    cost = 1
+    modification = no
+    modifier = {
+        planet_jobs_engineering_research_produces_mult = 0.05
+        planet_jobs_physics_research_produces_mult = 0.05
+        planet_jobs_society_research_produces_mult = 0.05
+		planet_stability_add = -2.5
+        pop_happiness = -0.05
+        pop_growth_speed = -0.01
+    }
+    leader_trait = yes
+    leader_class = { governor }
+    opposites = { "leader_trait_righteous" "ui_trait_governor_moral_authority" }
+}
+
+ui_trait_governor_naturalist = {
+    cost = 1
+    modification = no
+    modifier = {
+        planet_jobs_engineering_research_produces_mult = -0.05
+        planet_jobs_physics_research_produces_mult = -0.05
+        planet_jobs_society_research_produces_mult = -0.05
+		planet_stability_add = 2.5
+        pop_happiness = 0.05
+        pop_growth_speed = 0.01
+    }
+    leader_trait = yes
+    leader_class = { governor }
+    opposites = { "leader_trait_intellectual" "leader_trait_governor_erudite" "ui_trait_governor_engineer" "ui_trait_governor_physicist" "ui_trait_governor_sociologist" "ui_trait_governor_questionable_ethics" }
+}
+
+ui_trait_governor_guns_legaliser = {
+    cost = 1
+    modification = no
+    modifier = {
+        army_defense_damage_mult = 0.25
+		planet_army_build_speed_mult = 0.1
+        planet_stability_add = -5
+		planet_crime_add = 5
+    }
+    leader_trait = yes
+    leader_class = { governor }
+    opposites = { "ui_trait_governor_guns_prohibitor" }
+}
+
+ui_trait_governor_guns_prohibitor = {
+    cost = 1
+    modification = no
+    modifier = {
+        army_defense_damage_mult = -0.25
+		planet_army_build_speed_mult = -0.1
+        planet_stability_add = 5
+		planet_crime_add = -5
+    }
+    leader_trait = yes
+    leader_class = { governor }
+    opposites = { "ui_trait_governor_guns_legaliser" }
 }
