@@ -13,6 +13,8 @@ ui_trait_uneconomical = {
     cost = -2
     opposites = { "trait_thrifty" }
     
+    allowed_archetypes = { BIOLOGICAL LITHOID }
+    
     modifier = {
         planet_jobs_energy_produces_mult = -0.15
     }
@@ -22,7 +24,7 @@ ui_trait_lazy = {
     cost = -2
     opposites = { "trait_industrious" }
     
-    allowed_archetypes = { BIOLOGICAL }
+    allowed_archetypes = { BIOLOGICAL LITHOID }
     
     modifier = {
         planet_jobs_minerals_produces_mult = -0.15
@@ -33,7 +35,7 @@ ui_trait_dumb = {
     cost = -2
     opposites = { "trait_intelligent" "trait_nerve_stapled" "trait_erudite" }
     
-    allowed_archetypes = { BIOLOGICAL }
+    allowed_archetypes = { BIOLOGICAL LITHOID }
     
     modifier = {
         planet_jobs_engineering_research_produces_mult = -0.1
@@ -46,7 +48,7 @@ ui_trait_poor_engineers = {
     cost = -1
     opposites = { "ui_trait_poor_physicists" "ui_trait_poor_sociologists" "trait_natural_engineers" "trait_nerve_stapled" }
     
-    allowed_archetypes = { BIOLOGICAL }
+    allowed_archetypes = { BIOLOGICAL LITHOID }
     
     modifier = {
         planet_jobs_engineering_research_produces_mult = -0.15
@@ -57,7 +59,7 @@ ui_trait_poor_physicists = {
     cost = -1
     opposites = { "ui_trait_poor_engineers" "ui_trait_poor_sociologists" "trait_natural_physicists" "trait_nerve_stapled" }
     
-    allowed_archetypes = { BIOLOGICAL }
+    allowed_archetypes = { BIOLOGICAL LITHOID }
     
     modifier = {
         planet_jobs_physics_research_produces_mult = -0.15
@@ -68,7 +70,7 @@ ui_trait_poor_sociologists = {
     cost = -1
     opposites = { "ui_trait_poor_physicists" "ui_trait_poor_engineers" "trait_natural_sociologists" "trait_nerve_stapled" }
     
-    allowed_archetypes = { BIOLOGICAL }
+    allowed_archetypes = { BIOLOGICAL LITHOID }
     
     modifier = {
         planet_jobs_society_research_produces_mult = -0.15
@@ -117,7 +119,7 @@ ui_trait_extremely_nonadaptive = {
 ui_trait_nonresilient = {
     cost = -1
     opposites = { "trait_resilient"}
-    allowed_archetypes = { BIOLOGICAL }
+    allowed_archetypes = { BIOLOGICAL LITHOID }
     modifier = {
         army_defense_damage_mult = -0.5
     }
@@ -130,7 +132,7 @@ ui_trait_brave = {
     cost = 2
     opposites = { "ui_trait_craven" }
     
-    allowed_archetypes = { BIOLOGICAL }
+    allowed_archetypes = { BIOLOGICAL LITHOID }
     
     modifier = {
         army_morale = 0.15
@@ -142,7 +144,7 @@ ui_trait_craven = {
     cost = -2
     opposites = { "ui_trait_brave" }
     
-    allowed_archetypes = { BIOLOGICAL }
+    allowed_archetypes = { BIOLOGICAL LITHOID }
     
     modifier = {
         army_morale = -0.15
@@ -154,7 +156,7 @@ ui_trait_deceitful = {
     cost = 2
     opposites = { "ui_trait_trusting" }
     
-    allowed_archetypes = { BIOLOGICAL }
+    allowed_archetypes = { BIOLOGICAL LITHOID }
     
     modifier = {
         country_influence_produces_mult = 0.1
@@ -165,7 +167,7 @@ ui_trait_trusting = {
     cost = -2
     opposites = { "ui_trait_deceitful" }
     
-    allowed_archetypes = { BIOLOGICAL }
+    allowed_archetypes = { BIOLOGICAL LITHOID }
     
     modifier = {
         country_influence_produces_mult = -0.1
@@ -176,7 +178,7 @@ ui_trait_optimistic = {
     cost = 1
     opposites = { "ui_trait_pessimistic" }
     
-    allowed_archetypes = { BIOLOGICAL }
+    allowed_archetypes = { BIOLOGICAL LITHOID }
     
     modifier = {
         pop_happiness = 0.05
@@ -187,7 +189,7 @@ ui_trait_pessimistic = {
     cost = -1
     opposites = { "ui_trait_optimistic" }
     
-    allowed_archetypes = { BIOLOGICAL }
+    allowed_archetypes = { BIOLOGICAL LITHOID }
     
     modifier = {
         pop_happiness = -0.05

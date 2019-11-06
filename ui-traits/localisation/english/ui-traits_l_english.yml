@@ -59,7 +59,7 @@
  ui_trait_very_weak:0 "Very Weak"
 
 # Leader traits
- ui_trait_politically_connected_desc:0 "This character climed the ladder using political connections instead of skill, and is thus not likely to improve their ability more than the bare minimum necessary.§!\n"
+ ui_trait_politically_connected_desc:0 "This character climbed the ladder using political connections instead of skill, and is thus not likely to improve their ability more than the bare minimum necessary.§!\n"
  ui_trait_politically_connected:0 "Politically Connected"
 
 # Admiral traits
