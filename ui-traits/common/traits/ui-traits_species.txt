@@ -77,12 +77,40 @@ ui_trait_poor_sociologists = {
 
 ui_trait_very_adaptive = {
     cost = 3
-    opposites = { "trait_nonadaptive" "trait_adaptive" "trait_extremely_adaptive" "trait_robust"}
+    opposites = { "trait_nonadaptive" "trait_adaptive" "trait_extremely_adaptive" "trait_robust" "ui_trait_very_nonadaptive" "ui_trait_extremely_nonadaptive" }
     
     allowed_archetypes = { BIOLOGICAL }
     
     modifier = {
         pop_environment_tolerance = 0.15
+    }
+    slave_cost = {
+        energy = 75
+    }
+}
+
+ui_trait_very_nonadaptive = {
+    cost = -3
+    opposites = { "trait_nonadaptive" "trait_adaptive" "trait_extremely_adaptive" "trait_robust" "ui_trait_very_adaptive" "ui_trait_extremely_nonadaptive" }
+    
+    allowed_archetypes = { BIOLOGICAL }
+    
+    modifier = {
+        pop_environment_tolerance = 0.15
+    }
+}
+
+ui_trait_extremely_nonadaptive = {
+    cost = -4
+    opposites = { "trait_nonadaptive" "trait_adaptive" "trait_extremely_adaptive" "trait_robust" "ui_trait_very_adaptive" "ui_trait_very_nonadaptive" }
+    
+    allowed_archetypes = { BIOLOGICAL }
+    
+    modifier = {
+        pop_environment_tolerance = 0.20
+    }
+    slave_cost = {
+        energy = -75
     }
 }
 
@@ -92,6 +120,9 @@ ui_trait_nonresilient = {
     allowed_archetypes = { BIOLOGICAL }
     modifier = {
         army_defense_damage_mult = -0.5
+    }
+    slave_cost = {
+        energy = -100
     }
 }
 
@@ -215,7 +246,7 @@ ui_trait_gluttonous = {
 ui_trait_very_rapid_breeders = {
     cost = 4;
     potential_crossbreeding_chance = 1.0
-    opposites = { "trait_rapid_breeders" "trait_slow_breeders" "trait_fertile" "ui_trait_very_slow_breeders" }
+    opposites = { "trait_rapid_breeders" "trait_slow_breeders" "trait_fertile" "ui_trait_extremely_rapid_breeders" "ui_trait_very_slow_breeders" "ui_trait_extremely_slow_breeders" }
 
     allowed_archetypes = { BIOLOGICAL }
 
@@ -227,10 +258,25 @@ ui_trait_very_rapid_breeders = {
     }
 }
 
+ui_trait_extremely_rapid_breeders = {
+    cost = 6;
+    potential_crossbreeding_chance = 1.0
+    opposites = { "trait_rapid_breeders" "trait_slow_breeders" "trait_fertile" "ui_trait_very_rapid_breeders" "ui_trait_very_slow_breeders" "ui_trait_extremely_slow_breeders" }
+
+    allowed_archetypes = { BIOLOGICAL }
+
+    modifier = {
+        pop_growth_speed = 0.40
+    }
+    slave_cost = {
+        energy = 400
+    }
+}
+
 ui_trait_very_slow_breeders = {
     cost = -4
     potential_crossbreeding_chance = 1.0
-    opposites = { "trait_rapid_breeders" "trait_slow_breeders" "trait_fertile" "ui_trait_very_rapid_breeders" }
+    opposites = { "trait_rapid_breeders" "trait_slow_breeders" "trait_fertile" "ui_trait_very_rapid_breeders" "ui_trait_extremely_rapid_breeders" "ui_trait_extremely_slow_breeders" }
 
     allowed_archetypes = { BIOLOGICAL }
 
@@ -242,10 +288,42 @@ ui_trait_very_slow_breeders = {
     }
 }
 
-ui_trait_very_weak = {
-    cost = -2
+ui_trait_extremely_slow_breeders = {
+    cost = -6
     potential_crossbreeding_chance = 1.0
-    opposites = { "trait_strong" "trait_very_strong" "trait_weak" }
+    opposites = { "trait_rapid_breeders" "trait_slow_breeders" "trait_fertile" "ui_trait_very_rapid_breeders" "ui_trait_extremely_rapid_breeders" "ui_trait_very_slow_breeders" }
+
+    allowed_archetypes = { BIOLOGICAL }
+
+    modifier = {
+        pop_growth_speed = -0.40
+    }
+    slave_cost = {
+        energy = -400
+    }
+}
+
+ui_trait_extremely_strong = {
+    cost = 5
+    potential_crossbreeding_chance = 1.0
+    opposites = { "trait_strong" "trait_very_strong" "trait_weak" "ui_trait_very_weak" }
+    allowed_archetypes = { BIOLOGICAL LITHOID }
+    modifier = {
+        army_damage_mult = 0.60
+        planet_jobs_worker_produces_mult = 0.075
+    }
+    slave_cost = {
+        energy = 150
+    }
+    ai_weight = {
+        weight = 0
+    }
+}
+
+ui_trait_very_weak = {
+    cost = -3
+    potential_crossbreeding_chance = 1.0
+    opposites = { "trait_strong" "trait_very_strong" "trait_weak" "uit_trait_extremely_strong" "ui_trait_extremely_weak" }
     allowed_archetypes = { BIOLOGICAL LITHOID }
     modifier = {
         army_damage_mult = -0.40
@@ -253,6 +331,23 @@ ui_trait_very_weak = {
     }
     slave_cost = {
         energy = -100
+    }
+    ai_weight = {
+        weight = 0
+    }
+}
+
+ui_trait_extremely_weak = {
+    cost = -5
+    potential_crossbreeding_chance = 1.0
+    opposites = { "trait_strong" "trait_very_strong" "trait_weak" "ui_trait_extremely_strong" "ui_trait_very_weak" }
+    allowed_archetypes = { BIOLOGICAL LITHOID }
+    modifier = {
+        army_damage_mult = -0.60
+        planet_jobs_worker_produces_mult = -0.075
+    }
+    slave_cost = {
+        energy = -150
     }
     ai_weight = {
         weight = 0
