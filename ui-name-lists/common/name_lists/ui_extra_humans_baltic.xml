@@ -1,126 +1,96 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ArrayOfNameList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <NameList>
-    <Id>ui_extra_humans_italian</Id>
-    <Name>UI - Humans - Italian</Name>
-    <Denonyms>
+    <Id>ui_extra_humans_</Id>
+    <Name></Name>
+    <Nationalities>
       <NameGroup>
         <Name>Denonyms</Name>
         <Values>
-            <string>Italian</string>
-            <string>Neapolitan</string>
-            <string>Sicilian</string>
+          <string>Estonian</string>
+          <string>Latvian</string>
+          <string>Lithuanian</string>
         </Values>
       </NameGroup>
-    </Denonyms>
+    </Nationalities>
     <Places>
       <Countries>
         <NameGroup>
           <Name>Countries</Name>
           <Values>
-            <string>Italy</string>
+            <string>Estonia</string>
+            <string>Latvia</string>
+            <string>Lithuania</string>
           </Values>
         </NameGroup>
       </Countries>
-      <Regions>
+      <States>
         <NameGroup>
-          <Name>Regions</Name>
+          <Name>Regions - </Name>
           <Values>
-            <string>Abruzzo</string>
-            <string>Aosta</string>
-            <string>Apulia</string>
-            <string>Basilicata</string>
-            <string>Calabria</string>
-            <string>Campania</string>
-            <string>Emilia-Romagna</string>
-            <string>Friuli</string>
-            <string>Venezia</string>
-            <string>Lazio</string>
-            <string>Liguria</string>
-            <string>Lombardy</string>
-            <string>Marche</string>
-            <string>Molise</string>
-            <string>Piedmont</string>
-            <string>Sardinia</string>
-            <string>Sicilia</string>
-            <string>Trentino</string>
-            <string>South Tyrol</string>
-            <string>Tuscany</string>
-            <string>Umbria</string>
-            <string>Veneto</string>
           </Values>
         </NameGroup>
-        <NameGroup>
-          <Name>Regions - Endonyms</Name>
-          <Values>
-            <string>Alto Adige</string>
-            <string>Lombardia</string>
-            <string>Piemonte</string>
-            <string>Puglia</string>
-            <string>Sardegna</string>
-            <string>Sicilia</string>
-            <string>Toscania</string>
-          </Values>
-        </NameGroup>
-      </Regions>
+      </States>
       <Cities>
         <NameGroup>
-          <Name>Cities</Name>
+          <Name>Cities - Lithuania</Name>
           <Values>
-            <string>Cagliari</string>
-            <string>Florence</string>
-            <string>Genoa</string>
-            <string>Milan</string>
-            <string>Naples</string>
-            <string>Palermo</string>
-            <string>Rome</string>
-            <string>Turin</string>
-            <string>Venice</string>
+            <string>Vilnius</string>
           </Values>
         </NameGroup>
       </Cities>
-      <Rivers>
-        <NameGroup>
-          <Name>Rivers</Name>
-          <Values>
-            <string>Rubicon</string>
-            <string>Isonzo</string>
-          </Values>
-        </NameGroup>
-      </Rivers>
-      <Seas>
-        <NameGroup>
-          <Name>Seas</Name>
-          <Values>
-            <string>Adriatic</string>
-          </Values>
-        </NameGroup>
-      </Seas>
     </Places>
     <Warfare>
       <Weapons>
         <NameGroup>
-          <Name>Swords</Name>
+          <Name></Name>
           <Values>
-            <string>Cinquedea</string>
           </Values>
         </NameGroup>
       </Weapons>
       <MilitaryUnitTypes>
         <NameGroup>
-          <Name></Name>
+          <Name>Military unit types - </Name>
           <Values>
           </Values>
         </NameGroup>
       </MilitaryUnitTypes>
       <BattleLocations>
         <NameGroup>
-          <Name></Name>
+          <Name>Battle locations - </Name>
           <Values>
           </Values>
         </NameGroup>
       </BattleLocations>
+      <MilitaryPeopleTier1>
+        <NameGroup>
+          <Name>Persons - Military - </Name>
+          <Values>
+          </Values>
+        </NameGroup>
+      </MilitaryPeopleTier1>
+      <MilitaryPeopleTier2>
+        <NameGroup>
+          <Name>Persons - Military - </Name>
+          <Values>
+          </Values>
+        </NameGroup>
+      </MilitaryPeopleTier2>
+      <MilitaryPeopleTier3>
+        <NameGroup>
+          <Name>Persons - Military - </Name>
+          <Values>
+          </Values>
+        </NameGroup>
+      </MilitaryPeopleTier3>
     </Warfare>
+    <MythologicalCreatures>
+      <NameGroup>
+        <Name>Mythological creatures - </Name>
+        <Values>
+        </Values>
+      </NameGroup>
+    </MythologicalCreatures>
     <Ships>
       <Corvette>
         <NameGroup>
@@ -152,15 +122,8 @@
       </Battleship>
       <Science>
         <NameGroup>
-          <Name>Persons - Scientists</Name>
+          <Name></Name>
           <Values>
-            <string>Columbus</string>
-            <string>Cristopher Columbus</string>
-            <string>Galileo Galilei</string>
-            <string>Galileo</string>
-            <string>Giuseppe Lagrange</string>
-            <string>Lagrange</string>
-            <string>Marco Polo</string>
           </Values>
         </NameGroup>
       </Science>
@@ -175,23 +138,39 @@
     <ShipClasses>
       <Generic>
         <NameGroup>
-          <Name>Spacecraft manufacturers</Name>
+          <Name>Spacecraft manufacturers - Lithuania</Name>
           <Values>
-            <string>GAUSS</string>
+            <string>NanoAvionics</string>
           </Values>
         </NameGroup>
       </Generic>
     </ShipClasses>
     <Stations>
       <MilitaryStations>
-      <Generic>
+        <Generic>
+          <NameGroup>
+            <Name></Name>
+            <Values>
+            </Values>
+          </NameGroup>
+        </Generic>
+      </MilitaryStations>
+      <Starbases>
+        <Generic>
+          <NameGroup>
+            <Name></Name>
+            <Values>
+            </Values>
+          </NameGroup>
+        </Generic>
+      </Starbases>
+      <ResearchStations>
         <NameGroup>
           <Name></Name>
           <Values>
           </Values>
         </NameGroup>
-      </Generic>
-      </MilitaryStations>
+      </ResearchStations>
     </Stations>
     <Armies>
       <Fleet>
@@ -217,6 +196,13 @@
           </Values>
         </NameGroup>
       </Desert>
+      <Tropical>
+        <NameGroup>
+          <Name></Name>
+          <Values>
+          </Values>
+        </NameGroup>
+      </Tropical>
       <Continental>
         <NameGroup>
           <Name></Name>
@@ -224,12 +210,17 @@
           </Values>
         </NameGroup>
       </Continental>
+      <Gaia>
+        <NameGroup>
+          <Name></Name>
+          <Values>
+          </Values>
+        </NameGroup>
+      </Gaia>
       <Ocean>
         <NameGroup>
-          <Name>Places</Name>
+          <Name></Name>
           <Values>
-            <string>Adriatica</string>
-            <string>Tyrrhenia</string>
           </Values>
         </NameGroup>
       </Ocean>

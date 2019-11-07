@@ -245,36 +245,9 @@
     <Warfare>
       <Weapons>
         <NameGroup>
-          <Name>Axes</Name>
-          <Values>
-            <string>Axe</string>
-            <string>Hatchet</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
           <Name>Axes - American</Name>
           <Values>
             <string>Tomahawk</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Swords</Name>
-          <Values>
-            <string>Longsword</string>
-            <string>Shortsword</string>
-            <string>Sword</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Daggers</Name>
-          <Values>
-            <string>Dagger</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Hammers</Name>
-          <Values>
-            <string>Warhammer</string>
           </Values>
         </NameGroup>
       </Weapons>
@@ -295,7 +268,7 @@
       </MilitaryUnitTypes>
       <BattleLocations>
         <NameGroup>
-          <Name>Battle locations</Name>
+          <Name>Battle locations - United States</Name>
           <Values>
             <string>Chickamagua</string>
             <string>Lexington</string>
@@ -330,7 +303,9 @@
           <Name>Persons - Military - British</Name>
           <Values>
             <string>James MacLachlan</string>
+            <string>John Milne</string>
             <string>MacLachlan</string>
+            <string>Milne</string>
           </Values>
         </NameGroup>
       </MilitaryPeopleTier1>
@@ -338,25 +313,62 @@
         <NameGroup>
           <Name>Persons - Military - American</Name>
           <Values>
+            <string>Chester W. Nimitz</string>
+            <string>David Farragut</string>
+            <string>Douglas MacArthur</string>
             <string>Dwight D. Eisenhower</string>
             <string>Dwight David Eisenhower</string>
             <string>Eisenhower</string>
+            <string>Farragut</string>
+            <string>George S. Patton</string>
+            <string>MacArthur</string>
+            <string>Nimitz</string>
+            <string>Patton</string>
           </Values>
         </NameGroup>
       </MilitaryPeopleTier2>
       <MilitaryPeopleTier3>
         <NameGroup>
+          <Name>Persons - Military - American</Name>
+          <Values>
+            <string>C. Turner Joy</string>
+            <string>Delbert W. Halsey</string>
+            <string>Fletcher</string>
+            <string>Frank Fletcher</string>
+            <string>Halsey</string>
+            <string>Hart</string>
+            <string>Robert O. Tyler</string>
+            <string>Turner</string>
+            <string>Tyler</string>
+            <string>William Halsey</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
           <Name>Persons - Military - British</Name>
           <Values>
             <string>Aaron Cunningham</string>
+            <string>Alexander Milne</string>
             <string>Andrew Cunningham</string>
+            <string>Beatty</string>
+            <string>Byng</string>
+            <string>Codrington</string>
             <string>Crutchley</string>
             <string>Cunningham</string>
+            <string>David Beatty</string>
+            <string>Edward Codrington</string>
+            <string>Edward Hawke</string>
             <string>Francis Laforey</string>
+            <string>George Byng</string>
+            <string>Hargood</string>
+            <string>Hawke</string>
+            <string>Jellicoe</string>
+            <string>John Jellicoe</string>
             <string>Laforey</string>
             <string>Louis Mountbatten</string>
+            <string>Milne</string>
             <string>Mountbatten</string>
             <string>Victor Crutchley</string>
+            <string>William Hargood</string>
           </Values>
         </NameGroup>
       </MilitaryPeopleTier3>
@@ -416,6 +428,19 @@
         </NameGroup>
       </Destroyer>
       <Cruiser>
+        <NameGroup>
+          <Name>Ships - American</Name>
+          <Values>
+            <string>Chancellorsville</string>
+            <string>Oriskany</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Ships - British</Name>
+          <Values>
+            <string>Temeraire</string>
+          </Values>
+        </NameGroup>
         <NameGroup>
           <Name>Persons - Leaders - American</Name>
           <Values>
@@ -517,12 +542,48 @@
     <ShipClasses>
       <Generic>
         <NameGroup>
+          <Name>Spacecraft manufacturers - American</Name>
+          <Values>
+            <string>AeroAstro</string>
+            <string>Ball</string>
+            <string>Boeing</string>
+            <string>Fairchild</string>
+            <string>General Electric</string>
+            <string>Hughes</string>
+            <string>Lockheed Martin</string>
+            <string>Loral</string>
+            <string>Millenium Space</string>
+            <string>Northrop Grumman</string>
+            <string>Orcho</string>
+            <string>Philco Ford</string>
+            <string>Pumpkin</string>
+            <string>Raytheon</string>
+            <string>RCA Astro</string>
+            <string>Rockwell</string>
+            <string>Space Systems</string>
+            <string>Ytheona</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Spacecraft manufacturers - British</Name>
+          <Values>
+            <string>Clyde</string>
+            <string>Hawker Siddeley</string>
+            <string>In-Space</string>
+            <string>OneWeb</string>
+            <string>RAL</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Spacecraft manufacturers - Canada</Name>
+          <Values>
+            <string>MicroSat</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
           <Name>Aircraft manufacturers - American</Name>
           <Values>
-            <string>Boeing</string>
-            <string>Lockheed Martin</string>
             <string>Gulfstream</string>
-            <string>General Electric</string>
             <string>United Technologies</string>
           </Values>
         </NameGroup>
@@ -536,6 +597,7 @@
           <Name>Aircraft manufacturers - British</Name>
           <Values>
             <string>BAE</string>
+            <string>Rolls-Royce</string>
           </Values>
         </NameGroup>
         <NameGroup>
@@ -593,6 +655,12 @@
     </Armies>
     <Planets>
       <Generic>
+        <NameGroup>
+          <Name>Stellaris - United Nations of Earth - English</Name>
+          <Values>
+            <string>Hoxworth</string>
+          </Values>
+        </NameGroup>
         <NameGroup>
           <Name>Civilisation: Beyond Earth - American Reclamation Corporation</Name>
           <Values>

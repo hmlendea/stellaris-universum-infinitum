@@ -8,6 +8,7 @@
         <Name>Denonyms</Name>
         <Values>
           <string>Arabian</string>
+          <string>Berber</string>
           <string>Kuwaiti</string>
           <string>Saudi</string>
         </Values>
@@ -20,6 +21,7 @@
           <Values>
             <string>Arabia</string>
             <string>Kuwait</string>
+            <string>Morocco</string>
             <string>Saudi Arabia</string>
             <string>United Arab Emirates</string>
           </Values>
@@ -174,8 +176,9 @@
       </Battleship>
       <Science>
         <NameGroup>
-          <Name></Name>
+          <Name>Persons - Scientsits - Berber</Name>
           <Values>
+            <string>Ibn Battuta</string>
           </Values>
         </NameGroup>
       </Science>

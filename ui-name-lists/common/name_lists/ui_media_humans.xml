@@ -32,6 +32,21 @@
           </Values>
         </NameGroup>
       </Cities>
+      <Mountains>
+        <NameGroup>
+          <Name>Mountains - A Song of Ice and Fire</Name>
+          <Values>
+            <string>Frostfang</string>
+          </Values>
+        </NameGroup>
+      </Mountains>
+      <Deserts>
+        <NameGroup>
+          <Name>Deserts - </Name>
+          <Values>
+          </Values>
+        </NameGroup>
+      </Deserts>
     </Places>
     <Warfare>
       <Weapons>
@@ -108,6 +123,16 @@
         </NameGroup>
       </Coloniser>
     </Ships>
+    <ShipClasses>
+      <Generic>
+        <NameGroup>
+          <Name>Ship classes - XCOM</Name>
+          <Values>
+            <string>XCOM</string>
+          </Values>
+        </NameGroup>
+      </Generic>
+    </ShipClasses>
     <Stations>
       <MilitaryStations>
         <Generic>
@@ -118,6 +143,16 @@
           </NameGroup>
         </Generic>
       </MilitaryStations>
+      <Starbases>
+        <Outposts>
+          <NameGroup>
+            <Name>Outposts - Games</Name>
+            <Values>
+              <string>No Man's Sky</string>
+            </Values>
+          </NameGroup>
+        </Outposts>
+      </Starbases>
       <ResearchStations>
         <NameGroup>
           <Name>Research facilities - Half Life</Name>
@@ -301,6 +336,12 @@
             <string>Valinor</string>
           </Values>
         </NameGroup>
+        <NameGroup>
+          <Name>Games</Name>
+          <Values>
+            <string>Terraria</string>
+          </Values>
+        </NameGroup>
       </Gaia>
       <Ocean>
         <NameGroup>
@@ -346,12 +387,6 @@
           <Name>Planets - Galactik Football</Name>
           <Values>
             <string>Akillian</string>
-          </Values>
-        </NameGroup>
-        <NameGroup>
-          <Name>Places - A Song of Ice and Fire</Name>
-          <Values>
-            <string>Frostfang</string>
           </Values>
         </NameGroup>
         <NameGroup>

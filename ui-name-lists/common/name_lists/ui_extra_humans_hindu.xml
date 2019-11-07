@@ -7,7 +7,7 @@
       <NameGroup>
         <Name>Denonyms</Name>
         <Values>
-          <string>Bengali</string>
+          <string>Bengal</string>
           <string>Hindu</string>
           <string>Indian</string>
           <string>Nepali</string>
@@ -90,10 +90,26 @@
           <Values>
             <string>Gujranwala</string>
             <string>Islamabad</string>
+            <string>Lahore</string>
             <string>Rawalpindi</string>
           </Values>
         </NameGroup>
       </Cities>
+      <Mountains>
+        <NameGroup>
+          <Name>Mountains</Name>
+          <Values>
+            <string>Himalaya</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Mountains - Nepal</Name>
+          <Values>
+            <string>Everest</string>
+            <string>Sagarmatha</string>
+          </Values>
+        </NameGroup>
+      </Mountains>
       <Rivers>
         <NameGroup>
           <Name>Rivers</Name>
@@ -250,6 +266,12 @@
     </Ships>
     <ShipClasses>
       <Generic>
+        <NameGroup>
+          <Name>Spacecraft manufacturers - English</Name>
+          <Values>
+            <string>Dhruva</string>
+          </Values>
+        </NameGroup>
         <NameGroup>
           <Name>Aircraft manufacturers - India</Name>
           <Values>

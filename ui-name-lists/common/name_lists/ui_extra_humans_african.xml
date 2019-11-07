@@ -8,11 +8,11 @@
         <Name>Denonyms</Name>
         <Values>
           <string>African</string>
-          <string>Berber</string>
           <string>Congolese</string>
           <string>Ethiopian</string>
           <string>Kabyle</string>
           <string>Kenyan</string>
+          <string>Namibian</string>
           <string>Nigerian</string>
           <string>Somali</string>
           <string>Sudanese</string>
@@ -45,6 +45,7 @@
             <string>Mali</string>
             <string>Mauritania</string>
             <string>Mozambique</string>
+            <string>Namibia</string>
             <string>Nigeria</string>
             <string>Senegal</string>
             <string>Somalia</string>
@@ -240,6 +241,12 @@
           </Values>
         </NameGroup>
         <NameGroup>
+          <Name>Cities - Namibia</Name>
+          <Values>
+            <string>Windhoek</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
           <Name>Cities - Nigeria</Name>
           <Values>
             <string>Abuja</string>
@@ -298,6 +305,22 @@
           </Values>
         </NameGroup>
       </Cities>
+      <Mountains>
+        <NameGroup>
+          <Name>Mountains - </Name>
+          <Values>
+          </Values>
+        </NameGroup>
+      </Mountains>
+      <Deserts>
+        <NameGroup>
+          <Name>Deserts</Name>
+          <Values>
+            <string>Namib</string>
+            <string>Sahara</string>
+          </Values>
+        </NameGroup>
+      </Deserts>
       <Rivers>
         <NameGroup>
           <Name>Rivers - Congo</Name>
@@ -387,14 +410,6 @@
           </Values>
         </NameGroup>
       </Constructor>
-      <Science>
-        <NameGroup>
-          <Name>Persons - Scientsits - Berber</Name>
-          <Values>
-            <string>Ibn Battuta</string>
-          </Values>
-        </NameGroup>
-      </Science>
       <Coloniser>
         <NameGroup>
           <Name></Name>

@@ -47,7 +47,7 @@
       </Countries>
       <Regions>
         <NameGroup>
-          <Name>Regions - Romania</Name>
+          <Name>Regions</Name>
           <Values>
             <string>Apusenia</string>
             <string>Banat</string>
@@ -58,12 +58,13 @@
             <string>Maramures</string>
             <string>Moldavia</string>
             <string>Muntenia</string>
+            <string>Oltenia</string>
             <string>Transylvania</string>
             <string>Wallachia</string>
           </Values>
         </NameGroup>
         <NameGroup>
-          <Name>Regions - Romania - Endonyms</Name>
+          <Name>Regions - Endonyms</Name>
           <Values>
             <string>Ardeal</string>
             <string>Basarabia</string>
@@ -79,7 +80,7 @@
       </Regions>
       <Cities>
         <NameGroup>
-          <Name>Cities - Romania</Name>
+          <Name>Cities</Name>
           <Values>
             <string>Baia Mare</string>
             <string>Brașov</string>
@@ -96,7 +97,7 @@
       </Cities>
       <Rivers>
         <NameGroup>
-          <Name>Rivers - Romania</Name>
+          <Name>Rivers</Name>
           <Values>
             <string>Crișul Repede</string>
             <string>Dâmbovița</string>
@@ -108,7 +109,7 @@
       </Rivers>
       <Lakes>
         <NameGroup>
-          <Name>Lakes - Romania</Name>
+          <Name>Lakes</Name>
           <Values>
             <string>Bâlea</string>
           </Values>
@@ -116,7 +117,7 @@
       </Lakes>
       <Seas>
         <NameGroup>
-          <Name>Seas - Romania</Name>
+          <Name>Seas</Name>
           <Values>
             <string>Black Sea</string>
           </Values>
@@ -126,7 +127,7 @@
     <Warfare>
       <Weapons>
         <NameGroup>
-          <Name>Swords - Romanian</Name>
+          <Name>Swords</Name>
           <Values>
             <string>Falx</string>
             <string>Sica</string>
@@ -135,10 +136,10 @@
       </Weapons>
       <MilitaryUnitTypes>
         <NameGroup>
-          <Name>Military Unit Types - Romania</Name>
+          <Name>Military Unit Types</Name>
           <Values>
             <string>Dorobant</string>
-            <string>Falxman</string>
+            <string>Falxmen</string>
           </Values>
         </NameGroup>
       </MilitaryUnitTypes>
@@ -155,7 +156,7 @@
     </Warfare>
     <MythologicalCreatures>
       <NameGroup>
-        <Name>Mythological creatures - Romanian</Name>
+        <Name>Mythological creatures</Name>
         <Values>
           <string>Balaur</string>
           <string>Strigoi</string>
@@ -195,14 +196,14 @@
       </Battleship>
       <Science>
         <NameGroup>
-          <Name>Persons - Scientists - Romanian</Name>
+          <Name>Persons - Scientists</Name>
           <Values>
             <string>Racoviță</string>
             <string>Emil Racoviță</string>
           </Values>
         </NameGroup>
         <NameGroup>
-          <Name>Persons - Explorers - Romanian</Name>
+          <Name>Persons - Explorers</Name>
           <Values>
             <string>Prunariu</string>
             <string>Dumitru Prunariu</string>

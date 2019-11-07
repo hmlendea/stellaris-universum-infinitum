@@ -16,6 +16,7 @@
           <string>Portuguese</string>
           <string>Spanish</string>
           <string>Venezuelan</string>
+          <string>Visigothic</string>
         </Values>
       </NameGroup>
     </Denonyms>
@@ -43,7 +44,7 @@
       </Countries>
       <Regions>
         <NameGroup>
-          <Name>Regions -Mexico</Name>
+          <Name>Regions - Mexico</Name>
           <Values>
             <string>Aguascalientes</string>
             <string>Baja</string>
@@ -77,7 +78,7 @@
           </Values>
         </NameGroup>
         <NameGroup>
-          <Name>Regions -Spain</Name>
+          <Name>Regions - Spain</Name>
           <Values>
             <string>Andalusia</string>
             <string>Aragon</string>
@@ -291,8 +292,9 @@
       </MilitaryUnitTypes>
       <BattleLocations>
         <NameGroup>
-          <Name>Battle locations - </Name>
+          <Name>Battle locations - Argentina</Name>
           <Values>
+            <string>Goose Green</string>
           </Values>
         </NameGroup>
       </BattleLocations>
@@ -304,6 +306,23 @@
           </Values>
         </NameGroup>
       </MilitaryPeopleTier1>
+      <MilitaryPeopleTier2>
+        <NameGroup>
+          <Name>Persons - Military - Spanish</Name>
+          <Values>
+            <string>Pelayo</string>
+          </Values>
+        </NameGroup>
+      </MilitaryPeopleTier2>
+      <MilitaryPeopleTier3>
+        <NameGroup>
+          <Name>Persons - Military - Spanish</Name>
+          <Values>
+            <string>Blas de Lezo</string>
+            <string>Lezo</string>
+          </Values>
+        </NameGroup>
+      </MilitaryPeopleTier3>
     </Warfare>
     <Ships>
       <Destroyer>
@@ -351,6 +370,22 @@
         </NameGroup>
       </Coloniser>
     </Ships>
+    <ShipClasses>
+      <Generic>
+        <NameGroup>
+          <Name>Spacecraft manufacturers - Argentinian</Name>
+          <Values>
+            <string>INVAP</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Aircraft manufacturers - Brazilian</Name>
+          <Values>
+            <string>Embraer</string>
+          </Values>
+        </NameGroup>
+      </Generic>
+    </ShipClasses>
     <Stations>
         <MilitaryStations>
         <Generic>
@@ -373,6 +408,18 @@
     </Armies>
     <Planets>
       <Generic>
+        <NameGroup>
+          <Name>Stellaris - United Nations of Earth - Russian</Name>
+          <Values>
+            <string>La Isabela</string>
+            <string>Las Veredas</string>
+            <string>Nueva Cádiz</string>
+            <string>Puerto González</string>
+            <string>San Cristóbal</string>
+            <string>San Fernando</string>
+            <string>San Lucas</string>
+          </Values>
+        </NameGroup>
         <NameGroup>
           <Name>Civilisation: Beyond Earth - Franco-Iberia - Basque</Name>
           <Values>

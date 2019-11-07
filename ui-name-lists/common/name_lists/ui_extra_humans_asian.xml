@@ -7,6 +7,7 @@
       <NameGroup>
         <Name>Denonyms</Name>
         <Values>
+          <string>Asian</string>
           <string>Chinese</string>
           <string>Indonesian</string>
           <string>Japanese</string>
@@ -256,6 +257,30 @@
           </Values>
         </NameGroup>
       </Cities>
+      <Mountains>
+        <NameGroup>
+          <Name>Mountains</Name>
+          <Values>
+            <string>Himalaya</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Mountains</Name>
+          <Values>
+            <string>Chomolungma</string>
+            <string>Everest</string>
+            <string>Zhumulangma</string>
+          </Values>
+        </NameGroup>
+      </Mountains>
+      <Deserts>
+        <NameGroup>
+          <Name>Deserts</Name>
+          <Values>
+            <string>Gobi</string>
+          </Values>
+        </NameGroup>
+      </Deserts>
       <Rivers>
         <NameGroup>
           <Name>Rivers - English names</Name>
@@ -324,8 +349,9 @@
       </MilitaryUnitTypes>
       <BattleLocations>
         <NameGroup>
-          <Name>Battle locations - </Name>
+          <Name>Battle locations - Korea</Name>
           <Values>
+            <string>Incheon</string>
           </Values>
         </NameGroup>
       </BattleLocations>
@@ -418,6 +444,12 @@
           </Values>
         </NameGroup>
         <NameGroup>
+          <Name>Persons - Leaders - Chinese</Name>
+          <Values>
+            <string>Changping</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
           <Name>Persons - Leaders - Mongol</Name>
           <Values>
             <string>Genghis Khan</string>
@@ -468,6 +500,19 @@
     <ShipClasses>
       <Generic>
         <NameGroup>
+          <Name>Spacecraft manufacturers - Japanese</Name>
+          <Values>
+            <string>IHI</string>
+            <string>Mitsubishi</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Spacecraft manufacturers - Korean</Name>
+          <Values>
+            <string>Satrec</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
           <Name>Aircraft manufacturers - Chinese</Name>
           <Values>
             <string>Changhe</string>
@@ -480,7 +525,6 @@
           <Name>Aircraft manufacturers - Japanese</Name>
           <Values>
             <string>Kawasaki</string>
-            <string>Mitsubishi</string>
           </Values>
         </NameGroup>
       </Generic>
@@ -574,9 +618,7 @@
       </Generic>
       <Desert>
         <NameGroup>
-          <Name>Places - Regions</Name>
           <Values>
-            <string>Gobi</string>
           </Values>
         </NameGroup>
       </Desert>

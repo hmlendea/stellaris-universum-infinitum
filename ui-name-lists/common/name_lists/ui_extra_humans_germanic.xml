@@ -139,6 +139,7 @@
         <NameGroup>
           <Name>Cities - Norway</Name>
           <Values>
+            <string>Narvik</string>
             <string>Oslo</string>
             <string>Trondheim</string>
           </Values>
@@ -265,6 +266,13 @@
           </Values>
         </NameGroup>
         <NameGroup>
+          <Name>Persons - Military - Dutch</Name>
+          <Values>
+            <string>De Ruyter</string>
+            <string>Michiel de Ruyter</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
           <Name>Persons - Military - German</Name>
           <Values>
             <string>Erwin Rommel</string>
@@ -279,6 +287,8 @@
           <Name>Persons - Military</Name>
           <Values>
             <string>Bismarck</string>
+            <string>Franz von Hipper</string>
+            <string>Hipper</string>
             <string>Otto von Bismarck</string>
           </Values>
         </NameGroup>
@@ -423,6 +433,24 @@
     </Ships>
     <ShipClasses>
       <Generic>
+        <NameGroup>
+          <Name>Spacecraft manufacturers - Belgian</Name>
+          <Values>
+            <string>QuentiQ</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Spacecraft manufacturers - Danish</Name>
+          <Values>
+            <string>GomSpace</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Spacecraft manufacturers - Dutch</Name>
+          <Values>
+            <string>Fokker</string>
+          </Values>
+        </NameGroup>
         <NameGroup>
           <Name>Aircraft manufacturers - Austrian</Name>
           <Values>
@@ -782,163 +810,13 @@
         </FemaleFirstNames>
         <FemaleRoyalFirstNames>
           <NameGroup>
-            <Name>Female German royal first names</Name>
+            <Name>Female German first names</Name>
             <Values>
-              <string>Alpers</string>
-              <string>Amann</string>
-              <string>Andbert</string>
-              <string>Bach</string>
-              <string>Backe</string>
-              <string>Bauer</string>
-              <string>Baumann</string>
-              <string>Baur</string>
-              <string>Becker</string>
-              <string>Berchtold</string>
-              <string>Berger</string>
-              <string>Bergmeister</string>
-              <string>Best</string>
-              <string>Bittrich</string>
-              <string>Bohle</string>
-              <string>Bomhard</string>
-              <string>Bouhler</string>
-              <string>Braemer</string>
-              <string>Brandt</string>
-              <string>Braun</string>
-              <string>Breithaupt</string>
-              <string>Brenner</string>
-              <string>Brill</string>
-              <string>Brinkmann</string>
-              <string>Buch</string>
-              <string>Bürckel</string>
-              <string>Daluege</string>
-              <string>Demelhubeer</string>
-              <string>Dietrich</string>
-              <string>Dreyer</string>
-              <string>Eberstein</string>
-              <string>Eggeling</string>
-              <string>Eicke</string>
-              <string>Erhard</string>
-              <string>Fegelein</string>
-              <string>Fiehler</string>
-              <string>Fischer</string>
-              <string>Fitzthum</string>
-              <string>Forster</string>
-              <string>Frank</string>
-              <string>Freyberg</string>
-              <string>Friedrichs</string>
-              <string>Gebhardt</string>
-              <string>Genzken</string>
-              <string>Gille</string>
-              <string>Glücks</string>
-              <string>Gottberg</string>
-              <string>Grasser</string>
-              <string>Grawitz</string>
-              <string>Greifelt</string>
-              <string>Greiser</string>
-              <string>Hanke</string>
-              <string>Harster</string>
-              <string>Hausser</string>
-              <string>Heiden</string>
-              <string>Heissmeyer</string>
-              <string>HeissmeyerHenlein</string>
-              <string>Heydrich</string>
-              <string>Hilderbrandt</string>
-              <string>Himmler</string>
-              <string>Hinkel</string>
-              <string>Hoffmann</string>
-              <string>Höfle</string>
-              <string>Hofmann</string>
-              <string>Jeckeln</string>
-              <string>Jüttner</string>
-              <string>Kaltenbrunner</string>
-              <string>Kammler</string>
-              <string>Katzmann</string>
-              <string>Keller</string>
-              <string>Keppler</string>
-              <string>Klein</string>
-              <string>Kleinheisterkamp</string>
-              <string>Klopfer</string>
-              <string>Koppe</string>
-              <string>Kreutz</string>
-              <string>Krüger</string>
-              <string>Kube</string>
-              <string>Lammers</string>
-              <string>Lauterbacher</string>
-              <string>Loeper</string>
-              <string>Lorenz</string>
-              <string>Lörner</string>
-              <string>Meyer</string>
-              <string>Moder</string>
-              <string>Müller</string>
-              <string>Mülverstadt</string>
-              <string>Naumann</string>
-              <string>Nebe</string>
-              <string>Neumann</string>
-              <string>Oberg</string>
-              <string>Ohlendorf</string>
-              <string>Ostendorff</string>
-              <string>Pancke</string>
-              <string>Pfeffer</string>
-              <string>Phelps</string>
-              <string>Pohl</string>
-              <string>Prieß</string>
-              <string>Prützmann</string>
-              <string>Querner</string>
-              <string>Rattenhuber</string>
-              <string>Rauter</string>
-              <string>Rediess</string>
-              <string>Reeder</string>
-              <string>Reinefarth</string>
-              <string>Ribbentrop</string>
-              <string>Richter</string>
-              <string>Rösener</string>
-              <string>Saubeerzweig</string>
-              <string>Sauckel</string>
-              <string>Sauer</string>
-              <string>Schäfer</string>
-              <string>Scharfe</string>
-              <string>Schaub</string>
-              <string>Scheid</string>
-              <string>Schimana</string>
-              <string>Schmidt</string>
-              <string>Schneider</string>
-              <string>Scholz</string>
-              <string>Schreck</string>
-              <string>Schubert</string>
-              <string>Schulz</string>
-              <string>Schwarz</string>
-              <string>Schwarzenegger</string>
-              <string>Sporrenberg</string>
-              <string>Stein</string>
-              <string>Steiner</string>
-              <string>Strasse</string>
-              <string>Streckenbach</string>
-              <string>Stroop</string>
-              <string>Stuckart</string>
-              <string>von Alvensleben</string>
-              <string>von Boyen</string>
-              <string>von Falkenstein</string>
-              <string>von Fritsch</string>
-              <string>von Gebser</string>
-              <string>von Halkett</string>
-              <string>von Helldorf</string>
-              <string>von Herff</string>
-              <string>von Hotzendorf</string>
-              <string>von Neurath</string>
-              <string>von Woyrsch</string>
-              <string>von Wrangel</string>
-              <string>Wächter</string>
-              <string>Wächtler</string>
-              <string>Wagner</string>
-              <string>Weber</string>
-              <string>Weiss</string>
-              <string>Weitzel</string>
-              <string>Wendler</string>
-              <string>Wildenbruch</string>
-              <string>Wolf</string>
-              <string>Wolff</string>
-              <string>Wünnenberg</string>
-              <string>Ziegler</string>
+              <string>Adelaide</string>
+              <string>Anna</string>
+              <string>Hermine</string>
+              <string>Margaret</string>
+              <string>Maria</string>
             </Values>
           </NameGroup>
         </FemaleRoyalFirstNames>

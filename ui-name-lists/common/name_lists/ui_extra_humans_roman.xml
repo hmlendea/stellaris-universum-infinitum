@@ -22,7 +22,7 @@
       </Countries>
       <Regions>
         <NameGroup>
-          <Name>Regions - Rome</Name>
+          <Name>Regions</Name>
           <Values>
             <string>Achaea</string>
             <string>Achaia</string>
@@ -152,40 +152,40 @@
     <Warfare>
       <Weapons>
         <NameGroup>
-          <Name>Swords - Roman</Name>
+          <Name>Swords</Name>
           <Values>
             <string>Gladius</string>
             <string>Spatha</string>
           </Values>
         </NameGroup>
         <NameGroup>
-          <Name>Daggers - Roman</Name>
+          <Name>Daggers</Name>
           <Values>
             <string>Pugio</string>
           </Values>
         </NameGroup>
         <NameGroup>
-          <Name>Spears - Roman</Name>
+          <Name>Spears</Name>
           <Values>
             <string>Hasta</string>
             <string>Spiculum</string>
           </Values>
         </NameGroup>
         <NameGroup>
-          <Name>Javelins - Roman</Name>
+          <Name>Javelins</Name>
           <Values>
             <string>Lancea</string>
             <string>Verutum</string>
           </Values>
         </NameGroup>
         <NameGroup>
-          <Name>Arrows - Roman</Name>
+          <Name>Arrows</Name>
           <Values>
             <string>Plumbata</string>
           </Values>
         </NameGroup>
         <NameGroup>
-          <Name>Siege - Roman</Name>
+          <Name>Siege</Name>
           <Values>
             <string>Ballista</string>
             <string>Scorpio</string>
@@ -205,6 +205,7 @@
             <string>Legion</string>
             <string>Legionaire</string>
             <string>Legionarius</string>
+            <string>Praetorian</string>
             <string>Signifier</string>
             <string>Tablifer</string>
             <string>Tubicen</string>
@@ -222,7 +223,7 @@
     </Warfare>
     <MythologicalCreatures>
       <NameGroup>
-        <Name>Mythological Creatures - Roman</Name>
+        <Name>Mythological Creatures</Name>
         <Values>
           <string>Daemon</string>
         </Values>
@@ -252,7 +253,7 @@
       </Cruiser>
       <Battleship>
         <NameGroup>
-          <Name>Persons - Leaders - Roman</Name>
+          <Name>Persons - Leaders</Name>
           <Values>
             <string>Nero</string>
           </Values>
@@ -260,7 +261,7 @@
       </Battleship>
       <Titan>
         <NameGroup>
-          <Name>Persons - Leaders -  Roman</Name>
+          <Name>Persons - Leaders</Name>
           <Values>
             <string>Imperator Augustus</string>
             <string>Julius Caesar</string>
@@ -282,7 +283,7 @@
       </Colossus>
       <Science>
         <NameGroup>
-          <Name>Persons - Scientists - Roman</Name>
+          <Name>Persons - Scientists</Name>
           <Values>
             <string>Hyginus</string>
             <string>Lucilius</string>
@@ -302,6 +303,56 @@
         </NameGroup>
       </Coloniser>
     </Ships>
+    <ShipClasses>
+      <Corvette>
+        <NameGroup>
+          <Name>Ship Types</Name>
+          <Values>
+            <string>Lembus</string>
+            <string>Liburna</string>
+          </Values>
+        </NameGroup>
+      </Corvette>
+      <Destroyer>
+        <NameGroup>
+          <Name>Ship Types</Name>
+          <Values>
+            <string>Bireme</string>
+            <string>Quadireme</string>
+            <string>Quinquereme</string>
+            <string>Trireme</string>
+          </Values>
+        </NameGroup>
+      </Destroyer>
+      <Cruiser>
+        <NameGroup>
+          <Name>Ship Types</Name>
+          <Values>
+            <string>Hexareme</string>
+            <string>Sexireme</string>
+          </Values>
+        </NameGroup>
+      </Cruiser>
+      <Battleship>
+        <NameGroup>
+          <Name>Ship Types</Name>
+          <Values>
+            <string>Deceres</string>
+            <string>Enneres</string>
+            <string>Octeres</string>
+            <string>Septireme</string>
+          </Values>
+        </NameGroup>
+      </Battleship>
+      <Transport>
+        <NameGroup>
+          <Name>Ship Types</Name>
+          <Values>
+            <string>Hemiolia</string>
+          </Values>
+        </NameGroup>
+      </Transport>
+    </ShipClasses>
     <Stations>
       <MilitaryStations>
         <Generic>
@@ -323,7 +374,7 @@
       </Fleet>
       <DefenceArmy>
         <NameGroup>
-          <Name>Defence armies - Roman</Name>
+          <Name>Defence armies</Name>
           <Values>
             <string>Praetorian Guard</string>
           </Values>
@@ -340,15 +391,17 @@
       </Generic>
       <Desert>
         <NameGroup>
-          <Name></Name>
+          <Name>Places</Name>
           <Values>
+            <string>Nova Arabia</string>
           </Values>
         </NameGroup>
       </Desert>
       <Continental>
         <NameGroup>
-          <Name></Name>
+          <Name>Places</Name>
           <Values>
+            <string>Nova Roma</string>
           </Values>
         </NameGroup>
       </Continental>
@@ -397,44 +450,188 @@
     </Planets>
     <Characters>
       <CharacterNames>
-        <Id></Id>
-        <Weight>100</Weight>
+        <Id>latin</Id>
+        <Weight>1</Weight>
         <MaleFirstNames>
           <NameGroup>
             <Values>
+              <string>Appius</string>
+              <string>Aulus</string>
+              <string>Decimus</string>
+              <string>Gaius</string>
+              <string>Gnaeus</string>
+              <string>Lucius</string>
+              <string>Manius</string>
+              <string>Marcus</string>
+              <string>Numerius</string>
+              <string>Publius</string>
+              <string>Quintus</string>
+              <string>Servius</string>
+              <string>Sextus</string>
+              <string>Spurius</string>
+              <string>Tiberius</string>
+              <string>Titus</string>
+              <string>Vibius</string>
             </Values>
           </NameGroup>
         </MaleFirstNames>
-        <MaleRoyalFirstNames>
-          <NameGroup>
-            <Values>
-            </Values>
-          </NameGroup>
-        </MaleRoyalFirstNames>
         <FemaleFirstNames>
           <NameGroup>
             <Values>
+              <string>Appia</string>
+              <string>Aula</string>
+              <string>Decima</string>
+              <string>Gaia</string>
+              <string>Gnaea</string>
+              <string>Lucia</string>
+              <string>Mania</string>
+              <string>Marca</string>
+              <string>Numeria</string>
+              <string>Publia</string>
+              <string>Quinta</string>
+              <string>Servia</string>
+              <string>Sexta</string>
+              <string>Spuria</string>
+              <string>Tiberia</string>
+              <string>Tita</string>
+              <string>Vibia</string>
             </Values>
           </NameGroup>
         </FemaleFirstNames>
-        <FemaleRoyalFirstNames>
-          <NameGroup>
-            <Values>
-            </Values>
-          </NameGroup>
-        </FemaleRoyalFirstNames>
         <SecondNames>
           <NameGroup>
             <Values>
+              <string>Acilius</string>
+              <string>Aebutius</string>
+              <string>Aelius</string>
+              <string>Aemilius</string>
+              <string>Albius</string>
+              <string>Amatius</string>
+              <string>Annaeus</string>
+              <string>Anneius</string>
+              <string>Annius</string>
+              <string>Antonius</string>
+              <string>Arrius</string>
+              <string>Artorius</string>
+              <string>Asinius</string>
+              <string>Atilius</string>
+              <string>Atius</string>
+              <string>Aurelius</string>
+              <string>Autronius</string>
+              <string>Caecilius</string>
+              <string>Caedicius</string>
+              <string>Caelius</string>
+              <string>Calidius</string>
+              <string>Calpurnius</string>
+              <string>Cassius</string>
+              <string>Claudius</string>
+              <string>Cloelius</string>
+              <string>Cocceius</string>
+              <string>Cominius</string>
+              <string>Cornelius</string>
+              <string>Coruncanius</string>
+              <string>Curiatius</string>
+              <string>Curius</string>
+              <string>Curtius</string>
+              <string>Decius</string>
+              <string>Didius</string>
+              <string>Domitius</string>
+              <string>Duilius</string>
+              <string>Durmius</string>
+              <string>Equitius</string>
+              <string>Fabius</string>
+              <string>Fabricius</string>
+              <string>Fannius</string>
+              <string>Flavius</string>
+              <string>Fulvius</string>
+              <string>Furius</string>
+              <string>Gabinius</string>
+              <string>Galerius</string>
+              <string>Geganius</string>
+              <string>Gellius</string>
+              <string>Geminius</string>
+              <string>Genucius</string>
+              <string>Gratius</string>
+              <string>Herennius</string>
+              <string>Hirtius</string>
+              <string>Horatius</string>
+              <string>Hortensius</string>
+              <string>Hostilius</string>
+              <string>Iulius</string>
+              <string>Iunius</string>
+              <string>Iuventius</string>
+              <string>Laelius</string>
+              <string>Lartius</string>
+              <string>Licinius</string>
+              <string>Livius</string>
+              <string>Lucilius</string>
+              <string>Lucretius</string>
+              <string>Manlius</string>
+              <string>Marcius</string>
+              <string>Marius</string>
+              <string>Memmius</string>
+              <string>Menenius</string>
+              <string>Minicius</string>
+              <string>Minius</string>
+              <string>Minucius</string>
+              <string>Modius</string>
+              <string>Mucius</string>
+              <string>Naevius</string>
+              <string>Nautius</string>
+              <string>Numerius</string>
+              <string>Numicius</string>
+              <string>Octavius</string>
+              <string>Ovidius</string>
+              <string>Papirius</string>
+              <string>Petronius</string>
+              <string>Pinarius</string>
+              <string>Pompeius</string>
+              <string>Pompilius</string>
+              <string>Pontius</string>
+              <string>Popillius</string>
+              <string>Porcius</string>
+              <string>Postumius</string>
+              <string>Quinctilius</string>
+              <string>Quinctius</string>
+              <string>Rubellius</string>
+              <string>Rufius</string>
+              <string>Rutilius</string>
+              <string>Sallustius</string>
+              <string>Salonius</string>
+              <string>Salvius</string>
+              <string>Scribonius</string>
+              <string>Seius</string>
+              <string>Sempronius</string>
+              <string>Sentius</string>
+              <string>Sergius</string>
+              <string>Sertorius</string>
+              <string>Servilius</string>
+              <string>Sextius</string>
+              <string>Sicinius</string>
+              <string>Suetonius</string>
+              <string>Sulpicius</string>
+              <string>Tarpeius</string>
+              <string>Tarquitius</string>
+              <string>Terentius</string>
+              <string>Titinius</string>
+              <string>Titurius</string>
+              <string>Tuccius</string>
+              <string>Tullius</string>
+              <string>Ulpius</string>
+              <string>Valerius</string>
+              <string>Vedius</string>
+              <string>Velleius</string>
+              <string>Vergilius</string>
+              <string>Verginius</string>
+              <string>Vibius</string>
+              <string>Villius</string>
+              <string>Vipsanius</string>
+              <string>Vitellius</string>
+              <string>Vitruvius</string>
+              <string>Volumnius</string>
             </Values>
           </NameGroup>
         </SecondNames>
-        <RoyalSecondNames>
-          <NameGroup>
-            <Values>
-            </Values>
-          </NameGroup>
-        </RoyalSecondNames>
       </CharacterNames>
     </Characters>
   </NameList>

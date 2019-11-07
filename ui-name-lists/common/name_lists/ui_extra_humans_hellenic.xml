@@ -26,19 +26,15 @@
         <NameGroup>
           <Name>Regions -Greece</Name>
           <Values>
+            <string>Aegean</string>
             <string>Attica</string>
-            <string>Central Greece</string>
-            <string>Central Macedonia</string>
             <string>Crete</string>
-            <string>East Macedonia and Thrace</string>
             <string>Epirus</string>
-            <string>Ionian Islands</string>
-            <string>North Aegean</string>
+            <string>Ionia</string>
+            <string>Macedonia</string>
             <string>Peloponnese</string>
-            <string>South Aegean</string>
             <string>Thessaly</string>
-            <string>West Greece</string>
-            <string>West Macedonia</string>
+            <string>Thrace</string>
           </Values>
         </NameGroup>
       </Regions>
@@ -89,14 +85,14 @@
     <Warfare>
       <Weapons>
         <NameGroup>
-          <Name>Swords - Greek</Name>
+          <Name>Swords</Name>
           <Values>
             <string>Makihara</string>
             <string>Xiphos</string>
           </Values>
         </NameGroup>
         <NameGroup>
-          <Name>Daggers - Greek</Name>
+          <Name>Daggers</Name>
           <Values>
             <string>Kopis</string>
           </Values>
@@ -104,7 +100,7 @@
       </Weapons>
       <MilitaryUnitTypes>
         <NameGroup>
-          <Name>Military Unit Types - Greek</Name>
+          <Name>Military Unit Types</Name>
           <Values>
             <string>Cataphract</string>
             <string>Hoplite</string>
@@ -115,14 +111,15 @@
       </MilitaryUnitTypes>
       <BattleLocations>
         <NameGroup>
-          <Name>Battle locations - </Name>
+          <Name>Battle locations</Name>
           <Values>
+            <string>Thermopylae</string>
           </Values>
         </NameGroup>
       </BattleLocations>
       <MilitaryPeopleTier1>
         <NameGroup>
-          <Name>Persons - Military - Greek</Name>
+          <Name>Persons - Military</Name>
           <Values>
             <string>Marinos Mitralexis</string>
             <string>Mitralexis</string>
@@ -132,12 +129,13 @@
     </Warfare>
     <MythologicalCreatures>
       <NameGroup>
-        <Name>Mythological Creatures - Greek</Name>
+        <Name>Mythological Creatures</Name>
         <Values>
           <string>Basilisk</string>
           <string>Centaur</string>
           <string>Cerberus</string>
           <string>Chimera</string>
+          <string>Cyclope</string>
           <string>Cyclops</string>
           <string>Griffin</string>
           <string>Gryphon</string>
@@ -172,13 +170,13 @@
       </Cruiser>
       <Battleship>
         <NameGroup>
-          <Name>Persons - Leaders - Greek</Name>
+          <Name>Persons - Leaders</Name>
           <Values>
             <string>Alexander</string>
           </Values>
         </NameGroup>
         <NameGroup>
-          <Name>Persons - Mythological Heroes - Greek</Name>
+          <Name>Persons - Mythological Heroes</Name>
           <Values>
             <string>Ajax</string>
           </Values>
@@ -186,7 +184,7 @@
       </Battleship>
       <Science>
         <NameGroup>
-          <Name>Persons - Scientists - Greek</Name>
+          <Name>Persons - Scientists</Name>
           <Values>
             <string>Archimedes</string>
             <string>Callippus</string>
@@ -227,8 +225,9 @@
     <Planets>
       <Generic>
         <NameGroup>
-          <Name></Name>
+          <Name>Stellaris - United Nations of Earth</Name>
           <Values>
+            <string>Destinikon</string>
           </Values>
         </NameGroup>
       </Generic>
@@ -248,7 +247,7 @@
       </Continental>
       <Gaia>
         <NameGroup>
-          <Name>Mythology - Places - Greek</Name>
+          <Name>Mythology - Places</Name>
           <Values>
             <string>Elysium</string>
           </Values>
@@ -256,8 +255,9 @@
       </Gaia>
       <Ocean>
         <NameGroup>
-          <Name></Name>
+          <Name>Places</Name>
           <Values>
+            <string>Aegean</string>
           </Values>
         </NameGroup>
       </Ocean>

@@ -278,9 +278,11 @@
           <Values>
             <string>Butakov</string>
             <string>Grigory Butakov</string>
+            <string>Grigory Potemkin</string>
             <string>Kornilov</string>
             <string>Kuznetsov</string>
             <string>Nikolai Kuznetsov</string>
+            <string>Potemkin</string>
             <string>Vladimir Kornilov</string>
           </Values>
         </NameGroup>
@@ -318,15 +320,6 @@
           </Values>
         </NameGroup>
       </Cruiser>
-      <Battleship>
-        <NameGroup>
-          <Name>Persons - Leaders - Russian</Name>
-          <Values>
-            <string>Grigory Potemkin</string>
-            <string>Potemkin</string>
-          </Values>
-        </NameGroup>
-      </Battleship>
       <Science>
         <NameGroup>
           <Name>People - Scientists - Russian</Name>
@@ -376,16 +369,31 @@
     <ShipClasses>
       <Generic>
         <NameGroup>
+          <Name>Spacecraft manufacturers - Russian</Name>
+          <Values>
+            <string>Energiya</string>
+            <string>Lavochkin</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Rocket Designers - Russian</Name>
+          <Values>
+            <string>JSC</string>
+            <string>Mashinostroyeniya</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
           <Name>Aircraft manufacturers - Polish</Name>
           <Values>
             <string>PZL</string>
           </Values>
         </NameGroup>
         <NameGroup>
-          <Name>Aircraft manufacturers - Russia</Name>
+          <Name>Aircraft manufacturers - Russian</Name>
           <Values>
-            <string>United Aircraft</string>
             <string>Energia</string>
+            <string>Tupolev</string>
+            <string>United Aircraft</string>
           </Values>
         </NameGroup>
       </Generic>
@@ -400,6 +408,14 @@
       </Fleet>
     </Armies>
     <Planets>
+      <Generic>
+        <NameGroup>
+          <Name>Stellaris - United Nations of Earth - Russian</Name>
+          <Values>
+            <string>Port Karakosov</string>
+            <string>St. Yegorov</string>
+          </Values>
+        </NameGroup>
         <NameGroup>
           <Name>Civilisation: Beyond Earth - Slavic Federation - Belorussian</Name>
           <Values>
@@ -434,6 +450,7 @@
             <string>Stanimir</string>
           </Values>
         </NameGroup>
+      </Generic>
       <Desert>
         <NameGroup>
           <Name></Name>

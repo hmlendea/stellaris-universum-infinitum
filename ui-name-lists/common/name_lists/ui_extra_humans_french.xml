@@ -100,6 +100,7 @@
           <Name>Military unit types - French</Name>
           <Values>
             <string>Arbalester</string>
+            <string>Gendarme</string>
           </Values>
         </NameGroup>
       </MilitaryUnitTypes>
@@ -108,13 +109,8 @@
           <Name>Battle locations - France</Name>
           <Values>
             <string>Belleau Wood</string>
-          </Values>
-        </NameGroup>
-      </BattleLocations>
-      <BattleLocations>
-        <NameGroup>
-          <Name>Battle locations - </Name>
-          <Values>
+            <string>Somme</string>
+            <string>Verdun</string>
           </Values>
         </NameGroup>
       </BattleLocations>
@@ -138,6 +134,21 @@
           </Values>
         </NameGroup>
       </MilitaryPeopleTier1>
+      <MilitaryPeopleTier3>
+        <NameGroup>
+          <Name>Persons - Military - French</Name>
+          <Values>
+            <string>Charles de Gaulle</string>
+            <string>De Gaulle</string>
+            <string>Louis-René Tréville</string>
+            <string>Pierre André de Suffren</string>
+            <string>Pierre-Charles Villeneuve</string>
+            <string>Suffren</string>
+            <string>Treville</string>
+            <string>Villeneuve</string>
+          </Values>
+        </NameGroup>
+      </MilitaryPeopleTier3>
     </Warfare>
     <Ships>
       <Corvette>
@@ -158,6 +169,12 @@
         </NameGroup>
       </Destroyer>
       <Cruiser>
+        <NameGroup>
+          <Name>Ships - British</Name>
+          <Values>
+            <string>Téméraire</string>
+          </Values>
+        </NameGroup>
         <NameGroup>
           <Name>Persons - Leaders - French</Name>
           <Values>
@@ -193,6 +210,12 @@
     </Ships>
     <ShipClasses>
       <Generic>
+        <NameGroup>
+          <Name>Spacecraft manufacturers - Belgian</Name>
+          <Values>
+            <string>QuentiQ</string>
+          </Values>
+        </NameGroup>
         <NameGroup>
           <Name>Aircraft manufacturers</Name>
           <Values>
@@ -237,6 +260,12 @@
     </Armies>
     <Planets>
       <Generic>
+        <NameGroup>
+          <Name>Stellaris - United Nations of Earth - French</Name>
+          <Values>
+            <string>Mullineux</string>
+          </Values>
+        </NameGroup>
         <NameGroup>
           <Name>Civilisation: Beyond Earth - Franco-Iberia - French</Name>
           <Values>

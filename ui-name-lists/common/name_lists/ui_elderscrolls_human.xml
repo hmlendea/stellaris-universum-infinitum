@@ -106,6 +106,17 @@
           </Values>
         </NameGroup>
       </Cities>
+      <Mountains>
+        <NameGroup>
+          <Name>Mountains - Elder Scrolls - Human</Name>
+          <Values>
+            <string>Anthor</string>
+            <string>Hrothgar</string>
+            <string>Jerall</string>
+            <string>Wrothgar</string>
+          </Values>
+        </NameGroup>
+      </Mountains>
       <Rivers>
         <NameGroup>
           <Name>Rivers - Elder Scrolls - Human - Cyrodiil</Name>

@@ -57,6 +57,14 @@
           </Values>
         </NameGroup>
       </Cities>
+      <Lakes>
+        <NameGroup>
+          <Name>Lakes - Scotland</Name>
+          <Values>
+            <string>Loch Ness</string>
+          </Values>
+        </NameGroup>
+      </Lakes>
     </Places>
     <Warfare>
       <Weapons>
@@ -213,8 +221,9 @@
       </Continental>
       <Ocean>
         <NameGroup>
-          <Name></Name>
+          <Name>Places</Name>
           <Values>
+            <string>Lochness</string>
           </Values>
         </NameGroup>
       </Ocean>
