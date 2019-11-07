@@ -258,9 +258,21 @@
       </Arid>
       <Tropical>
         <NameGroup>
+          <Name>Planets - Avatar</Name>
+          <Values>
+            <string>Pandora</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
           <Name>Planets - Galactik Football</Name>
           <Values>
             <string>Wamba</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Games</Name>
+          <Values>
+            <string>Tropico</string>
           </Values>
         </NameGroup>
       </Tropical>
@@ -348,6 +360,12 @@
           <Name>Places - A Song of Ice and Fire</Name>
           <Values>
             <string>Blazewater</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Places - Lovecraft</Name>
+          <Values>
+            <string>R'lyeh</string>
           </Values>
         </NameGroup>
         <NameGroup>

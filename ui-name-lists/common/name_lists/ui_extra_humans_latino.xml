@@ -259,6 +259,28 @@
           </Values>
         </NameGroup>
       </Rivers>
+      <Mountains>
+        <NameGroup>
+          <Name>Mountains</Name>
+          <Values>
+            <string>Andes</string>
+          </Values>
+        </NameGroup>
+      </Mountains>
+      <Deserts>
+        <NameGroup>
+          <Name>Deserts - Chile</Name>
+          <Values>
+            <string>Atacama</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Deserts - Peru</Name>
+          <Values>
+            <string>Nazca</string>
+          </Values>
+        </NameGroup>
+      </Deserts>
     </Places>
     <Warfare>
       <Weapons>
@@ -409,11 +431,12 @@
     <Planets>
       <Generic>
         <NameGroup>
-          <Name>Stellaris - United Nations of Earth - Russian</Name>
+          <Name>Stellaris - United Nations of Earth</Name>
           <Values>
             <string>La Isabela</string>
             <string>Las Veredas</string>
             <string>Nueva Cádiz</string>
+            <string>Nueva Sonora</string>
             <string>Puerto González</string>
             <string>San Cristóbal</string>
             <string>San Fernando</string>
@@ -472,8 +495,9 @@
       </Generic>
       <Desert>
         <NameGroup>
-          <Name></Name>
+          <Name>Stellaris - United Nations of Earth</Name>
           <Values>
+            <string>Patagonia</string>
           </Values>
         </NameGroup>
       </Desert>

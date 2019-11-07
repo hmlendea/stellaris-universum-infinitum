@@ -30,6 +30,23 @@
           </Values>
         </NameGroup>
       </Cities>
+      <Mountains>
+        <NameGroup>
+          <Name>Mountains - </Name>
+          <Values>
+          </Values>
+        </NameGroup>
+      </Mountains>
+      <Deserts>
+        <NameGroup>
+          <Name>Deserts - Iran</Name>
+          <Values>
+            <string>Kavir</string>
+            <string>Lut</string>
+            <string>Maranjab</string>
+          </Values>
+        </NameGroup>
+      </Deserts>
     </Places>
     <Ships>
       <Generic />

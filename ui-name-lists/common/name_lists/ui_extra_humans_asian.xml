@@ -275,9 +275,17 @@
       </Mountains>
       <Deserts>
         <NameGroup>
-          <Name>Deserts</Name>
+          <Name>Deserts - China</Name>
           <Values>
             <string>Gobi</string>
+            <string>Lop</string>
+            <string>Taklamakan</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Deserts - Mongolia</Name>
+          <Values>
+            <string>Ordos</string>
           </Values>
         </NameGroup>
       </Deserts>
@@ -543,7 +551,7 @@
     <Planets>
       <Generic>
         <NameGroup>
-          <Name>Vanilla HUMAN1</Name>
+          <Name>Stellaris - United Nations of Earth</Name>
           <Values>
             <string>Xianyang</string>
             <string>Wenzhou</string>

@@ -656,8 +656,22 @@
     <Planets>
       <Generic>
         <NameGroup>
-          <Name>Stellaris - United Nations of Earth - English</Name>
+          <Name>Stellaris - United Nations of Earth - British</Name>
           <Values>
+            <string>New Coventry</string>
+            <string>St. Pomeroy</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Stellaris - Commonwealth of Man - American</Name>
+          <Values>
+            <string>Hinckley's Hope</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Stellaris - Commonwealth of Man - British</Name>
+          <Values>
+            <string>Fitzroy's World</string>
             <string>Hoxworth</string>
           </Values>
         </NameGroup>
@@ -697,8 +711,16 @@
       </Generic>
       <Desert>
         <NameGroup>
-          <Name></Name>
+          <Name>Deserts - Australia</Name>
           <Values>
+            <string>Gibson</string>
+            <string>Simpson</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Deserts - United States</Name>
+          <Values>
+            <string>Mojave</string>
           </Values>
         </NameGroup>
       </Desert>

@@ -227,7 +227,14 @@
         <NameGroup>
           <Name>Stellaris - United Nations of Earth</Name>
           <Values>
+            <string>Olympia</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
+          <Name>Stellaris - Commonwealth of Man</Name>
+          <Values>
             <string>Destinikon</string>
+            <string>Tartessos</string>
           </Values>
         </NameGroup>
       </Generic>

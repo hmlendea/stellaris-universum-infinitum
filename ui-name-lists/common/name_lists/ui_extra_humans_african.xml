@@ -316,6 +316,7 @@
         <NameGroup>
           <Name>Deserts</Name>
           <Values>
+            <string>Kalahari</string>
             <string>Namib</string>
             <string>Sahara</string>
           </Values>

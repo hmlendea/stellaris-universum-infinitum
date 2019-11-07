@@ -213,8 +213,13 @@
     <Planets>
       <Generic>
         <NameGroup>
-          <Name></Name>
+          <Name>Stellaris - United Nations of Earth</Name>
           <Values>
+            <string>Al-Jissa</string>
+            <string>Al-Karak</string>
+            <string>Al-Mada'in</string>
+            <string>Al-Matabbah</string>
+            <string>Al-Nuqayrah</string>
           </Values>
         </NameGroup>
       </Generic>

@@ -119,6 +119,21 @@
           </Values>
         </NameGroup>
       </Rivers>
+      <Mountains>
+        <NameGroup>
+          <Name>Mountains - </Name>
+          <Values>
+          </Values>
+        </NameGroup>
+      </Mountains>
+      <Deserts>
+        <NameGroup>
+          <Name>Deserts - Pakistan</Name>
+          <Values>
+            <string>Thar</string>
+          </Values>
+        </NameGroup>
+      </Deserts>
     </Places>
     <Warfare>
       <Weapons>

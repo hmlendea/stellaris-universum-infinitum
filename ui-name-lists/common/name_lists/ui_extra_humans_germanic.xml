@@ -488,6 +488,12 @@
     <Planets>
       <Generic>
         <NameGroup>
+          <Name>Stellaris - Commonwealth of Man</Name>
+          <Values>
+            <string>Schimmel's World</string>
+          </Values>
+        </NameGroup>
+        <NameGroup>
           <Name>Media</Name>
           <Values>
             <string>Friedland</string>
