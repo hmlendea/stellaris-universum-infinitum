@@ -92,7 +92,7 @@ ui_trait_governor_corporatist = {
     }
     leader_trait = yes
     leader_class = { governor }
-    opposites = { "ui_trait_governor_environmentalist" "ui_trait_governor_war_industrialist" "ui_trait_governor_consumer_industrialist" "ui_trait_governor_spiritual_preacher" "ui_trait_governor_cultural_interest" }
+    opposites = { "ui_trait_governor_environmentalist" "ui_trait_governor_war_industrialist" "ui_trait_governor_consumer_industrialist" "ui_trait_governor_cultural_interest" }
 }
 
 ui_trait_governor_miner = {
@@ -125,7 +125,7 @@ ui_trait_governor_robotics_magnate = {
     }
     leader_trait = yes
     leader_class = { governor }
-    opposites = { "ui_trait_governor_spiritual_preacher" "ui_trait_governor_war_industrialist" "ui_trait_governor_consumer_industrialist" }
+    opposites = { "ui_trait_governor_ideologue_spiritualist" "ui_trait_governor_war_industrialist" "ui_trait_governor_consumer_industrialist" }
 }
 
 ui_trait_governor_environmentalist = {
@@ -159,26 +159,167 @@ ui_trait_governor_moral_authority = {
             }
         }
     }
-    opposites = { "ui_trait_governor_fascist_demagogue" "ui_trait_vicious_rumours" "ui_trait_governor_deal_with_the_devil" }
+    opposites = { "ui_trait_governor_ideologue_authoritarian" "ui_trait_vicious_rumours" "ui_trait_governor_deal_with_the_devil" }
 }
 
-ui_trait_governor_fascist_demagogue = {
+ui_trait_governor_ideologue_militarist = {
     cost = 1
     modification = no
     modifier = {
-        pop_ethic_authoritarian_attraction_mult = 1
+        pop_ethic_militarist_attraction_mult = 0.25
+        pop_ethic_pacifist_attraction_mult = -0.25
     }
     leader_trait = yes
     leader_class = { governor }
     leader_potential_add = {
         NOT = {
             OR = {
-                FROM = { has_ethic = "ethic_authoritarian" }
-                FROM = { has_ethic = "ethic_fanatic_authoritarian" }
+                FROM = { has_ethic = "ethic_fanatic_pacifist" }
+                FROM = { has_ethic = "ethic_hive_mind" }
             }
         }
     }
-    opposites = { "ui_trait_governor_moral_authority" }
+    opposites = { "ui_trait_governor_ideologue_pacifist"  }
+}
+
+ui_trait_governor_ideologue_pacifist = {
+    cost = 1
+    modification = no
+    modifier = {
+        pop_ethic_pacifist_attraction_mult = 0.25
+        pop_ethic_militarist_attraction_mult = -0.25
+    }
+    leader_trait = yes
+    leader_class = { governor }
+    leader_potential_add = {
+        NOT = {
+            OR = {
+                FROM = { has_ethic = "ethic_fanatic_militarist" }
+                FROM = { has_ethic = "ethic_hive_mind" }
+            }
+        }
+    }
+    opposites = { "ui_trait_governor_ideologue_militarist" "ui_trait_governor_war_industrialist"  }
+}
+
+ui_trait_governor_ideologue_xenophobe = {
+    cost = 1
+    modification = no
+    modifier = {
+        pop_ethic_xenophobe_attraction_mult = 0.25
+        pop_ethic_xenophile_attraction_mult = -0.25
+    }
+    leader_trait = yes
+    leader_class = { governor }
+    leader_potential_add = {
+        NOT = {
+            OR = {
+                FROM = { has_ethic = "ethic_fanatic_xenophile" }
+                FROM = { has_ethic = "ethic_hive_mind" }
+            }
+        }
+    }
+    opposites = { "ui_trait_governor_open_armed" "ui_trait_governor_ideologue_xenophile"  }
+}
+
+ui_trait_governor_ideologue_xenophile = {
+    cost = 1
+    modification = no
+    modifier = {
+        pop_ethic_xenophile_attraction_mult = 0.25
+        pop_ethic_xenophobe_attraction_mult = -0.25
+    }
+    leader_trait = yes
+    leader_class = { governor }
+    leader_potential_add = {
+        NOT = {
+            OR = {
+                FROM = { has_ethic = "ethic_fanatic_xenophobe" }
+                FROM = { has_ethic = "ethic_hive_mind" }
+            }
+        }
+    }
+    opposites = { "ui_trait_governor_open_armed" "ui_trait_governor_ideologue_xenophobe"  }
+}
+
+ui_trait_governor_ideologue_egalitarian = {
+    cost = 1
+    modification = no
+    modifier = {
+        pop_ethic_egalitarian_attraction_mult = 0.25
+        pop_ethic_authoritarian_attraction_mult = -0.25
+    }
+    leader_trait = yes
+    leader_class = { governor }
+    leader_potential_add = {
+        NOT = {
+            OR = {
+                FROM = { has_ethic = "ethic_fanatic_authoritarian" }
+                FROM = { has_ethic = "ethic_hive_mind" }
+            }
+        }
+    }
+    opposites = { "ui_trait_governor_moral_authority" "ui_trait_governor_ideologue_authoritarian" }
+}
+
+ui_trait_governor_ideologue_authoritarian = {
+    cost = 1
+    modification = no
+    modifier = {
+        pop_ethic_authoritarian_attraction_mult = 0.25
+        pop_ethic_egalitarian_attraction_mult = -0.25
+    }
+    leader_trait = yes
+    leader_class = { governor }
+    leader_potential_add = {
+        NOT = {
+            OR = {
+                FROM = { has_ethic = "ethic_fanatic_egalitarian" }
+                FROM = { has_ethic = "ethic_hive_mind" }
+            }
+        }
+    }
+    opposites = { "ui_trait_governor_moral_authority" "ui_trait_governor_ideologue_egalitarian" }
+}
+
+ui_trait_governor_ideologue_materialist = {
+    cost = 1
+    modification = no
+    modifier = {
+        pop_ethic_materialist_attraction_mult = 0.25
+        pop_ethic_spiritualist_attraction_mult = -0.25
+    }
+    leader_trait = yes
+    leader_class = { governor }
+    leader_potential_add = {
+        NOT = {
+            OR = {
+                FROM = { has_ethic = "ethic_fanatic_spiritualist" }
+                FROM = { has_ethic = "ethic_hive_mind" }
+            }
+        }
+    }
+    opposites = { "ui_trait_governor_ideologue_spiritualist"  }
+}
+
+ui_trait_governor_ideologue_spiritualist = {
+    cost = 1
+    modification = no
+    modifier = {
+        pop_ethic_spiritualist_attraction_mult = 0.25
+        pop_ethic_materialist_attraction_mult = -0.25
+    }
+    leader_trait = yes
+    leader_class = { governor }
+    leader_potential_add = {
+        NOT = {
+            OR = {
+                FROM = { has_ethic = "ethic_fanatic_materialist" }
+                FROM = { has_ethic = "ethic_hive_mind" }
+            }
+        }
+    }
+    opposites = { "ui_trait_governor_robotics_magnate" "ui_trait_governor_ideologue_materialist" }
 }
 
 ui_trait_governor_war_industrialist = {
@@ -197,7 +338,7 @@ ui_trait_governor_war_industrialist = {
             }
         }
     }
-    opposites = { "ui_trait_governor_corporatist" "ui_trait_governor_miner" "ui_trait_governor_environmentalist" ui_trait_governor_consumer_industrialist "ui_trait_governor_familist" "ui_trait_governor_robotics_magnate" }
+    opposites = { "ui_trait_governor_ideologue_pacifist" "ui_trait_governor_corporatist" "ui_trait_governor_miner" "ui_trait_governor_environmentalist" ui_trait_governor_consumer_industrialist "ui_trait_governor_familist" "ui_trait_governor_robotics_magnate" }
 }
 
 ui_trait_governor_consumer_industrialist = {
@@ -211,39 +352,26 @@ ui_trait_governor_consumer_industrialist = {
     opposites = { "ui_trait_governor_corporatist" "ui_trait_governor_miner" "ui_trait_governor_environmentalist" "ui_trait_governor_war_industrialist" "ui_trait_governor_familist" "ui_trait_governor_robotics_magnate" }
 }
 
-ui_trait_governor_spiritual_preacher = {
-    cost = 1
-    modification = no
-    modifier = {
-        pop_ethic_spiritualist_attraction_mult = 1.00
-    }
-    leader_trait = yes
-    leader_class = { governor }
-    opposites = { "ui_trait_governor_corporatist" "ui_trait_governor_robotics_magnate" }
-}
-
 ui_trait_governor_racist = {
     cost = 1
     modification = no
     modifier = {
-        pop_ethic_xenophobe_attraction_mult = 0.8
-        planet_immigration_pull_mult = -0.2
+        planet_immigration_pull_mult = -0.4
     }
     leader_trait = yes
     leader_class = { governor }
-    opposites = { "ui_trait_governor_open_armed" }
+    opposites = { ui_trait_governor_ideologue_xenophile "ui_trait_governor_ideologue_pacifist" "ui_trait_governor_open_armed" }
 }
 
 ui_trait_governor_open_armed = {
     cost = 1
     modification = no
     modifier = {
-        pop_ethic_xenophile_attraction_mult = 0.8
-        planet_immigration_pull_mult = 0.2
+        planet_immigration_pull_mult = 0.4
     }
     leader_trait = yes
     leader_class = { governor }
-    opposites = { "ui_trait_governor_racist" }
+    opposites = { ui_trait_governor_ideologue_xenophobe "ui_trait_governor_racist" }
 }
 
 ui_trait_governor_vicious_rumours = {
