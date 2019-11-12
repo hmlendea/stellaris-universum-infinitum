@@ -92,7 +92,7 @@ ui_trait_governor_corporatist = {
     }
     leader_trait = yes
     leader_class = { governor }
-    opposites = { "ui_trait_environmentalist" "ui_trait_governor_war_industrialist" "ui_trait_governor_spiritual_preacher" "ui_trait_governor_cultural_interest" }
+    opposites = { "ui_trait_governor_environmentalist" "ui_trait_governor_war_industrialist" "ui_trait_governor_consumer_industrialist" "ui_trait_governor_spiritual_preacher" "ui_trait_governor_cultural_interest" }
 }
 
 ui_trait_governor_miner = {
@@ -103,7 +103,7 @@ ui_trait_governor_miner = {
     }
     leader_trait = yes
     leader_class = { governor }
-    opposites = { "ui_trait_environmentalist" "ui_trait_governor_war_industrialist" "ui_trait_governor_cultural_interest" }
+    opposites = { "ui_trait_governor_environmentalist" "ui_trait_governor_war_industrialist" "ui_trait_governor_consumer_industrialist" "ui_trait_governor_cultural_interest" }
 }
 
 ui_trait_governor_populist = {
@@ -125,7 +125,7 @@ ui_trait_governor_robotics_magnate = {
     }
     leader_trait = yes
     leader_class = { governor }
-    opposites = { "ui_trait_governor_spiritual_preacher" "ui_trait_governor_war_industrialist" }
+    opposites = { "ui_trait_governor_spiritual_preacher" "ui_trait_governor_war_industrialist" "ui_trait_governor_consumer_industrialist" }
 }
 
 ui_trait_governor_environmentalist = {
@@ -136,7 +136,7 @@ ui_trait_governor_environmentalist = {
     }
     leader_trait = yes
     leader_class = { governor }
-    opposites = { "ui_trait_governor_corporatist" "ui_trait_governor_miner" "ui_trait_governor_war_industrialist" }
+    opposites = { "ui_trait_governor_corporatist" "ui_trait_governor_miner" "ui_trait_governor_war_industrialist" "ui_trait_governor_consumer_industrialist" }
 }
 
 ui_trait_governor_moral_authority = {
@@ -185,21 +185,30 @@ ui_trait_governor_war_industrialist = {
     cost = 1
     modification = no
     modifier = {
-        pop_ethic_militarist_attraction_mult = 0.8
-        planet_army_build_speed_mult = 0.2
-        armies_cost_mult = -0.2
+        planet_jobs_alloys_produces_mult = 0.1
     }
     leader_trait = yes
     leader_class = { governor }
     leader_potential_add = {
         NOT = {
             OR = {
-                FROM = { has_ethic = "ethic_authoritarian" }
-                FROM = { has_ethic = "ethic_fanatic_authoritarian" }
+                FROM = { has_ethic = "ethic_pacifist" }
+                FROM = { has_ethic = "ethic_fanatic_pacifist" }
             }
         }
     }
-    opposites = { "ui_trait_governor_corporatist" "ui_trait_governor_miner" "ui_trait_governor_environmentalist" "ui_trait_governor_familist" "ui_trait_governor_robotics_magnate" }
+    opposites = { "ui_trait_governor_corporatist" "ui_trait_governor_miner" "ui_trait_governor_environmentalist" ui_trait_governor_consumer_industrialist "ui_trait_governor_familist" "ui_trait_governor_robotics_magnate" }
+}
+
+ui_trait_governor_consumer_industrialist = {
+    cost = 1
+    modification = no
+    modifier = {
+        planet_jobs_consumer_goods_produces_mult = 0.1
+    }
+    leader_trait = yes
+    leader_class = { governor }
+    opposites = { "ui_trait_governor_corporatist" "ui_trait_governor_miner" "ui_trait_governor_environmentalist" "ui_trait_governor_war_industrialist" "ui_trait_governor_familist" "ui_trait_governor_robotics_magnate" }
 }
 
 ui_trait_governor_spiritual_preacher = {

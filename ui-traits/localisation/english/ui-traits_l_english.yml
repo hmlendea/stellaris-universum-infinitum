@@ -91,6 +91,8 @@
  ui_trait_general_crusader:0 "Crusader"
 
 # Governor traits
+ ui_trait_governor_consumer_idsustrialist_desc:0 "This is a magnate in the consumer idustry, and strongly lobbies for more consumer goods production.§!\n"
+ ui_trait_governor_consumer_industrialist:0 "Consumer Industrialist"
  ui_trait_governor_corporatist_desc:0 "This character is a stauch corporatist, with a strong focus on economy and capital gain.§!\n"
  ui_trait_governor_corporatist:0 "Corporatist"
  ui_trait_governor_cultural_interest_desc:0 "This character has an interest for culture, employing a campaign of cutural enrichment and promotion of the arts.§!\n"
@@ -129,16 +131,16 @@
  ui_trait_governor_robotics_magnate:0 "Robotics Magnate"
  ui_trait_governor_securist_desc:0 "This character is has strong ties with the police and security agencies, and is an advocate of a strong security force and preventive surveillance.§!\n"
  ui_trait_governor_securist:0 "Securist"
+ ui_trait_governor_security_interest_desc:0 "This has a strong interest in defence, eploying a policy focused on improving the civilian and military security.§!\n"
+ ui_trait_governor_security_interest:0 "Security Interest"
  ui_trait_governor_sociologist_desc:0 "This character was a renowned sociology researcher before pursuing a political career with the goal of further promoting and developing his field of science.§!\n"
  ui_trait_governor_sociologist:0 "Sociologist"
  ui_trait_governor_spiritual_preacher_desc:0 "This is a strong religious believer and a preacher of his faith.§!\n"
  ui_trait_governor_spiritual_preacher:0 "Spiritual Preacher"
  ui_trait_governor_vicious_rumours_desc:0 "This individual is haunted by vicious rumours regarding multiple and different aspects of its life, tarnishing its image and sowing distrust amongst its subjects.§!\n"
  ui_trait_governor_vicious_rumours:0 "Vicious Rumours"
- ui_trait_governor_war_idsustrialist_desc:0 "This is a magnate in the war idustry, and strongly lobbies for more military spending.§!\n"
+ ui_trait_governor_war_idsustrialist_desc:0 "This is a magnate in the war idustry, and strongly lobbies for more military hardware production.§!\n"
  ui_trait_governor_war_industrialist:0 "War Industrialist"
- ui_trait_governor_security_interest_desc:0 "This has a strong interest in defence, eploying a policy focused on improving the civilian and military security.§!\n"
- ui_trait_governor_security_interest:0 "Security Interest"
  
 # Ruler traits
  ui_trait_ruler_antique_collector_desc:0 "This character is very passionate about collecting all sorts of exotic and antique trinkets found through the galaxy.§!\n"
