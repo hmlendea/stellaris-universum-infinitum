@@ -50,7 +50,7 @@ ui_elderscrolls_argonian = {
         ruler_title = "High Root-Speaker"
         leader_class = "ruler"
     }
-    spawn_as_fallen = no
+    spawn_as_fallen = yes
     ignore_portrait_duplication = yes
     room = "personality_honorbound_warriors_room"
     spawn_enabled = yes

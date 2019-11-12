@@ -53,7 +53,7 @@
 		heir_title="Elder"
 		leader_class="ruler"
 	}
-	spawn_as_fallen=no
+	spawn_as_fallen=yes
 	ignore_portrait_duplication=no
 	room="personality_honorbound_warriors_room"
 	spawn_enabled=yes

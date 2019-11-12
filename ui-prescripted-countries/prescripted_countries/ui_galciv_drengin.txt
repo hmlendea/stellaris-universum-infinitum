@@ -50,7 +50,7 @@ ui_galciv_drengin = {
         heir_title = "Lord"
         leader_class = "ruler"
     }
-    spawn_as_fallen = no
+    spawn_as_fallen = yes
     ignore_portrait_duplication = yes
     room = "personality_fanatic_purifier_room"
     spawn_enabled = yes

@@ -47,7 +47,7 @@ ui_galciv_krynn = {
         ruler_title_female = "Consul"
         leader_class = "ruler"
     }
-    spawn_as_fallen = no
+    spawn_as_fallen = yes
     ignore_portrait_duplication = no
     room = "personality_evangelizing_zealots_room"
     spawn_enabled = yes
