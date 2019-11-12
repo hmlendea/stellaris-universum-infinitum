@@ -93,6 +93,8 @@
 # Governor traits
  ui_trait_governor_corporatist_desc:0 "This character is a stauch corporatist, with a strong focus on economy and capital gain.§!\n"
  ui_trait_governor_corporatist:0 "Corporatist"
+ ui_trait_governor_cultural_interest_desc:0 "This character has an interest for culture, employing a campaign of cutural enrichment and promotion of the arts.§!\n"
+ ui_trait_governor_cultural_interest:0 "Cultural Interest"
  ui_trait_governor_deal_with_the_devil_desc:0 "This individual is willing to strike compromise the fight against crime in order to meet the the quotas, turning a blind eye towards the criminal cartels in exchange for a slice of their profits.§!\n"
  ui_trait_governor_deal_with_the_devil:0 "Deal with the Devil"
  ui_trait_governor_engineer_desc:0 "This character was a renowned enginner researcher before pursuing a political career with the goal of further promoting and developing his field of science.§!\n"
@@ -135,6 +137,8 @@
  ui_trait_governor_vicious_rumours:0 "Vicious Rumours"
  ui_trait_governor_war_idsustrialist_desc:0 "This is a magnate in the war idustry, and strongly lobbies for more military spending.§!\n"
  ui_trait_governor_war_industrialist:0 "War Industrialist"
+ ui_trait_governor_security_interest_desc:0 "This has a strong interest in defence, eploying a policy focused on improving the civilian and military security.§!\n"
+ ui_trait_governor_security_interest:0 "Security Interest"
  
 # Ruler traits
  ui_trait_ruler_antique_collector_desc:0 "This character is very passionate about collecting all sorts of exotic and antique trinkets found through the galaxy.§!\n"

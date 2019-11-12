@@ -92,7 +92,7 @@ ui_trait_governor_corporatist = {
     }
     leader_trait = yes
     leader_class = { governor }
-    opposites = { "ui_trait_environmentalist" "ui_trait_governor_war_industrialist" "ui_trait_governor_spiritual_preacher" }
+    opposites = { "ui_trait_environmentalist" "ui_trait_governor_war_industrialist" "ui_trait_governor_spiritual_preacher" "ui_trait_governor_cultural_interest" }
 }
 
 ui_trait_governor_miner = {
@@ -103,7 +103,7 @@ ui_trait_governor_miner = {
     }
     leader_trait = yes
     leader_class = { governor }
-    opposites = { "ui_trait_environmentalist" "ui_trait_governor_war_industrialist" }
+    opposites = { "ui_trait_environmentalist" "ui_trait_governor_war_industrialist" "ui_trait_governor_cultural_interest" }
 }
 
 ui_trait_governor_populist = {
@@ -253,11 +253,11 @@ ui_trait_governor_deal_with_the_devil = {
     modification = no
     modifier = {
         planet_jobs_energy_produces_mult = 0.25
-		planet_crime_add = 25
+        planet_crime_add = 25
     }
     leader_trait = yes
     leader_class = { governor }
-    opposites = { "leader_trait_righteous" "ui_trait_governor_moral_authority" }
+    opposites = { "leader_trait_righteous" "ui_trait_governor_moral_authority" "ui_trait_governor_security_interest" }
 }
 
 ui_trait_governor_questionable_ethics = {
@@ -267,9 +267,12 @@ ui_trait_governor_questionable_ethics = {
         planet_jobs_engineering_research_produces_mult = 0.05
         planet_jobs_physics_research_produces_mult = 0.05
         planet_jobs_society_research_produces_mult = 0.05
-		planet_stability_add = -2.5
+        planet_stability_add = -2.5
         pop_happiness = -0.05
         pop_growth_speed = -0.01
+    }
+    leader_potential_add = {
+        NOT = { from = { has_authority = "auth_machine_intelligence" } }
     }
     leader_trait = yes
     leader_class = { governor }
@@ -283,9 +286,12 @@ ui_trait_governor_naturalist = {
         planet_jobs_engineering_research_produces_mult = -0.05
         planet_jobs_physics_research_produces_mult = -0.05
         planet_jobs_society_research_produces_mult = -0.05
-		planet_stability_add = 2.5
+        planet_stability_add = 2.5
         pop_happiness = 0.05
         pop_growth_speed = 0.01
+    }
+    leader_potential_add = {
+        NOT = { from = { has_authority = "auth_machine_intelligence" } }
     }
     leader_trait = yes
     leader_class = { governor }
@@ -297,9 +303,9 @@ ui_trait_governor_guns_legaliser = {
     modification = no
     modifier = {
         army_defense_damage_mult = 0.25
-		planet_army_build_speed_mult = 0.1
+        planet_army_build_speed_mult = 0.1
         planet_stability_add = -5
-		planet_crime_add = 5
+        planet_crime_add = 5
     }
     leader_trait = yes
     leader_class = { governor }
@@ -311,11 +317,34 @@ ui_trait_governor_guns_prohibitor = {
     modification = no
     modifier = {
         army_defense_damage_mult = -0.25
-		planet_army_build_speed_mult = -0.1
+        planet_army_build_speed_mult = -0.1
         planet_stability_add = 5
-		planet_crime_add = -5
+        planet_crime_add = -5
     }
     leader_trait = yes
     leader_class = { governor }
     opposites = { "ui_trait_governor_guns_legaliser" }
+}
+
+ui_trait_governor_cultural_interest = {
+    cost = 1
+    modification = no
+    modifier = {
+        planet_amenities_mult = 0.10
+    }
+    leader_trait = yes
+    leader_class = { governor }
+    opposites = { "leader_trait_architectural_interest" "ui_trait_governor_corporatist" "ui_trait_governor_miner" }
+}
+
+ui_trait_governor_security_interest = {
+    cost = 1
+    modification = no
+    modifier = {
+        army_defense_damage_mult = 0.33
+        planet_crime_add = -10
+    }
+    leader_trait = yes
+    leader_class = { governor }
+    opposites = { "ui_trait_governor_deal_with_the_devil" }
 }
