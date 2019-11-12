@@ -333,7 +333,6 @@ ui_trait_governor_war_industrialist = {
     leader_potential_add = {
         NOT = {
             OR = {
-                FROM = { has_ethic = "ethic_pacifist" }
                 FROM = { has_ethic = "ethic_fanatic_pacifist" }
             }
         }
@@ -360,7 +359,7 @@ ui_trait_governor_racist = {
     }
     leader_trait = yes
     leader_class = { governor }
-    opposites = { ui_trait_governor_ideologue_xenophile "ui_trait_governor_ideologue_pacifist" "ui_trait_governor_open_armed" }
+    opposites = { "ui_trait_governor_ideologue_xenophile" "ui_trait_governor_ideologue_pacifist" "ui_trait_governor_open_armed" }
 }
 
 ui_trait_governor_open_armed = {
@@ -371,7 +370,7 @@ ui_trait_governor_open_armed = {
     }
     leader_trait = yes
     leader_class = { governor }
-    opposites = { ui_trait_governor_ideologue_xenophobe "ui_trait_governor_racist" }
+    opposites = { "ui_trait_governor_ideologue_xenophobe" "ui_trait_governor_racist" }
 }
 
 ui_trait_governor_vicious_rumours = {
@@ -394,7 +393,7 @@ ui_trait_governor_deal_with_the_devil = {
     }
     leader_trait = yes
     leader_class = { governor }
-    opposites = { "leader_trait_righteous" "ui_trait_governor_moral_authority" "ui_trait_governor_security_interest" }
+    opposites = { "leader_trait_righteous" "ui_trait_governor_moral_authority" }
 }
 
 ui_trait_governor_questionable_ethics = {
@@ -409,7 +408,12 @@ ui_trait_governor_questionable_ethics = {
         pop_growth_speed = -0.01
     }
     leader_potential_add = {
-        NOT = { from = { has_authority = "auth_machine_intelligence" } }
+        NOT = {
+            OR = {
+                FROM = { has_authority = "auth_machine_intelligence" } }
+                FROM = { has_ethic = "ethic_hive_mind" }
+            }
+        }
     }
     leader_trait = yes
     leader_class = { governor }
@@ -475,15 +479,26 @@ ui_trait_governor_cultural_interest = {
     opposites = { "leader_trait_architectural_interest" "ui_trait_governor_corporatist" "ui_trait_governor_miner" }
 }
 
-ui_trait_governor_security_interest = {
+ui_trait_governor_fortifier = {
     cost = 1
     modification = no
     modifier = {
-        army_defense_damage_mult = 0.33
-        planet_buildings_strongholds_cost_mult = -0.25
-        planet_crime_add = -10
+        planet_buildings_strongholds_build_speed_mult = 0.33
+        planet_buildings_strongholds_cost_mult = -0.33
+        army_defense_damage_mult = 0.20
     }
     leader_trait = yes
     leader_class = { governor }
-    opposites = { "ui_trait_governor_deal_with_the_devil" }
+}
+
+ui_trait_governor_settler = {
+    cost = 1
+    modification = no
+    modifier = {
+        planet_district_city_build_speed_mult = 0.33
+        planet_district_city_cost_mult = -0.33
+        planet_colony_development_speed_mult = 0.20
+    }
+    leader_trait = yes
+    leader_class = { governor }
 }
