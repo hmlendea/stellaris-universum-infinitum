@@ -340,6 +340,7 @@ ui_trait_governor_cultural_interest = {
     modification = no
     modifier = {
         planet_amenities_mult = 0.10
+        planet_culture_workers_produces_mult = 0.10
     }
     leader_trait = yes
     leader_class = { governor }
@@ -351,6 +352,7 @@ ui_trait_governor_security_interest = {
     modification = no
     modifier = {
         army_defense_damage_mult = 0.33
+        planet_buildings_strongholds_cost_mult = -0.25
         planet_crime_add = -10
     }
     leader_trait = yes
