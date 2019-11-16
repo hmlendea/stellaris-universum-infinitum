@@ -1,24 +1,18 @@
-@tier1cost2 = 480
+@tier4cost1 = 8000
+@tier4cost2 = 10000
+@tier4cost3 = 12000
 
-@tier1weight2 = 95
-
-@tier3cost1 = 3000
-@tier3cost2 = 4000
-@tier3cost3 = 5000
-@tier3cost4 = 6000
-
-@tier3weight1 = 50
-@tier3weight2 = 45
-@tier3weight3 = 40
-@tier3weight4 = 35
+@tier4weight1 = 45
+@tier4weight2 = 40
+@tier4weight3 = 35
 
 tech_ui_barren_terraforming = {
-    cost = @tier3cost1
+    cost = @tier4cost1
     area = society
     tier = 3
     category = { new_worlds }
     prerequisites = { "tech_climate_restoration" }
-    weight = @tier3weight1
+    weight = @tier4weight1
 
     # unlocks additional terraforming-options
 
@@ -53,12 +47,12 @@ tech_ui_barren_terraforming = {
 }
 
 tech_ui_advanced_barren_terraforming = {
-    cost = @tier3cost2
+    cost = @tier4cost2
     area = society
     tier = 3
     category = { new_worlds }
     prerequisites = { "tech_ui_barren_terraforming" }
-    weight = @tier3weight2
+    weight = @tier4weight2
 
     # unlocks additional terraforming-options
 
@@ -93,12 +87,12 @@ tech_ui_advanced_barren_terraforming = {
 }
 
 tech_ui_ringworld_restoration = {
-    cost = @tier3cost3
+    cost = @tier4cost3
     area = society
     tier = 3
     category = { new_worlds }
     prerequisites = { "tech_mine_living_metal" }
-    weight = @tier3weight3
+    weight = @tier4weight3
 
     # unlocks additional terraforming-options
 
