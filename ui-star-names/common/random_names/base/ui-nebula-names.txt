@@ -20,6 +20,11 @@ nebula_names = {
     "Vampire Nebula"
     "Wall of the Precursors"
     "Whitegold Nebula"
+    "El Pollo Rojo"
+    "The Way"
+    "Jaws of Oblivion"
+    "Mighty Fart"
+    "Spectral Mist"
     
     ### FANTASYNAMEGENERATOR ###
     "Blue Ribbon Nebula"

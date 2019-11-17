@@ -1,0 +1,35 @@
+star_names = {
+    ### Austria
+    Austria
+
+    ### Germany
+    Germany
+
+    ### Poland - Regions
+    Poland # Finally it
+    Polen  # can into space!
+
+    ### Romania - Regions
+    Dacia
+    Ardeal
+    Bucovina
+    Moldova
+    Muntenia
+    Oltenia
+    Romania
+    Transylvania
+
+    ### Romania - Rivers
+    Danube
+
+    ### Romania - Cities
+    Bucharest
+    Cluj
+    Napoca
+
+    ### Russia
+    Russia
+
+    ### Sweden
+    Sweden
+}

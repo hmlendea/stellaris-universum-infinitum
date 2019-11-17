@@ -2,29 +2,39 @@ asteroid_prefix = {
     3DX-
     ABC-
     AFR-
+    AOE-
+    AOM-
     APK-
     ASI-
     BBC-
     BGL-
     BLZ-
     BOS-
+    BUG-
     CAS-
+    CAT-
     CIV-
     CK-
+    CK2-
+    CK3-
     CNY-
     COL-
     CRO-
     DAC-
     DEB-
     DNX-
+    DOG-
     DOT-
     ENG-
     EU-
     EUR-
     EURO-
     EXE-
+    FNV-
     FO-
+    FO3-
     FRA-
+    GAS-
     GIMP-
     GNU-
     GOT-
@@ -44,14 +54,18 @@ asteroid_prefix = {
     ITA-
     JAP-
     JAVA-
+    JEFF-
+    KEK-
     LNX-
     LOL-
+    LOTR-
     MAC-
     MD-
     MDL-
     MNO-
     NET-
     NI-
+    OSX-
     POR-
     RO-
     ROL-
@@ -60,8 +74,12 @@ asteroid_prefix = {
     ROU-
     RTX-
     RUS-
+    SAD-
+    SC2-
+    SC3-
     SEA-
     SOL-
+    SOS-
     SPA-
     SPQR-
     SRB-
@@ -74,7 +92,9 @@ asteroid_prefix = {
     WIN-
     WWW-
     XYZ-
+    YOY-
     YUG-
+
 }
 
 asteroid_postfix = {
@@ -88,6 +108,7 @@ asteroid_postfix = {
     128
     256
     360
+    404
     420
     480
     512
@@ -107,6 +128,7 @@ asteroid_postfix = {
     2277
     2281
     3100
+    3110
     4096
     8192
 }

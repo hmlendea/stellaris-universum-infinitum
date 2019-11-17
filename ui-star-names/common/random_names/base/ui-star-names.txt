@@ -4,18 +4,11 @@ star_names = {
     Guacamelee
     Firefly
 
-    ### Places/People/Gods/etc from Earth ###
-    Ardeal
-    Bucharest
-    Bucovina
     Burebista
-    Cluj
-    Cossack
-    Dacia
-    Danube
     Decebalus
-    Dracones
     Eminescu
+    Cossack
+    Dracones
     Hades
     Harambe
     Horatius
@@ -23,15 +16,7 @@ star_names = {
     Linux
     Lotus
     Mlendea
-    Moldova
-    Muntenia
-    Napoca
-    Oltenia
-    Poland # Finally it
-    Polen  # can into space!
-    Romania
     Tesla
-    Transylvania
     Ubuntu
     Unix
     Zamolxis
