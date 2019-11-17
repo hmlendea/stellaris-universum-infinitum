@@ -502,3 +502,32 @@ ui_trait_governor_settler = {
     leader_trait = yes
     leader_class = { governor }
 }
+
+ui_trait_governor_chemist  = {
+    cost = 1
+    modification = no
+    modifier = {
+        planet_building_chemical_plant_build_speed_mult = 0.33
+        planet_building_chemical_plant_cost_mult = -0.33
+        planet_chemists_produces_mult = 0.10
+    }
+    leader_trait = yes
+    leader_class = { governor }
+}
+
+ui_trait_governor_green_energy_advocate = {
+    cost = 1
+    modification = no
+    modifier = {
+        planet_district_generator_cost_mult = 0.10
+        planet_district_generator_build_speed_mult = -0.10
+        planet_pops_consumer_goods_upkeep_mult = -0.10
+    }
+    leader_trait = yes
+    leader_class = { governor }
+    leader_potential_add = {
+        NOT = {
+            FROM = { has_ethic = "ethic_fanatic_materialist" }
+        }
+    }
+}

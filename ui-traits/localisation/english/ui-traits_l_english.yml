@@ -91,6 +91,8 @@
  ui_trait_general_crusader:0 "Crusader"
 
 # Governor traits
+ ui_trait_governor_chemist_desc:0 "This one was a passionate student of chemistry, having the necessary knowledge and experience in order to employ efficient policies regarding the chemical industry.§!\n"
+ ui_trait_governor_chemist:0 "Chemist"
  ui_trait_governor_consumer_idsustrialist_desc:0 "This is a magnate in the consumer idustry, and strongly lobbies for more consumer goods production.§!\n"
  ui_trait_governor_consumer_industrialist:0 "Consumer Industrialist"
  ui_trait_governor_corporatist_desc:0 "This character is a stauch corporatist, with a strong focus on economy and capital gain.§!\n"
@@ -107,6 +109,8 @@
  ui_trait_governor_familist:0 "Familist"
  ui_trait_governor_fortifier_desc:0 "This has a strong interest in military security, eploying a policy focused on building fortifications and improving the defence capabilities overall.§!\n"
  ui_trait_governor_fortifier:0 "Fortifier"
+ ui_trait_governor_green_energy_advocate_desc:0 "This individual is an advocate of sustainable and renewable energy, employing policies that would require energy production sources to be built to higher standards, and thus more expensively, but which would also reduce waste and consumption overall.§!\n"
+ ui_trait_governor_green_energy_advocate:0 "Green Energy Advocate"
  ui_trait_governor_guns_legaliser_desc:0 "This governor is a strong supporter of gun rights, believing that every citizen should own and be familiar with them, in order to be able to defend themselves and their families.§!\n"
  ui_trait_governor_guns_legaliser:0 "Gun Legaliser"
  ui_trait_governor_guns_prohibitor_desc:0 "This governor strongly believes that guns should be outlawed through the citizenry, in order to prevent violence and guarantee safety.§!\n"
@@ -147,7 +151,7 @@
  ui_trait_governor_robotics_magnate:0 "Robotics Magnate"
  ui_trait_governor_securist_desc:0 "This character is has strong ties with the police and security agencies, and is an advocate of a strong security force and preventive surveillance.§!\n"
  ui_trait_governor_securist:0 "Securist"
- ui_trait_governor_settler_desc:0 "This believes in a Manifest Destiny sort of calling, believing that every liveable land should be colonised, and seeks to do just that.§!\n"
+ ui_trait_governor_settler_desc:0 "This one believes in a Manifest Destiny sort of calling, believing that every liveable land should be colonised, and seeks to do just that.§!\n"
  ui_trait_governor_settler:0 "Settler"
  ui_trait_governor_sociologist_desc:0 "This character was a renowned sociology researcher before pursuing a political career with the goal of further promoting and developing his field of science.§!\n"
  ui_trait_governor_sociologist:0 "Sociologist"
