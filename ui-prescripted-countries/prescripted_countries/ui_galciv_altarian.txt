@@ -1,6 +1,6 @@
 ui_galciv_altarian = {
     key = "Altarian Republic"
-    ship_prefix = "ISS"
+    ship_prefix = "ARS"
     species = {
         class = "HUM"
         portrait = "humanoid_05"
