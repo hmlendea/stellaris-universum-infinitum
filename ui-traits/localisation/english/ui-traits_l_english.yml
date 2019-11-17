@@ -131,6 +131,8 @@
  ui_trait_governor_ideologue_xenophile:0 "Alien Assimilator"
  ui_trait_governor_ideologue_xenophobe_desc:0 "This character is huge racist and member of a hate cult, instigating the population towards hate and distrust against all xenos.§!\n"
  ui_trait_governor_ideologue_xenophobe:0 "Racial Cultist"
+ ui_trait_governor_metallurgist_desc:0 "This one previously worked as a director in a metallurgy plant, and through his experience is a suitable leader for worlds that specialise in that industry.§!\n"
+ ui_trait_governor_metallurgist:0 "Metallurgist"
  ui_trait_governor_miner_desc:0 "This character is a ex-mining guild founder, and has a vast expertise in mineral extraction.§!\n"
  ui_trait_governor_miner:0 "Miner"
  ui_trait_governor_moral_authority_desc:0 "This character is a shining beacon of morality.§!\n"
