@@ -1,0 +1,32 @@
+REP = {
+    ahsu    = { name = Ahsu     plural = Ahsi       home_planet = Ahsudre       home_system = Ahsulba       name_list = "ui_dnd_kobold" }
+    dek     = { name = Dek      plural = Deks       home_planet = Deke          home_system = Rigs          name_list = "ui_dnd_kobold" }
+    dekki   = { name = Dekki    plural = Dekkis     home_planet = Dekkidre      home_system = Dekkilba      name_list = "ui_dnd_kobold" }
+    dik     = { name = Dik      plural = Diks       home_planet = Dikdre        home_system = Dikulba       name_list = "ui_dnd_kobold" }
+    dugga   = { name = Dugga    plural = Duggas     home_planet = Dugge         home_system = Vukda         name_list = "ui_dnd_kobold" }
+    duhsa   = { name = Duhsa    plural = Duhsas     home_planet = Duhsadre      home_system = Duhsalba      name_list = "ui_dnd_kobold" }
+    duk     = { name = Duk      plural = Duks       home_planet = Duke          home_system = Zolba         name_list = "ui_dnd_kobold" }
+    gehzi   = { name = Gehzi    plural = Gehzis     home_planet = Gehzidre      home_system = Gehzilba      name_list = "ui_dnd_kobold" }
+    hoppa   = { name = Hoppa    plural = Hoppi      home_planet = Hoppadre      home_system = Hoppalba      name_list = "ui_dnd_kobold" }
+    iko     = { name = Iko      plural = Iks        home_planet = Ike           home_system = Snuru         name_list = "ui_dnd_kobold" }
+    irko    = { name = Irko     plural = Irks       home_planet = Irke          home_system = Doglu         name_list = "ui_dnd_kobold" }
+    kagu    = { name = Kagu     plural = Kags       home_planet = Kage          home_system = Zihle         name_list = "ui_dnd_kobold" }
+    mokla   = { name = Mokla    plural = Moklans    home_planet = Mokladre      home_system = Moklalba      name_list = "ui_dnd_kobold" }
+    naru    = { name = Naru     plural = Nars       home_planet = Nare          home_system = Evle          name_list = "ui_dnd_kobold" }
+    ruk     = { name = Fultek   plural = Ruks       home_planet = Ruke          home_system = Kuppa         name_list = "ui_dnd_kobold" }
+    saplu   = { name = Saplu    plural = Sapluri    home_planet = Sapludre      home_system = Saplulba      name_list = "ui_dnd_kobold" }
+    sebla   = { name = Sebla    plural = Seblas     home_planet = Seble         home_system = Snekke        name_list = "ui_dnd_kobold" }
+    snaks   = { name = Snaks    plural = Snaksi     home_planet = Snaksudre     home_system = Snaksulba     name_list = "ui_dnd_kobold" }
+    snoku   = { name = Snoku    plural = Snokis     home_planet = Snokudre      home_system = Snokulba      name_list = "ui_dnd_kobold" }
+    tagi    = { name = Tagi     plural = Tagis      home_planet = Tagidre       home_system = Tagilba       name_list = "ui_dnd_kobold" }
+    tarn    = { name = Tarn     plural = Tarns      home_planet = Tarne         home_system = Vulte         name_list = "ui_dnd_kobold" }
+    tess    = { name = Tess     plural = Tessis     home_planet = Tessdre       home_system = Tessulba      name_list = "ui_dnd_kobold" }
+    togga   = { name = Togga    plural = Toggs      home_planet = Togge         home_system = Kurpu         name_list = "ui_dnd_kobold" }
+    ukki    = { name = Ukki     plural = Ukki       home_planet = Ukke          home_system = Vivna         name_list = "ui_dnd_kobold" }
+    varba   = { name = Varba    plural = Varbas     home_planet = Varbadre      home_system = Varbalba      name_list = "ui_dnd_kobold" }
+    vek     = { name = Vek      plural = Veks       home_planet = Vekdre        home_system = Vekulba       name_list = "ui_dnd_kobold" }
+    vil     = { name = Vik      plural = Viks       home_planet = Vike          home_system = Dovne         name_list = "ui_dnd_kobold" }
+    vukru   = { name = Vukru    plural = Vukris     home_planet = Vukre         home_system = Megru         name_list = "ui_dnd_kobold" }
+    zelba   = { name = Zelba    plural = Zelbari    home_planet = Zelbadre      home_system = Zelbalba      name_list = "ui_dnd_kobold" }
+    zox     = { name = Zox      plural = Zoxi       home_planet = Zoxe          home_system = Atra          name_list = "ui_dnd_kobold" }
+}
