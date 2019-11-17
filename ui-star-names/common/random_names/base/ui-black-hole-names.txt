@@ -2,9 +2,12 @@ black_hole_names = {
     "Babylon's Fall"
     "Belzebuth's Abyss"
     "Byzantium's Fall"
+    "Cat's Eye"
     "Cthulhu's Void"
     "Dracones Maelstrom"
     "Dracula's Maw"
+    "Eye of Lili"
+    "Eye of Sushi"
     "Fermi's Paradox"
     "Hades' Maw"
     "Harambe's End"
@@ -32,4 +35,5 @@ black_hole_names = {
     ### The Elder Scrolls ###
     "Hew's Bane"
     "Pelagius' Madness"
+    "Gate of Oblivion"
 }

@@ -1,0 +1,12 @@
+star_names = {
+    Alpharalpha
+    Amana
+    Bilbeis
+    Cappalli
+    Gould
+    Halless
+    Lacanth
+    Rabotev
+    Rugi
+    Wasf
+}
