@@ -21,6 +21,11 @@ star_names = {
     Unix
     Zamolxis
 
+    ### Systems from Pax Nova
+    "Cadeter"
+    "Sheqebos"
+    "Votrichi"
+
     ### Inspired from Elder Scrolls ###
     Akatosh
     Akavir
