@@ -16,13 +16,10 @@ Universum Infinitum is a mod for Stellaris that plans to add much more variety i
 
 ## Aesthetics & Diversity
 
- - 3810 new Celestial Body names (Stars, Black Holes, Asteroids and Nebulae)
+ - 4411 new Celestial Body names (Stars, Black Holes, Asteroids and Nebulae)
  - 165 new Random Species
- - 172 new Flag Symbols
- - 58 new Flag Backgrounds
- - 26 new Name Lists
- - 9 new Prescripted Countries
- - 3 new System Initialisers
+ - 10 new Prescripted Countries
+ - 4 new System Initialisers
  - New terraformation options for Barren worlds and Damaged Ringworlds
 
 # Installation
