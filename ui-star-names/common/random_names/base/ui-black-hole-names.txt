@@ -6,6 +6,8 @@ black_hole_names = {
     "Cthulhu's Void"
     "Dracones Maelstrom"
     "Dracula's Maw"
+    "End of Month"
+    "Eye of Cthulhu"
     "Eye of Lili"
     "Eye of Sushi"
     "Fermi's Paradox"
@@ -27,6 +29,7 @@ black_hole_names = {
 
     ### A Song of Ice and Fire ###
     "Aegon's Madness"
+    "Doom of Valyria"
 
     ### Doctor Who ###
     "Black Hole of Tartarus"
