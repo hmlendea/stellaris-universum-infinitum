@@ -1,0 +1,18 @@
+ART = {
+    ### Extra Arthropoids 1 ###
+    bamuth  = { name = Bamuth   plural = Bamuthi    home_planet = Bamuthima     home_system = Bamuth    name_list = "ui_extra_art1" }
+    chinad  = { name = Chinad   plural = Chinadi    home_planet = Chinadiza     home_system = Chin      name_list = "ui_extra_art1" }
+    gnikaz  = { name = Gnikaz   plural = Gnikans    home_planet = Gnikaza       home_system = Gnik      name_list = "ui_extra_art1" }
+    izath   = { name = Iozath   plural = Iozatans   home_planet = Iozata        home_system = Ioz       name_list = "ui_extra_art1" }
+    izriran = { name = Izriran  plural = Izrirans   home_planet = Izrirazza     home_system = Izri      name_list = "ui_extra_art1" }
+    kazrah  = { name = Kazrah   plural = Kazrahi    home_planet = Kazra         home_system = Kaz       name_list = "ui_extra_art1" }
+    kiduz   = { name = Kiduz    plural = Kiduzans   home_planet = Kiduzazza     home_system = Kiduz     name_list = "ui_extra_art1" }
+    kruzoth = { name = Kruzoth  plural = Kruzons    home_planet = Kruzozema     home_system = Kruz      name_list = "ui_extra_art1" }
+    lacolla = { name = Lacolla  plural = Lacolli    home_planet = Lacollania    home_system = Lacoll    name_list = "ui_extra_art1" }
+    mulkoz  = { name = Mulkoz   plural = Mulkozians home_planet = Mulkozza      home_system = Mulko     name_list = "ui_extra_art1" }
+    naraak  = { name = Naraak   plural = Naraaki    home_planet = Naraaka       home_system = Nar       name_list = "ui_extra_art1" }
+    razaco  = { name = Razaco   plural = Razacans   home_planet = Razacozza     home_system = Raza      name_list = "ui_extra_art1" }
+    szakom  = { name = Szakom   plural = Szakomans  home_planet = Szakoma       home_system = Szak      name_list = "ui_extra_art1" }
+    zadodd  = { name = Zadodd   plural = Zadoddi    home_planet = Zadodda       home_system = Zad       name_list = "ui_extra_art1" }
+    zanaaz  = { name = Zanaaz   plural = Zanaazi    home_planet = Zanaaza       home_system = Zanaa     name_list = "ui_extra_art1" }
+}

@@ -1,0 +1,52 @@
+REP = {
+    ### Extra Reptilians 1 ###
+    arhek       = { name = Arhek    plural = Arheks     home_planet = Arheka    home_system = Arha      name_list = "ui_extra_rep1" }
+    brakan      = { name = Brakan   plural = Braks      home_planet = Braka     home_system = Brak      name_list = "ui_extra_rep1" }
+    fultek      = { name = Fultek   plural = Fulteks    home_planet = Fultek    home_system = Fultek    name_list = "ui_extra_rep1" }
+    gargan      = { name = Gargan   plural = Gargans    home_planet = Gargaka   home_system = Garg      name_list = "ui_extra_rep1" }
+    halk        = { name = Halk     plural = Halks      home_planet = Halka     home_system = Halk      name_list = "ui_extra_rep1" }
+    jakar       = { name = Jakar    plural = Jakars     home_planet = Jakarka   home_system = Jaka      name_list = "ui_extra_rep1" }
+    krokotek    = { name = Krokotek plural = Krotots    home_planet = Krokota   home_system = Krok      name_list = "ui_extra_rep1" }
+    kron        = { name = Kron     plural = Krons      home_planet = Kronka    home_system = Kron      name_list = "ui_extra_rep1" }
+    kvarx       = { name = Kvarx    plural = Kvars      home_planet = Kvarka    home_system = Kvarx     name_list = "ui_extra_rep1" }
+    mumbak      = { name = Mumbak   plural = Mumbaks    home_planet = Mumbaka   home_system = Mumba     name_list = "ui_extra_rep1" }
+    oprok       = { name = Oprok    plural = Oproks     home_planet = Oproka    home_system = Opro      name_list = "ui_extra_rep1" }
+    repakor     = { name = Repakor  plural = Repaks     home_planet = Repaka    home_system = Repa      name_list = "ui_extra_rep1" }
+    serpex      = { name = Serpex   plural = Serps      home_planet = Serpalka  home_system = Serpex    name_list = "ui_extra_rep1" }
+    vacarex     = { name = Vacarex  plural = Vacars     home_planet = Vacarka   home_system = Vaca      name_list = "ui_extra_rep1" }
+    xork        = { name = Xork     plural = Xorks      home_planet = Xorka     home_system = Xor       name_list = "ui_extra_rep1" }
+
+    ### Extra Reptilians 2 ###
+    beltarr     = { name = Beltarr      plural = Beltarri       home_planet = Beltarris     home_system = Belta name_list = "ui_extra_rep2" }
+    cugovug     = { name = Kron         plural = Krons          home_planet = Kronka        home_system = Kron  name_list = "ui_extra_rep2" }
+    debam       = { name = Debam        plural = Debamians      home_planet = Debamhon      home_system = Deba  name_list = "ui_extra_rep2" }
+    garash      = { name = Garash       plural = Garashi        home_planet = Garash        home_system = Gara  name_list = "ui_extra_rep2" }
+    handish     = { name = Handish      plural = Handishi       home_planet = Handishess    home_system = Hand  name_list = "ui_extra_rep2" }
+    jareed      = { name = Jareed       plural = Jareedis       home_planet = Jareedeef     home_system = Jar   name_list = "ui_extra_rep2" }
+    kelst       = { name = Kelst        plural = Kelsti         home_planet = Kelstish      home_system = Kel   name_list = "ui_extra_rep2" }
+    nuleeya     = { name = Nuleeya      plural = Nulei          home_planet = Nuleeyst      home_system = Nul   name_list = "ui_extra_rep2" }
+    scarmothim  = { name = Scarmothim   plural = Scarmotians    home_planet = Scarmotrom    home_system = Scar  name_list = "ui_extra_rep2" }
+    skalash     = { name = Skalash      plural = Skalasians     home_planet = Skalashon     home_system = Skala name_list = "ui_extra_rep2" }
+    skeeh       = { name = Skeeh        plural = Skeehians      home_planet = Skeehis       home_system = Skeeh name_list = "ui_extra_rep2" }
+    teekas      = { name = Teekas       plural = Teekasi        home_planet = Teekash       home_system = Teek  name_list = "ui_extra_rep2" }
+    terezeer    = { name = Terezeer     plural = Terezians      home_planet = Terezesh      home_system = Terez name_list = "ui_extra_rep2" }
+    vudeelan    = { name = Vudeelan     plural = Vudeelans      home_planet = Vudeelesh     home_system = Vudee name_list = "ui_extra_rep2" }
+    weeba       = { name = Weeba        plural = Weebas         home_planet = Weebash       home_system = Weeb  name_list = "ui_extra_rep2" }
+
+    ### Extra Reptilians 3 ###
+    alzarsu     = { name = Alzarsu      plural = Alzarsi        home_planet = Alzarss       home_system = Alzar     name_list = "ui_extra_rep2" }
+    biatloz     = { name = Biatloz      plural = Biatlozi       home_planet = Biatloss      home_system = Biat      name_list = "ui_extra_rep2" }
+    chuknah     = { name = Chuknah      plural = Chuknasi       home_planet = Chuknass      home_system = Chuk      name_list = "ui_extra_rep2" }
+    debam       = { name = Debam        plural = Debamians      home_planet = Debamhon      home_system = Deba      name_list = "ui_extra_rep2" }
+    droshot     = { name = Droshot      plural = Droshoti       home_planet = Droshoss      home_system = Drosh     name_list = "ui_extra_rep2" }
+    droxausk    = { name = Droxausk     plural = Droxausians    home_planet = Droxauss      home_system = Droxa     name_list = "ui_extra_rep2" }
+    orikuttuk   = { name = Orikuttuk    plural = Orikutti       home_planet = Orikuttuss    home_system = Orikutt   name_list = "ui_extra_rep2" }
+    rhikkox     = { name = Rhikkox      plural = Rhikkosi       home_planet = Rhikkoss      home_system = Rhik      name_list = "ui_extra_rep2" }
+    shrashk     = { name = Shrashk      plural = Shrasi         home_planet = Shrass        home_system = Shrash    name_list = "ui_extra_rep2" }
+    sriszizk    = { name = Sriszizk     plural = Sriszi         home_planet = Srisziss      home_system = Srisz     name_list = "ui_extra_rep2" }
+    terezeer    = { name = Terezeer     plural = Terezians      home_planet = Terezesh      home_system = Terez     name_list = "ui_extra_rep2" }
+    thirqouz    = { name = Thirqouz     plural = Thirqouzi      home_planet = Thirqouss     home_system = Thirqo    name_list = "ui_extra_rep2" }
+    trazisk     = { name = Trazisk      plural = Trazi          home_planet = Traziss       home_system = Traz      name_list = "ui_extra_rep2" }
+    truurnax    = { name = Truurnax     plural = Truurnai       home_planet = Truurnass     home_system = Truu      name_list = "ui_extra_rep2" }
+    zottiqu     = { name = Zottiqu      plural = Zotti          home_planet = Zottiss       home_system = Zott      name_list = "ui_extra_rep2" }
+}

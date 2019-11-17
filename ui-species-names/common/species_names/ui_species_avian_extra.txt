@@ -1,0 +1,18 @@
+AVI = {
+    ### Extra Avians 1 ###
+    bephyn      = { name = Bephyn   plural = Bephyni    home_planet = Bephyna   home_system = Beph      name_list = "ui_extra_avi1" }
+    dhelyn      = { name = Dhelyn   plural = Dhelyans   home_planet = Dhelya    home_system = Dhel      name_list = "ui_extra_avi1" }
+    faryn       = { name = Faryn    plural = Farynians  home_planet = Farynia   home_system = Fary      name_list = "ui_extra_avi1" }
+    gyodan      = { name = Gyodan   plural = Gyodans    home_planet = Gyoda     home_system = Gyod      name_list = "ui_extra_avi1" }
+    hyrinn      = { name = Hyrinn   plural = Hyrians    home_planet = Hyria     home_system = Hyr       name_list = "ui_extra_avi1" }
+    lyoren      = { name = Lyoren   plural = Lyori      home_planet = Lyora     home_system = Lyor      name_list = "ui_extra_avi1" }
+    lyphorin    = { name = Lyphorin plural = Lyphorins  home_planet = Lyphoria  home_system = Lyphor    name_list = "ui_extra_avi1" }
+    ollyn       = { name = Ollyn    plural = Ollyni     home_planet = Ollyna    home_system = Olly      name_list = "ui_extra_avi1" }
+    saryphin    = { name = Saryphin plural = Saryphi    home_planet = Saryphina home_system = Saryph    name_list = "ui_extra_avi1" }
+    savyn       = { name = Savyn    plural = Savyni     home_planet = Savynia   home_system = Savyn     name_list = "ui_extra_avi1" }
+    tylan       = { name = Tylan    plural = Tylans     home_planet = Tylana    home_system = Tyl       name_list = "ui_extra_avi1" }
+    tyllon      = { name = Tyllon   plural = Tylloni    home_planet = Tyllona   home_system = Tyll      name_list = "ui_extra_avi1" }
+    verinyn     = { name = Verinyn  plural = Verinyns   home_planet = Verinyna  home_system = Verin     name_list = "ui_extra_avi1" }
+    xyphon      = { name = Xyphon   plural = Xyphonans  home_planet = Xyphona   home_system = Xyph      name_list = "ui_extra_avi1" }
+    zeryn       = { name = Zeryn    plural = Zeryni     home_planet = Zerynia   home_system = Zeryn     name_list = "ui_extra_avi1" }
+}

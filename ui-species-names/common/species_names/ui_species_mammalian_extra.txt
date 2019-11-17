@@ -1,0 +1,36 @@
+MAM = {
+    ### Extra Mammalians 1 ###
+    belenud     = { name = Belenud      plural = Belenuds   home_planet = Belenuthe home_system = Belen     name_list = "ui_extra_mam1" }
+    ciumeg      = { name = Ciumeg       plural = Ciumegs    home_planet = Ciuthe    home_system = Cium      name_list = "ui_extra_mam1" }
+    crostor     = { name = Crostor      plural = Crostors   home_planet = Crosthe   home_system = Crostor   name_list = "ui_extra_mam1" }
+    cugovug     = { name = Cugovug      plural = Cugovugs   home_planet = Cugovuthe home_system = Cugor     name_list = "ui_extra_mam1" }
+    estrothi    = { name = Estrothi     plural = Estrothi   home_planet = Estrothe  home_system = Estro     name_list = "ui_extra_mam1" }
+    kvastor     = { name = Kvastor      plural = Kvastors   home_planet = Kvathe    home_system = Kvastor   name_list = "ui_extra_mam1" }
+    lerinid     = { name = Lerinid      plural = Lerinids   home_planet = Lerinithe home_system = Lerinor   name_list = "ui_extra_mam1" }
+    nasibul     = { name = Nasibul      plural = Nasibuls   home_planet = Nasibuthe home_system = Nasibor   name_list = "ui_extra_mam1" }
+    pihisen     = { name = Pihisen      plural = Pihisi     home_planet = Pihithe   home_system = Pihor     name_list = "ui_extra_mam1" }
+    riften      = { name = Riften       plural = Riftens    home_planet = Rifthe    home_system = Rift      name_list = "ui_extra_mam1" }
+    stahlen     = { name = Stahlen      plural = Stahlens   home_planet = Stahlthe  home_system = Stahl     name_list = "ui_extra_mam1" }
+    suvihn      = { name = Stuvihn      plural = Stuvihns   home_planet = Stuvithe  home_system = Stuv      name_list = "ui_extra_mam1" }
+    trok        = { name = Trok         plural = Troks      home_planet = Trothe    home_system = Trok      name_list = "ui_extra_mam1" }
+    vacimupan   = { name = Vacimupan    plural = Vacimupans home_planet = Vacimuthe home_system = Vacimor   name_list = "ui_extra_mam1" }
+    zalbor      = { name = Zalbor       plural = Zalbors    home_planet = Zalthe    home_system = Zal       name_list = "ui_extra_mam1" }
+
+    ### Extra Mammalians 2 ###
+    belmenig    = { name = Belmenig plural = Belmens    home_planet = Belmikh   home_system = Belmu     name_list = "ui_extra_mam2" }
+    globu       = { name = Globu    plural = Globs      home_planet = Globko    home_system = Globu     name_list = "ui_extra_mam2" }
+    igruvian    = { name = Igruvian plural = Igruvians  home_planet = Igroviko  home_system = Igrovu    name_list = "ui_extra_mam2" }
+    muntu       = { name = Muntu    plural = Munts      home_planet = Munko     home_system = Muntu     name_list = "ui_extra_mam2" }
+    plasig      = { name = Plasig   plural = Plasigs    home_planet = Plasiku   home_system = Plasu     name_list = "ui_extra_mam2" }
+    strugu      = { name = Strugu   plural = Strugs     home_planet = Strukh    home_system = Stru      name_list = "ui_extra_mam2" }
+    trigun      = { name = Trigun   plural = Trigs      home_planet = Trikh     home_system = Trigu     name_list = "ui_extra_mam2" }
+    tugval      = { name = Tugval   plural = Tugvals    home_planet = Tugvakh   home_system = Tugu      name_list = "ui_extra_mam2" }
+    uguvu       = { name = Uguvu    plural = Uguvs      home_planet = Uguvko    home_system = Ugu       name_list = "ui_extra_mam2" }
+    ulog        = { name = Ulog     plural = Ulogs      home_planet = Ulogko    home_system = "Ulu Ogu" name_list = "ui_extra_mam2" }
+    umigrot     = { name = Umigrot  plural = Umigrots   home_planet = Umigrokt  home_system = Umigru    name_list = "ui_extra_mam2" }
+    uptor       = { name = Uptor    plural = Uptors     home_planet = Uptorko   home_system = Uptoru    name_list = "ui_extra_mam2" }
+    urulu       = { name = Urulu    plural = Urulus     home_planet = Urulko    home_system = Uru       name_list = "ui_extra_mam2" }
+    ustrig      = { name = Ustrig   plural = Ustrigs    home_planet = Ustriku   home_system = Ustru     name_list = "ui_extra_mam2" }
+    yufhud      = { name = Yufhud   plural = Yufhuds    home_planet = Yufko     home_system = Yufu      name_list = "ui_extra_mam2" }
+    zuur        = { name = Zuur     plural = Zuuri      home_planet = Zuruku    home_system = Zur       name_list = "ui_extra_mam2" }
+}

@@ -451,15 +451,15 @@ ui_sara_system_initialiser = {
         change_orbit = @base_moon_distance
 
         moon = {
-            name = "Mar Sara Moon I"
-            class = random_non_colonizable
+            name = "Pyramus"
+            class = "pc_barren_cold"
             orbit_angle = { min = 90 max = 270 }
             orbit_distance = 5
         }
 
         moon = {
-            name = "Mar Sara Moon II"
-            class = random_non_colonizable
+            name = "Thisby"
+            class = "pc_barren_cold"
             orbit_angle = { min = 90 max = 270 }
             orbit_distance = 5
         }
@@ -485,7 +485,7 @@ ui_sara_system_initialiser = {
         name = "Chau Sara"
         count = 1
         orbit_distance = 20
-        class = "pc_continental"
+        class = "pc_tropical"
         orbit_angle = { min = 90 max = 270 }
 
         change_orbit = @base_moon_distance
