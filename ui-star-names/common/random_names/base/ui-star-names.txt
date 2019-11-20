@@ -22,9 +22,27 @@ star_names = {
     Zamolxis
 
     ### Systems from Pax Nova
+    "Agopara"
+    "Arleia"
+    "Arturius"
+    "Basnueter"
     "Cadeter"
+    "Caprius"
+    "Capryria"
+    "Ceyria"
+    "Clarius"
+    "Clotunia"
+    "Dianus"
+    "Fargus"
+    "Neophus"
+    "Ofriastea"
+    "Ofriastea"
     "Sheqebos"
+    "Smudater"
+    "Tabrone"
+    "Terminus"
     "Votrichi"
+    "Woswailara"
 
     ### Inspired from Elder Scrolls ###
     Akatosh
