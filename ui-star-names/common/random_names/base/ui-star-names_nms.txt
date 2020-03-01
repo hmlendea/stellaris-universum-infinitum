@@ -1,0 +1,6 @@
+star_names = {
+    Doulinhota
+    Ethaedair
+    Mepsest
+    Xuzhouko
+}
