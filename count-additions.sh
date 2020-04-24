@@ -4,14 +4,12 @@ SUBMODS=$(ls -p | grep "ui-.*/")
 
 # DIRECTORIES
 BUILDINGS_DIR="common/buildings"
-PLANETARY_MODIFIERS_DIR="common/planet_modifiers"
 STRATEGIC_RESOURCES_DIR="common/strategic_resources"
 SYSTEM_INITIALISERS_DIR="common/solar_system_initializers"
 DEPOSIT_BLOCKERS_DIR="common/deposit_blockers"
 
 # INITIALISATIONS
 BUILDINGS_COUNT=0
-PLANETARY_MODIFIERS_COUNT=0
 STRATEGIC_RESOURCES_COUNT=0
 SYSTEM_INITIALISERS_COUNT=0
 DEPOSIT_BLOCKERS_COUNT=0
@@ -32,7 +30,6 @@ done
 
 # PRINT RESULTS
 echo "Buildings:" $BUILDINGS_COUNT
-echo "Planetary modifiers:" $PLANETARY_MODIFIERS_COUNT
 echo "Strategic resources:" $STRATEGIC_RESOURCES_COUNT
 echo "System initialisers:" $SYSTEM_INITIALISERS_COUNT
 echo "Deposit blockers:" $DEPOSIT_BLOCKERS_COUNT
